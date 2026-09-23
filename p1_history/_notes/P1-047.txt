@@ -1,0 +1,787 @@
+
+===== PAGE 1 =====
+STUDIES ON THE PROPAGATION IN VITRO OF 
+POLIOMYELITIS VIRUSES 
+IV. VIRAL MULTIPLICATION IN A STABLE STRAIN OF HUMAN MALIGNANT 
+]~PITH~LIAL CELLS (STRAIN HELA) DERIVED I~ROM AN EPIDEI~fOID 
+CARCINOMA OF THE CERVIX* 
+BY WILLIAM F. SCHERER, M.D., JEROME T. SYVERTON, M.D., AND 
+GEORGE O. GEY, M.D. 
+(From tim Department of Bacteriology and Immunology, University of Minnesota, 
+Minneapolis, and tke Department of Surgery, Yokns Hopkins 
+Hospital and University, Baltimore) 
+PLATES 39 TO 41 
+(Received for publication, January 20, 1953) 
+The propagation of poliomyelitis virus in tissue cultures prepared from 
+primary explants derived from a variety of extraneural tissues from man (1-9) 
+and monkeys (5, 7-17) has given new impetus to the development of methods 
+for the production of poliomyelitis virus without resort (beyond the original 
+explant) to man or to an experimental animal. A wide variety of tissues, normal 
+and malignant, have been employed (16, 18) over several years in attempts 
+to obtain strains of cells adaptable to cultivation in tissue culture beyond the 
+first several generations. These attempts at the University of Minnesota met 
+with failure until recently when success was achieved by the propagation of 
+poliomyelitis virus in cultures of monkey testicular "fibroblasts" maintained in 
+series (16). Contrariwise, stable strains of animal cells were developed by Gey 
+and coworkers (19-22). Some of these strains have since been tested for sus- 
+ceptibility to a variety of viruses (23-26). The obvious need for a highly sus- 
+ceptible strain of human cells capable of yielding poliomyelitis virus in quantity 
+in from one to several days led to the employment of a strain of malignant 
+epithelial cells adapted to cellular cultivation in vitro (21, 22). It is the purpose 
+of this paper to present the observations and data that relate to the employ- 
+ment of a stable strain for the successful propagation of poliomyelitis virus, 
+Types 1, 2, and 3. This cellular strain, designated as strain HeLa by one of the 
+authors (G. G.) when he obtained it from an epidermoid carcinoma of the cervix 
+* Two of the investigators, W. F. Scherer and J. T. Syverton, were aided by a grant from 
+The National Foundation for Infantile Paralysis, Inc., and the work of the third, G. O. Gey, 
+was supported in part by grants from the National Cancer Institute of the National Insti- 
+tutes of Health, Public Health Service, and from the American Cancer Society upon recom- 
+mendation of the Committee on Growth of the National Research Council. 
+695 
+
+===== PAGE 2 =====
+696 PROPAGATION IN VITRO O~ POLIO~IYELITIS VIRUSES 
+has been maintained in continuous serial culture passage in vitro from Febru- 
+ary 8, 1951, until the present. Cultures of this cell have now been shown in 
+this laboratory to provide an inexpensive and effective means (a) for the assay 
+of poliomyelitis viruses, (b) for the assay of antibodies by the neutralization 
+technique, (c) for the production of virus in quantity, and (d) for the rapid 
+isolation and identification of poliomyelitis viruses. These findings will be 
+reported in a series of papers. 
+Materials and Methods 
+Virus.--Five strains representative of three immunological types of poliomyelitis virus 
+were employed. The descriptive data that relate to the viruses of Type 1, Mahoney strain, 
+and to Type 2, Yale-SK strain, have been presented previously (11). Type 3, Sankett strain, 
+(tissue culture pool 10, March 24, 1952) was kindly supplied by Dr. Jonas E. Salk. In addition 
+to these three established laboratory strains, two field strains of Type 3 virus, 50-M57, T3 and 
+52-M662, T3 were utilized immediately after their isolation from fecal samples of paralytic 
+poliomyelitic patients. The immediate source of virus for the present experiments was super- 
+natant liquid from infected cultures of monkey testicular tissue (11) or of strain I-IeLa cells. 
+Virus was stored as described previously (11). 
+Assays for Virus.--Titratious for virus were performed by the transfer of serial tenfold 
+dilutions of viral material to duplicate 6 to 10 day old cellular cultures which were kept at 
+36"C. Maintenance solution, MS, (27) a synthetic fluid, was employed as the liquid phase. 1 
+The quantities of ceils used in the cultures will be stated for each experiment. Either ttanks's 
+balanced salt solution (28) or MS at pH 7.0-7.4 was used for dilution of the virus in suspeno 
+don. Microscopic observations for effects of the virus on the ceils were made either daily, or 
+twice daily. The highest final dilution of virus in the culture vessel which showed cytopatho- 
+genlc effects within 5 days after inoculation was taken as the titration end-point. 
+Antisera.--Type-specific poliomyelitis antisera were kindly supplied by Dr. Jonas E. Salk. 
+The iabels for these antisera were as follows: Type 1--"Pool A-453, 1/23/50." Type 2-- 
+"Pool A-300, 20 June '49", Type 3--"Polio antiserum Type Ill Rebottled 7/18/52." 
+Call Strain.--Tissue from an epidermoid carcinoma of the human cervix was placed in 
+roller tube cultures on February 8, 1951, with result in a strain of malignant epithelial ceils 
+described as strain HeLa. The author (G. G.) who first cultivated this strain of cells main- 
+tained it by serial transfer through 30 cultural passages between February 8, 1951, and May 
+31, 1952, when cultures of these cells were sent to Minneapolis to serve as source material 
+for the establishment of stock cultures of strain HeLa cells at the University of Minnesota. 
+Methods for Cellular Cultivation.--Strain HeLa cells for this study were cultivated in vitro 
+on a glass substrate to provide surface for cellular multiplication by using a nutritive medium 
+composed of either human placental serum (HIPS), human adult serum (HAS), or human 
+ascitie fluid (HAF), 50 per cent; chicken embryonic extract (EE), 2 or 5 per cent; and balanced 
+salt solution, Hanks's (I-l), 48 or 45 per cent. The method for the preparation of chick embryo 
+extract has been described (11). Hereafter, the designation of this medium and of similar 
+media will be abbreviated, i.,., HPS-50, EE-2, H-48. For the maintenance of cells, a mixture 
+a It was learned after these studies were completed, that a mixture of 10 per cent chicken 
+serum and 90 per cent MS was superior to MS-100 for the maintenance of normal cellular 
+structure. Titration end-points of poliomyelitis virus, Type 3, Saukett strain were identical 
+in MS-100 and CHS-10, MS-90. However, the end-point in CHS-10, MS-90, was more easily 
+determined microscopically, since non-specific degenerative changes did not occur within the 
+5 day period of cultivation. 
+
+===== PAGE 3 =====
+W. F. $C~RER~ ~. T. $YVEI~TON~ AND G. O. GEY 697 
+of human serum or ascific fluid, 443 per cent, and salt solution, 60 per cent, was employed. 
+Four types of cultural vessel were used: test tubes, 16 by 150 ram. and 13 by 100 ram., Porter 
+flasks, and square, screw cap bottles, 200 ml. 2 The test tubes, 16 by 150 ram., were either 
+rolled at 10 to 12 R.r.a., or slanted in a stationary position. The test tubes, 13 by 100 mm., 
+Porter flasks, and bottles were kept stationary at a slant of approximately 5 degrees. Ceils 
+were transferred serially by the employment of two technics, (a) the transfer of cellular clumps 
+or explants, 0.5 to 1.5 mm. in average diameter, and (b) the transfer of cells suspended in 
+liquid medium. The former technic was used until it became apparent that strain HeLa ceils 
+in suspension could be handled with greater efficiency. To carry out the transfer of ceils as 
+explants, an area of cellular growth was scraped from the wall of a cultural vessel with a bent 
+tip glass pipette, placed in a Petri dish, and cut into fragments by the scissors-like action of 
+two scalpel blades, t These fragments were placed on the glass wall of a cultural vessel wet 
+with medium. After from 10 to 20 minutes the fragments were sufficiently adherent to the 
+glass to permit covering them with liquid medium. When cells were transferred in liquid 
+suspension, they were scraped from the glass either with a glass bent tip pipette or a platinum 
+spatula, suspended in 0.5 per cent trypsin 4 at a pH of 7.4--7.6, incubated at 37°C. for 60 min- 
+utes, agitated to break cellular clumps and disperse the cells, and incubated for an additional 
+30 minutes. The volumes of trypsin solution employed were 8 ml. for the 200 ml. bottle, 1 ml. 
+for the 16 by 150 ram. test tubes and Porter flasks, and 0.5 ml. for 13 by 100 mm. test tubes. 
+The use of trypsin was essential to overcome the cohesive properties of strain HeLa cells, and 
+to obtain cells in uniform suspension as single cells or clumps of several cells (29). Following 
+centrifugation at 1000 R.P.M. for 10 minutes and removal of the supernatant trypsin solution, 
+the cells were resuspended in a liquid medium, HPS-50 or HAF-50, EE-2, H-g8, and dis- 
+pensed in 0.25 mi. aliquots into cultural vessels, by employment of an apparatus similar to 
+that described by Evans, Earle, et al. (30) for the preparation of replicate cultures. Cultures 
+prepared by this method were slanted in a stationary position as described above. For cellular 
+growth, cultures were incubated at 36 to 37°C.; for the mere maintenance of cells, a tempera- 
+ture range of 30 to 31°C. was frequently employed. 
+Method for Cdlular Enumefatlon.--The concentration of cells in suspensions treated with 
+trypsin was measured by direct microscopic enumeration of the cells in an aliquot of suspen- 
+sion, placed in a hemocytometer. The total number of ceils in four chambers was counted, 
+and the number of cells per milliliter of suspension was calculated by employment of the 
+following formula:- 
+Total cells in four chambers (3.6 c. mm.) × 1000 =. cells per cc. 
+3.6 c. ram. 
+Method for Viral Cultivation.--After from 3 to 10 days of cultivation, more commonly 7, 
+the cellular population usually sufficed for the support of viral growth. The liquid medium 
+Kimble neutraglas, serum and sampling bottle. 
+Bard-Parker No. 11. 
+Two preparations of trypsin were employed, Armour, recrystallized trypsin and Difco 
+trypsin 1:250. These were dissolved in MS-100. Recrystallized trypsin was found to be non- 
+toxic for strain HeLa cells in concentrations less than 3 per cent. A concentration of 0.5 per 
+cent was adequate for dispersing the cells. On the other hand, Difco trypsin, a less expensive 
+preparation, was found to be toxic for strain HeLa cells in concentrations above 0.5 per cent. 
+Accordingly, 0.5 per cent Difco trypsin was employed as routine to obtain maximal proteolytic 
+activity without toxic effects. It was realized that the proteolytic activity for 0.5 per cent re- 
+crystallized trypsin is greater than of 0.5 per cent Difco trypsin, but the difference in cost made 
+the Armour preparation less desirable for routine purposes. 
+
+===== PAGE 4 =====
+698 PROPAGATION IN VITRO OF POLIO~D/ELITIS VIRUSES 
+was assumed to contain antibodies against poliomyelitis virus, since human serum or ascitic 
+fluid was employed for the growth of cells. Therefore, this liquid was removed and replaced 
+by an equal amount of MS-100. Since one replacement with MS-100 resulted in a dilution 
+of from i to 20 or from i to 40 in the serum portion of the medium, a second replacement of 
+the supernatant fluid, several hours after the first, was effected with result that the serum 
+component of the medium used for celiular growth had a final dilution of from i to 400 to I 
+to 800. These dilutions exceed the usual titer of poliomyelitis antibodies that might be en- 
+countered in human serum. The cultures that contained virus were incubated at 36--37°C. 
+Method for Staining Cdls.--When preparations of fixed and stained cells were desired 
+for photography or for later study, cells were grown on coverglasses~ II by 22 ram., in Porter 
+flasks, fixed with Bouin's solution, stained with Harris' hematoxylin, and mounted on micro- 
+scopic slides. 
+EXPERIMENTAL RESULTS 
+Almost at once two facts became plain: (a) cells of the cultures infected with 
+virus soon underwent degeneration and death, and (b) the virus multiplied. 
+The Destructive Effects of the Virus on Strain tIeLa Cells 
+Six experiments (Experiments 1 to 6) were performed to learn whether poli- 
+omyelitis viruses, Types 1, 2, and 3 are destructive for strain HeLa cells. 
+Experiments 1 and 2.--Duplicate experiments were carried out on separate occasions with 
+poliomyelitis virus, Type 1, Mahoney strain. For each experiment, strain HeLa cells were 
+cultivated on coverglasses, 11 by 22 ram., in Porter flasks. Each culture contained 2 explants 
+which were incubated for from 5 to 8 days in HAF-50, EE-2, H-48, 0.75 ml. Before virus was 
+added, the liquid medium was replaced with MS-IO0, 0.9 ml. Virus, 0.1 ml., which had been 
+harvested from monkey testicular tissue cultures (11) was transferred to each of 6 flasks. For 
+control purposes, no virus was added to one pair of flasks and to a second pair, virus only 
+was inoculated. For a third set of tubes Type 1 antiserum, 0.1 ml. of 1:2 dilution, was mixed 
+with the contents. The fourth pair received Type 2 antiserum, 0.1 ml. of 1:2 dilution. For 
+Experiment 2 a different pool of monkey testicular tissue culture Mahoney virus was used. 
+Microscopic observations of the cells were made daily. When cellular degeneration was seen 
+culturing was terminated, for fixation and staining of the cells. The appearance of cells af- 
+fected by virus in the presence and absence of neutralizing antibodies are shown in Figs. 4 
+to 12. 
+It was observed microscopically that HeLa cells infected with poliomyelitis 
+virus underwent progressive destruction. The cells became rounded and con- 
+tracted, with pyknosis of the nucleus and granularity of the cytoplasm. Other 
+evidence for involvement of the cytoplasm consisted of shrinkage, the detach- 
+ment of many cells from the glass substrate, and total rupture ultimately. 
+This sequence of changes has been termed the cytopathogenic effect of polio- 
+myelitis virus (1, 3). The time required for cellular destruction varied with 
+the size of the inoculum. The cytopathogenic effect was observed regularly, 
+total destruction in from 12 to 120 hours resulting in the case of laboratory 
+strains of virus. Field isolates more commonly required from 36 to 48 hours 
+for the destruction of all cells. 
+
+===== PAGE 5 =====
+W. F. SCHERER, J. T. SYVERTON~ AND G. O. GEY 699 
+Photomicrographs to illustrate the findings in Experiments 1 and 2 are 
+presented in Figs. 1 to 12. When compared with the appearance of normal 
+strain HeLa cells (Figs. 1 to 3), it is apparent that cells infected with polio- 
+myelitis virus, Type 1, Mahoney strain were destroyed (Figs. 4 to 6). On the 
+other hand, the presence in the cultures of type-specific antibody, prevented 
+the cytopathogenic effect of this virus (Figs. 7 to 9), whereas the presence of 
+antibody for Type 2 poliomyelitis virus did not effect the cytopathogenicity 
+of Type 1 virus (Figs. 10 to 12). Complete cellular destruction commonly 
+occurred within 24 to 72 hours after virus inoculation. 
+Experiments 3 and 4.--Two experiments similar in design to Experiments 1 and 2, were 
+carried out with poliomyelitis virus, Type 2, Yaie-SK strain. Virus from different groups of 
+monkey testicular tissue cultures was employed for these experiments. The results are illus- 
+trated by the photomicrographs in Figs. 13 to 21. 
+Figs. 13 to 24 show photomicrographs representative of the microscopic 
+observations for Experiment 3. It can be seen that poliomyelitis virus, Type 2, 
+Yale-SK strain, caused destruction of strain HeLa cells (Figs. 13 to 15). When 
+antiserum to Type 1 virus was present in the cultures, the cytopathogenic 
+effect of Type 2 virus was unmodified (Figs. 16 to 18). However, antibodies to 
+Type 2 virus effectively prevented the destruction of strain HeLa cells by 
+Yale-SK virus (Figs. 19 to 21). Cultures kept for control purposes without 
+either virus or antiserum retained their normal appearance throughout the 
+period of study. For examples, normal cells and extraordinary cellular arrange- 
+ments are shown in Figs. 22 to 24. Frequently coalescense of cells occurred to 
+form epithelial sheets (Fig. 23), and occasionally unusual aggregations of cells 
+were observed (Fig. 24), perhaps resulting from abnormal cellular division. 
+Experiments 5 and 6.--Two experiments were carried out with strain HeLa cells and polio- 
+myelitis virus, Type 3, Saukett strain. Experiment 5 was similar to Experiment 1 except that 
+groups of three, instead of pairs of Porter flask cultures were employed, and antibodies to 
+Type 3 virus as well as to Types 1 and 2 virus were used. Virus from the seventh passage in 
+strain HeLa cells was utilized. Experiment 6 was performed with test tube and Porter flask 
+cultures and virus from the fifth passage in strain HeLa cells. Otherwise Experiment 6 was 
+similar in design to Experiment 5. The findings in these experiments are indicated in Figs. 
+25 to 36. 
+It can be seen from the photomicrographs of strain I-IeLa cells (Figs, 25 to 
+27) that poliomyelitis virus, Type 3, Saukett strain was cytopathogenic for 
+these cells. Frequently with potent Saukett strain virus observable cellular 
+destruction was evident in less than 24 hours following the inoculation of virus 
+into cultures. The inability of heterotypic antibodies to protect strain I-IeLa 
+cells from Type 3 virus was established for Type 1 antiserum (Figs. 28 to 30) 
+and for Type 2 antiserum (Figs. 31 to 33). In contrast, cells protected from the 
+destructive effects of Type 3 poliomyelitis virus by the presence of homotypic 
+neutralization antibodies retained their normal appearance (Figs. 34 to 36). 
+
+===== PAGE 6 =====
+700 PROPAGATION IN VITRO OP POLIOMYELITIS VIRUSES 
+The Propagation of PoHomyditis Virus in Strain HeLa Cells 
+Six experiments were carried out to learn how well poliomyelitis virus multi- 
+plies in strain HeLa cells. 
+Experiments 7 and 8 were designed to measure the growth of poliomyelitis 
+virus, Type 1, Mahoney strain by differential titrations of the viral inoculum 
+and of the harvest following a single passage in roller tubes. 
+TABLE I 
+E~dence for t~ Multiplication of Poliomyditi~ Virus, Type I, in Cultures of Strain HeLa 
+Human Epithelial Cdls (20 Explants per Culture) 
+(Results of Experiment 7) 
+Concentration of vires in liquid phase of culture as measured by the ability of 
+successive decinml dilutions of supematant fluid to destroy strain HeLa cells 
+Duration of cultivation in hrs. 
+0 48 72 
+10-6 to 7 1 (undiluted) 
+10--x 
+10-s 
+10-s 
+10 ~ 
+10-5 
+10--6 
+10-,~6 
+10-4~i 
+Exp~m~t 7.--Cuitures in test tubes, 16 by 150 mm., which contained 20 explants in 
+each tube were incubated in HAF-50, EE-2, H-48, 1 ml. The medium was replaced on the 
+4th day by the same mixture. On the 7th day, the liquid was replaced with MS-100, 0.9 ml., 
+and an aliquot, 0.1 ml. of each serial tenfold dilution of poliomyelitis virus, Type i, Nfahoney 
+strain, was inoculated into each of two cultures. When degeneration of cells had become evi- 
+dent the supernatant liquids from each pair of cultures were pooled and stored in sealed glass 
+ampules at -70°C. Subsequently, these pools of virus were assayed by titration in strain 
+HeLa cultures made up of two areas of 7 to 10 day cellular outgrowth in test tubes, 13 by 100 
+ram. The results from Experiment 7 are shown in Table I. 
+Table I presents the data recorded for Experiment 7. It can be seen that 
+when the initial titration end-point of virus in the cultures was from 1 to 10 -a, 
+virus multiplied from 100- to 1,000,000-fold in 48 to 72 hours of cultivation. 
+It is noteworthy that the final titers for virus in the liquid phases of the cultures 
+were in the range of from 10 -4 to 10 -s regardless of the amount of virus inocu- 
+lated, provided the cultures were incubated until cellular degeneration occurred. 
+Experiment 8 was planned to learn the effect of utilizing for viral cultivation 
+approximately one-tenth as many strain HeLa ceils as were employed in 
+Experiment 7. 
+~Exp~rimc~tt &--The procedure for Experiment 8 was identical with that for Experiment 7 
+with the exception that each cultural tube contained 2 rather than 20 explants. The results 
+from Experiment 8 are presented in Table II. 
+
+===== PAGE 7 =====
+W. I~. SCHERER, y. T. SYVERTON, AND G. O. GUY 701 
+The results of Experiment 8 (Table II) established two points: (a) relatively 
+small numbers of strain HeLa cells (i.e., two areas of cells no greater than 5 
+ram. in diameter) readily supported the growth of poliomyelitis virus, Type 1, 
+to result in a high titer, 10 e, within a period of from 48 to 72 hours; (b) the 
+smallest inoculum of virus that was employed resulted in a final yield as great 
+as that attained from an inoculum 10 to 100 times greater, but with a small 
+inoculum degeneration of cells was delayed (i.e., from 72 to 120 hours). 
+The comparative findings of Experiments 7 and 8 (Tables I and II), show 
+that the titer of virus from cultures with 2 explants of cells approximated the 
+yield of virus that resulted from cultures with 10 times as many cells. These 
+TABLE II 
+Etqdence for the Multiplication of Poliomyditis Virus, Type 1, in Cultures of Strain HeLa 
+H~raan Efllhdiul Cells (2 Explants per Culture) 
+(Results of Experiment 8) 
+Concentration of virus in liquid phase of cultures as measured by the ability of 
+successive dechnsl dilutions of supematant fluid to destroy strain HeLa cells 
+Duration of cultivation in hrs. 
+O 48 72 120 
+Undiluted i0-~ to e* 
+Undiluted 10-3 to 4. 
+10-1 10-3 to 3 
+I0-* 10-3 to e 
+* Results at 72 hours and 120 hours refer to different cultures inoculated with the same 
+virus. 
+results may reflect the employment of tenfold increments for the titration of 
+virus. 
+The purpose of Experiment 9 was to learn the ability of this stable strain of 
+human epithelial cells to support the growth o f the laboratory-adapted Mahoney 
+strain upon its transfer in series. 
+Experiment 9.---2 explants after growth for 7 days in HPS-50, EE-2, H-48 provided ceils. 
+A viral inoculum of 0.1 ml. of a dilution ranging from 101 to 105 was added to the fluid content, 
+0.9 ml., in each cultural tube, 15 by 150 ram. Incubation at 37°C. was interrupted temporarily 
+at intervals of 12 to 24 hours for microscopic examination. When destruction of the cells 
+had occurred, transfer to the next cultural generation was made. The data for this experi- 
+ment are presented in Table HI. 
+It can be seen from Table III that propagation of the Mahoney strain 
+was carried out successfully throughout 50 successive tissue changes, to result 
+in a final cumulative log dilution of 105s for the HeLa cellular culture fluid 
+employed as the starter inoculum. The presence of virus in the original inoculum 
+
+===== PAGE 8 =====
+702 PROPAGATION IN VITRO OF POLIOMYELITIS VIRUSES 
+and in aliquots of the tenth and twentieth tissue passage fluids was established 
+by the production in monkeys of paralysis and/or death and histological evi- 
+TABLE IH 
+Propagation in Vitro of Poliomyelitis Virus in Cultures of Human E~tlwgia~ Cells, Strain HsLa 
+(Results of Experiments 9, 10, 1i, and 12) 
+Experiment 
+10 
+11 
+12 
+Results as indicated by 
+Poliomyelitis virus 
+Strain 
+Mahoney 
+Saukett 
+M5~57 
+M52-662 
+No. of culture 
+pss~ge$ of 
+VIRUS 
+1 
+10 
+20 
+30 
+50 
+1 
+10 
+20 
+30 
+40 
+50 
+60 
+80 
+1 
+10 
+20 
+40 
+Cumulative log 
+of dilution of virus 
+1 
+10 
+20 
+34 
+58 
+1 
+11 
+35 
+53 
+66 
+75 
+89 
+115 
+1 
+10 
+18 
+40 
+1 
+10 
+22 
+48 
+1 
+15 
+23 
+53 
+Infectivity of 
+superaatant fluid for 
+HeLa cells I Monkey* 
+as log -- i Yes 
+5 
+5 N.T. 
+6 Yes 
+N.T. " 
+6 
+5 N.T. 
+5 Yes 
+5 ~¢ 
+6 ~c 
+6 N.T. 
+6 Yes 
+4 
+5 
+5 N.T. 
+6 Yes 
+5 
+5 
+5 N.T. 
+* The monkeys were observed for a 28 day period. "Yes" indicates the occurrence of paraly- 
+sis and/or death; the presence of histologicaJ evidence of poliomyelltis infection in the central 
+nervous system or evidence for specific homotypic antibodies; "N.T." signifies not tested. 
+dence of poliomyelitis. Finally, the identity of an aliquot of supernatant fluid 
+from the twentieth passage was established as Type I poliomyelitis virus by 
+neutralization of its cytopathogenic effects with Type 1 antiserum. The find- 
+ings of Experiments 7 to 9 established conclusively the propagation in vitro 
+of the Mahoney strain of poliomyelitis virus. 
+Experiments 10 to 12 provide further unequivocal evidence for the propaga- 
+
+===== PAGE 9 =====
+W. ]F. SCHERER, J'. T. SYVERTON~ AND G. O. GEY 703 
+tion in vitro of poliomyelitis virus. It was found early in these studies that HeLa 
+cells readily support the serial propagation of the laboratory-adapted strain 
+of poliomyelitis virus, the Mahoney strain of Type 1. Evidence for infection 
+was manifested, following inoculation within a 24 to 48 hour interval, by total 
+destruction of cells. Virus was then found to have been produced in high titer. 
+For comparative purposes, three strains of poliomyelitis virus, Type 3, one a 
+laboratory strain, Saukett strain, and two strains directly upon their isolation 
+from stool specimens of paralytic patients were kept in serial transfer. 
+Experiments 10, 11, and 12.--The experimental procedure for the three experiments was 
+similar. 2 explants, or approximately 25,000 HeLa cells in suspension, were transferred to 
+tubes, 16 by 150 ram., and 0.25 ml. of HPS-50, EF_,-2, I-I-48 was added for incubation at 37°C. 
+On day 3, 0.25 ml. of I-IPS-80, EE-10, I-I-10 was added. Sufficient cells for viral propagation 
+were commonly present on day 7. The tubes were made ready for inoculation with virus by 
+the replacement of supematant fluid twice at intervals of 1 hour by MS-100, 0.9 ml. Thus 
+removal of human serum was effected by dilution. 
+The initial inocuium for Experiment 10 consisted of a 101 dilution of Dr. Salk's tissue 
+culture pool 10, Saukett strain, March 24, 1952. Thereafter at 1 to 3 day intervals, serial 
+transfer was effected by employing as the inocuium pooled supematant fluid from the pre- 
+ceding culture generation in a dilution of from 10 t to 105. To date, successful propagation 
+throughout 80 generations has resulted in a cumulative log dilution of 10 as. 
+The starter virus suspension for Experiment 11 consisted of a 101 dilution of the second 
+tissue culture passage of a field strain of Type 3 poliomyelitis virus. This strain was desig- 
+nated M50-57, T3 upon its isolation from the stool of a patient ill with paralytic poliomyelitis 
+in 1950. 
+The starter inocuium employed for Experiment 12 was a 10 ~ dilution of pooled supernatant 
+fluid from a tissue culture isolate, M52-662, T3. This isolate was procured from the fecal 
+sample of a paralytic poliomyelitic patient in 1952. Each strain of virus was maintained by 
+transfer to two fresh tteLa cultures at intervals of 24 to 48 hours. 
+The salient findings for Experiments 10 to 12 are summarized in Table III. 
+The results of Experiments 10 to 12 (Table III) provided conclusive evidence 
+that human epithelial cells which had already been maintained in vitro by 
+serial passage for 18 months retained during the present studies fully their 
+ability (a) to support the growth of laboratory and field strains of poliomyelitis 
+virus and (b) to yield large quantities of virus, as reflected by the cumulative 
+log of the dilution. Moreover, the serial transfer of four strains of virus for 
+from 40 to 80 passages again provided unequivocal evidence for the propaga- 
+tion of virus in strictly extraneural cells. The cumulative log of virus dilution 
+at the 80th passage was at least 115. 
+Further Applications of Strain HeLa Cellular Cultures to the Study of 
+Poliomyelitis Viruses 
+Strain HeLa cells were utilized in a variety of studies involving poliomyelitis 
+viruses in attempts to demonstrate properties of theoretical interest or of pos- 
+sible practical application. 
+
+===== PAGE 10 =====
+704 PROPAGATION IN VITRO OF POLIOMYELITIS VIRUSES 
+Comparative Studies with Monkey Testicular Tissue.--For virus assay, titra- 
+tions of poliomyelitis virus were carried out in strain Hela cellular cultures and 
+the results were compared with titrations performed simultaneously in cultures 
+of monkey testicular tissue (Experiments 13 and 14). 
+Experiment 13.wRoller tube cultures of testicular tissues were prepared from immature 
+monkeys, animals with a dentition corresponding to 8 to 12 years in man. Each tube contained 
+5 explants embedded in chicken plasma, and a liquid medium composed of horse serum-50, 
+EEd0, H-40, 1.5 ral. When sufficient cellular outgrowth had occurred after 7 days of incuba- 
+tion, the liquid medium was replaced with MS-100, 2 ml., which contained virus, Type 1, 
+Mahoney strain, in known dilutions. The cells were observed at 1, 3, 6, and 12 days for the 
+occurrence of viral cytopathogenicity. The same dilutions of virus in MS-100, 0.4 ml., were 
+placed in cultures of strain HeLa cells (2 explants per 13 by 100 ram. test tube). Daily observa- 
+tions were made for cellular destruction. 
+TABLE IV 
+Comparative Infectivity End-Points of Poliomyditis Virus Pro,uteri from Cullures of Strain 
+HeLa Cells and Monkey Tes~ular Tissues 
+(Results of Experiments 13 and 14) 
+Virus Titer of virus in liquid phase of cultures 
+Type Strain Monkey testis* Strain HeLa~ 
+1 Mahoney 10 -6 10-s to a 
+3 Saukett 10-s to s 10-s 
+* Results by 12 days after viral inoculation. The same results were present at 6 days for 
+Type 1 virus; for Type 3 virus, the second of two tubes inoculated with 10 -6 concentration 
+of virus became positive between the 6th and 12th days of viral cultivation. 
+~/Results by 5 days after viral inoculation. 
+Experiment 14.--Ym this experiment poliomyelitis virus, Type 3, Saukett strain was em- 
+ployed as procured from the twentieth passage of virus in cultures of strain HeLa cells. The 
+methods described for Experiment 13 were used for titration of virus in monkey testicular 
+cultures and in strain HeLa cultures, except that the latter cultures contained 2 explants per 
+16 by 150 mm. test tube. 
+The results from Experiment 13 and 14 are shown in Table IV. 
+Table IV presents the results of assays of poliomyelitis virus in monkey 
+testicular cultures and strain HeLa cultures (Experiments 13 and 14), It can 
+be seen that poliomyelitis viruses, Types 1 and 3, produced slightly higher 
+titration end-points when measured in cultures of strain HeLa cells than when 
+measured by the accepted tissue culture method that utilizes monkey testicular 
+tissue. Since virus was detected by strain HeLa cells in slightly higher dilutions, 
+and the effects of virus in all dilutions were evident earlier with strain HeLa 
+cells (1 to 5 days) than with monkey testicular cultures (6 to 12 days), it ap- 
+pears that strain HeLa cells were more sensitive to the cytopathogenic effects 
+of poliomyelitis virus than monkey testicular cells. 
+
+===== PAGE 11 =====
+W. F. SCHERER, ~. T. SYVERTON~ AND G. O. GEY 705 
+Experiments 7 to 12 (Tables I, II, and III) yielded evidence for the applica- 
+bility of the cellular strain to possible mass production of virus for serologic 
+complement fixation tests or other purposes. 
+It can be seen from the results presented in the tables that cultures of strain 
+HeLa cells are capable of producing large quantities of poliomyelitis virus. 
+The amount of virus was as great as, or greater than, that produced by the 
+inoculation of animals or of other cellular cultures. The virus is obtained in 
+high titer and in clear solutions that have relatively low contents of protein, 
+lipids, or lipoproteins when compared with virus suspensions prepared from 
+nerve tissue. 
+TABLE V 
+The Survival after Shipment by Mail of Strain HeLa Cells in Culture 
+(Results of Experiment 15) 
+Time in transit Type of shipment Type of culture Survival incidence 
+da~s 
+3 
+3 
+4 
+6 
+6 
+7 
+Airmail and mail truck 
+~ cc ~ cc 
+cc ~c ¢~ c~ 
+Railroad and mall truck 
+Explant 
+Cell suspension 
+cc ~c 
+c# c~ 
+cc c~ 
+cc c~ 
+2/2* 
+19/20 
+2/2 
+2/2 
+1/1 
+2/2 
+* The numerator indicates the number of cultures which showed an abundance of healthy 
+cells when incubated in liquid medium (HPS-50 or HAF-50, EE-2, H-48) for 2 to 5 days after 
+shipment. The denominator signifies the number of cultures sent. 
+A single experiment (Experiment 15) was carried out in anticipation of the 
+possible use of the HeLa strain of cells in cultural tubes designed for field 
+diagnostic and epidemiologic studies. It was performed to learn the effect upon 
+strain HeLa cells of adverse environmental conditions that may occur during 
+shipment by plane or train for long distances. 
+Experiment 15.--To learn whether strain HeLa cells withstand shipment by mail, a series 
+of cultures were sent during October and November by either air mail or regular mail, over a 
+distance of approximately 2500 miles; i.e., from Minneapolis, Minnesota, to Norwich, New 
+York, and return. The cultures contained cells which had been grown on the glass wall of 
+test tubes, 16 by 150 ram. or 13 by 100 ram. for from 7 to 10 days in HPS-50 or HAF-50, 
+EE-2, H-48 medium. For shipment, all but 1 drop of liquid medium was removed and the 
+tubes were sealed tightly with a rubber stopper about which was placed adhesive tape. The 
+mailing cartons commonly employed for the shipment of test tubes were used, and the instruc- 
+
+===== PAGE 12 =====
+7O6 PROPAGATION IN VITRO OP POLIOMYELITIS VIRUSES 
+tlon "Keep from Heat" was placed on the package. For the first shipment, "Live Cells" was 
+also noted. To prolong the period in transit, several shipments were kept at room temperature 
+for 1 or 2 days before being returned to Minneapolis. Upon return of the cultures to this labora- 
+tory, fresh medium, HPS-50 or HAF-50, EE-2, H-48, was added and the tubes were incubated 
+at 36 to 37°C. The results from Experiment 15 are given in Table V. 
+The data that pertain to the shipment of cells (Experiment 15) are pre- 
+sented in Table V. It is apparent that shipment of strain HeLa cells was success- 
+ful by air mail or regular mail. The viability of the cells usually was established 
+within 24 hours after incubation by the development of cellular processes; 
+the cellular populations in the cultures were replenished in from 2 to 5 days. 
+Shipment of strain HeLa cells was much less successful when the cells had 
+been incubated in maintenance solution prior to shipment. A group of 10 
+cultures kept at 36°C. in MS-100 for 5 days before shipment showed survival 
+of cells in only three cultures. 
+It was desirable to learn the applicability of this cellular strain, the cultural 
+media employed, and the techniques utilized to the isolation of field strains 
+of virus and to the specific immunologic identification of such strains. By the 
+methods here described virus was readily recovered from patients with paralytic 
+poliomyelitis, during the summer of 1952, and 100 strains were quickly 
+identified. These findings (18) are included in a paper to appear later. 
+DISCUSSION 
+The present work shows that a strain of malignant human epithelial cells 
+(strain HeLa, Gey) maintained by serial cultivation in vitro since February, 
+1951, will support the multiplication of poliomyelitis virus. The propagation 
+of each of the three types of virus was accompanied by progressive destruction 
+of the cells. These destructive effects were readily prevented by the employ- 
+ment of the homotypic poliomyelitis antibody though not by heterotypic 
+antibodies. The experiments demonstrate further that strain HeLa cells can 
+easily, inexpensively, and effectively be employed (a) for the quantitation of 
+virus, (b) for the measurement of specific antibody to poliomyelitis virus by 
+the tissue culture-neutralization technic, and (c) for the production of virus 
+for a variety of purposes, for example, to serve as antigens for complement 
+fixation. 
+The usefulness of normal cells of extraneural origin in tissue culture for the 
+study of poliomyelitis viruses has been previously established (1-17). The 
+results of the present study make it plain that cancerous cells of strain HeLa 
+have much in common with the cells previously employed. For example, they 
+share the following properties with monkey testicular fibroblasts and cells 
+from a variety of human and monkey tissues: (a) in cultures they enable 
+laboratory and field strains of poliomyelitis virus of all three types to propa- 
+gate, (b) in synthetic solution, they maintain viability and an unaltered 
+
+===== PAGE 13 =====
+W. F. SCKERER, J. T. SYVERTON, AND G. O. GEY 707 
+morphology, and (c) under the extraordinary environmental conditions that 
+result from shipment by train and plane they possess hardiness and the capacity 
+for renewed proliferation upon adding nutritive fluid. 
+It is especially noteworthy that epithelial cells of strain HeLa possess dis- 
+tinctive inherent qualities which make these cells excel in usefulness for the 
+study of poliomyelitis virus. To cite examples that are especially noteworthy: 
+(a) the stability of these cells while in continuous serial passage for more than 
+2 years makes it apparent that the strain can be maintained in perpetuity 
+by continuous transfer in series; (b) the capacity to grow in fluid media on 
+glass simplifies cultivation and eliminates chicken plasma, a source of foreign 
+protein; (c) the ease with which strain HeLa cells can be procured free in sus- 
+pension by treatment of cellular sheets with trypsin and quantitation by direct 
+enumeration makes available replicate cultures en masse and single cells for 
+intimate host ceil-virus studies. A further advantage of the use of this cell in 
+poliomyelitis studies consists in the elimination of the inconvenience of 
+obtaining tissues at need from human embryos, patients, or monkeys. More- 
+over, the cost of a large monkey colony and the hazard of inadvertently acquir- 
+ing from man or monkey an extraneous virus or other infectious agent 
+contained in tissue explants are excluded. 
+Foreign proteins and other antigenic materials constitute a risk and nuisance 
+in the production of specific antigens for serologic studies. This problem for man 
+could be simplified by the utilization of a nutritive complex of human deriva- 
+tion for the propagation in vitro of virus. Strain HeLa cells cultivated on 
+glass in a synthetic solution in the absence of chicken plasma and embryonic 
+extract constitute such a complex. Moreover, satisfactory cellular multipli- 
+cation can be achieved in diluted human serum without chick embryo extract 
+whenever it becomes desirable to grow cells in a medium made entirely from 
+materials of human derivation. 
+The extraordinary susceptibility of strain HeLa cells to infection with 
+poliomyelitis virus is reflected by the rapidity after infection of degenerative 
+changes and death of the cells and the production of virus. This susceptibility 
+permits the detection of virus in field specimens in from 12 to 96 hours. More- 
+over, the yield of virus from cultures of strain HeLa cells is as great in magnitude 
+as that from animals or cultures of human or monkey tissues. This strain of 
+cells should therefore have many uses in the study of poliomyelitis. 
+The evidence that poliomyelitis virus propagates in extraneural cells in vitro 
+is unequivocal. This evidence was obtained by studies that employed mixed 
+cell cultures from tissue explants (1-15, 17) and serial cultures of fibroblasts 
+derived from monkey testicle (16). The results of the present work made it 
+apparent that the virus also is epitheliotrophic, a malignant epithelial cell from 
+an epidermoid carcinoma of the human cervix providing a cellular substrate 
+fully adequate for multiplication of virus in vitro. 
+
+===== PAGE 14 =====
+708 PROPAGATION IN VITRO O]~ POLIOMYELITIS VIRUSES 
+Ultimately it will be desirable to employ for the detection of human viruses 
+or other obligate cellular parasites, not only strains of human fibrobiasts and 
+epithelial ceils but also cultures of other cells that have been or can be con- 
+tinuously cultured. Further efforts are under way to develop cellular strains 
+of these types for studies with human infectious agents. 
+The findings as a whole serve to demonstrate many distinctive properties of 
+a stable strain of human epithelial cancer cell that can be applied advan- 
+tageously to the study of the poliomyelitic group of viruses and possibly to 
+many viruses encountered in man. 
+SUrm~C&R~/ 
+The cells of a human epithelial cancer cultivated en masse have been shown 
+to support the multiplication of all three types of poliomyelitis virus. These 
+cells (strain HeLa of Gey) have been maintained in vitro since their derivation 
+from an epidermoid carcinoma of the cervix in February, 1951. As the virus 
+multiplied it caused in from 12 to 96 hours degeneration and destruction of 
+the cancer cells. The specific destructive effect of the virus was prevented by 
+adding homotypic antibody to the cultures but not by adding heterotypic 
+antibodies. 
+Methods for the preparation of large numbers of replicate cultures with 
+suspensions of strain HeLa cells were described. The cells in suspension were 
+readily quantitated by direct counts in a hemocytometer. A synthetic solution 
+that maintains cellular viability was employed for viral propagation. 
+The experimental results demonstrate the usefulness of strain HeLa ceils 
+for (a) the quantitation of poliomyelitis virus, (b) the measurement of polio- 
+myelitis antibodies, and (c) the production of virus. 
+BIBLIOGRAPHY 
+1. Enders, J. F., Weller, T. H., and Robbins, F. C., Science, 1949, 109, 85. 
+2. WeUer, T. H., Robbins, F. C., and Enders, J. F., Proc. Soc. Exp. Biol. and Med., 
+1949, 72, 153. 
+3. Robbins, F. C., Enders, J. F., and Weller, T. H., Proc. Soc. Exp. Biol. and MeA., 
+1950, 75, 370. 
+4. Milzer, A., Levinson, S. O., Vanderboom, K., and Adelman, P., Proc. Soc. Exp. 
+B/ol. and Med., 1950, 74, 136. 
+5. Smith, W. M., Chambers, V. C., and Evans, C. A., Northwest Med., 1950, 49, 
+368; Proc. Soc. Exp. Biol. and Med., 1951, 76, 696. 
+6. Robbins, F. C., Enders, J. F., Weller, T. H., and Florentine, G. L., Am. J. Hyg., 
+1951, 54, 286. 
+7. Thecke, J. D., Duncan, D., Wood, W., Franklin, A. E., and Rhodes, A. J., Canad. 
+J. Med. Sc., 1952, 30, 231. 
+~. Weller, T. H., Enders, J. F., Robbins, F. C., and Stoddard, M. B., J. Immunol., 
+1952 69, 645. 
+
+===== PAGE 15 =====
+W. ]~. SCHERER~ J. T. SYVERTON, AND G. O. GEY 7O9 
+9. Robbins, F. C., Weller, T. H., and Enders, J. F., J. Immunol., 1952, 69, 673. 
+10. Syverton, J. T., Scherer, W. F., and Butora¢, G., Proc. Soc. Exp. Biol. and Med., 
+1951, 77, 23. 
+11. Syverton, J. T., and Scherer, W. F., J. Exp. Med., 1952, 96, 355. 
+12. Ledinko, N., Riordan, J. T., and Melnick, J. L., Proc. Soc. Exp. Biol. and Med., 
+1951, 78, 83. 
+13. Youngner, J. S., Ward, E. N., and Salk, J. E., Am. J. Hyg., 1952, 55, 291. 
+14. Ledinko, N., Riordan, J. T., and Melnick, J. L., Am. J. Hyg., 1952, 55, 323. 
+15. Scherer, W. F., and Syverton, J. T., J. Exp. Med., 1952, 96, 369. 
+16. Scherer, W. F., and Syverton, J. T., J. Exp. Med., 1952, 96, 389. 
+17. Wood, W., Franklin, A. E., Clark, E. M., Duncan, D., and Rhodes, A. J., Proc. 
+Soc. Exp. Biol. and Med., 1952, 81, 434. 
+18. Syverton, J. T., and Soberer, W. F., Fed. Proc., 1953, 12, 462. 
+19. Gey, G. 0., and Gey, M. K., Am. J. Cancer, 1936, 27, 45. 
+20. Gey, G. O., Gey, M. K., Firor, W. M., and Self, W. O., Acta Unio Internat. Cam 
+erura, 1949, 6, 706. 
+21. Gey, G. O., Coffman, W. D., and Kubicek, M. T., Cancer Research, 1952, 12, 264. 
+22. Gey, G. O., Coffman, W. D., and Kubicek, M. T., Cancer Research, in Press. 
+23. Gey, G. O., and Bang, F. B., Bull. Johns Hopkins Hosp., 1939, 65, 393. 
+24. Gey, G. O., and Bang, F. B., Tr. New York Acad. Sc., 1951, 14, 15. 
+25. Bang, F. B., and Gey, G. O., Tr. New York Acad. Sc., 1951, 13, 324. 
+26. Bang, F. B., and Gey, G. O., Bull. Johns Hopkins Hosp., 1952, 91, 427. 
+27. Scherer, W. F., Am. Y. Path., 1953, 29, 131. 
+28. Hanks, J. H., and Wallace, R. E., Proc. Soc. Exp. Biol. and Med., 1949, 71,196. 
+29. Rous, P., and Jones, F. S., Y. Exp. Med., 1916, 23, 549. 
+30. Evans, V. ]., Earle, W. R., Sanford, K. K., Shannon, J. E., and Waltz, H. K., 
+J. Nat. Cancer Inst., 1951, 11, 907. 
+
+===== PAGE 16 =====
+710 PROPAGATION" IN" VITRO OF POLIOMYELITIS VIRUSES 
+EXPLANATION OF PLATES 
+All the photographs were made by Mr. Henry Morris. The magnifications are 
+65, 160, and 250. 
+PLATE 39 
+Results of Experiment 1. Evidence of the pathogenicity of poliomyelitis virus 
+for human epithelial cells, strain HeLa, and of the protective effect of homotypic anti- 
+body. Harris's hematoxylin stain. 
+FIGS. 1 to 3. Normal cells from strain HeLa. 
+FIGs. 4 to 6. Degenerated strain HeLa cells; photographed 2 days after the inocula- 
+tion of poliomyelitis virus, Type 1. 
+FIGs. 7 to 9. Normal appearing cells from strain HeLa, protected from the effects 
+of virus by homotypic antibody. The photographs were made 2 days after inocula- 
+tion of the cultures with virus and antibody. 
+FIos. 10 to 12. Degenerated strain HeLa cells; 2 days after the inoculation of polio- 
+myelitis virus, Type 1 together with antibody for Type 2 virus. 
+
+===== PAGE 17 =====
+THE JOURNAL OF EXPERIMENTAL MEDICINE VOL. 97 PLATE 39 
+(Scherer et al. : Propagation in vitro of poliomyelitis viruses) 
+
+===== PAGE 18 =====
+PLATE 40 
+Results of Experiment 3. The destruction of human epithelial ceils, strain HeLa, 
+by poliomye!itis virus, Type 2, Yale-SK strain; to illustrate the neutralization of 
+viral cytopathogenicity by homotypic antibody. Harris's hematoxylin stain. 
+FIcs. 13 to 15. Degenerated strain HeLa cells; 2 days after the inoculation of 
+poliomyelitis virus, Type 2. 
+Fins. 16 to 18. Degenerated strain HeLa ceils; photographed 2 days after inocula- 
+tion of poliomyelitis virus, Type 2, together with antibody for Type 1 virus. 
+Fins. 19 to 21. Normal appearing cells from strain HeLa 2 days after inoculation 
+of virus and antibody. These cells were protected from the effects of virus by homo- 
+typic antibody. 
+FIGS. 22 to 24. Normal cells from strain HeLa which had been maintained in 
+MS-100 for 3 days. These cells were growing apart from the original explant, as iso- 
+lated cells and small aggregates of cells. 
+
+===== PAGE 19 =====
+THE JOURNAL OF EXPERIMENTAL MEDICINE VOL. 97 PLATE 40 
+(Scherer et al. : Propagation in vitro of poliomyelitis viruses) 
+
+===== PAGE 20 =====
+PIATE 41 
+Results of Experiment 5. The destruction of human epithelial cells, strain HeLa, 
+by poliomyelitis virus, Type 3, Saukett strain; the neutralization of viral cytopatho- 
+genicity by homotypic antibody. Harris's hematoxylin stain. 
+FIas. 25 to 27. Degenerated strain HeLa cells 1 day after the inoculation of polio- 
+myelitis virus, Type 3. 
+FIGs. 28 to 30. Degenerated strain HeLa cells, 1 day after inoculation of polio- 
+myelitis virus, Type 3, together with antibody for Type 1 virus. 
+FIGS. 31 to 33. Degenerated strain HeLa cells, 1 day after inoculation of polio- 
+myelitis virus, Type 3, together with antibody for Type 2 virus. 
+FIGS. 34 to 36. Normal appearing cells from strain HeLa, protected from the effects 
+of virus by homotypic antibody; 1 day after inoculation of virus with antibody. 
+
+===== PAGE 21 =====
+THE JOURNAL OF EXPERIMENTAL MEDICINE VOL. 97 PLATE 41 
+(Scherer et al. : Propagation in vitro of poliomyelitis viruses) 

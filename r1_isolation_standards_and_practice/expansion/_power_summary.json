@@ -1,0 +1,45 @@
+{
+  "dual_before": 123,
+  "dual_after": 137,
+  "delta": 14,
+  "expanded_after": 167,
+  "upserted": [
+    "VI247: 10->2.5 | SARS-CoV-2 | Vero E6",
+    "VI248: 10->2 | SARS-CoV-2 | VeroE6/TMPRSS2; Vero E6-TMPRSS2-T2A-ACE2",
+    "VI249: 10->0 | Influenza A (exhibition swine) | MDCK (SFM-adapted)",
+    "VI250: 10->0 | Influenza (clinical; vaccine seed isolation) | MDCK-A; LLC-MK2D; MDCK-S",
+    "VI251: 10->2 | RSV (nasopharyngeal aspirates) | HEp-2",
+    "VI252: 10->2 | human paramyxoviruses (PIV/mumps) primary isolation | NCI-H292",
+    "VI253: 10->0 | hMPV (clinical isolation) | Vero E6",
+    "VI254: 15->2 | respiratory viruses (HEF microplate) | HEF",
+    "VI255: 2->2 | respiratory viruses (HEp-2 microplate) | HEp-2",
+    "VI256: 8->0 | influenza / respiratory (MDCK microplate) | MDCK",
+    "VI257: 10->2 | enteroviruses (GMK microplate) | GMK",
+    "VI258: 10->2 | parechovirus / PeV isolation (no trypsin MM) | LLC-MK2-N",
+    "VI259: 10->0 | parainfluenza isolation (trypsin MM) | LLC-MK2-N",
+    "VI260: 10->5 | EV-D68 / CV-A6 isolation | RD-A",
+    "VI261: 10->2 | Saffold virus isolation | RD-18S-N",
+    "VI262: 10->2 | respiratory viruses (HEF microplate 2004-2005) | HEF",
+    "VI263: 8->2 | respiratory viruses (RD-18S microplate) | RD-18S",
+    "VI264: 10->2 | SFTSV (tick homogenate isolation) | Vero E6",
+    "VI265: 10->2 | PPRV (clinical tissues/swabs) | Vero",
+    "VI266: 10->2 | HRSV (clinical PCR-positive) | HeLa; HEp-2; Vero",
+    "VI267: 10->0 | HPIV-1 and HPIV-3 (clinical) | MNT-1",
+    "VI268: 10->10 | FMDV (clinical outbreak isolation) | LFPK-alphav-beta6",
+    "VI269: 1->1 | FMDV (experimental/clinical sample isolation) | BHK-21 (FLI CCLV-RIE 164)",
+    "VI270: 10->2 | Lymphocystivirus (Iridoviridae) | BF2",
+    "VI271: 10->2 | measles (clinical isolation) | Vero/hSLAM"
+  ],
+  "institution_added": [
+    "CDC Measles Lab Tools \u2014 Vero/hSLAM virus isolation"
+  ],
+  "candidates": 29,
+  "skipped": [
+    [
+      "doi/link",
+      "BVDV (PI cattle ear biopsy)",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12784899/"
+    ]
+  ],
+  "max_vi": 271
+}

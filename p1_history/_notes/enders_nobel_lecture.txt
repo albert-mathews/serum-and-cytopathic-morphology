@@ -1,0 +1,700 @@
+J O H N  F .  E N D E R S ,  F R E D E R I C K  C .  R O B B I N S ,
+T H O M A S  H .  W E L L E R 
+The cultivation of the poliomyelitis viruses in 
+tissue culture 
+Nobel Lecture, December 11, 1954 
+In this lecture it is our purpose to recall our principal observations on the 
+behavior of poliomyelitis viruses in tissue culture and the manner in which 
+they were made. To do this seems appropriate, since it is for them we have 
+jointly been awarded the highest of honors in our field - the Nobel Prize in 
+Physiology or Medicine. But before we begin we earnestly desire to point 
+out that the results of our research are not alone the product of our triple 
+thought and effort. As nearly always in the undertaking of science many 
+others who have worked with us have contributed of their minds and labor. 
+And so we would think of them as here with us now, sharing in these great 
+happenings. 
+Antecedents to the Investigation of Poliomyelitis Virus 
+As observed long ago by Claude Bernard the history of many discoveries in 
+the more exact sciences may be clearly and tersely told because such discov- 
+eries depend upon ideas logically derived from well-established general prin- 
+ciples or theories. Such ideas give rise to a series of deductions the validity of 
+which must, of course, be then experimentally corroborated. Biology in- 
+cluding medicine has long sought to range itself with physics and chemistry 
+by defining general principles that govern the reactions of living organisms. 
+Within certain areas such as genetics and biochemistry much progress has 
+been made toward these ultimate goals. In other biological disciplines, how- 
+ever, as in our own of viruses and viral diseases the situation in certain respects 
+does not differ too greatly from that of the state of medicine in the time of 
+Bernard. Medicine he described as a science in its infancy where complex 
+and obscure questions were still to be studied and where experimental ideas 
+did not always emerge from the rather vague conceptions then current. 
+Under these circumstances, he wrote, "physiologists should not be afraid to 
+C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 449 
+act somewhat at random, so as to try - permit me the common expression - 
+fishing in troubled waters. This amounts to saying that, in the midst of the 
+functional disturbances which they produce, they may hope to see some un- 
+expected phenomena emerge which may give direction to their research 
+".
+In our own studies we did not depend entirely upon fishing in troubled 
+waters, but that we profitably indulged at one point in this sport cannot be 
+denied. Indeed, as so often in the realm of experimental medicine, many of 
+the antecedent conditions which finally focused our investigations upon the 
+specific problem of the growth in vitro of poliomyelitis virus in extraneural 
+cells would have been quite indefinable a priori. It may, therefore, be per- 
+tinent to recall at this time some of the factors which led to these observations. 
+In 1937 Dr. Enders working in the Department of Bacteriology and Im- 
+munology at the Harvard Medical School turned from the study of bacterial 
+immunity to an investigation of the growth of herpes simplex virus. Expe- 
+rience with the herpes virus served to establish an enduring preoccupation 
+with pathogens of this class and was followed by attempts to isolate the agent 
+of measles. In these experiments the tissue-culture method was employed 
+with uncertain results. But the conviction was gained that it represented a 
+basic tool for the study of viruses of which the possible applications were 
+almost unlimited. For this as well as other reasons the roller-tube method 
+used about this time by Gey and Bang for the cultivation of the virus of 
+lymphogranuloma venereum was selected as an ideal means of investigating 
+over a prolonged period the relationships between a virus and its host cells. 
+One of the participants in this research in which the agent of vaccinia was 
+employed was Thomas Weller 
+1
+. Dr. Weller, then a fourth-year medical 
+student at Harvard, joined the group primarily because of his concern with 
+the larger parasites of man. He wished to determine whether one of these, 
+Trichinella spiralis, could be made to pass through its developmental cycle in 
+the presence of living tissue cells. While carrying out these studies he also 
+acquired an interest in the viruses. 
+These preliminary explorations of the value of the tissue-culture method 
+were interrupted by the War, although by 1941 further observations stim- 
+ulating to us had been made at the Harvard Medical School on the behavior 
+in roller-tube cultures of the viruses of equine encephalomyelitis, herpes 
+simplex, and influenza virus, and on that of varicella independently by Dr. 
+Weller and Dr. L. C. Kingsland, Jr., at the Children’s Hospital in Boston. 
+After the war Dr. Enders was asked to establish a laboratory for research in 
+infectious diseases at the Children’s Hospital. Dr. Weller participated in the 
+450    1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S ,  T . H . W E L L E R 
+establishment of the laboratory and we were soon joined by Dr. Robbins 
+who had recently returned from duty in Italy where under his direction an 
+epidemiologic study of a disease resembling Q fever had resulted in the 
+identification of the responsible rickettsia for the first time in that country. 
+Under these circumstances congenial to the free implementation of our in- 
+terests the first experiments in the new laboratory were begun in April 1947. 
+Investigation of the potentialities of tissue culture for the propagation of 
+viruses was naturally resumed and for this purpose the agent of mumps was 
+first selected, since recent observations had provided the essential techniques 
+whereby it could be easily studied in the laboratory. It was soon demon- 
+strated that growth readily occurred in a simple suspended cell culture 
+consisting of fragments of chick amniotic membrane nourished with a bal- 
+anced salt solution and ox serum ultrafiltrate 
+2
+. Viral increase was easily fol- 
+lowed by measuring the amount of hemagglutinin that emerged in the cul- 
+ture fluid after inoculation of small quantities of the agent. A modification 
+of the usual technique for handling such cultures was introduced that per- 
+mitted the demonstration of the slow-growing mumps virus. Instead of 
+transferring material from one culture to another after an interval of three 
+or four days as had been the procedure of most previous investigators, the 
+tissues were preserved while the nutritive medium was removed and replen- 
+ished at frequent intervals. In this way viability of the cells could be main- 
+tained for 30 days or longer and full opportunity allowed for viral growth to 
+occur while a substantial dilution of the original viral inoculum was effected. 
+In 1948 when this work was completed we had no immediate intention of 
+carrying out experiments with poliomyelitis viruses. Nevertheless from 
+time to time we had considered the mounting evidence which had been well 
+summarized by Green and Evans in favor of the possibility that these agents 
+might not be strict neurotropes. Thus, for us, along with others it was be- 
+coming increasingly difficult to visualize the nervous system - as site of manu- 
+facture of the enormous quantities of virus that was found in the feces of 
+many patients. Such ideas were in our minds when the decision was taken 
+to use a mixture of human embryonic skin and muscle tissue in suspended 
+cell cultures in the hope that the virus of varicella might multiply in the cells 
+of its natural host. In this way such cultures were made available while close 
+at hand in the storage cabinet was the Lansing strain of poliomyelitis virus. 
+Thereupon it suddenly occurred to us that everything had been prepared 
+almost without conscious effort on our part for a new attempt to cultivate 
+the agent in extraneural tissue. 
+C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 451 
+Demonstration of Multiplication of Poliomyelitis Viruses in Cells of Extra- 
+neural Tissues 
+Accordingly the virus in the form of an infected suspension of mouse brain 
+was introduced into several of these cultures of human tissue which were 
+then handled exactly as in the experiments with the mumps agent. By inoc- 
+ulation of mice with the fluids removed from the original cultures as well as 
+with those taken from subsequent serial passages in vitro  it soon became 
+apparent that multiplication of the virus regularly occurred. Introduction of 
+fluid from the third passage into the brains of monkeys was followed by the 
+appearance of typical flaccid paralysis of the legs 
+3
+. These findings, surprising 
+as they were in the light of the failure of our predecessors to propagate the 
+virus in extraneural tissue, left no doubt in our minds that this could be 
+accomplished. 
+The increase in the Lansing virus content of tissue cultures of this sort is 
+illustrated in Fig. 1. These results were obtained by titrating at intervals of 
+four days the pooled fluids removed from four cultures all of which were 
+represents the negative logarithm of the mouse titers, the lower the cal- 
+inoculated with the same quantity of infected mouse brain. The upper curve 
+culated amounts of virus, expressed as LD 50 /ml for mice, that emerged in the 
+fluid phase during each interval of four days. It is evident that under these 
+conditions significant quantities of virus appear only after a period of eight 
+days and that the maximal yield is obtained between the 12th and 16th days. 
+These findings were soon confirmed and extended: (a) by continued serial 
+passage in human embryonic skin and muscle tissue of this as well as another 
+strain of Lansing virus; (b) by the successful propagation of representatives 
+of Types I and III viruses 
+4,5 
+; and (c) by identification of the agents grown in 
+tissue culture in virus neutralization tests. 
+Since the tissue employed in these experiments was removed from the 
+extremities it was considered to be free of intact nerve cells. It was concluded, 
+therefore, that growth of poliomyelitis virus in cultures of this material 
+occurred in cells of extraneural origin. This conclusion has been amply sup- 
+ported by direct observations of the effect of the viruses on various types of 
+cells which we will mention hereafter as well as the later demonstration by 
+Scherer and Syverton of multiplication in presumably pure lines of fibro- 
+blasts and cells of epithelial origin. It has been made evident, then, that in 
+vitro at least poliomyelitis viruses are not strict neurotropes. 
+During this earlier period of research, growth of representative strains of 
+452   1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S ,  T . H . W E L L E R 
+At time of 
+,
+Fig. 1. Mouse infectivity of pools of fluids removed at four-day intervals from sus- 
+pended cell cultures of human embryonic skin-muscle tissue inoculated with Lansing 
+mouse-brain virus. (From J. Immunol., 69 (1952) 652.) 
+virus was demonstrated in a variety of other human embryonic tissues in 
+suspended cell cultures 
+6
+. These included intestine, liver, kidney, adrenal, 
+brain, heart, spleen, and lun g. Multiplication also occurred in postnatal renal 
+and preputial tissue. In confirmation of the results of Sabin and Olitsky 
+7
+reported in 1936 growth of virus was also obtained in cultures of human 
+embryonic brain. Later when we applied the roller-tube technique 
+8
+ to the 
+cultivation of these agents, for reasons that will be indicated shortly, it was 
+found that viral increase occurred more rapidly and tended to reach some- 
+what higher maxima when compared with those in Fig. 1. The curves in 
+Fig. 2 illustrate these differences. The data included in Fig. 2 were obtained 
+by titration in mice, of fluids removed successively from roller-tube cultures 
+of human embryonic skin and muscle tissue inoculated with Lansing virus. 
+It is worthy of remark that the highest concentrations of virus attained in the 
+ C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 453 
+Fig. 2. Multiplication  of  Lansing virus in roller-tube cultures of human embryonic 
+skin-muscle tissue inoculated at two intervals after preparation. Mouse infectivity titers 
+of pools of fluids removed at various intervals after inoculation. 
+(From J. Immunnol., 69 (1952) 689.) 
+tissue-culture fluid are equivalent to or exceed those encountered in the nerv- 
+ous system of the infected mouse. 
+The results we have just described appeared to be of basic significance since 
+t h e y  l e f t  n o  d o u b t  t h a t  t h e  t h r e e  k n o w n  a n t i g e n i c  t y p e s  o f  p o l i o m y e l i t i s 
+viruses could be grown without difficulty apparently in a wide variety of 
+h u m a n  c e l l s .  T h e i r  u l t i m a t e  v a l u e ,  h o w e v e r ,  i n  t h e  f u t u r e  s t u d y  o f  t h e s e 
+agents both from the biologic and practical points of view would have been 
+greatly limited had phenomena not been discovered which clearly and ac- 
+curately indicate the occurrence of viral multiplication within the tissue- 
+culture system itself. Thus it is probable that if it had remained necessary to 
+inoculate experimental animals in order to demonstrate virus in the culture, 
+the method would have been largely utilized as a convenient means for the 
+preparation of virus suspensions. 
+Fortunately, signs of viral activity in the cultures themselves were observ- 
+ed soon after it was established that multiplication took place. Examination 
+of stained sections of fragments of human embryonic intestine and skin and 
+muscle removed from the early suspended cell subcultures of the Lansing 
+strain revealed widespread cellular degeneration. In contrast, uninoculated 
+4 5 4   1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S ,  T . H . W E L L E R 
+tissues maintained under the same conditions were found to contain many 
+cells in apparently excellent condition. S u b s e q u e n t  s t u d y  o f  t h e  e f f e c t  o f 
+Type I and Type II viruses in this tissue as well as in cultures of embryonic 
+intestine and brain convinced us that after a prolonged period (16 to 32 days), 
+growth of virus resulted in cell death and disintegration. Fibroblastic and 
+epithelial cells at least were affected by the virus. 
+At about the same time these cytopathogenic effects of the virus, as we 
+later called them, were observed, we perceived an indirect manifestation of 
+cell injury. It consisted of an accelareted decline in the metabolic rate of 
+tissues infected with virus as expressed by a progressive reduction of acid 
+f o r m a t i o n s .  T h i s  p h e n o m e n o n  w a s  d e m o n s t r a t e d  i n  a  s i m p l e  m a n n e r  b y 
+comparing at intervals the pH of the medium in inoculated cultures with 
+* The virus consisted of a suspension of infected mouse brain. Three cultures were each 
+inoculated with 0.1 cc of each dilution. 
+* * Average of individual pH readings of the medium in three flasks. Supernatant fluids 
+were removed and fresh medium added on the days indicated. Readings were made just 
+before this was done. The pH of the fresh medium varies from about 7.7-7.5. 
+Fig. 3. Determinations of the pH of the fluid phase of flask cultures of human embryon- 
+ic brain inoculated with Lansing virus. (From Proc. Soc. Exptl. Biol. Med., 
+that in control cultures containing no virus. Experiment showed that a sat- 
+isfactory correlation usually existed between a high pH and the presence of 
+virus in the culture fluid. With the establishment of this correlation it be- 
+came possible to apply the phenomenon to the titration of the infectivity for 
+the tissue culture of a given suspension of virus just as one employs a series 
+of susceptible animals for the same purpose. In Fig. 3 the results obtained in 
+the titration of Lansing virus grown in tissue culture are presented as an 
+example of how this indirect manifestation of viral cytopathogenicity can be 
+ C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 455 
+i n v o k e d  t o  d e t e r m i n e  t h e  s m a l l e s t  q u a n t i t y  o f  t h e  a g e n t  c a p a b l e  o f  m u l - 
+tiplying in suspended cell cultures of human embryonic brain fragments. It 
+is evident that in this instance the material could be diluted 10 
+4
+ times and still 
+inhibit cell metabolism. Subsequently Rhodes and his associates showed that 
+reduced acid production was correlated with a progressive decrease in glu- 
+cose utilization. 
+These indices of viral multiplication in suspended cell cultures, useful as 
+they were in our earlier investigations, proved inconvenient in two respects. 
+The direct observation of cell injury required the fixation, sectioning and 
+staining of the fragments - a laborious process, while the difference in pH 
+required the lapse of about two weeks or longer before it became evident. 
+A c c o r d i n g l y ,  o t h e r  m e a n s  w e r e  s o u g h t  b y  w h i c h  v i r a l  c y t o p a t h o g e n i c i t y 
+might be conveniently and rapidly demonstrated. At first we explored the 
+method of explantation which had been used in the past by other workers, 
+in particular Huang, to test the effect of viruses on cell viability. This consists 
+in placing the fragment taken from a suspended cell culture in a drop of 
+clotted chicken plasma and observing whether or not cell outgrowth occurs 
+upon subsequent incubation. Results of experiments with poliomyelitis virus 
+carried out in this manner were unequivocal. When infected fragments were 
+r e m o v e d  e i g h t  d a y s  o r  l o n g e r  a f t e r  i n f e c t i o n  a n d  e x p l a n t e d ,  c e l l  g r o w t h 
+failed to occur, or if it did begin, soon ceased to progress and was followed 
+by rapid degeneration. In the control preparations the growth of cells pro- 
+ceeded in a normal manner. It was also determined by this means that the 
+addition of type-specific antiserum to the suspended cell culture before the 
+virus was introduced protected the cells from the destructive effect of the 
+latter. 
+These observations appeared to be important from several points of view. 
+In the first place it was made evident that the cytopathogenic effect of the 
+virus could be directly and easily observed in the untreated culture. Thus 
+another and more direct criterion of viral multiplication was made available 
+and an easier method of assaying infectivity was foreshadowed. The dem- 
+onstration of the inhibitory effect of homologous antiserum not only afford- 
+ed convincing evidence that the cytopathic changes observed were caused 
+by the virus but also indicated that it would be possible to determine 
+in vitro 
+the antigenic type of poliomyelitis viruses, as well as the presence of type- 
+specific antibody in human and animal sera. 
+The explant procedure, however, was still rather cumbersome and a con- 
+siderable lapse of time was required before results could be obtained. Could 
+4 5 6   1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S ,  T . H . W E L L E R 
+A B
+Fig. 4. Preparations from roller-tube cultures of human embryonic skin-muscle tissue. 
+(A) Control uninoculated culture. (B) Culture three days after inoculation with Type I
+virus (Brunhilde strain). (Hematoxylin and eosin stain.) 
+not the same phenomena, we inquired, be elicited more simply and more 
+rapidly in roller-tube cultures which we knew provided large sheets of prolif- 
+erating cells? Accordingly viruses representing the three types were inoc- 
+ulated in roller-tube cultures of human embryonic skin and muscle. Within 
+three to five days, degenerative changes were evident which thereafter in- 
+volved the entire cell population. The inclusion of type specific antiserum 
+in the system exhibited the same inhibitory effect as in the explant exper- 
+i m e n t s .  T h e  c y t o p a t h o g e n i c  p r o p e r t i e s  o f  T y p e  I  v i r u s  ( B r u n h i l d e  s t r a i n ) 
+in roller-tube cultures of human embryonic fibroblastic-like cells are shown 
+in Fig.4 (A and B). Because of the speed with which these changes develop 
+and the readiness with which they may be observed the roller-tube technique 
+was used in most of our subsequent investigations. 
+We next investigated whether these basic phenomena, i.e., growth of virus 
+and its cytopathogenic activity 
+in vitro, might be employed in various proce- 
+d u r e s  w h i c h  h i t h e r t o  c o u l d  o n l y  b e  c a r r i e d  o u t  t h r o u g h  t h e  u s e  o f  l a r g e 
+ C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 4 5 7 
+numbers of experimental animals. This objective seemed desirable since the 
+only hosts then known to be susceptible to infection with Types I and III 
+viruses were certain of the primates. 
+W e  h a v e  a l r e a d y  i n d i c a t e d  h o w  t h e  c y t o p a t h i c  c h a n g e s  i n d u c e d  b y  t h e 
+poliomyelitis virus can be applied to the quantitative determination of viral 
+infectivity. Additional experiments quickly made it clear that by inoculating 
+roller-tube cultures with increasing dilutions of a suspension of virus, it was 
+possible to define a minimal infecting dose. This dose is now usually ex- 
+pressed as that quantity of a viral suspension which will induce cytopathic 
+changes in one-half the cultures to which it is added. ‘With the definition of 
+an infective dose of virus, it became feasible to measure the neutralizing 
+capacity of poliomyelitis antisera by determining the least amount of a serum 
+that will prevent the cytopathogenic activity of a known quality of virus. 
+Although we had carried out such experiments the first published results of 
+the titration of neutralizing antibodies were presented by Melnick and his 
+co-worker 
+10 
+ and Salk and his associates 
+11 
+.
+The isolation and typing of poliomyelitis viruses from man has been in the 
+past a laborious and time-consuming procedure since it depended upon the 
+i n t r a c e r e b r a l  i n o c u l a t i o n  o f  m o n k e y s .  T h e r e f o r e ,  w e  s o u g h t  t o  d e t e r m i n e 
+whether these agents might not be recovered from feces or suspensions of the 
+spinal cord. It was soon learned that through the addition of the antibiotics 
+streptomycin and penicillin followed by centrifugation contaminating bacte- 
+ria and other micro-organisms could be suppressed. Materials treated in this 
+manner were at first added to suspended cell cultures of human embryonic 
+skin and muscle or postnatal human kidney 
+1 2 
+. The presence of a cytopatho- 
+genie agent was revealed by differences in pH that occurred in these cultures 
+as compared with controls. Subsequently the antigenic type of the agent thus 
+isolated was determined by the explant method or in roller-tube cultures 
+using mixtures of the virus and antisera for the three known types. After 
+t h e s e  o r i g i n a l  i s o l a t i o n s  w e r e  m a d e ,  h o w e v e r ,  r o l l e r - t u b e  c u l t u r e s  w e r e 
+adopted as routine for isolation as well as typing of the virus since the proce- 
+dure is less complicated and results are obtained more rapidly. Indeed when 
+large amounts of virus are present it has been possible by simultaneously 
+carrying out both steps in this system to demonstrate poliomyelitis virus in 
+the feces within 48 hours. 
+At this point it seems appropriate to remark that the discovery of the anti- 
+biotics has, as in so many other areas, worked a revolution in the field of 
+tissue culture. Through the use of these substances it is now not only possible 
+4 5 8   1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S ,  T . H . W E L L E R 
+to apply tissue cultures to the routine isolation of viruses from materials 
+heavily contaminated with micro-organisms, but it has become feasible to 
+use them under conditions and in numbers which in the past would have 
+b e e n  q u i t e  u n t h i n k a b l e .  H e r e  t h e n  w e  h a v e  a n o t h e r  e x a m p l e  o f  h o w  o n e 
+discovery leads to many others often of quite a different nature. 
+The need of a serological test for poliomyelitis which could be more easily 
+carried out than the test for virus-neutralizing antibody has long been felt. 
+Various workers, therefore, had attempted to prepare satisfactory antigens 
+from infected nervous tissue suitable for use in a complement fixation test. 
+This objective was not attained, however, until Casals and Olitsky in 1951 
+adapted Type II virus to suckling mice and showed that the brains of these 
+animals contained antigen in sufficient concentration to fix complement with 
+poliomyelitis antisera. Since the tissue culture had just been shown to pro- 
+vide a convenient means of producing large quantities of virus of all three 
+antigenic types in a menstruum relatively free of tissue contaminants, we 
+d e c i d e d  t o  s e e  w h e t h e r  t h e  v i r u s - c o n t a i n i n g  f l u i d s  m i g h t  n o t  b e  u s e d  a s 
+c o m p l e m e n t  f i x i n g  a n t i g e n s .  T h e  e x p l o r a t i o n  o f  t h i s  p r o b l e m  w a s  c h i e f l y 
+carried out by Dr. Arne Svedmyr of Stockholm who had come to our labor- 
+atory in 1951. Fluids were concentrated by a simple method of ultrafiltration 
+a n d  e m p l o y e d  a s  a n t i g e n s  i n  c o m p l e m e n t  f i x a t i o n  t e s t s ,  f i r s t  w i t h  t y p e - 
+specific antisera prepared in monkeys and then with sera from patients with 
+poliomyelitis. In both instances the capacity of the concentrated virus sus- 
+pensions to fix complement in the presence of poliomyelitis antibodies was 
+d e m o n s t r a t e d 
+1 3 , 1 4 
+.  W i t h  t h e  m o n k e y  s e r a  t h e  r e a c t i o n s  w e r e  c l e a r l y  t y p e 
+specific in character. In contrast human sera often reacted with all three types 
+of antigen although they were known to contain neutralizing antibody specif- 
+ic for only a single type. This tendency of certain human sera to react in this 
+broad manner at present limits the usefulness of the complement fixation test 
+as a diagnostic measure. 
+I n v e s t i g a t i o n s  b y  n u m e r o u s  w o r k e r s  i n  t h e  p a s t  h a d  s h o w n  t h a t  p o l i o - 
+myelitis virus derived from infected nervous tissues when inoculated by a 
+peripheral route might induce resistance to subsequent infection via the nerv- 
+ous system. The virus suspensions used in this way contained of necessity 
+large amounts of nervous tissue derivatives. Because of the absence of such 
+materials in the infected fluids of tissue cultures it early became of interest 
+t o  d e t e r m i n e  w h e t h e r  t h e y  m i g h t  a c t  a s  i m m u n i z i n g  a g e n t s .  A c c o r d i n g l y , 
+fluids from suspended cell cultures of human embryonic skin and muscle 
+infected with the Lansing strain were inoculated intraperitoneally into mice. 
+C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 4 5 9 
+Three weeks later the mice were injected intracerebrally with from 10 to 
+5 0  L D 50 doses of the homologous virus. In repeated experiments about one- 
+half of the animals remained well whereas the mortality rate in the controls 
+varied from 90 to 100 per cent. We concluded on the basis of these findings 
+that virus propagated in tissue culture was capable of inducing immunity. A 
+similar prophylactic effect resulting from peripheral inoculation of polio- 
+myelitis tissue-culture virus was described a little before this time by Milzer 
+a n d  h i s  c o - w o r k e r s 
+1 5 
+.
+The possibility that tissue-culture virus in some form might eventually 
+prove of value as a prophylactic agent naturally occurred to us when we first 
+became convinced that the agent could be grown in extraneural tissues. We, 
+therefore, were prepared to observe any indications of changes in patho- 
+genicity for animals that might follow during serial passages. It was indeed 
+not long before we observed that the mouse virulence of the Lansing strain 
+which had been passed three times in suspended cell cultures of skin and 
+muscle had markedly decreased. Although this loss might have been occa- 
+sioned by a reduced capacity to multiply  in 
+vitro, it was soon shown that this 
+was not the case, since the titer of viral infectivity as determined by the 
+t i s s u e - c u l t u r e  m e t h o d  r e m a i n e d  u n c h a n g e d .  S i m i l a r  e x p e r i m e n t s  w i t h  a 
+T y p e  I  v i r u s  ( B r u n h i l d e  s t r a i n )  i n d i c a t e d  t h a t  b e t w e e n  t h e  2 n d  a n d  1 0 t h 
+passages its pathogenicity for rhesus monkeys had diminished significantly. 
+Subsequent passages in roller-tube cultures rapidly led to a further decrease in 
+the capacity of the agent to produce paralysis in monkeys following intra- 
+cerebral inoculation. The data recorded in those experiments are summarized 
+in Fig. 5. The total decline in virulence was calculated to be of the order of 
+* Usual  titer of infected monkey cord as obtained by various workers. 
+Fig. 5. Results of titrations in monkeys and in tissue cultures of materials from a tissue 
+culture line of Type I virus (Brunhilde strain). 
+4 6 0     1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S , T  . H . W E L L E R 
+100,000 to 1,000,000 fold, since again no change had occurred during these 
+passages in the titer of the virus as determined in tissue culture. It is worthy 
+of note that in these experiments in which the final drop in monkey patho- 
+genicity occurred, the roller-tube cultures were inoculated with the smallest 
+amount of virus capable of inducing cytopathic changes. 
+From these observations we concluded that, as with other viral agents, the 
+virulence of poliomyelitis virus is not a fixed attribute but on the contrary 
+may readily be altered under appropriate conditions. 
+The appearance in 1950 of reports by Milzer and co-workers and by Smith 
+and associates 
+16 
+ confirmed our observations on the capacity of the polio- 
+myelitis viruses to multiply  in vitro in human tissues of non-nervous origin. 
+These papers proved to be the forerunners of a number of significant contri- 
+butions from other laboratories in the United States that rapidly introduced 
+procedural modifications extending the general usefulness of the method. 
+Here specific reference may be made to only a few of these reports; how- 
+ever, particular mention should be made of the contributions of Evans and 
+his associates in Seattle, of the group working under Paul and Melnick at 
+New Haven, of Li and Schaeffer at Montgomery, of Sabin in Cincinnati, of 
+Salk and Youngner in Pittsburgh, and of Syverton and Scherer in Minneap- 
+olis. It is to be stressed, however, that at present tissue-culture methodology 
+as applied to research on poliomyelitis continues to undergo rapid changes. 
+Prior to 1950, poliomyelitis research was of necessity concentrated in rela- 
+t i v e l y  f e w  c e n t e r s  t h a t  p o s s e s s e d  f a c i l i t i e s  f o r  h a n d l i n g  l a r g e  n u m b e r s  o f 
+monkeys. Following the demonstration that multiplication of poliomyelitis 
+viruses could be accomplished 
+in vitro i n  m o n k e y - t e s t i c u l a r 
+17,18 
+and in mon- 
+key-kidney tissues 
+19 
+, it was a natural development for those groups working 
+in these centers to concern themselves with the practical application of meth- 
+ods utilizing monkey tissues. Meanwhile other groups devoted much effort 
+toward establishing strains of standardized cells of human origin and to the 
+investigation of their potentialities in the study of the poliomyelitis viruses. 
+Scherer, Syverton and Gey 
+20 
+introduced the use of the HeLa strain of human 
+cells originally isolated from an epidermoid carcinoma of the cervix. Swim 
+and Parker, among others, maintained lines of normal cells in continuous 
+culture, and demonstrated the susceptibility of cells so cultivated to the cyto- 
+ C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 461 
+pathic action of the poliomyelitis viruses. Concurrently, for certain objec- 
+tives, simplified methods of preparing cultures were introduced, such as the 
+planting of tissues on the wall of small tubes, that were subsequently slanted 
+d u r i n g  i n c u b a t i o n .  C o n s i d e r a b l e  e f f o r t  h a s  b e e n  e x p e n d e d  o n  t h e  d e v e l - 
+opment of synthetic media with the objectives of achieving standardization, 
+of eliminating viral inhibitory substances, and in particular, for the purposes 
+of preparing materials for immunization, of eliminating extraneous antigenic 
+substances. Most widely used has been the synthetic-tissue culture medium, 
+k n o w n  a s  1 9 9 ,  d e v e l o p e d  b y  M o r g a n ,  M o r t o n  a n d  P a r k e r .  W e  w i l l  n o w 
+describe certain of the more interesting and important applications of the 
+m e t h o d . 
+Dulbecco and Vogt 
+21 in a series of ingenious experiments have devised meth- 
+ods to obtain in vitro isolated plaques of cellular degeneration analogous to 
+those produced by bacteriophage and have presented evidence indicating that 
+each plaque represents the effect of a single infective unit of virus. According 
+to their procedure cell suspensions are prepared by exposing tissues to trypsin. 
+Kidney cells obtained in this manner when planted in flat dishes, yield homo- 
+geneous sheets of growth. After inoculation, the cells are covered with a thin 
+layer of agar, thus limiting the spread of the cytopathogenic virus. This tech- 
+nique provides a new method for the more accurate assay of viral activity. Of 
+greater importance is the means it offers of establishing clones of virus in con- 
+nection with the search for variants possessing altered pathogenic properties. 
+On theoretical grounds, the desirable immunizing agent of the future for 
+poliomyelitis may well contain live stable avirulent variants of each of the 
+three main antigenic types of virus. It has already been noted that variations 
+i n  v i r u l e n c e  m a y  a c c o m p a n y  p r o l o n g e d  p r o p a g a t i o n  
+in vitro, and that the 
+selection of populations with altered characteristics may be expedited by the 
+utilization of the limiting dilution inoculation technique. Investigation along 
+these lines is being carried out by Sabin 
+2 2 
+.  E m p l o y i n g  m a s s i v e  i n o c u l a  a n d 
+passage at 24 hour intervals, together with final passage at the dilution end- 
+point, strains have been developed from all three types that exhibit almost 
+complete loss of virulence on inoculation into primates. It would thus appear 
+that the development of immunizing materials against poliomyelitis, com- 
+parable to the live avirulent strain of yellow-fever virus, through the use of 
+in vitro techniques is already more than a theoretical possibility. 
+4 6 2   1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S ,  T . H . W E L L E R 
+Development of immunizing materials employing inactivated poliomyelitis viruses 
+prepared by in vitro methods 
+In 1953, Salk and his co-workers reported experiments on active immuniza- 
+t i o n  i n  h u m a n  s u b j e c t s  e m p l o y i n g  a  p o l y v a l e n t  v a c c i n e  c o n t a i n i n g  v i r u s 
+treated with formalin. A striking antibody response followed the subcuta- 
+neous inoculation of three doses of vaccine 
+1 9 , 2 3 
+. A large-scale field evaluation 
+trial of the vaccine was sponsored by the National Foundation for Infantile 
+Paralysis and is now in progress. Under the direction of Dr. Thomas Francis, 
+Jr., the Evaluation Center is maintaining records on 1,800,000 children; of 
+these 440,000 have received three injections of the Salk vaccine and 210,000 
+injections with a placebo. The study also includes a group of 20,000 children 
+in Finland. Analysis will be made of the antibody responses in a significant 
+number of those in the study group, as well as intensive laboratory investiga- 
+tion of all cases of poliomyelitis or suspected poliomyelitis in the population 
+under study. To accomplish the large volume of work involved additional 
+procedural modifications have been developed. Salk, Youngner and Ward 
+24 
+have recently described a test based upon differences in pH for titration of 
+virus as well as for antibody assay, wherein a cellular substrate of trypsinized 
+m o n k e y  k i d n e y  c e l l s  i s  e m p l o y e d . 
+A somewhat different approach to the problem of immunization has been 
+c a r r i e d  o u t  c o n c u r r e n t l y  b y  M i l z e r ,  L e v i n s o n  a n d  a s s o c i a t e s 
+2 5  
+w h o  h a v e 
+developed a trivalent tissue culture vaccine inactivated by ultraviolet irradia- 
+tion. Injection of this material into human volunteers has been followed in 
+most instances by a significant increase in antibody. 
+As we have indicated the tissue culture offers two techniques for the diagno- 
+sis of suspected cases of poliomyelitis; isolation of virus may be accomplished, 
+or increase in specific antibody may be demonstrated. In the brief period 
+since these procedures were first described, many reports have accumulated 
+concerning the isolation of viruses by this technique. For example, in the 
+United States Syverton, Scherer and Elwood recorded the isolation of 300 
+strains from patients with a clinical diagnosis of poliomyelitis. Here in Stock- 
+holm a series of isolations have been accomplished by Gard and Johnson, 
+S v e d m y r  a n d  K j e l l e n ,  a n d  b y  W e s s l e n .  E l s e w h e r e  t h r o u g h o u t  t h e  w o r l d 
+these techniques are being applied, as revealed by the reports of Goffe and 
+ C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 4 6 3 
+L e  B o u v i e r ,  L e p i n e  a n d  B a r s k i ,  M o n a c i  v o n  M a g n u s ,  G e a r  a n d  M a l h e r b e , 
+Lahelle, Bazeley, and Kitaoka. Information is, therefore, becoming available 
+f o r  t h e  f i r s t  t i m e  c o n c e r n i n g  t h e  d i s t r i b u t i o n  o f  t h e  t h r e e  t y p e s  o f  v i r u s 
+throughout the world. Serological tests based on the tissue-culture method 
+are now also beginning to be used as diagnostic aids. 
+Since the introduction of these simple techniques it has become feasible for 
+the epidemiologist to study, with the assistance of the laboratory, the spread 
+of poliomyelitis in populations. Two recent developments in this field de- 
+s e r v e  p a r t i c u l a r  c o m m e n t .  M e l n i c k  a n d  L e d i n k o 
+2 6  
+h a v e  f o r  t h e  f i r s t  t i m e 
+been able to carry out serological studies on a large population group and to 
+establish definitely the ratio of paralytic to nonparalytic cases. The second 
+d e v e l o p m e n t  w h i c h  r e s u l t e d  f r o m  t h e  c o m b i n e d  o b s e r v a t i o n s  o f  s e v e r a l 
+workers consists in the further documentation of the fact that poliomyelitis 
+is hyperendemic throughout the poorly sanitated tropical areas of the world. 
+As a direct consequence of the wide application of 
+in vitro procedures to the 
+problem of poliomyelitis virus isolation, a variety of cytopathogenic viruses 
+have been isolated from fecal materials of human origin. Following the orig- 
+inal recovery of representatives of this group in our own laboratory, many 
+workers have isolated agents whose relationships to each other as well as 
+their etiological and epidemiological significance still remain to be elucidated. 
+Certain of these have been shown to be Coxsackie viruses; others do not fall 
+in that category. Regardless of the significance of these viruses as eventually 
+defined, it is apparent that through the use of tissue culture a new approach 
+has been provided for the study of the viral inhabitants of the human in- 
+restinal tract. 
+While methods of tissue culture have been applied extensively to the study 
+of viruses since 1928, when the Maitlands described the suspended cell tech- 
+4 6 4   1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S ,  T . H . W E L L E R 
+nique, it is apparent that there has been a stimulation of interest in this ap- 
+proach within the past few years. The study of known viruses pathogenic 
+for man in cultures of human tissue have been profitably applied by various 
+workers as illustrated, for example, in the report of Kjellén and Svedmyr 
+2 7 
+who conclude that this system is most suitable for the primary isolation of 
+the virus of herpes simplex. 
+Yet, it is in the investigation of several viruses that manifest a high degree 
+of host specificity for man that some of the most interesting developments 
+have occurred. Thus, it has now been amply demonstrated that for certain 
+purposes, lacking a susceptible experimental animal, the culture composed 
+of human tissues may be substituted for the human subject. Here it is per- 
+tinent only to outline briefly certain of these developments. 
+Concurrently with the poliomyelitis studies, efforts directed at the isolation 
+in vitro of the etiological agent of varicella were continued in our laboratory. 
+In 1952, Weller and Stoddard reported that the inoculation with varicella 
+vesicle fluid of suspended cell cultures of human tissues was followed by the 
+development of intranuclear inclusions although attempts at serial propaga- 
+tion of the agent proved unsuccessful. Then, profiting by the accumulated 
+experience with the roller-tube technique, it was demonstrated that specific 
+cytopathic changes followed inoculation of such cultures of human tissues 
+with vesicle fluid materials from cases of varicella or of herpes zoster. With 
+this culture system, serial propagation 
+in vitro of the agents could be accom- 
+plished as demonstrated by the regular appearance in subcultures of cyto- 
+pathic changes that were focal in nature and associated with the presence of 
+i n t r a n u c l e a r  i n c l u s i o n s 
+2 8 
+.  E m p l o y i n g the fluorescent antibody procedure of 
+C o o n s 
+2 9 
+,  a n d  m o r e  r e c e n t l y  u t i l i z i n g  c u l t u r e  m a t e r i a l s  a s  a  c o m p l e m e n t 
+fixing antigen, immunologic evidence has been obtained to support the the- 
+sis that the etiologic agents of varicella and herpes zoster have been isolated 
+and propagated in 
+vitro. It is of special interest that to date no morphologic 
+or antigenic dissimilarities have been noted that would permit differentiation 
+of the agents recovered from these two diseases. 
+In 1951, an epidemic exanthem occurred in Massachusetts that was charac- 
+ C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 4 6 5 
+terized by fever of short duration, a macular to maculo-papular eruption 
+and the absence of significant adenopathy or Koplik’s spots. Cytopathogenic 
+agents were isolated in tissue cultures from the feces of seven patients and the 
+development of specific neutralizing antibodies in paired serum specimens 
+w a s  d e m o n s t r a t e d 
+3 0 
+.  T h e  e v i d e n c e  n o w  i n d i c a t e s  t h a t  t h e s e  s t u d i e s  h a v e 
+resulted in the identification of a new clinical entity. 
+R e c e n t l y  E n d e r s  a n d  P e e b l e s 
+3 1 
+reported that the inoculation of roller-tube 
+cultures of human renal cells with blood or throat-washings collected from 
+patients with measles during the 24-hour period following appearance of the 
+rash, resulted in unusual cytopathic changes. Characteristically, large syn- 
+c y t i a l  c e l l  m a s s e s  d e v e l o p e d  t h a t  o n  s t a i n i n g  w e r e  f o u n d  t o  c o n t a i n  n u - 
+merous nuclei with intranuclear inclusion bodies. The appearance in measles 
+of a virus-neutralizing antibody reacting specifically with the agents thus 
+isolated has been demonstrated. Also, fluids from infected cultures contain 
+a n  a n t i g e n  t h a t  f i x e s  c o m p l e m e n t  i n  t h e  p r e s e n c e  o f  s e r u m  f r o m  p e r s o n s 
+convalescent from the disease. It has also been possible to assay the concentra- 
+tion of neutralizing and complement fixing antibodies reacting with these 
+agents in various lots of human gamma globulin. 
+The application of tissue-culture procedures has revealed the existence of a 
+variety of new viruses that inhabit the respiratory tract of man. Rowe and 
+his associates 
+32 
+noted spontaneously occurring cytopathic changes in cultures 
+of human adenoid tissue. Further investigations by Huebner and co-workers 
+have resulted in the isolation of a variety of cytopathogenic agents that may 
+be divided into at least six groups by immunologic means. Similarly, studies 
+by Hilleman and his associates 
+33 
+ of cases of acute respiratory infection have 
+led to the recognition of a new group of viruses, the pathogenic attributes of 
+which are now being elucidated. 
+We shall now bring to an end this fragmentary account of our results and 
+the investigations of others that have widely extended these results and given 
+them greatly added significance and value. We regret that the exigencies of 
+time and space have prevented in many instances the inclusion of specific 
+references as well as more adequate descriptions of their contributions. It is a 
+4 6 6   1 9 5 4  J . F . E N D E R S ,  F . C . R O B B I N S ,  T . H . W E L L E R 
+satisfaction to us, however, that the volume of these contributions is so great 
+since it testifies to the wide recognition of the value of the tissue-culture 
+method in the exploration of the fascinating phenomena offered the inves- 
+tigator by the virus diseases. 
+1. A. E. Feller, J. F. Enders, and T. H. Weller, J. Exptl. Med., 72 (1940) 367. 
+2. T. H. Weller and J. F. Enders, Proc. Soc. Exptl. Biol. Med., 69 (1948) 124. 
+3. J. F. Enders, T. H. Weller, and F. C. Robbins, Science, 109 (1949) 85. 
+4. T. H. Weller, F. C. Robbins, and J. F. Enders, Proc. Soc. Exptl. Biol. Med., 7 2 
+(1949)153. 
+5. J. F. Enders, Poliomyelitis - Second International Poliomyelitis Conference, Lippincott 
+Co., Philadelphia, 1952. 
+6. T. H. Weller, J. F. Enders, F. C. Robbins, and M. B. Stoddard, J. Immunol., 6 9 
+(1952) 645. 
+7. A. B. Sabin and P. K. Olitsky, Proc. Soc. Exptl. Biol. Med., 34 (1936) 357. 
+8. F. C. Robbins, T. H. Weller, and J. F. Enders, J. Immunol., 69 (1952) 673. 
+9. F. C. Robbins, J. F. Enders, and T. H. Weller, Proc. Soc. Exptl. Biol. Med., 75 
+(1950) 370. 
+10. N. Ledinko, J. T. Riordan, and J. L. Melnick, Am. J. Hyg., 55 (1952) 323. 
+11. J. S. Youngner, E. N. Ward, and J. E. Salk, Am. J. Hyg., 55 (1952) 301. 
+12. F. C. Robbins, J. F. Enders, T. H. Weller, and G. L. Florentino, Am. J Hyg., 5 4 
+ ( 1 9 5 1 )  2 8 6 . 
+13. A. Svedmyr, J. F. Enders, and A. Holloway, Proc. Soc. Exptl. Biol. Med., 79 (1952) 
+296. 
+14. A. Svedmyr, J. F. Enders, and A. Hohoway, Am. J. Hyg., 57 (1953) 60. 
+15. A. Milzer, S. O. Levinson, K. Vanderboom, and P. Adelman, Proc. Soc. Exptl. Biol. 
+Med., 74 (1950) 136. 
+16. W. M. Smith, V. C. Chambers, and C. A. Evans, Northwest Med., 49 (1950) 368. 
+17. W. M. Smith, V. C. Chambers, and C. A. Evans, Proc. Soc. Exptl. Biol. Med., 7 6 
+(1951) 696. 
+18. J. T. Syverton, W. F. Scherer, and G. Butorac, Proc. Soc. Exptl. Biol. Med., 77 
+(1951)23. 
+19. J. E. Salk, B. L. Bennett, L. J. Lewis, E. N. Ward, and J. S. Youngner, J. Am. Med. 
+Assoc., 151 (1953) 1081. 
+20. W. F. Scherer, J. T. Syverton, and G. O. Gey, J. Exptl. Med., 97 (1953) 695. 
+21. R. Dulbecco and N. Vogt, J. Exptl. Med., 99 (1954) 167. 
+22. A. B. Sabin, W. A. Hennessen, and J. Winsser, J. Exptl. Med., 99 (1954) 551. 
+23. J. E. Salk, P. L. Bazeley, B. L. Bennett, U. Krech, L. J. Lewis, E. N. Ward, and J. S. 
+Youngner, Am. J. Public  Health, 44 (1954) 994. 
+24. J. E. Salk, J. S. Youngner, and E. N. Ward, Am. J. Hyg., 60 (1954) 214. 
+25. A. Milzer, S. O. Levinson, H. J. Shaughnessy, M. Janota, K. Vanderboom, and F. 
+Oppenheimer, Am. J. Public  Health, 44 (1954) 26. 
+ C U L T I V A T I O N  O F  P O L I O M Y E L I T I S  V I R U S E S 4 6 7 
+26 . J. L. Mehick and N. Ledinko, Am. J. Hyg., 58 (1953) 207. 
+27. L. Kjellén and A. Svedmyr, Arch. Ges. Virusforsch., 5 (1954) 25. 
+28. T. H. Weller, Proc. Soc. Exptl. Biol. Med., 83 (1953) 340. 
+29. T. H. Weller and A. H. Coons, Proc. Soc. Exptl. Biol. Med., 86 (1954) 789. 
+30 . F. A. Neva and J. F. Enders, J. Immunol., 72 (1954) 307. 
+31. J. F. Enders and T. C. Peebles, Proc. Soc. Exptl. Biol. Med., 86 (1954) 277. 
+32. W. P. Rowe, R. J. Huebner, L. K. Gilmore, R. H. Parrott, and T. G. Ward, Proc. 
+Soc. Exptl. Biol. Med., 84 (1953) 570. 
+33 . M. R. Hilleman and J. H. Werner, Proc. Soc., Exptl. Biol. Med., 85 (1954) 183. 

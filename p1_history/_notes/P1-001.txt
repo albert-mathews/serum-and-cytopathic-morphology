@@ -1,0 +1,366 @@
+
+===== PAGE 1 =====
+January 28, 1949, Vol. 109 SCIENCE 	 85 
+of tlie sccond instar which, according to the curve, reachcs 
+a final width, on molting, of 5.1 mm and it, in turn, 
+again becomes a new initial width. Continuing in this 
+nianncr, it has been possible to estimate the number of 
+l)ostlarral molts and the width of cach instar, of which 
+L," 
+60 
+250 
+a.Q 
+230 
+20 
+210 0 MALE CRABS 
+WEIGHT :0.00026 WIOTH~'~~ 
+ooa . FEMPhE CRIBS 
+WEIGHT = 0.00034 WIOTM~.~' pq 
+1-20 IINSTAR NUMBERS FOR MALES 
+170 
+160 
+'nxlso a 
+gs 
+f 'M 
+120 
++I 
+2 I10 
+W 
+IF 
+-90 
+ao. 
+0 
+60 
+Jo 
+2 
+30 
+20 
+-10 
+-0 
+0 2 5 I'e 1'1 I'e ~b 20 
+0 10 20 30 40 50 60 70 80 90 100 110 120 130 YO 150 160 170 180 
+WIDTH I N MILLIMETERS 
+FIG. 2. Showing growth trends in Gallinectrs 
+supidus Rathbun, based upon growth curve of Fig. I. 
+tlrere are believed to be 19 or 20 in males and 18, or pos- 
+sibly 19, in female blue crabs (7). A mathematical equa- 
+tion mas fitted to the molting curve for males and females 
+so that from any initial width one can calculate directly 
+thc final width after molting. Hence, knowing the width 
+of the first postlarval instar, it was possible to calculate 
+the widths of the remaining instars. 
+To complete the story, it was necessary to establish 
+the relationship between the width dimension, selected 
+for a basic index of size, and other linear and also 
+weight measurements. The allometry equation Y = aXb, 
+was found to constitute a satisfactory expression of the 
+different linear and also weight relationships. Conse-
+quently, from a width measurement, any of the corre-
+sponding linear and weight dimensions can be readily 
+ascertained. Since the width of each instar has been 
+determined, it is now possible to calculate the remaining 
+linear dimensions and the weights of each instar (Fig. 2). 
+The information provided by this procedure makes it 
+possible to analyze certain characteristics of the growth 
+of body parts in relation to one another and to the whole 
+body. Also, a basis is provided for interprcting the 
+effect of environmental conditions and mechanical injury 
+on the normal growth curve as established by the pre- 
+ceding technics. Thc method has potential use for 
+comparing diffcrential growth rates in geographic vari- 
+eties as wcll as closely rclated species. 
+References 
+1. 	 CAr,ven~, PHII.LIP P. Proe. Amer. philos. 8oc., 1929, 
+68 (3), 227-274. 
+2. GRAY, 	 CURTISL.1I.LeN H., and NEWCOMRE, Growth, 
+1938, 2 (3), 235-46. 
+3. 	 GRAY, E~LLEN H., and N~wconze~, CURTIS L. Growth, 
+1938, 2 (41, 285--96. 
+4. MACICAY, C. WEYMOUTH, W.D~NAI,D 0., and FRANK 
+J. Biol. Rd. Ganad. 1935, 1 (3),191-212. 
+5. 	 MUSCONI,L. Boll. Lab. Zool. gew. agrar. R. Scuoln 
+Sup. Agric., 1926, 18, 95-118. 
+6. Iu'rcwc:on~r%e, 	 ALLEN M, and CAMP- CUHTIS I,., ECICSTINE, 
+Icel.r,. If'~ah-IC. Norrthern li'ish.erman, in press. 
+7. 	 NewcoMu~, CURTIS L., Sa~noz, MILDRED D., and Rocess- 
+'L'AI,BI~:RT, .I. emp. Med., in press. Kosn1.1a:. 
+S. 	 RoBER'l'SON, ROYI;. Masters Degree Thesis, University 
+of Maryland, 1938, 1-30. 
+9. 	 S~.Laea, G. D. Stun. Univ. Publ. biol. Soi., 1923, 3, 
+307-338. 
+10. Wess~u~n~-I,us~, Inter. Rev. gesam.C. Hydrobiol. 
+Hfldrogr., 1913, 6, 4-5, 373-422. 
+Cultivation of the Lansing Strain of 
+Poliomyelitis Virus in Cultures of 
+Various Human Embryonic Tissues1 
+John F. Enders, Thomas H. Weller; 
+and Frederick C. Robbins" 
+Research Division of Iafectious Diseases, Children's 
+Hospital, and Departmeltts of Bacteriology, 
+Comparative Pathology, and Pediatrics, 
+Harvard Medical School, Boston 
+An extraneural site for the multiplication of the virus 
+of poliomyelitis has been considered by a number of in- 
+vestigators (2, 6). The evidence that this may occur is 
+almost entirely indirect, although recent data indicate 
+that Theiler's mouse encephalomyelitis virus as well as 
+various mouse pathogcnic poliomyelitis-like viruses of un- 
+certain origin may multiply in nonnervous tissue (1,3). 
+Direct attempts by Sabin and Olitsky (4) to demonstrate 
+in vitro multiplication of a monkey-adapted strain of 
+poliomyelitis virus (MV strain) in cultures composed of 
+certain nonnervous tissues failed. They obtained, how- 
+ever, an increase in the agent in fragments of human 
+embryonic brain. 
+Thc general recognition that the virus may be present 
+in the intestinal tract of patients with poliomyelitis and 
+of persons in contact with them emphasizes the desirabil- 
+ity of further investigation of the possibility of extra-
+neural multiplication. Accordingly, experiments with 
+tissue cultures were undertaken to determine whether the 
+1,ansing strain of poliomyelitis virus could be propagated 
+IAided by a grant from the National Foundation for In- 
+fantile Paralysis, Inc. 
+a Post joctorate Byellow of the U. S. Public Health Service. 
+3 Senior Fellow in Virus Diseases of the National Research 
+Conncil. 
+===== PAGE 2 =====
+- - -- 
+-- --- - 
+86 SCIENCE January 28, 1949, Vol. 109 
+in three types of human embryonic tissues. The results 
+are summarized here in a preliminary manner. 
+The technique was essentially the same as that recently 
+described for the cultivation of mumps virus (6). The 
+cultures consisted of tissue fragments suspended in 3 cc 
+of a mixture of balanced salt solution (3 parts) and ox 
+serum ultrafiltrate (1 part). Tissues from embryos of 
+273 to 44 months as well as from a premature infant of 
+7 months' gestation were used. These were: the tissues 
+of the arms and legs (without the large bones), the 
+intestine, and the brain. Each set of cultures included 
+4 or more inoculated with virus, and usually a similar 
+number of uninoculated controls. The primary inoculum 
+consisted of 0.1 cc of a suspension of mouse brain in-
+fected with the Lansing strain of poliomyelitis virus.4 
+The identity of the virus was verified by (a) the char- 
+the fluids removed from the third subculture on the 16th 
+day of cultivation. These fluids, however, on inoculation 
+into mice and monkeys, produced typical paralysis. Ac-
+cordingly, since the mouse LD,, of the original inoculum 
+was it would appear that the increase in virus dur- 
+ing the course of the experiment was at least of the 
+order of 10IVimes. During the 67-day period of cultiva- 
+tion a progressive decrease in mouse infectivity was re-
+corded (Table 1). On the other hand, in the second ex- 
+periment, mentioned above, the calculated increase in 
+virus during a 52-day period is now of the order of lo1" 
+times and no decrease in mouse infectivity has so far 
+been observed. 
+The agent propagated in the first experiment continued 
+to exhibit the principal characteristics of the Lansing 
+strain during the period of cultivation, as indicated by 
+TABLE 1 
+MULTIPLICATION LANSING VIEUSIN PROhI ESTRE~IITIIS IIUWAN E~IRRTOS OR POI~IOMYILITIS TISSUESOBTAIKEU THE OH 
+No. of nutrient fluid 
+Culture set changes prior to 
+subculture 
+Exp. 1 Exp. 2 
+Original* 3 4 
+1st subculturc 2 2 
+2nd subculture 2 4 
+3rd subculture 3 .. 
+Day of incubation Mouse LD, of pooled Ca1cul:ttcd dilution 
+suhculture done fluids used to iuocu- of original inoculum 
+late subcultures at time of subculture 
+- A---- -- - -
+Exp. 1 Exp. 2 Exp. 1 Exp. 2 Exp. 1 Eup. 2 
+20th 20th 10 167 10-6 10-8 
+19th 12th 10-117 10-8 filo20 10-111 10-100 
+12th 20th 10-0~3 10-134 10-12 E 10 102 
+16th .... 10-018 ..... 10-177 ..... 
+* The LD, of the suspension of mouse brain used as the inoculum in the first experiment was 10 2; that of the sus-
+pension employcd in the second experiment was 10-l.O1. 
+acter of the disease it produced in white mice following 
+intracerebral inoculation; and (b) its neutralization by 
+specific antiser~m.~ Subcultures were inoculated with 
+0.1 cc of pooled centrifuged supernatant fluids removed 
+from the previous set of cultures. 
+The procedure of cultivation differed from that usually 
+followed by other workers in that the nutrient fluid was 
+removed as completely as possible and replaced at periods 
+ranging from 4 to 7 days. Subcultures to fresh tissue 
+were prepared at relatively infrequent intervals, ranging 
+from 8 to 20 days. 
+Two experiments have been carried out employing cul- 
+tures composed chiefly of skin, muscle and connective 
+tissue from the arms and legs. The findings in each 
+have been essentia1,ly the same. In the first, a series of 
+cultures has now been maintained for 67 days. During 
+this interval, in addition to the original set, three suc-
+cessive subcultures have been made to fresh tissue and 
+the fluids have been removed and replaced 10 times 
+(Table 1). Assuming that at each change of fluid a 
+dilution of approximately 1:15 was effected and that at 
+the initiation of each set of cultures the inoculum was 
+diluted 30 times, it has been calculated that the 10% sus- 
+pension of infected mouse brain used as the primary 
+inoculum had been diluted approximately 1011 times in 
+'This strain was isolated by Dr. Charles Armstrong and 
+obtained through the courtesy of Dr. S. D. Kramer. 
+6This serum was obtained through the eourtes$ of Dr. 
+Isabel Morgan. It was prepared by hyperimmunization of 
+rhesus monkeys with her strain of the Lansing virus. 
+the following observations: (a) fluids from each set of 
+cultures produced paralysis and death in mice after intm- 
+cerebral inoculation; (b) the agent present in the fluids 
+of the second set of subcultures was neutralized by anti- 
+serum specific for the Lansing strain; (c) following 
+intracerebral inoculation, the fluids from the third set of 
+subcultures produced flaccid paralysis within 7 and 10 
+days, respectively, in two rhesus monkeys. Microscopic 
+examination of the spinal cords of these animals re-
+vealed lesions characteristic of poliomyelitis. 
+Cultures of intestinal tissue were prepared with frag- 
+ments from the entire intestine of human embryos, ex-
+cept in one experiment in which jejunum of a premature 
+infant was used. In the latter, the bacteria were elimi- 
+nated in the majority of cultures by thorough washing 
+of the tissue and by the inclusion in the original nutrient 
+fluid of 100 units/cc of penicillin and of streptomycin. 
+In one experiment with embryonic intestine, which 111-
+eluded two subcultures and 7 changes of nutrient fluid, 
+the calculated dilution of the original inoculum was of 
+the order of 10'3.7 times. On the basis of the mouse 
+LD, of the original inoculum and that of the last super- 
+natant fluid, it was calculated that the virus had in-
+creased about 10Iz7 times. The identity of the agent 
+thus cultivated in intestinal tissue has not yet been con-
+firmed by neutralization tests or monkey inoculation, but 
+it elicits a response in the mouse typical of the Lansing 
+virus. 
+The cultures prepared with intestine of the premature 
+infant have, so far, been maintained 17 days with 3 
+===== PAGE 3 =====
+87 January 28, 1949, Vol. 109 	 SCIENCE 
+changes of nutrient fluid. Virus has bee11 demonstrated, 
+by mouse inoculation, in the fluids removed during the 
+course of the experiment, including that of the 17th day. 
+The calculated multiplication of the virus was approxi-
+mately 10' times. This finding suggests that multiplica- 
+tion occurred in this tissue which, from the embryologic 
+point of view, is more mature. 
+To compare the increase of virus in nervous tissue 
+with that in tissue of the intestine and the ertremities, 
+cultures of embryonic brain were prepared. The multi- 
+plication of the virus in this medium has been comparable 
+to that in the other types. Thus in one evperiment 
+carried out contemporaneously vith the scries of em-
+bryonic intesti~~al cultures mentioned aboce, the cal-
+culated multiplication of virus was of the order of 10'' 
+times. 
+No evidence was obtained which indicated that an 
+agent other than the l~ansing strain of virus was propa- 
+gated in any of the three types of tissue. hfouse in- 
+fectivity tests for the presence of virus ill the super-
+natant fluids of uninoculated control cultures were nega- 
+tive. Aerobic and anaerobic cultures of supernatant 
+fluids yielded no growth of bacteria. 
+On microscopic examination of fragments of the three 
+types of tissue, removed after about 30 days of cnltiva- 
+tion, differences have been observed in cell morphology 
+between those derived from inoculated and uninoculated 
+cultures. Many of the fmgz~ents from uninoculated cnl- 
+tures contained cells which appeared to be viable at the 
+time of fixation, as indicated by the normal staining prop- 
+erties of the nuclei and cytoplasm. In contrast, the 
+nuclei of the majority of the cells in fragments from 
+inoculated cultures showed marked loss of staining prop- 
+erties. Since the amount of material which 11;~s been 
+studied is as yet relatively small, one cannot conclurle 
+that the changes observed in the inoculated cultures wcre 
+caused by the virus.O 
+It would seem, from the experiments described above, 
+that the multiplication of the Lansing strain of polio-
+myelitis virus in the tissues derived from arm or leg, 
+since these do not contain intact neurons, has occurred 
+either in peripheral nerve processes or in cells not of 
+nervous origin. 
+References 
+1. Evnns, C. A,, and CIIA~IBER~, C. 1'1.0~. Soc. esp.V. 
+I$ioZ. wed., 1948, 68, 436. 
+2. 	 EIowm, H. A., and BoDIAN, D. Neural mechal~isms in 
+poZiom?/eZitis. New York : Commonwealth Fund, 1942. 
+1'. 89. 
+3. RTJSTIGIAN, 	 A. M. J. exp. Med., R., and I'APPENHEIMER, 
+1:bl:). 89, 69. 
+4. 	 SARIN,A. B., and OLITSKY,1'. I<. Proc. SOC. esp. BioZ. 
+Med., 1930, 34. 357. 
+5. 	 VAN ROOYEN, C. E., and KIIODES,A. J. Vtrus diseases 
+of man. (2nd ed.) New York: Nelson, 1948. P. 
+939. 
+6. 	 IVELLER, T. H., and ENDERS,.T. F. I'TOC. SOC. emp. Uiol. 
+Xed., 1048, 69. 124. 
+6 We are. indebted to Dr. Duncan Reid and members of the 
+staff of the Boston Lying-in Hospital for providing the hu-
+man embryonic tissues and to Dr. Alwin M. I'appenheimer 
+for the preparation and examination of sections of tissue 
+cnltiire materkrl. 
+Insect Vectors of Phony Peach Disease1 
+William F. Turner 
+United States Department of Agriculture, 
+Agricultural Research Adnzinistration, 
+Bureau of Entomology and Plant Quarantine 
+Phony peach is a virus disease of economic importance 
+in the southeastern United States (1). While the disease 
+attacks other species of the genus Yrunus, its most serious 
+effects result from heavy infections in commercial peach 
+orchards, particularly in the South Atlantic and Gulf 
+Coast States from South Carolina to Louisiana. The dis- 
+ease has causrd the 105s of more than 1,500,000 peach 
+trees during the period from 1929 to 1Y47, inclusive. 
+Since 1936 the Bureau of Entomology and Plant Quar- 
+antine, in cooperation with thc Bureau of Plant Industry, 
+Soils, and Agricultural Engineering, has been conducting 
+research in an effort to find the insect vector, or vectors, 
+of phony peach. Follolving an extensive survey of in-
+sects associated with peach orchards ia areas where the 
+annual disease incideuce was high, in other areas where 
+few new cases occurred each year, and finally, in areas 
+where there appeared to be no local spread, a test pro- 
+gram utilizing the most likely insect suspects was under- 
+taken. 
+Results of the surrey, together with data derived from 
+experimental transmission of the disease, suggested the 
+probability that phony peach was being spread by one or 
+more stem-feeding Cicadellidae (leaf hoppers) belonging 
+to the subfamily Tettigellinae. Although 53 species of 
+insects, includiilg ~r~cmbers of several different families 
+of IIomoptera ;~nd a i~utnber of species of Cydnidae 
+(Hemiptera), hale b(e11 iised in tlansmission tests, most 
+attention for the last four years was given to four species 
+of leaf hoppers. 
+From 1939 through 1944 the work was conducted at 
+Chattanooga with fi!ld-grown peach trees that were un-
+protected from possible natural infection. During the 
+course of these tests three of the experimental trees 
+developed symptoms of the disease. One had been sub- 
+jected to inoculation by Cuerna costalis (F.), one by 
+Graphocep?~ala versuta (Say), and one by Homalodisca 
+triquetra (F.),2 a11 members of our selected group of 
+suspects. One case of phony peach occurred in one of 
+the many check trees that were maintained. 
+In 1945 the work was transferred to Fort Valley, 
+Georgia, where it was necessary to grow the experimental 
+trees in a large screened cage hecause of the certainty of 
+considerable natur:rl spread in unprotected trees. Insects 
+1 The diagrioses on \vhic*h this report is based were n~:idr 
+by Lee M. Hntchins and 1,. C. Cochran of the Bureau of 
+Plant Industry, Soils, and Agriciiltural Engineering, and by 
+L. D. Christenson and William F. Turner, Bureau of Ento-
+mology and I'lant Quarantine, of the United States Depart- 
+ment of Agriculture. 
+aThe leaf hoppers actually used in each of these and all 
+olher tests were identified by P. W. Oman and J. S. Caldwell, 
+Division of Insect Identification, Bureau of Entomology and 
+I'lant Quar;rntine. 

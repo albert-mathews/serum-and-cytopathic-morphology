@@ -1,0 +1,379 @@
+{
+  "EXP_path1_passage4_101.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_103.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_104.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_201.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_202.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_305.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_401.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_406.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_501.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_101.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_201.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_202.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_303.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_307.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_308.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_402.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_405.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_406.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_503.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_504.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_507.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_508.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  }
+}

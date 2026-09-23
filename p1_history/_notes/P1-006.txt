@@ -1,0 +1,966 @@
+
+===== PAGE 1 =====
+TISSUE CULTURE TECHNIQUES AND THEIR APPLICATION TO 
+ORIGINAL ISOLATION, GROWTH, AND ASSAY OF 
+POLIOMYELITIS AND ORPHAN VIRUSES* 
+By Joseph L. Melnick 
+Yale University School of Medicine, New Haven, Conn. 
+The first successful cultivation of poliovirust in tissue culture was accom- 
+plished almost 20 years ago by the use of human embryonic nervous tissue. 
+However, it was the discovery in 1949 by Enders, Weller, and Robbins, that 
+poliovirus can multiply in cultures of nonnervous tissue which led to the present 
+revolution in methodology of virus research. I dare say that most of the data 
+to be discussed in this monograph will have been obtained by the newer tissue- 
+culture methods, for these in vitro methods have proved to be faster, more con- 
+venient, and more accurate than methods involving the inoculation of monkeys 
+or mice. Techniques have been developed for the isolation and antigenic 
+identification of polioviruses from clinical materials, and for the quantitative 
+measurement of neutralizing antibodies. Furthermore, through the use of 
+tissue cultures, complement-fixing antigens of all three viral types have become 
+available. 
+At the present time, details of procedure vary from one laboratory to the 
+next, as may be expected during a stage of rapid evolution. The choice of 
+methods is often dictated by local supply of suitable tissues and other ma- 
+terials, although recent success with shipping susceptible cells from one conti- 
+nent to another has made the local availability of tissue less of a problem. A 
+number of arti~lesl-~ have reviewed the early phases of tissue culture methodol- 
+ogy that dealt with cultures of suspended fragments of tissues: roller-tube cul- 
+tures with tissue fragments fixed to the vessel wall by a plasma clot,6 sta- 
+tionary-tube cultures with tissue fragments made to adhere to the glass surface 
+by preheating the vessel,E and susceptibility of cultures prepared from im- 
+munized animals.' These methods will not be discussed here, nor will the 
+HeLa culture technique be described, for this method has been reviewed in 
+detail by Syverton and Scherer.* Rather, I shall bring to your attention 
+certain more recently developed procedures and attendant problems. The 
+present discussion will deal with: (1) methods of preparing trypsinized sus- 
+pensions of monkey kidney cells and their subsequent growth in cultures; 
+(2) multiplication of virus in such cultures; and (3) the use of tissue cultures in 
+the isolation of poliomyelitis and orphan viruses from clinical specimens. 
+Part 1. Recent Developments in Tissue Culture Techniques 
+Dulbecco and VogtB have reintroduced the Rous- Jones trypsinization pro- 
+cedure for obtaining cells directly from minced tissue and growing them on glass 
+* Aided by a grant from the National Foundation for Infantile Paralysis, Inc., New York, N. Y. 
+t The term )oliwirws is used here upon the recommendation of the Virus Subcommittee of the International Nomenclature Committee of the International Congress of Microbiology. The binomial of the virus of human 
+poliomyelitis is given as Poliovirrts homimis. 
+754 
+===== PAGE 2 =====
+Melnick : Poliomyelitis and Orphan Viruses 755 
+surfaces in the absence of a plasma clot. Cell suspensions prepared from 
+kidney tissue produce luxuriant monolayer cultures on any clean glass surface 
+in such containers as Petri dishes, test tubes, or bottles held in the stationary 
+position. The method has been improved and made more quantitative by 
+Youngner.'" More recently, Catherine Rappaport,lI working in New Haven, 
+has been systematically investigating the procedure, with the result that the 
+yield of cells per kidney has been increased by two to three times, and the 
+cell suspension stabilized so that it can withstand shipping long distances, as 
+from Bombay, India, to New Haven, Conn. 
+The revised procedure uses a specially designed flask (FIGURE 1) which 
+permits the use of a magnetic stirrer and has proved to be more convenient 
+than the Waring blendor. The sides of a 500-ml. Erlenmeyer flask have been 
+indented to increase the turbulence and cavitation during stirring, and a glass 
+filter and outflow tube have been built into the bottom of the flask. After a 
+preliminary incubation of one hour with prewarmed trypsin, warm trypsin is 
+allowed to flow dropwise through the mixing chamber, exhausting the kidney 
+fragments of their cells in a few hours. The 
+entire operation is automatic and takes place in a closed system. The tryp- 
+sinization fluids flow into a bottle held in an ice-water bath, and the cells are 
+collected by centrifuging at 200 rpm (11 times gravity) for 30 minutes. The 
+force of centrifugation is critical, for higher speeds, even for short periods, have 
+been found to destroy 30 to 60 per cent of the cells. About three ml. of packed 
+cells are obtained per kidney. The trypsin is removed by aspiration, and 
+the cells are resuspended in prewarmed growth medium. An average yield of 
+1 to 5 x lox cells are obtained per kidney. 
+Rappaport found that freshly trypsinized kidney cells liberate a heat labile 
+cytotoxic material, to the detriment of the culture. Thus, as shown in FIGURE 
+2, within hours after the cells are held at 37" C., the cell count begins to drop, 
+reaching a minimum 24 hours later with only about 10 per cent of cells remain- 
+ing, a finding which agrees with Youngner's recent report.'O Concomitantly 
+with the decrease in the cell population, the cytotoxin increases in concentra- 
+tion. The amount formed is a function of the number of cells and the result 
+of active metabolism. It is not produced in measurable amounts in media that 
+do not support cellular growth and multiplication. In such deficient media, 
+no cytotoxin is produced, even though cellular disintegration may be complete 
+in 12 hours. 
+The cytotoxin is readily assayed by its action on 24-hour cultures, for it 
+lyses the cells of such cultures in an hour or two. Cytotoxin is produced 
+spontaneously in young cultures, but not in cultures which are about a week old 
+and have grown into sheets of epithelial cells. If inoculated into old cultures, 
+however, cytotoxin is produced and can be carried in series. The material is 
+inactivated by heating at 60' C. for 30 minutes. 
+We have not determined whether cytotoxin is synthesized normally in cells 
+and liberated by cytotoxin-induced lysis, or whether cytotoxin actually induces 
+its own synthesis, as in the case of the classic infectious agents. Inoculation of 
+the cytotoxin into monkey kidneys in vivo failed to produce any disease and, 
+Trypsin is led in from a reservoir. 
+===== PAGE 3 =====
+FIOUEE 1. A paratus for the automatic trypsinization of monkey kidney. Warm trypsin is siphoned into 
+the Bask in whicgmixing takes place hy means of a magnetic stirrer. The turning of the stirrer keeps the tissue 
+fragments from clogging the pores in the glass filter built into the bottom of the flask. The cell suspension flows 
+into a reservoir held in an ice-water bath. 
+756 
+===== PAGE 4 =====
+Melnick : Poliomyelitis and Orphan Viruses 757 
+a few weeks after inoculation, the kidneys of the animals were removed and 
+found apparently normal. At least, they produced normal cultures. 
+Cells will grow in a variety of media, ranging from those that con- 
+tain natural ingredients such as embryo extracts, amniotic fluid, and Serum 
+to those which contain complex synthetic mixtures such as No, 199 fortified 
+by serum or proteins derived from it.'* For use with trypsinized cells, we have 
+developed an inexpensive medium which is simple to prepare. It consists of 
+0.5 per cent lactalbumin enzymatic hydrolysate, 2 per cent calf serum, and 
+97.5 per cent Hank's salt solution (containing only half-strength NaHC03). The 
+following antibiotics are incorporated into the medium at the concentrations 
+per ml. indicated: tetracyclin, 25 pg.; penicillin, 100 units; streptomycin, 100 
+pg.; and rimocidin, 10 pg. 
+Test-tube cultures are seeded with 200,000 cells contained in a volume of 
+0.5 ml. The tubes are then held stationary at a slight incline at 37" C. In 
+about four days, epithelial sheets form and the pH begins to fall. At this 
+time, the culture fluid is replaced with one ml. of the lactalbumin medium, 
+Media. 
+40 
+VIABILITY AND TM PRODUCTION 
+DURING FIRST 24 HWRS 
+30 
+X 
+c) 
+.2+ .c 
+f 
+I 
+E 
+t. 
+V Vlablr 
+.2. 
+0 2 4 6 8 10 12 14 I6 I@ 20 22 24 
+Hourr at 37' 
+FIGURE 2. Decrease in cell count and viability is associated with a rise in concentration of the toxic material 
+(TM), when the cell suspension is held at a concentration of 1 X 10' per ml. After the cells are held at 37" C.. 
+the TM which forms must he removed for optimal growth of the cells which remain viable. The optimal con- 
+centration for growth was found to be 0.5 X 108 cells per ml. After centrifugation the TM is removed with the 
+su ernatant hid. If this is done after an incubation period of several hours and the cells are resuspended in 
+hayf the original volume the cell concentration is less than o timal and growth in epithelial sheets is delayed. 
+If, however, the cells ar; brought to 0.5 X 106 per ml., growti is a; rapid and luxuriant as with the original 
+suspension. Data obtained by Catherine Rappaport. 
+===== PAGE 5 =====
+758 Annals New York Academy of Sciences 
+in which the more highly buffered Earle's solution is substituted for Hanks'. 
+Such cultures have a useful lifespan of about two weeks, without any further 
+change of the fluid phase. 
+Youngner has reported that the viability of cell suspensions is retained at 
+a usable level for at least two days beyond the day of preparation, when kept 
+at 4" C. in medium 199 to which 2 per cent horse serum has been added. In 
+our experience, we have found that cells retain their viability, with lit.tle 
+loss in number, for at least five days when kept at 0' C. in our 0.5 per cent 
+lactalbumin hydrolysate medium to which 4 per cent calf serum has been 
+added. Some suspensions have produced useful cultures after storage for over 
+two weeks. This has enabled us to set up a cooperative experiment with 
+Doctors Dushyant Banker and Pravin Bhatt of the Seth G. S. Medical College 
+in Bombay, India. Using methods that were outlined to them in corre- 
+spondence, these workers have been sending us weekly shipments of trypsinized 
+cells. The refrigerated suspensions have been sent by air, arriving in the 
+United States two days after being dispatched from Bombay. As shown in 
+TABLE 1, the cell counts in New Haven do not vary markedly from those 
+made on the suspensions before leaving Bombay. In New Haven, the cells 
+have produced satisfactory culture tubes and bottles, which have responded 
+to poliovirus as quantitatively, and have produced complement-fixation anti- 
+gens as readily as cultures made from locally prepared cell suspensions. 
+Although there have been no reports as yet on the serial propagation of 
+monkey kidney cells in nitro, efforts have been made in this direction, and I 
+know that we have not been alone in these efforts. It is not difficult to carry 
+kidney cells for two or even three serial transfers but in our hands, beyond this 
+TABLE 1 
+UTILIZATION IN NEW HAVEN OF CELL SUSPENSIONS PREPARED IN BOMBAY 
+Lot number 
+Cell count in miUions per ml. 
+In Bombay In New Haven 
+4 
+4 
+4 
+5 
+5 
+6A 
+6B 
+6C 
+6C 
+7A 
+IB 7c 
+8A 
+8B 
+8C 
+0.6 
+0.6 
+0.6 
+0.6 
+0.6 
+0.6 
+1.2 
+2.4 
+2.4 
+0.6 
+1.2 
+2.4 
+0.6 
+1.2 
+2.4 
+0.6 
+0.6 
+0.3 
+0.2 
+0.3 
+0.9 
+1.7 
+0.6 
+0.5 
+1 .o 
+2.2 
+0.5 
+0.9 
+1.7 
+ays' of storage at 0°C 
+4 
+8 
+11 
+4 
+8 
+5 
+5 
+5 
+9 
+5 
+5 
+5 
+5 
+5 
+5 
+Dayst of 
+incubation 
+5 
+5 
+6 
+5 
+6 
+5 
+5 
+5 
+7 
+7 
+7 
+5 
+5 
+5 
+5 
+. Days after trypsinization that cells were stored, including the time of transit on ice. Cells were recounted 
+on the day they were used for seeding cultures. From 0.2 to 0.3 X 106 cells were used to seed culture tubes, and 
+1.5 to 2.0 X 10' cells for Roux bottles. 
+t Days of incubation necessary to form epithelial sheet after cultures were seeded. 
+===== PAGE 6 =====
+Melnick : Poliomyelitis and Orphan Viruses 759 
+Try psin 
+37" c 
+15-30 mins. 
+Cell Deposit 
+Diluted 
+Stand 15 mins. CELL SHEET 
+Cell Suspension Counted 
+and Diluted CELL FLAKES 
+. .. DISPERSED 
+.. .. .. 
+FINAL 
+CELL SUSPENSION 
+FIGURE 3. Preparation of suspension of second or third transfer cells from culture of monkey kidney grown in 
+a Roux tlask. The cells come loose as small flakes and quickly settle so that centrifugation is unnecessary. 
+point, cultures have quickly lost their viability. Even so, second transfer 
+kidney cells offer certain advantages for the virus laboratory, as already shown 
+by Dulbecco and Vogt. 
+A one-week-old 
+primary culture in a Roux flask contains about lo7 cells. The fluid phase of 
+such a culture is replaced with 40 ml. of 0.25 per cent trypsin in phosphate- 
+buffered saline (prewarmed to 37" C). Within 15 to 30 minutes, the epithelial 
+sheet comes loose as small flakes. The trypsin, plus flakes from a number of 
+bottles, is poured into a conical vessel and allowed to stand until the flakes 
+settle to the bottom (about 15 minutes). The bulk of the trypsin solution 
+is removed and the flakes are transferred to a conical graduated centrifuge tube 
+and allowed to settle for 30 minutes. This permits an accurate measurement of 
+cell volume and also the removal of most of the trypsin solution. Twenty 
+volumes of lactalbumin-calf serum medium are added, and the flakes dispersed 
+by drawing into, and ejecting from, a pipette or a 20-ml. syringe equipped with 
+They may readily be prepared" as illustrated in FIGURE 3. 
+===== PAGE 7 =====
+760 Annals New York Academy of Sciences 
+an 18-gauge needle 4 or 5 times, or until the appearance of the suspension sug- 
+gests that few large cell clumps remain. An aliquot of the cell suspension is 
+stained with two volumes of 0.1 per cent crystal violet inO.l M. citric acid, and 
+counted in a hemocytometer. For use in seeding cultures where an epithelial 
+sheet is desired in 24 hours, the suspension is diluted to give 150,OOO cells per 
+0.5 ml., the volume used for seeding. For use in the colorimetric test of Salk, 
+Ward, and Youngner,'* 40,000 cells per 0.25 ml. volume are sufficient for addi- 
+tion to each tube.* 
+Second-passage cells have a greater viability than primary cells and, because 
+little loss occurs during the first day of incubation, they can be employed at 
+smaller concentrations. One further advantage is that second-passage cells 
+may be stored in the lactalbumin-calf serum medium at 4" C. for several days 
+with no apparent production of cytotoxic material. 
+Before leaving this section of the paper dealing with tissue-culture techniques, 
+I should like to call attention to two significant advances which have recently 
+been made, First, ChangI4 has grown epithelial cells derived from normal 
+human tissues (conjunctiva, liver, kidney, appendix), and has made con- 
+tinuous subcultures by trypsinizing the parent cultures and cultivating the 
+subcultures in human serum. The cell lines proved to be susceptible to 
+poliovirus. 
+Second, Scherer and Hooga~ian'~ found that HeLa cells may be preserved 
+for at least seven months at -60" to -70" C. if 20 per cent glycerol is added 
+to the suspending medium. Thus, the cell line may be stored frozen when 
+it is not needed in the laboratory and, in addition, cells of the same passage level 
+may be obtained for use in different experiments. 
+Part 2. Growth of Established Strains of Poliovirus in Tissue Cullwe 
+Poliovirus grows in susceptible cells in fashion similar to the multiplication 
+of phage in bacteria. First, the virus particles are adsorbed to the cells. A 
+latent period follows in which the amount of virus in the culture fluid remains 
+constant for a few hours, and then new virus particles are released from the in- 
+fected cells. If the number of virus particles inoculated is insufficient to infect 
+all the cells in the culture, the process is repeated until all the susceptible cells 
+are infected. Regardless of the size of the inoculum, the total amount of virus 
+produced by the cultures having the same number of cells is the same. This is 
+illustrated in FIGURE 4. Two sets of identical cultures were inoculated with lo2 
+and lo6 TC60 doses of Brunhilde virus. The cultures receiving the large dose 
+produced their maximum yield of virus in 24 hours, while 48 hours were re- 
+quired for the second set of cultures. Both sets of cultures, however, produced 
+the same amount of virus, which failed to increase after the second day. 
+Others in this monograph will discuss the one-step growth curve of poliovirus 
+* Passage cells may also be prepared without the use of trypsin. A chelating agent, sodium versenate, is used for dis rsing the cellular monolayer of the primary culture in a Roux bottle. The nutrient fluid is removed and the elrare washed once with rewarmed salt solution (per liter: NaCI 6 gm: KCI 0.2 grn: NazHPOl 1.15 gm.; 
+KHzPO4 0.2 gm.). To the ceis are then added 25 ml. of prewarmed !:SO00 bersene mad; up in the'same salt 
+solution knd sterilized by autoclaving. The culture bottles are incubated at 37' C. for 30 minutes, and then 75 
+ml. of lactalbumin growth medium is added to each bottle to yield a cell concentration of about 200,000 per ml. 
+The cells from several bottlesare pooled and may be stored kor severaldays in the cold before use. No centrifuga- 
+tion is necessary. 
+===== PAGE 8 =====
+Melnick: Poliomyelitis and Orphan Viruses 761 
+in tissue culture cells-even in a single isolated cell-where the plaque technique 
+has been applied with great success. I should merely point out here that data 
+obtained by Howes and Reissig on the WS type I strain, shown in FIGURE 5, 
+indicate that intracellular virus may not leave the cell as soon as it is formed." 
+After the adsorption and lag phases, new virus made its appearance. For a 
+period of a few hours, however, the amount of new virus associated with 
+infected cells was greater than that found free in the extracellular fluid. 
+As is well known, poliovirus is now being produced in monkey kidney cultures 
+in quantities sufficiently large for the commercial production of a vaccine. It 
+is not my purpose, however, to discuss any such large-scale production of virus. 
+Papers from Rhodes' and Salk's l2 have recently appeared, deal- 
+ing with the growth of virus in bulk cultures of suspended tissue fragments or of 
+trypsinized cells. For the production of virus in amounts sufficient for most 
+university laboratories, cultures in one-liter Roux flasks, or other flat-sided 
+bottles of similar size, are recommended. As Miller'' has shown, they are con- 
+venient to manage, and, when used for kidney monolayer cultures, the lo7 
+cells that they each contain can be infected and made to release their virus 
+into a volume of 30 ml. 
+The passage history of a virus strain may influence the extent of its growth in 
+different types of cells. It was anticipated by the Organizing Committee of 
+the conference on which this monograph is based that the reaction of virus in 
+different kinds of cells would be an important area of discussion and furnish 
+TIME IN HOURS 
+FIGURE 4. Yield of virus from cultures having the same numbe,r of cells but inoculated with two doses of virus differing by 1000-fold in concentration. The total amount of virus produced was the same in each culture. 
+
+===== PAGE 9 =====
+762 Annals New York Academy of Sciences 
+important leads for future investigation. As an example, the data in TABLE 2 
+show the differences in growth found in New Haven when monkey kidney 
+adapted viruses were aitrated in kidney and in HeLa cultures. These data 
+also show the subsequent increase in susceptibility of HeLa cells that occurred 
+after serial passage of the virus in such cells. The HeLa cultures used in 
+these experiments were obtained from Microbiological Associates, Inc., Be- 
+thesda, Md., a point dealt with by Doctor Scherer elsewhere in this monograph. 
+Morphological changes. When poliovirus multiplies in tissue culture, it 
+exerts a destructive action on the cells. Indeed, it was this cytopathogenic 
+activity of the virus which led Enders el al. to develop the first rapid method 
+for titrating poliovirus. From their experiments with fluorophenylalanine, 
+Ackermann et aZ.ls hold that, in HeLa cells at least, the cytopathogenic action 
+of the virus can occur independently of viral multiplication. This is almost 
+the reverse of the situation which we observed when Lansing virus multiplied 
+in monkey testicular fibroblasts with little evidence of cytopath~genicity.'~ 
+It should be pointed out that this line of Lansing virus has shown other evi- 
+dence of low virulence for nonneural tissues, In contrast to the homotypic 
+Y-SK strain, it failed to induce antibody formation in orally infected cynomol- 
+gus monkeys.2O The Lansing strain has also been shown to differ from other 
+homotypic strains (Y-SK and MEFI) by its greater therm0lability.3~ 
+8- 
+7- 
+0 
+J LL 
+- a 
+. 6- 
+i 
+t 5- 
+z 4. 
+K 
+a w 
+LI 
+3 
+3' 
+LI W 
+2' 
+TYPE I - WS 
+I I I I 1 I I I I I 1 
+4 8 12 16 u) 24 28 32 36 40 0 
+TIME IN HOURS 
+FIGURE 5. Concentration of virus in cells and in the extracellular fluid phase after introduction of virus into 
+the culture. The cells were washed, disrupted, and then diluted to the same volume as the fluid phase of the 
+culture. Virus appears to be associated with cells in high titer before it builds up in concentration in the fluid 
+phase. Data obtained by David Howes. 
+===== PAGE 10 =====
+Melnick : Poliomyelitis and Orphan Viruses 763 
+TABLE 2 
+ADAPTATION OF MONKEY KIDNEY PASSAGED VIRUS TO HELA CULTURES 
+Passages in 
+monkey TC Strain 
+I 
+I1 
+I11 
+Passages in 
+HrLa 
+* Negative logari 
+0 
+Leon 
+I l4 
+im of titer per ml. 
+Titer' of TC fluid in: 
+HeLa 
+4.8 
+5.5 
+4.0 
+6.0 
+5.0 
+6.5 
+Monkey 
+kidney 
+6.5 
+7.0 
+6.5 
+7 .O 
+8.0 
+6.3 
+Usually, cytopathic changes can be correlated with the extent of virus growth. 
+The photomicrographs in FIGURES 6 through 9, taken by Doctor Magdalena 
+Reissig under the phase microscope, show the evolution of the lesion. Swelling 
+of the cells begins a few hours after virus inoculation, and this swelling is ac- 
+companied by marked vacuolization of the cytoplasm and shrinkage of the 
+nucleus. There is apparent condensation of basophilic material about the 
+inner surface of the nuclear membrane. Doctor Reissig has found that one or 
+more eosinophilic inclusion bodies are usually present in the nucleus at this 
+stage, Later in the infection, the cells become rounded, acquiring an appear- 
+ance which characterizes the cytopathogenic effect of poliovirus in tissue 
+cultures, as usually observed. At this stage, large vacuoles are present in the 
+cytoplasm. As shown in FIGURE 9, they are readily seen in living cells under 
+the phase microscope, as well as in stained preparations. A marked increase in 
+the basophilia of the peripheral zone of the cytoplasm is also observed at this 
+time. Nucleoli persist until the late stages, when the nuclei become markedly 
+pyknotic and eccentric and their internal structure can no longer be dis- 
+tinguished. Ultrathin sections of such cells have been prepared by a method 
+recently described2* and are being studied in the electron microscope, but the 
+results are too preliminary to warrant discussion here. 
+Purl 3. Assay of Virus 
+With the exception of the elegant plaque assay method, which will be dis- 
+cussed by Doctor Dulbecco, the method of titrating poliovirus in tissue culture, 
+as in animals, consists of arriving at the 50 per cent end point of infectivity. 
+This is done by inoculating serial dilutions of the virus in the range where all 
+cultures become infected to one where none becomes infected. The end points 
+are determined by the method of Reed-Muench or, more simply and with no 
+loss in accuracy, by the method of Kaerber. By increasing the number of 
+cultures at each dilution, the error of the titration end point is reduced. A 
+convenient number which gives reasonably reproducible results is four cultures 
+at each half log dilution. As different workers may use different volumes of 
+inoculum in their titration series, it would make for uniformity if all expressed 
+their results in the same fashion, namely as the titer per ml. of original fluid. 
+===== PAGE 11 =====
+764 Annals New York Academy of Sciences 
+FIGURE 6. Cells from a monolayer culture of monkey kidney epithelium. Uninoculated control. X410. 
+This photomicrograph, as well as those in FIGUPES 7, 8, and 9, were taken under the phase microscope by 
+Magdalena Reissig. 
+FIGURE 7. Similar culture after inoculation with type 3 poliovirus Saukett strain. Earl cellular changes 
+are seen. The cells have begun to swell and have characteristic threadlike rolongations of tXkir cytoplasm and 
+slightly distorted nuclei. The rounded cells are in a more advanced stage orinfection. X330. 
+FIGURE 8. Full-blown infection. The cells are rounded and vacuoles can be seen in their cytoplasm. 
+Masses of granular material are present in the central zone of the cytoplasm. The cell in the center of the field 
+exhibits a considerably shrunken nucleus. X450. 
+FIGURE 9. Final stages of the infectious process. Virus in the fluid phase of tissue culture reaches its maxi- 
+mum titer when the cells reach this state. The peripheral zone of the cytoplasm contains numerous large clear 
+vacuoles with charply defined edges. The granular material is concentrated in the central zone and masks the 
+nucleus. X330. 
+
+===== PAGE 12 =====
+Melnick : Poliomyelitis and Orphan Viruses 765 
+Another variable which occurs from one laboratory to the next is the use of 
+animal sera in culture fluids. Many animal sera may inhibit the growth 
+of poliovirus, and care must be exercised that such sera are not present in the 
+culture when virus is added for assay. 
+The methods of assaying infectivity are based on the quantitative measure- 
+ment of the destruction of cells by poliovirus, as outlined in the classical paper 
+published in 1950 by Robbins, Enders, and Weller.22 In the cytopathogenic 
+test, the destruction of cells is followed microscopically. In the pH-differential 
+test, use is made of the fact that infected cells fail to maintain their metabolic 
+rate. Metabolism is measured by acid production, and a change in color of 
+the phenol red indicator from red to yellow occurs in normal cultures, but not in 
+infected cultures. Salk, Youngner, and Ward13 have shown that this color 
+test can be used with monkey kidney cell suspensions containing a known 
+amount of cells to permit a much higher degree of quantitation, and others have 
+since adapted the color test for virus assay, using suspensions of HeLa cells. 
+The color testI3 is being used in a number of laboratories where it is proving 
+to be a tremendous time saver. Because it is discussed in detail in connection 
+with the neutralization test elsewhere in this monograph, I shall mention only 
+the slight modifications of the technique now in use in New Haven. 
+First; we have been able to carry out the tests without the complex medium 
+199. The lactalbumin hydrolysate-calf serum medium has proved a simple 
+and satisfactory replacement. 
+Second; if second-passage monkey kidney cells are used, as discussed earlier 
+in this paper, the concentration of cells per culture tube may be reduced from 
+300,000 to 50,000, or even less. 
+Third; the disposable plastic panel that M~Lean~~ introduced into the 
+poliomyelitis laboratory can be employed here to advantage. This panel, 
+made of a styrene or vinyl plastic, contains 96 cups in rows of 8 X 12. It is 
+clean and ready for use as it comes from the manufacturer.? Sterilization is 
+easily accomplished by immersion in an alcohol bath and exposure to ultra- 
+violet light. The use of plastic panels eliminates the need not only for test 
+tubes but also for rubber stoppers, for the panel cups may be sealed in rows 
+with coated cellophane tape. Cells settle and grow on the plastic as well as 
+they do on glass. After the test is read, the panels are autoclaved and dis- 
+carded. If an excessive number of cells has been added to the cups, metabolism 
+may proceed to such an extent that the pH falls before virus has multiplied. 
+A satisfactory titration reading, however, can readily be obtained with the 
+plastic panels if, on the fourth day of incubation, the cellophane sheet over each 
+cup is pierced with a sterile hot needle, the C02 allowed to escape so that the 
+indicator becomes red once more, the cups resealed with cellophane tape, and 
+the panel reincubated for one to two days. The division between yellow cups 
+containing viable cells and red cups containing cells killed by virus action 
+becomes clearly evident. 
+McLean34 has found that the virus-containing cultures may be “sealed” 
+by a layer of mineral oil, and this finding has been confirmed by Opton.” Be- 
+t Linbro Cbemical Co., New Haven, Conn 
+===== PAGE 13 =====
+766 Annals New York Academy of Sciences 
+cause COz passes slowly through the oil, phenol red will turn yellow only when 
+cellular metabolism is vigorous and the rate of COZ production exceeds that 
+of C02 loss. If the cells are in excess, so that they grow faster than the in- 
+oculated virus can destroy them, the phenol red will turn yellow. If virus is 
+present, however, it multiplies to such a level in a few days that all cells are 
+killed. The C02 in the culture is now in negative balance, and more does not 
+form to replace that which leaks through the oil. This is indicated by the 
+color of the culture, which reverts to red.* 
+Part 4. Isolation of Virus 
+Methods for the isolation of poliovirus may differ in detail from one labora- 
+tory to another, but the same basis underlies them all; namely, after the addi- 
+tion of the clinical specimen to the tissue culture, there is liberated into the 
+fluid phase an infectious cytopathogenic agent which is identified as poliovirus 
+by its reaction with type-specific sera. Although poliovirus is sometimes 
+sought in specimens free of bacteria (as in spinal cord or cerebrospinal fluid), 
+the usual specimens consist of heavily contaminated stools. The removal or 
+inactivation of bacteria is required before such samples can be inoculated into 
+tissue cultures. The problem of cleaning up the specimen is not markedly dif- 
+ferent from that which we faced when intracerebral inoculation of monkeys 
+was the method of choice, and the procedures worked out for monkeys23 have 
+been applied to preparing specimens for tissue culture inoculation. The pro- 
+cedures for virus isolation can be made more sensitive by concentrating the 
+virus present by ultracentrifugation, which at the same time frees it from 
+offending bacteria and certain other toxic substances. For routine purposes of 
+isolation of virus from patients or carriers, it is sufficient to make a 10 to 20 
+per cent suspension of stools, centrifuge at 3000 rpm for 60 minutes, and add 
+antibiotics (penicillin, 500 units, and streptomycin, 0.5 mg per ml.) to the 
+supernatant fluid before inoculation of the cultures. Syverton and Scherers 
+recommend suspending the stools in water containing 20 mg. phenol red per 
+liter to avoid specimens with abnormal and cytotoxic hydrogen ion concentra- 
+tions. 
+Comparative studies have demonstrated that epithelial monolayer cultures 
+from monkey kidneys are more sensitive for primary isolation of virus than 
+suspended fragments of kidney tissue or of fibroblast’ cultures from monkey 
+testis.3s- 36 Another advantage of kidney epithelial cells is their greater resis- 
+tance to fecal toxins. In addition to our studies, Wenner and Miller” have re- 
+ported a series of experiments in which, for primary isolation of poliovirus, 
+monkey kidney epithelial cultures proved superior to testicular cultures and 
+also to HeLa cultures with which they were compared. Other papers in this 
+monograph refer to the comparative susceptibility of human and monkey cells. 
+Studies of materials collected from the same patients and family contacts 
+have shown that poliovirus can be isolated at about twice the frequency from 
+* Salk reported at the conference on which this monograph is based that tubes may also be sealed with oil 
+rs. He speculated that the reversion of the culture from yellow to red was the result rather than rubber stop 
+of the formation of an agaline substance by the virus-infected cells. 
+===== PAGE 14 =====
+Melnick : Poliomyelitis and Orphan Viruses 767 
+stools as from rectal swabs. While many individuals yielded positive stools but 
+negative swabs, the reverse situation was a rare occurrence. 
+I shall not take time here to present the comparative experiments which 
+led to the procedure which we now use. Suffice it to say that the highest per- 
+centage of virus isolations were obtained with a procedure which, more or less, 
+is like that which Enders first recommended : 
+Five culture tubes are used for each specimen. The fluid phase is removed 
+and replaced with one ml. of the stool extract. Adsorption of the virus is 
+allowed to proceed for 90 minutes at 37" C., after which the fecal extract is re- 
+moved and replaced with 1 ml. of fresh lactalbumin hydrolysate medium in 
+Earle's solution. The cultures are observed on the 2nd, 4th, 7th and 10th days 
+for cytopathic changes induced by the presence of the virus. Fluid is har- 
+vested when these changes appear, and it is tested for the presence of poliovirus 
+by its reaction with type-specific antisera. 
+Typing by immune sera of any cytopathogenic agent which may be isolated 
+is essential for its identification. This may be done by neutralization or by 
+complement-fixation tests. For complete characterization of an agent, box 
+titrations may be necessary, but this is not a practical typing procedure, par- 
+ticularly in the neutralization test. A procedure which gives satisfactory 
+results is the following: 
+A 1 : 10 dilution of fluid harvested from cultures manifesting cytopathic 
+changes provides the virus for typing. Type-specific antisera are used at a 1 : 5 
+dilution. These sera, prepared by hyperimmunization of monkeys, should have 
+titers of over 1: lo00 against 100 TCs doses of virus. To 0.2 ml. of each serum 
+dilution in separate tubes is added an equal quantity of the virus dilution. 
+The tubes are shaken, incubated for one hour at room temperature, and 0.1 
+ml. of each mixture inoculated into two culture tubes. The cultures are 
+incubated at 37' C. in a stationary position until read on the third and sixth 
+days. The virus is identified in accordance with the type-specific serum which 
+neutralizes its cytopathogenic property. If a virus is not neutralized by any 
+of the three antisera, it must be tested further before being placed with the 
+orphan viruses.24 High titer poliovirus may break through its homologous 
+antiserum or, in very rare instances, two poliovirus types may be present in 
+the same specimen. Therefore, the virus must be tested in small doses against 
+the three prototype sera alone and in combination. If it is still not neutralized, 
+then it may be placed tentatively with the orphans (see Part 5 below) until 
+identified further. 
+Isolation and typing may be accomplished in one step, and this procedure is 
+the most rapid for typing viruses in clinical specimens. The stool suspension 
+is mixed with equal volumes of 1:lO dilutions of each of the three prototype 
+antisera, and after a one-hour incubation period, 0.2 ml. of each mixture is 
+then inoculated into each of two or more culture tubes. The virus type is iden- 
+tified at the time of its primary isolation, for degeneration is observed is the 
+tubes containing the heterotypic sera, but not in the tubes containing the 
+homotypic serum. By this technique, virus has at times been isolated and 
+typed within 48 hours. 
+===== PAGE 15 =====
+768 Annals New York Academy of Sciences 
+DISTRIMION OF TITERS 
+M)OOOOQQOOOO 
+240 
+I20 
+60 
+TYPE I 30 
+15 
+ANTIQEN 
+f 
+0 
+E 
+-I- = 
+240 
+60 
+TYPE Ill 
+ANTlaEN 30 
+15 
+KEY: 
+0 NEW CNOLAND 
+0 CAIRO f 
+0 
+FIGURE 10. Distribution of C-F titers of three standard monkey immune sera tested against 34 type I strains 
+isolated from New England specimens and 7 from Cairo (top half of chart) and against 16 type 111 strains from 
+New England and 3 from Cairo (bottom half). Type I and 111 strains shdw a high frequency of cross reactions 
+with type I1 serum proved to be type specific b neutralization tests. Each of the 60 strains tested was found 
+to be monovalent in the neutralization test usedrfor typing. The Cairo strains were kindly supplied by Doctor 
+Horstmann. 
+Polioviruses may also be typed by employing them as antigens, at concen- 
+trations of four to eight units, in the complement-fixation reaction against 
+standardized prototype antisera.26 By using the plate technique, in which 
+the amount of complement fixed at each dilution of antigen and serum is meas- 
+ured, antigenic variations have been found within types shown to be monotypic 
+by the neutralization The degree of C-F crossing varied from strain 
+to strain when tested with monkey immune sera shown to be homotypic with 
+prototype Brunhilde, Y-SK, and Leon strains. As shown in FIGURE 10, certain 
+type I strains failed to react with type I1 or type 111 serum, while others ex- 
+hibited some crossings with Type I1 serum, and two with both types I1 and I11 
+at the serum dilutions indicated. In similar fashion, type I11 strains were 
+either monotypic or showed crossings with type I1 serum. 
+===== PAGE 16 =====
+Melnick : Poliomyelitis and Orphan Viruses 
+Part 5. Orphan Viruses 
+Mention has been made of cytopathogenic agents other than poliovirus 
+that may be isolated by tissue-culture techniques. Because this is the only 
+paper in this monograph dealing specifically with problems of poliovirus isola- 
+tion, I shall say a few words about these agents, which have been encountered 
+unexpectedly in these procedures. Because we know so little about the 
+diseases to which they belong, we have provisionally called them orphan 
+viruses?6 These agents have been isolated both at home and abroad. In 
+this country, they have been isolated chiefly from the stools of patients with 
+aseptic meningiti~~’-~~ or from normal children during the summer and 38 
+In Egypt, they were isolated in 195131 and especially in 1952a2 from a large num- 
+ber of young children. 
+Hidden among the orphan viruses may be some etiological agents that cause 
+known, or poorly defined, clinical diseases. Among them may be the viruses 
+of aseptic meningitis, enteritis, hepatitis, and perhaps even type IV Foliovirus. 
+Certain orphan viruses have been found to belong to the Coxsackie group, by 
+serologic identification or when the fluids of infected cultures are tested in 
+infant mice and produce typical Coxsackie signs and histopathology. The 
+problem is complicated by the fact that one such agent required 11 passages in 
+tissue culture before it produced disease in infant mice. The mouse agent 
+produced serum which neutralized the tissue culture agent at a passage stage 
+when it was without pathogenicity for mice. Similarly, the early tissue 
+culture passaged material produced an immune serum in the monkey that 
+neutralized the murine agent subsequently derived from the tissue culture virus. 
+In any case, as shown in TABLE 3, the orphan viruses fall into at least four 
+antigenically distinct types. The prototype strains are not neutralized by 
+any of the three poliomyelitis antisera or the 15 Coxsackie immune sera against 
+which they have been tested. Complement-fixing antigens are released into 
+tissue culture fluids when the orphan viruses are cultivated in monkey-kidney 
+epithelium. When tested against monkey-immune sera, the reactions were as 
+specific for each type as found in the neutralization tests shown in the table. 
+The sizes of the prototype orphan viruses have been measured by ultrafil- 
+769 
+TABLE 3 
+CROSS-NEUTRALIZATION TESTS WITH ORPHAN VIRUSES 
+0 
+low+ 
+3 
+0 
+3 
+0 
+0 
+Virus 
+~___~___ 
+0 0 0 
+0 0 0 
+1OOo+ 0 0 
+1000+ 3 0 
+0 0 0 
+0 lOOO+ 0 
+0 0 1OOo+ 
+Orphan type I (Farouk) .......... 
+Orphan type I1 (Cornelis). ....... 
+Orphan type 111 (Morrisey) ...... 
+Orphan type 111 (Rende). ........ 
+Orphan type IV (Weeks). ........ 
+Coxsackie type A-9. ............. 
+Poliomyelitis type I (W-S) ........ 
+’ Negative logarithm of titer per ml. 
+Immune-Serum Neutralization Index 
+Zontrol Orphan 
+Titer. type I 
+4.8 
+5.2 3 
+Orphan Orphan Coxsackie Polio 
+type I1 I type 111 I type A-9 I type I 
+===== PAGE 17 =====
+770 Annals New York Academy of Sciences 
+FILTRATION THROUQH ELFORD MEMBRANES OF QRADED POROSITY 
+A 
+0 * 
+10-4- 
+!i 10-3- 
+h 
+4 
+P 
+- 
+LL 
+g 10-2. 
+t 10-1. 
+c c 
+100- 
+10'- 
+0 
+O* 
+0 QRIGQ VIRUS 
+0 CORNELIS VIRUS 
+0 MORRISEY VIRUS 
+A FAROUK VIRUS 
+* POLIOMYELITIS VIRUS, TYPE I, W--9 STRAIN 
+PRE- 540 340 210 140 77 I2 38 30 
+FILTRATION 
+AVERAGE PORE DIAMETER IN MILLIMICRONS 
+FIGURE 11. Comparative ultrafiltration data on three orphan viruses (Farouk strain, type 1; Cornelis strain, 
+type 2; and Morrisey strain, type 3), a Coxsackie virus (Grigg strain, type A-9), and a liovirus (W-S strain, 
+type I). All the viruses were grown in monkey tissue culture for these experiments. 'I% filtration end point 
+lies between 30 and 38 mp. 
+tration through gradacol membranes (FIGURE 11). In addition, Macrae, dur- 
+ing his stay in New Haven, compared them in this set of experiments with a 
+type I poliovirus and with a type A-9 Coxsackie virus grown in tissue culture 
+under the same conditions. All five viruses behaved alike, yielding values 
+of 11 to 17 mp for their diameters. On the basis of comparative data on ultra- 
+filtration, sedimentation and electron microscopy of poliomyelitis and of 
+Coxsackie viruse~;g-~~ the true diameter of types 1, 2, and 3 orphan viruses is 
+probably about 30 mp. 
+It is noteworthy that the viruses which frequent the human alimentary tract 
+-the poliomyelitis, the Coxsackie, and the orphan viruses-have much in 
+common : their size, their seasonal occurrence, their resistance to ether, and 
+their in vitro cytopathogenicity for primate cells. One wonders whether nature 
+is about to yield another secret. At least, the plot thickens! 
+References * 
+1. WELLER, T. H. 
+myelitis. 
+1953. The application of tissue-culture methods to the study of polio- 
+New Engl. J. Med. 249: 186-195. 
+* These references are not meant to be a complete bibliogra hy on the cultivation of poliovirus in tissue cul- 
+ture but merely to include certain recentFrs in which mettodology has been emphasized. More extensive 
+bibliographies of the earl papers in this eld have been published I* 2 and a detailed review of tissue culture 
+methods and nutrient me&a used in poliomyelitis laboratories is in pt!ess.l 
+===== PAGE 18 =====
+Melnick : Poliomyelitis and Orphan Viruses 771 
+2. MELNICK, J. L. 1953. Poliomyelitis. Advances in Virus Research. 1: 229-275. 
+3. MELNICK, J. L. 1955. Tissue culture methods for the cultivation of poliomyelitis and 
+other viruses. Diagnostic Procedures for Virus and Rickettsia1 Diseases, 2nd edition. 
+Am. Public Health Assoc. New York, N. Y. 
+4. WELLER, T. H., J. F. ENDERS, F. C. ROBBINS & M. B. STODDARD. 1952. Studies on 
+cultivation of poliomyelitis viruses in tissue culture. I. Propagation of poliomyelitis 
+viruses in suspended cell cultures of various human tissues. J. Immunol. 69: 645-651. 
+5. ROBBINS, F. C., T. H. WELLER & J. F. ENDERS. 1952. Studies on cultivation of polio- 
+myelitis viruses in tissue culture. 11. Propagation of poliomyelitis viruses in roller- 
+tube cultures of various human tissues. J. Immunol. 69: 673-694. 
+6. MORANN, G. L. & J. L. MELNICK. 1953. Poliomyelitis virus in tissue culture. VI. 
+Use of kidney epithelium grown on glass. Proc. SOC. Exptl. Biol. Med. 84: 558-563. 
+7. LEDINKO, N. & J. L. MELNICK. 1952. Poliomyelitis viruses in tissue culture. 111. 
+Susceptibility of testicular tissue from immune monkeys. Proc. SOC. Exptl. Biol. 
+Med. 81: 208-213. 
+8. SYVERTON, J. T. & W. F. SCHERER. 1954. The application of mammalian cells in con- 
+tinuous culture for assays in virology. Ann. N. Y. Acad. Sci. 68: 1056-1071. 
+9. DULBECCO, R. & M. VOGT. 1954. Plaque formation and isolation of pure lines with 
+poliomyelitis viruses. J. Exptl. Med. 99: 167-182. 
+10. YOUNGNER, J. S. 1954. Monolayer tissue cultures. I. Preparation and standardiza- 
+tion of suspensions of trypsin-dispersed monkey kidney cells. Proc. SOC. Exptl. Biol. 
+Med. 86: 202-205; 11. Poliomyelitis virus assay in roller tube cultures of trypsin- 
+dispersed monkey kidney. Proc. SOC. Exptl. Biol. Med. 86: 527-530; 111. Propaga- 
+tion of poliomyelitis viruses in cultures of trypsin-dispersed monkey kidney cells. J. 
+Immunol. 73: 392-396. 
+11. RAPPAPORT, C., M. REISSIG, D. W. HOWES, E. M. OPTON & J. L. MELNICK. Un- 
+published work. 
+12. BASELEY. P. L.. R. ROTUNDO & F. T. BUSCHECK. 1954. Plasma derivatives in tissue 
+cultures intended for growth of poliomyelitis viruses. Proc. SOC. Exptl. Biol. Med. 
+87: 42&424. 
+13. SALK, J. E., J. S. YOUNGNER & E. N. WARD. Use of color change of phenol red 
+as the indicator in titrating poliomyelitis virus or its antibody in a tissue culture system. 
+Am. J. Hyg. 60: 214-230. 
+14. CHANG, R. S. 1954. Continuous subcultivation of epithelial-like cells from normal 
+human tissues. Proc. SOC. Exptl. Biol. Med. 87: 440-443. 
+15. SCHERER, W. F. & A. C. HOOGASIAN. Preservation at subzero temperatures of 
+mouse fibroblasts (Strain L) and human epithelial cells (Strain He1.a). Proc. SOC. 
+Exptl. Biol. Med. 87: 480-487. 
+16. FARRELL, L. N., W. WOOD, A. E. FRANKLIN, F. T. SHIYADA, H. G. MACMORINE & A. J. 
+RHODES. 1953. Cultivation of poliomyelitis virus in tissue culture. VI. Methods 
+for quantity production of poliomyelitis viruses in cultures of monkey kidney. Can. 
+J. Public Health. 44: 273-280. 
+Growth of poliomyelitis viruses in large stationary cultures. 
+Proc. SOC. Exptl. Biol. Med. 82: 450-454. 
+1954. Growth characteristics of polio- 
+myelitis virus in HeLa cell cultures: lack of parallelism in cellular injury and virus in- 
+crease. J. Exptl. Med. 100: 437-450. 
+1951. Differences in cellular patho- 
+genicity of two immunologically related poliomyelitis viruses as revealed in tissue cul- 
+ture. 
+Differences in degree of infectiousness of two related strains of 
+poliomyelitis virus following their oral administration to monkeys. J. Immunol. 67: 
+219-224. 
+1955. The cellular changes produced in tissue culture 
+by herpes-B virus correlated with the concurrent multiplication of the virus. J. Exptl. 
+1954. 
+1954. 
+17. MILLER, C. A. 
+18. ACKERMANN, W. W., A. RABSON & H. KURTZ. 
+19. LEDINKO, N., J. T. RIORDAN & J. L. MELNICK. 
+Proc. SOC. Exptl. Biol. Med. 78: 83-88. 
+20. MELNICK, J. L. 
+21. REISSIG, M. & J. L. MELNICK. 
+1953. 
+1951. 
+Med. 101: 341-351. 
+mvelitis viruses in vilro on human embrvonic tissues. 
+22. ROBBINS, F. C., J. F. ENDERS & T. H. WELLER. 1950. Cytopathogenic effect of polio- 
+Proc. SOC. ExDtl. Biol. Med. 
+76: 370-374. 
+23. MELNICK, J. L. 1943. The ultracentrifuge as an aid in the detection of poliomyelitis 
+virus. 
+24. MELNICK, J. L. 1954. Application of tissue culture methods to epidemiological studies 
+of poliomyelitis. 
+25. LEBOUVIER, G. L., G. D. LAUREIUCE, E. M. PARFITT, M. G. JENNENS &A. P. GOFFE. 
+1954. Typing of poliomyelitis viruses by complement fixation. Lancet. 267: 531-532. 
+J. Exptl. Med. 77: 195-204. 
+Am. J. Public Health. 44: 571-580. 
+===== PAGE 19 =====
+772 Annals New York Academy of Sciences 
+26. MELNICK, J. L. 1955. Antigenic variation within poliovirus types. Federation Proc. 
+14: 472. 
+27. ROBBINS, F. C., J. F. ENDERS, T. H. WELLER & G. L. FLORENTINO. 1951. Studies on 
+cultivation of poliomyelitis viruses in tissue culture. V. The direct isolation and sero- 
+logic identification of virus strains in tissue culture from patients with nonparalytic 
+and paralytic poliomyelitis. Am. J. Hyg. 84: 286-293. 
+28. MELNICK, J. L., J. T. RIORDAN, E. C. CURNEN & A. D. MACRAE. 1953. Tissue-culture 
+pathogenic agents other than poliomyelitis virus isolated from cases of suspected 
+poliomyelitis. Federation Proc. 12: 454. 
+29. STEIGMAN, A. J., U. P. KOKKO & R. J. SILVERBERG. 1953. Mack virus-serum and 
+gamma globulin neutralization of unidentified agent isolated from suspected non- 
+paralytic poliomyelitis. Proc. SOC. Exptl. Biol. Med. 83: 200-204. 
+30. YALE POLIOMYELITIS LABORATORY AND THE COMMUNICABLE DISEASE CENTER. Un- 
+published experiments. 
+31. MELNICK, J. L. & K. AGREN. 1952. Poliomyelitis and Coxsackie viruses isolated 
+from normal infants in Egypt. Proc. SOC. Exptl. Biol. Med. 81: 621-624. 
+32. HORSTMANN, D. M. 1955. Endemic virus infection in Egypt: Isolation of poliomyelitis 
+viruses and other tissue culture pathogenic agents from infants. Federation Proc. 
+14 : 466. 
+33. KAPLAN, A. S. & J. L. MELNICK. 1954. Differences in thermostability of antigenically 
+related strains of poliomyelitis virus. Proc. SOC. Exptl. Biol. Med. 86: 381-384. 
+34. MCLEAN, I. W. Personal communication. 
+35. MELNICK, J, L., M. RAMOS-ALVAREZ, F. L. BLACK, A. J. GIRARDI & D. NAGAKI. 1954. 
+Poliomyelitis viruses in tissue culture. VII. Experiences with viral and serological 
+diagnostic procedures. 
+36. HORSTMANN, D. M. Unpublished data. 
+37. WENNER, H. A. & C. A. MILLER. 1954. Comparison of methods for recovering polio- 
+myelitis viruses from human sources. Proc. SOC. Exptl. Biol. Med. 86: 11-15. 
+38. RAMOS-ALVAREZ, M. & A. B. SABIN. 1954. Characteristics of poliomyelitis and other en- 
+teric viruses recovered in tissue culture from healthy American children. Proc. SOC. 
+Exptl. Biol. Med. 87: 655-661. 
+39. MELNICK, J. L., M. RHIAN, J. WARREN & S. S. BREESE, JR. 1951. The size of Cox- 
+sackie viruses and Lansing poliomyelitis virus determined by sedimentation and ultra- 
+filtration. J. Immunol. 67: 151-162. 
+40. BREESE, S. S., JR. & A. BRIEFS. 1953. Certaio physical properties of a Herpangina 
+strain and a Pleurodynia strain of Coxsackie virus. Proc. Soc. Exptl. Biol. Med. 83: 
+119-122. 
+41. SCHWERDT, C. E. & F. L. SCHAFPER. 1955. Some physical and chemical properties of 
+purified poliomyelitis virus preparations. Ann. N. Y. Acad. Sci. 61: 74G7.50. A. R. 
+TAYLOR, discussant. Ann. N. Y. Acad. Sci. 61: 750-753. 
+Discussion of the Paper 
+DOCTOR THOMAS H. WELLER (Harvard School of Public Heallh, Boston, 
+Mass.): Doctor Melnick has presented an admirable review of the status of 
+ilz viiro procedures as applied to certain aspects of poliomyelitis research. 
+Particular reference has been made to the use of monkey-kidney tissue as em- 
+ployed by the New Haven group. The rapid and continuing evolution of 
+techniques is thereby well documented. The successful utilization of tryp- 
+sinized kidney suspensions prepared in India, and of the ingenious plastic panel 
+introduced by McLean are worthy of particular note. The latter innovation 
+would have especial appeal to those of our technical staff engaged in the 
+vaccine evaluation program, for each session of “tube-stoppering” produces its 
+quota of blistered fingers. 
+It has been emphasized that the choice of methods in different laboratories 
+has been influenced by the availability of tissues or of other materials. There 
+has been a natural tendency for a group of workers to advocate a particular 
+technique, along with an implied endorsement suggesting its general applica- 
+Yale J. Biol. Med. 26: 465485. 
+===== PAGE 20 =====
+Melnick : Poliomyelitis and Orphan Viruses 7 73 
+bility. This monograph should serve to emphasize the need for methodological 
+selection in terms of specific objectives. For example, the simplest of culture 
+systems is desirable if the problem at hand entails the mass examination of sera 
+for poliomyelitis neutralizing antibodies. Yet, if the objective is the detection 
+of minimal quantities of poliomyelitis virus or of “unknown or orphan” viruses, 
+a system providing maximum sensitivity is indicated. In this instance, it may 
+be necessary to employ concurrently cultures of several types of cells and to 
+maintain such cultures under optimum conditions for periods of three weeks or 
+longer. On a prior; grounds, certainly, it is not possible to predict the potential 
+in vitro cytopathic spectrum of an agent, either on the basis of its origin or the 
+manipulations to which it may have been subjected in the laboratory. For 
+example, with Peebles, we have isolated a virus from man that destroys fibro 
+blasts of monkey origin in a matter of hours, yet produces similar changes in 
+human fibroblasts only after several days. Again, in comparative titrations 
+of Doctor Salk’s three vaccine seed viruses (Saukett, Mahoney, MEFl), per- 
+formed with Cheatham, we observed that cultures of human-kidney cells, as 
+compared to monkey-kidney cells, were more rapid and slightly more sensitive 
+indicators of viral activity in each instance. 
+Doctor Melnick has reviewed the interesting observation of Rappaport re- 
+garding the liberation in viho of a cytotoxin by actively metabolizing kidney 
+cells. I should like to ask if the material has yet been tested for cytotoxic ac 
+tivity on cells of other types and those derived from other species In this 
+instance, Doctor Melnick has carefully avoided classifying his material. Yet 
+this series of observations emphasizes that we know little regarding viruses that 
+may be derived from components of the culture system per se. On occasion, 
+agents are manifest by their overt cytopathogenicity, as in the instance of those 
+first observed in monkey-kidney cultures by Rustigian, or in the case of “B” 
+virus. Yet it is reasonable to suspect that other agents occur in a latent and 
+commensal state. One obvious explanation for the development of in vitro 
+resistance in a cell line would envision the presence of a latent, interfering 
+virus. This is only one of a number of important lines of investigation deserv- 
+ing of further attention. As Doctor Melnick has stressed, the technology of 
+tissue culture as applied to the study of viruses is in a phase of rapid evolution. 

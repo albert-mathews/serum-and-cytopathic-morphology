@@ -1,0 +1,11 @@
+Institution / Guideline,Context / Goal,Pre-inoculation FBS (growth),Post-inoculation FBS (maintenance),CPE as primary visual endpoint?,Notes
+ATCC Virology Culture Guide,Diagnostic virus isolation,~10%,2%,Yes,Influenza exception: serum-free or 0% FBS (explicitly recommended to aid viral attachment)
+CLSI M41-A (Viral Culture),Diagnostic virus isolation,10%,1-3% (typically 2%),Yes,Maintenance medium required once cells reach 75-90% confluence to slow overgrowth
+ASM Cytopathic Effects of Viruses Protocols,Diagnostic virus isolation,~10% (standard growth medium),2%,Yes (core focus of protocol),Explicit instruction to remove growth medium and add maintenance medium (2% serum) at inoculation
+NEADL / CIRAD PPRV SOP (VI27),Diagnostic virus isolation,10%,2%,Yes,Explicit wash with PBS followed by addition of maintenance medium (2% FBS) after 1-hour adsorption
+WOAH Terrestrial Manual (MERS-CoV chapter),Diagnostic virus isolation,10% (growth),2% FCS in virus culture medium,Yes,CPE monitored daily; RT-PCR often primary in modern use
+USDA APHIS VIRPRO1013 (9 CFR §§ 113.55/113.46),MSV extraneous-agent safety testing (vaccine seed purity),5-10%,5-20%,Yes (for proving absence of extraneous CPE),Higher FBS range supports long-term (14-day) monolayer viability; intended MSV is neutralized
+WHO EPI, rubella virus infection,10,2,Yes, Similar to CLSI M41a
+ANSES FMDV Virus Isolation SOP,Diagnostic virus isolation (FMDV clinical suspicion),not stated in SOP,0% (without FBS),Yes,ANSES official SOP (2022 PDF): post-inoculation complete medium WITHOUT FBS. Pre-inoculation growth FBS% not quantified in SOP. provisional_id=ADV007. Source: https://sitesv2.anses.fr/sites/default/files/221216%20-%20Virus%20Isolation.pdf
+CDC Measles Lab Tools — Vero/hSLAM virus isolation,Diagnostic measles virus isolation,10%,2%,Yes,"Public CDC protocol: seed/grow DMEM+10% FBS; inoculations, adsorption and subsequent incubations in DMEM+2% FBS. source_batch=expansion_2026-09-18_power"
+Health Canada / CCDR Measles Surveillance Lab Support (B95-a),Diagnostic measles virus isolation (B95-a),5-10%,2%,Yes,CCDR guidelines: B95-a growth sustained by adding 5% to 10% FBS; FBS used at 2% for cell maintenance during viral isolation. source_batch=expansion_2026-09-18_representative; URL=https://publications.gc.ca/collections/collection_2015/sc-hc/H12-21-24-5-eng.pdf

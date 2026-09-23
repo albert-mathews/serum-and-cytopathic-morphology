@@ -1,0 +1,3490 @@
+{
+  "EXP_path1_passage4_101.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of 30\u201340%. Adherent cells are distributed in scattered small colonies, with numerous isolated cells between colonies, resulting in an uneven distribution across the field. Most adherent cells exhibit elongated-to-polygonal morphology and appear well spread, while a smaller proportion are rounded and phase-bright. The monolayer is incomplete, with extensive cell-free areas throughout the field. A few rounded non-adherent cells and minimal cellular debris are present. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Not apparent",
+      "granularity": "Mild/partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Minimal",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_01",
+    "path": 1,
+    "id": 101,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_102.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population distributed as small colonies interspersed with isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear well spread, with occasional cell-cell contact within colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete, with extensive cell-free areas throughout the field. A few rounded non-adherent cells are present, with minimal visible cellular debris. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Not apparent",
+      "granularity": "Mild/partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "Minimal",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_02",
+    "path": 1,
+    "id": 102,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_103.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture exhibits a sparse to low-density adherent cell population distributed as scattered small colonies and isolated individual cells across the field. Most adherent cells display elongated to polygonal morphology and appear well spread, with occasional cell-cell contact within small colonies. A small number of rounded, phase-bright cells are present. The monolayer remains incomplete, with extensive cell-free areas throughout the field. Minimal cellular debris is visible, and no evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Not apparent",
+      "granularity": "Mild/partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Minimal",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_03",
+    "path": 1,
+    "id": 103,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_104.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population distributed as small colonies interspersed with isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear well spread, with occasional cell-cell contact within colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete, with extensive cell-free areas throughout the field. A few rounded non-adherent cells are present, with minimal visible cellular debris. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Not apparent",
+      "granularity": "Mild/partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No/Minimal",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_04",
+    "path": 1,
+    "id": 104,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_105.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture exhibits a low-to-moderate density adherent cell population with an estimated confluence of approximately 30\u201340%, distributed as scattered small colonies and isolated individual cells across the field. Most adherent cells display elongated to polygonal morphology and appear well spread, with occasional cell-cell contact within small colonies. A small number of rounded, phase-bright cells are present. The monolayer remains incomplete, with extensive cell-free areas throughout the field. Minimal cellular debris is visible, and no evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Not apparent",
+      "granularity": "Mild/partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No/Minimal",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_05",
+    "path": 1,
+    "id": 105,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_106.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population distributed as small colonies interspersed with isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear well spread, with occasional cell-cell contact within colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete, with extensive cell-free areas throughout the field. A few rounded non-adherent cells are present, with minimal visible cellular debris. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Mild/partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No/Minimal",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_06",
+    "path": 1,
+    "id": 106,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_107.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low cell density with an estimated confluence of approximately 30\u201340%. Adherent cells are distributed as scattered small colonies with numerous isolated cells between colonies, resulting in a sparse and uneven cell distribution across the field. Most adherent cells exhibit elongated to spindle-shaped morphology, while a relatively higher proportion of cells are rounded and phase-bright. The monolayer is incomplete, with extensive cell-free areas throughout the field. A few rounded non-adherent cells and minimal cellular debris are visible. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Mild/partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "partial",
+      "cell_death": "Partial",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_07",
+    "path": 1,
+    "id": 107,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_108.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population distributed as small colonies interspersed with isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. A moderate proportion of cells are rounded and phase-bright. The monolayer is incomplete, with extensive cell-free areas throughout the field. A few rounded non-adherent cells are present, with minimal visible cellular debris. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "Partial",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_08",
+    "path": 1,
+    "id": 108,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_109.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low to moderate cell density with an estimated confluence of approximately 35\u201345%. Adherent cells are distributed as scattered small colonies with numerous isolated cells between colonies, resulting in a relatively even distribution across the field. Adherent cells exhibit a verity of shapes, ranging from elongated to spindle-shaped to polygonal morphology, while small proportion of cells are rounded and phase-bright. The monolayer is incomplete, with extensive cell-free areas throughout the field. A few rounded non-adherent cells and minimal cellular debris are visible. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Partial",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_09",
+    "path": 1,
+    "id": 109,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_110.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse population of adherent cells distributed as small colonies interspersed with isolated individual cells, resulting in uneven cell distribution. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. A few cells are rounded and phase bright. The monolayer is incomplete, with extensive cell-free areas throughout the field. Minimal cellular debris is visible. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No/Minimal",
+      "nonspecific_degeneration": "No/minimal"
+    },
+    "image_id": "CultureA_day1_10",
+    "path": 1,
+    "id": 110,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_201.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate cell density with an estimated confluence of approximately 45\u201350%. Adherent cells are distributed as enlarged, interconnected colonies with fewer isolated cells between colonies compared with the previous day, although the overall distribution remains somewhat uneven. Most cells exhibit elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies, consistent with active proliferation. A small number of rounded, phase-bright cells and occasional non-adherent cells are present. The monolayer remains incomplete, with persistent cell-free areas throughout the field. Minimal cellular debris is visible. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_01",
+    "path": 1,
+    "id": 201,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_202.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate population of adherent cells arranged in enlarged colonies with fewer isolated individual cells than observed previously, although the overall distribution remains uneven. Most adherent cells exhibit elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies, consistent with colony expansion. A small proportion of cells are rounded and phase-bright, and a few rounded non-adherent cells are present. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal visible cellular debris is observed. No evidence of multilayering or overconfluence is present.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_02",
+    "path": 1,
+    "id": 202,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_203.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-density adherent cell population with an estimated confluence of approximately 35\u201340%. Adherent cells are distributed as enlarged, interconnected colonies with fewer isolated cells across the field. Fewer isolated cells between colonies compared with the previous day, although the overall distribution remains somewhat uneven. Most cells exhibit elongated to polygonal morphology and appear unevenly spread, with occasional cell\u2013cell contact within colonies, consistent with active proliferation. A small number of rounded, phase-bright cells and occasional non-adherent cells are present. The monolayer remains incomplete, with persistent cell-free areas throughout the field. Minimal cellular debris is visible. No evidence of multilayering or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_03",
+    "path": 1,
+    "id": 203,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_204.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a low number of adherent cells, mainly arranged in a few enlarged colonies, with several isolated individual cells scattered throughout. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear poorly spread, with occasional cell\u2013cell contact within colonies, and a few colonies are interconnected or appear to be merging with adjacent colonies. A small number of cells are rounded and phase-bright, along with a few rounded non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_04",
+    "path": 1,
+    "id": 204,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_205.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a moderate density of adherent cells, with an estimated confluence of approximately 40\u201350%. Cells are mainly distributed in enlarged, interconnected colonies, with fewer isolated cells and small colonies scattered throughout the field. Most adherent cells have an elongated to polygonal morphology and appear fairly well spread, with occasional cell\u2013cell contact within colonies and half of colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. A small number of rounded, phase-bright cells are present. The monolayer is still incomplete, with extensive cell-free areas throughout the field. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_05",
+    "path": 1,
+    "id": 205,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_206.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate number of adherent cells, mainly arranged in enlarged colonies, with few isolated individual cells scattered throughout. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies and most colonies are interconnected or appear to be merging with adjacent colonies. A small number of cells are rounded and phase-bright, along with a few rounded non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_06",
+    "path": 1,
+    "id": 206,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_207.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a moderately low density of adherent cells, with an estimated confluence of approximately 40\u201345%. Cells are mainly distributed in enlarged, interconnected colonies, with a few isolated cells and small colonies scattered throughout the field. Most adherent cells have an elongated to polygonal morphology and appear fairly well spread, with occasional cell\u2013cell contact within colonies and some colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. A small number of rounded, phase-bright cells are present. The monolayer remains incomplete, with extensive cell-free areas throughout the field. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_07",
+    "path": 1,
+    "id": 207,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_208.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate number of adherent cells, mainly arranged in enlarged colonies, with few isolated individual cells scattered throughout. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies and some colonies are interconnected or appear to be merging with adjacent colonies. A small number of cells are rounded and phase-bright, along with a few rounded non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_08",
+    "path": 1,
+    "id": 208,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_209.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a moderately low density of adherent cells, with an estimated confluence of approximately 40\u201345%. Cells are mainly distributed in enlarged, interconnected colonies, with a few isolated cells and small colonies scattered fairly well throughout the field. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies and some colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. A small number of rounded, phase-bright cells are present. The monolayer remains incomplete, with extensive cell-free areas throughout the field. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_09",
+    "path": 1,
+    "id": 209,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_210.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate number of adherent cells, mainly arranged in enlarged colonies, with few isolated individual cells scattered throughout. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear well spread, with good cell\u2013cell contact within the colonies, and some colonies are interconnected or appear to be merging with adjacent colonies. A small number of cells are rounded and phase-bright, along with a few rounded non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_10",
+    "path": 1,
+    "id": 210,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_301.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a moderate density of adherent cells, with an estimated confluence of approximately 50\u201355%. Cells are predominantly distributed in enlarged, interconnected colonies, with some isolated cells and small colonies scattered unevenly throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. Some colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. A few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_01",
+    "path": 1,
+    "id": 301,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_302.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate number to plenty of adherent cells, mainly arranged in an enlarged colony, with few isolated colonies. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies, and some colonies are interconnected or appear to be merging with adjacent colonies. A small number of cells are rounded and phase-bright, along with a few rounded non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_02",
+    "path": 1,
+    "id": 302,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_303.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a moderate density of adherent cells, with an estimated confluence of approximately 50\u201355%. Cells are predominantly distributed in enlarged, interconnected colonies, with some isolated cells and small colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. Some colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. A few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_03",
+    "path": 1,
+    "id": 303,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_304.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate number of adherent cells, mainly arranged in enlarged colonies, with a few isolated colonies. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Some colonies are interconnected or appear to be merging with adjacent colonies. A few cells are rounded and phase-bright, along with a few rounded, non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_04",
+    "path": 1,
+    "id": 304,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_305.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a moderate density of adherent cells, with an estimated confluence of approximately 55\u201360%. Cells are predominantly distributed in enlarged, interconnected colonies, with some isolated cells and small colonies scattered unevenly throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. Some colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. A few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_05",
+    "path": 1,
+    "id": 305,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_306.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate number of adherent cells, mainly arranged in enlarged colonies, with a few isolated colonies. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Some colonies are interconnected or appear to be merging with adjacent colonies. A few cells are rounded and phase-bright, along with a few rounded, non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_06",
+    "path": 1,
+    "id": 306,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_307.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a moderate density of adherent cells, with an estimated confluence of approximately 55\u201360%. Cells are predominantly well distributed in enlarged, interconnected colonies, with some isolated cells and small colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. Some colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. A few rounded, phase-bright cells and small colonies are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_07",
+    "path": 1,
+    "id": 307,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_308.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate number of adherent cells, mainly arranged in enlarged colonies, with a few isolated colonies. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Some colonies are interconnected or appear to be merging with adjacent colonies. A few cells are rounded and phase-bright, along with a few rounded, non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_08",
+    "path": 1,
+    "id": 308,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_309.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a moderate density of adherent cells, with an estimated confluence of approximately 50\u201355%. Cells are predominantly distributed in enlarged, interconnected colonies, with some isolated cells and many small colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. Some colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Some rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_09",
+    "path": 1,
+    "id": 309,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_310.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate number of adherent cells, mainly arranged in enlarged colonies, with some isolated colonies. The overall distribution is uneven. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Some colonies are interconnected or appear to be merging with adjacent colonies. Few cells are rounded and phase-bright, along with a few rounded, non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_10",
+    "path": 1,
+    "id": 310,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_401.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a fairly high density of adherent cells, with an estimated confluence of approximately 65\u201370%. Cells are predominantly distributed in enlarged, interconnected colonies, with a few smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Most colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. No rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_01",
+    "path": 1,
+    "id": 401,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_402.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a fairly high number of adherent cells, mainly arranged in enlarged colonies, with few smaller, isolated colonies. The overall distribution is relatively well spread. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Several colonies are interconnected or appear to be merging with adjacent colonies. No rounded, phase-bright cells, or rounded, non-adherent cells are observed. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_02",
+    "path": 1,
+    "id": 402,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_403.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a fairly high density of adherent cells, with an estimated confluence of approximately 65\u201370%. Cells are predominantly distributed in enlarged, interconnected colonies, with a few smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Most colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_03",
+    "path": 1,
+    "id": 403,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_404.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a fairly high number of adherent cells, mainly arranged in an enlarged colony, with few smaller, isolated colonies. The overall distribution is spread unevenly. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Several colonies are interconnected or appear to be merging with adjacent colonies. No rounded, phase-bright cells, or rounded, non-adherent cells are observed. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_04",
+    "path": 1,
+    "id": 404,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_405.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a fairly high density of adherent cells, with an estimated confluence of approximately 65\u201370%. Cells are predominantly distributed in enlarged, interconnected colonies, with some smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Most colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_05",
+    "path": 1,
+    "id": 405,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_406.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a fairly high number of adherent cells, mainly arranged in enlarged colonies. The overall distribution is well spread. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies. No rounded, phase-bright cells, or rounded, non-adherent cells are observed. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_06",
+    "path": 1,
+    "id": 406,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_407.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a high density of adherent cells, with an estimated confluence of approximately 70\u201380%. Cells are predominantly distributed in enlarged, interconnected colonies, with some smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Most colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_07",
+    "path": 1,
+    "id": 407,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_408.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a high number of adherent cells, mainly arranged in enlarged colonies. The overall distribution is well spread. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies. There are few rounded, phase-bright cells, or rounded, non-adherent cells. The monolayer remains incomplete, with cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_08",
+    "path": 1,
+    "id": 408,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_409.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a high density of adherent cells, with an estimated confluence of approximately 70\u201380%. Cells are predominantly distributed in enlarged, interconnected colonies, with some smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Most colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_09",
+    "path": 1,
+    "id": 409,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_410.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a fairly high number of adherent cells, mainly arranged in enlarged colonies. The overall distribution is fairly well spread. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies. There are few rounded, phase-bright cells, or rounded, non-adherent cells. The monolayer remains incomplete, with cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_10",
+    "path": 1,
+    "id": 410,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_501.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a high density of adherent cells, with an estimated confluence of approximately 70\u201375%. Cells are predominantly distributed in enlarged, interconnected colonies, with few smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Most colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_01",
+    "path": 1,
+    "id": 501,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_502.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a fairly high number of adherent cells, mainly arranged in enlarged colonies. The overall distribution is fairly well spread. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies. There are few rounded, phase-bright cells, or rounded, non-adherent cells. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_02",
+    "path": 1,
+    "id": 502,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_503.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a high density of adherent cells, with an estimated confluence of approximately 70\u201375%. Cells are predominantly distributed in enlarged, interconnected colonies, with some smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Most colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_03",
+    "path": 1,
+    "id": 503,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_504.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a fairly high number of adherent cells, mainly arranged in enlarged colonies. The overall distribution is fairly well spread. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies. No rounded, phase-bright cells, or rounded, non-adherent cells are observed. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_04",
+    "path": 1,
+    "id": 504,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_505.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a high density of adherent cells, with an estimated confluence of approximately 70\u201375%. Cells are predominantly distributed in enlarged, interconnected colonies, with some smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Most colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_05",
+    "path": 1,
+    "id": 505,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_506.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a fairly high number of adherent cells, mainly arranged in enlarged colonies and some smaller colonies. The overall distribution is spread unevenly. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies. Few rounded, phase-bright cells, or rounded, non-adherent cells are present. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_06",
+    "path": 1,
+    "id": 506,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_507.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a high density of adherent cells, with an estimated confluence of approximately 65\u201370%. Cells are predominantly distributed in enlarged, interconnected colonies, with some smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_07",
+    "path": 1,
+    "id": 507,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_508.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a moderate to high number of adherent cells, mainly arranged in enlarged colonies and some smaller colonies scattered throughout the field. The overall distribution is spread unevenly. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies. Few rounded, phase-bright cells, or rounded, non-adherent cells are present. The monolayer remains incomplete, with substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_08",
+    "path": 1,
+    "id": 508,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_509.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The culture shows a high density of adherent cells, with an estimated confluence of approximately 70\u201375%. Cells are predominantly distributed in enlarged, interconnected colonies, with some smaller colonies scattered throughout the field. Most adherent cells exhibit an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies, consistent with active proliferation. Few rounded, phase-bright cells are present. The monolayer remains incomplete, with significant cell-free areas throughout the field. Minimal cellular debris is visible, and there are no signs of multilayering or overconfluence.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_09",
+    "path": 1,
+    "id": 509,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_510.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a fairly high number of adherent cells, mainly arranged in enlarged colonies. The overall distribution is fairly well spread. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. Colonies are interconnected or appear to be merging with adjacent colonies. Few rounded, phase-bright cells, or rounded, non-adherent cells are present. The monolayer remains incomplete, with still substantial cell-free areas between colonies. Minimal cellular debris is visible, and no signs of multilayering or overconfluence are observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_10",
+    "path": 1,
+    "id": 510,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_101.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 25\u201330%. Adherent cells are distributed predominantly as scattered individual cells and small, loosely organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_01",
+    "path": 2,
+    "id": 101,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_102.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as isolated individual cells and a few small, loosely organized colonies, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, with limited cell-cell contact within the small colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. Several rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_02",
+    "path": 2,
+    "id": 102,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_103.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 25\u201335%. Adherent cells are distributed predominantly as scattered individual cells and small, loosely organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_03",
+    "path": 2,
+    "id": 103,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_104.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as isolated individual cells and a few small, loosely organized colonies, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, with limited cell-cell contact within the small colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_04",
+    "path": 2,
+    "id": 104,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_105.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 30\u201335%. Adherent cells are distributed predominantly as scattered individual cells and small, loosely organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. Several rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_05",
+    "path": 2,
+    "id": 105,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_106.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as isolated individual cells and a few small, loosely organized colonies, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, with limited cell-cell contact. A smaller proportion of cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. Some rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_06",
+    "path": 2,
+    "id": 106,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_107.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 25\u201335%. Adherent cells are distributed predominantly as scattered individual cells and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a similar proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. Many rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_07",
+    "path": 2,
+    "id": 107,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_108.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology, with limited cell-cell contact. Monolayer is markedly incomplete, with extensive cell-free areas throughout the field. Several rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_08",
+    "path": 2,
+    "id": 108,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_109.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 25\u201335%. Adherent cells are distributed predominantly as scattered individual cells and small, loosely organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. Several rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_09",
+    "path": 2,
+    "id": 109,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_110.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as isolated individual cells and a few small, loosely organized colonies, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, with limited cell-cell contact. Some cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. Some rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day1_10",
+    "path": 2,
+    "id": 110,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_201.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 30\u201340%. Adherent cells are distributed predominantly as scattered individual cells and small, loosely organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. Several rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_01",
+    "path": 2,
+    "id": 201,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_202.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as small, loosely organized colonies and isolated individual cells, resulting in almost even cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, with occasional cell-cell contact within the small colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_02",
+    "path": 2,
+    "id": 202,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_203.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 35\u201345%. Adherent cells are distributed predominantly as scattered individual cells and several small, well-organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. Some rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_03",
+    "path": 2,
+    "id": 203,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_204.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as isolated individual cells and small, loosely organized colonies, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, with occasional cell-cell contact within the small colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_04",
+    "path": 2,
+    "id": 204,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_205.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 30\u201335%. Adherent cells are distributed predominantly as scattered individual cells and small, loosely organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. Several rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_05",
+    "path": 2,
+    "id": 205,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_206.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as isolated individual cells and a few small, loosely organized colonies, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, with limited cell-cell contact. A smaller proportion of cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. Several rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_06",
+    "path": 2,
+    "id": 206,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_207.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 30\u201340%. Adherent cells are distributed predominantly as scattered individual cells and small, loosely organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_07",
+    "path": 2,
+    "id": 207,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_208.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as isolated individual cells and small, loosely organized colonies, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology, with well cell-cell contact. Monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_08",
+    "path": 2,
+    "id": 208,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_209.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 30\u201335%. Adherent cells are distributed predominantly as scattered individual cells and small colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_09",
+    "path": 2,
+    "id": 209,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_210.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as small, loosely organized colonies and isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, with well cell-cell contact. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day2_10",
+    "path": 2,
+    "id": 210,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_301a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 30\u201345%. Adherent cells are distributed predominantly as scattered individual cells with several small, relatively well organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a few cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_01",
+    "path": 2,
+    "id": 301,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_302a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as small, relatively well organized colonies and isolated individual cells, resulting in almost even cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, with occasional cell-cell contact within the small colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_02",
+    "path": 2,
+    "id": 302,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_303.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 35\u201345%. Adherent cells are distributed predominantly as scattered small, well-organized colonies with numerous isolated cells between them and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a few cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. Some rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_03",
+    "path": 2,
+    "id": 303,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_304a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as isolated individual cells and small, loosely organized colonies, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, with occasional cell-cell contact within the small colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. Several rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_04",
+    "path": 2,
+    "id": 304,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_305a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 35\u201340%. Adherent cells are distributed predominantly as scattered small, organized colonies, with numerous isolated cells between them and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_05",
+    "path": 2,
+    "id": 305,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_306a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as small, organized colonies and a few isolated individual cells, resulting in an uneven cell distribution. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. Several rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_06",
+    "path": 2,
+    "id": 306,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_307.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 25\u201335%. Adherent cells are distributed predominantly as scattered individual cells and small, loosely organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_07",
+    "path": 2,
+    "id": 307,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_308.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as isolated individual cells and few small, loosely organized colonies, resulting in an uneven cell distribution. Adherent cells exhibit elongated, spindle-like to polygonal morphology. Monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_08",
+    "path": 2,
+    "id": 308,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_309a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 30\u201335%. Adherent cells are distributed predominantly as scattered individual cells and several small colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated, spindle-like to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_09",
+    "path": 2,
+    "id": 309,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_310a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as small, loosely organized colonies and isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, with well cell-cell contact within colonies. Few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day3_10",
+    "path": 2,
+    "id": 310,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_401.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate cell density with an estimated confluence of approximately 40\u201345%. Adherent cells are distributed as scattered small, relatively well-organized colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a few cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_01",
+    "path": 2,
+    "id": 401,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_402.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as small, relatively well organized colonies and some isolated individual cells, resulting in uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology, with occasional cell-cell contact within the colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_02",
+    "path": 2,
+    "id": 402,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_403.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate cell density with an estimated confluence of approximately 40\u201345%. Adherent cells are distributed predominantly as scattered small colonies with numerous isolated cells between them and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a few cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_03",
+    "path": 2,
+    "id": 403,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_404.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as relatively well organized colonies and some isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated, spindle-like to polygonal morphology, with occasional cell-cell contact within the colonies. A smaller proportion of cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_04",
+    "path": 2,
+    "id": 404,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_405.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Low-to-moderate cell density with an estimated confluence of approximately 35\u201345%. Adherent cells are distributed predominantly as scattered small colonies, with numerous isolated cells between them and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_05",
+    "path": 2,
+    "id": 405,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_406.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as small colonies and several isolated individual cells, resulting in an uneven cell distribution. Most adherent cells have an elongated to polygonal morphology and appear well spread, with well cell\u2013cell contact within colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_06",
+    "path": 2,
+    "id": 406,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_407.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate cell density with an estimated confluence of approximately 30\u201335%. Adherent cells are distributed predominantly as scattered small colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a small proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_07",
+    "path": 2,
+    "id": 407,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_408.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate cell density with an estimated confluence of approximately 30\u201335%. Adherent cells are distributed predominantly as scattered small colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a small proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_08",
+    "path": 2,
+    "id": 408,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_409.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate cell density with an estimated confluence of approximately 40\u201345%. Adherent cells are distributed as scattered small colonies, with numerous isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a smaller proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_09",
+    "path": 2,
+    "id": 409,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_410.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as colonies and some isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, with occasional cell-cell contact within colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day4_10",
+    "path": 2,
+    "id": 410,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_501.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate-to high cell density with an estimated confluence of approximately 45\u201355%. Adherent cells are distributed as scattered colonies, with a few isolated cells between clusters and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while few cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. Few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_01",
+    "path": 2,
+    "id": 501,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_502.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed primarily as scattered colonies and some isolated individual cells, resulting in uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology, with occasional cell-cell contact within the colonies. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. Few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "No",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_02",
+    "path": 2,
+    "id": 502,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_503.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate cell density with an estimated confluence of approximately 40\u201345%. Adherent cells are distributed predominantly as scattered small colonies with numerous isolated cells between them and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a few cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_03",
+    "path": 2,
+    "id": 503,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_504.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as several colonies and a few isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology, with occasional cell-cell contact within the colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_04",
+    "path": 2,
+    "id": 504,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_505.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate-to high cell density with an estimated confluence of approximately 45\u201355%. Adherent cells are distributed predominantly as scattered colonies, with several isolated cells between them and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a few cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_05",
+    "path": 2,
+    "id": 505,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_506.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as several colonies and several isolated individual cells among the colonies, resulting in an uneven cell distribution. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_06",
+    "path": 2,
+    "id": 506,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_507.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate cell density with an estimated confluence of approximately 30\u201335%. Adherent cells are distributed predominantly as scattered individual cells and small colonies, with numerous isolated cells between them and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a small proportion of cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Yes",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_07",
+    "path": 2,
+    "id": 507,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_508.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed predominantly as individual cells and a few colonies, resulting in an uneven cell distribution. Most adherent cells have an elongated to polygonal morphology and appear well spread, with occasional cell\u2013cell contact within the colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_08",
+    "path": 2,
+    "id": 508,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_509.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate-to-high cell density with an estimated confluence of approximately 45\u201355%. Adherent cells are distributed predominantly as scattered colonies, with a few isolated cells between them and substantial cell-free areas throughout the field. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, while a few cells are rounded and phase-bright. The monolayer is incomplete and sparsely distributed, with no areas of continuous or confluent cell coverage. A few rounded, phase-bright non-adherent cells and minimal cellular debris are visible. No evidence of multilayering, excessive cell aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_09",
+    "path": 2,
+    "id": 509,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_510.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "rounded",
+      "detached",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The field contains a sparse adherent cell population, distributed as colonies and a few isolated individual cells, resulting in an uneven cell distribution. Most adherent cells exhibit elongated to polygonal morphology and appear relatively well spread, with occasional cell-cell contact within colonies. A few cells are rounded and phase-bright. The monolayer is markedly incomplete, with extensive cell-free areas throughout the field. A few rounded, phase-bright non-adherent cells are visible, with minimal cellular debris. No evidence of multilayering, excessive aggregation, or overconfluence is observed.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "No",
+      "granularity": "Partial",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureB_day5_10",
+    "path": 2,
+    "id": 510,
+    "source": "ir1_pass1_lexical+pass2_checklist"
+  }
+}

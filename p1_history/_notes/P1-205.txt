@@ -1,0 +1,1039 @@
+
+===== PAGE 1 =====
+Tissue Culture in the Laboratory Diagnosis 
+of Viral Infections 
+NATHALIE J. SCHMIDT, PH.D. 
+Viral and Rickettsial Disease laboratory, California State Department of Public Health, 
+Berkeley, California 94704 
+ABSTRACT 
+Schmidt, Nathalie J.: Tissue culture in the laboratory diagnosis of viral infec­
+tions.  Am. J. Clin. Pathol. 57: 820-828, 1972. The use of both rhesus monkey 
+kidney and human fetal diploid cell cultures for attempts to isolate virus from 
+human clinical specimens recovered approximately 30% more isolates from 
+fecal, throat, skin lesion, and tissue specimens than were recovered in a single 
+cell culture system. The sensitivities of the two cell types for isolation of viruses 
+in the major groups infecting man are compared. The use of both BS-C-1 and 
+RK-13 cells yielded approximately 25% more rubella virus isolates than were 
+recovered in a single cell system. Procedures such as the establishment of cell 
+cultures from tissues suspected of harboring viruses, cocultivation of cells 
+from biopsy or autopsy specimens with other cell types, and the use of organ 
+cultures, have in certain situations resulted in greater sensitivity for recovery 
+of viruses. Micro cell culture tests have been devised for virus identification 
+and antibody assays; these are far more economical than conventional tests 
+in terms of reagents, space requirements, and personnel time. Methods have 
+been developed for the production of higher-titered viral serologic antigens 
+in cell culture systems. 
+IN THE  PAST TWO DECADES  the use of in  vitro 
+cell cultures in diagnostic virology has re­
+sulted in the discovery of almost 200 vi­
+ruses which infect man. Cell cultures have 
+also provided a practical and economical 
+host system which, in many instances, may 
+be substituted for animals or embryonated 
+eggs in viral isolation attempts, neutrali­
+zation tests, or preparation of serologic 
+antigens. 
+Cell culture media, suspensions of viable 
+cells, and prepared cell cultures are now 
+available commercially for laboratories 
+Received January 6, 1972. 
+Reprints o£ this entire Research Symposium are 
+available from the ASCP Convention Department, 
+2100 West Harrison Street, Chicago, Illinois 60612, 
+for §3.00 per copy. 
+lacking facilities for preparation of such 
+materials, and satisfactory antisera for iden­
+tification of viral isolates are gradually be­
+coming available from commercial sources. 
+The development of disposable cell culture 
+vessels in glass or plastic has also facilitated 
+viral diagnostic studies. 
+Systematic comparisons of the sensitivi­
+ties of various cell culture systems for iso­
+lation or propagation of viruses made in 
+recent years have indicated the relative 
+usefulness of various cell types for diagnos­
+tic virology, and have guided in the selec­
+tion of the most reliable and sensitive host 
+cell systems for diagnostic purposes. 
+Certain modifications of cell culture tech­
+nics, such as the establishment of cell cul­
+tures from tissues suspected of harboring 
+820 
+===== PAGE 2 =====
+June 1972 TISSUE CULTURE IN DIAGNOSIS OF VIRUS 821 
+viruses, the use of mixed cell cultures for 
+isolation of viruses from biopsy or autopsy 
+specimens, and the use of simple organ cul­
+tures have, in certain instances, resulted in 
+greater sensitivity for virus recovery. 
+Micro cell culture systems have been de­
+veloped for use in virus neutralization tests, 
+and these have resulted in great savings in 
+terms of reagents, space requirements, and 
+personnel time. 
+Some of the conditions have been de­
+fined for the production of higher-titered 
+serologic antigens in cell culture systems, 
+and thus more sensitive and specific diag­
+nostic antigens have become available. 
+Cell Cultures Employed in 
+Diagnostic Virology 
+Primary cell cultures are initiated from 
+tissues taken directly from the organism; 
+the cells may be subcultivated once, giving 
+rise to secondary cultures in which the cells 
+are morphologically similar to those in pri­
+mary cultures, and similar in viral suscep­
+tibilities. Further subcultivation may be 
+difficult to achieve, and it may result in 
+conversion of the cells to the heteroploid 
+state, which is frequently accompanied by 
+decreased susceptibility to certain viruses. 
+Under special conditions of cultivation, 
+diploid cell lines may be established which 
+maintain their characteristic chromosomal 
+configuration through a number of serial 
+passages.14 However, the cells do not have 
+the property of indefinite serial cultivation, 
+but tend to decline at the fortieth to  fif­
+tieth passage. Diploid cell lines are gen­
+erally similar to primary cultures in their 
+viral susceptibilities, but since lines may 
+vary in their susceptibility to viruses, those 
+intended for use in viral isolation attempts 
+should first be checked for sensitivity by 
+testing for susceptibility to some of the 
+more fastidious respiratory and enteric vi­
+ruses. Diploid cell lines are more readily 
+available to the diagnostic laboratory than 
+are primary cell cultures, and they may be 
+stored in the frozen state. 
+Continuous cell lines have become het­
+eroploid on serial passage; they can be sub-
+cultivated indefinitely, and many lines have 
+been carried through hundreds of passages. 
+Although continuous lines have a narrower 
+range of viral susceptibilities than do pri­
+mary or diploid cell cultures, viruses can 
+generally be adapted to growth in continu­
+ous lines. The cells multiply rapidly and 
+cultures attain high cell populations, thus 
+providing a useful source of cells for neu­
+tralizing antibody assays and for produc­
+tion of serologic antigens. 
+Comparative Sensitivities of Certain Cell 
+Culture Systems for Isolation 
+of Human Viruses 
+Primary or secondary rhesus or grivet 
+monkey cell cultures have been found to 
+be among the most sensitive host systems 
+available for isolation of a wide variety of 
+human enteric and respiratory viruses, but 
+the fact that the cells are generally con­
+taminated with simian viruses presents a 
+serious drawback to their use. These con­
+taminants may produce a cytopathic effect 
+or a hemadsorption reaction which masks 
+the presence of viruses recovered from the 
+human clinical specimens, or rare contami­
+nants such as Herpesvirus sirniac or the 
+Marburg agent may be extremely hazard­
+ous to laboratory workers handling the cul­
+tures.  Diploid or continuous cell lines es­
+tablished from simian kidneys have been 
+somewhat less sensitive than primary or 
+secondary cells for isolation of human vi­
+ruses.8' 11 '30 
+Human fetal diploid lung and kidney 
+cell lines were found to be far more sensi­
+tive than primary or secondary monkey kid­
+ney cells for isolation of rhinoviruses, 12,4S 
+a group of more than 90 distinct virus 
+types which produce common colds or 
+minor upper respiratory tract infections, 
+===== PAGE 3 =====
+822 SCHMIDT A.J.C.P.—Vol. 57 
+Table 1. Isolation of Viruses from Clinical Specimens in Primary or Secondary Rhesus Monkey Kidney 
+(MK) Cells and in Human Fetal Diploid (HFD) Lung or Kidney Cells (1966-1970) 
+Number of specimens examined 
+Number of isolates recovered 
+Adenoviruses 
+Enteroviruses 
+Rhinoviruses 
+Influenza viruses 
+Parainfluenza viruses 
+Mumps virus 
+Respiratory syncytial virus 
+Herpes simplex viruses 
+Varicella-zoster virus 
+Cytomegalovirus 
+Vaccinia virus 
+Reo viruses 
+Fecal 
+7,108 
+106 
+1,210 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+6 
+Throat 
+3,138 
+127 
+259 
+77 
+128 
+181 
+25 
+79 
+96 
+— 
+8 
+3 
+— 
+Type of Spe 
+Spinal 
+Fluid 
+1,373 
+— 
+116 
+— 
+— 
+— 
+10 
+— 
+2 
+— 
+— 
+— 
+— 
+cimen 
+Skin 
+Lesion 
+316 
+— 
+1 
+— 
+— 
+— 
+— 
+— 
+88 
+13 
+— 
+14 
+— 
+Urine 
+178 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+16 
+— 
+— 
+Autopsy 
+Tissue 
+810 
+— 
+10 
+— 
+12 
+2 
+— 
+— 
+14 
+3 
+7 
+— 
+— 
+Total 
+12,923 
+233 
+1,596 
+77 
+140 
+183 
+35 
+79 
+200 
+16 
+31 
+17 
+6 
+Isolates recovered in MK and/ 
+or HFD 
+Isolation rate (%) 
+1,322 
+19 
+919 
+13 
+1,027 
+14 
+983 
+31 
+708 
+23 
+556 
+18 
+128 
+9 
+81 
+6 
+83 
+6 
+116 
+37 
+50 
+16 
+113 
+36 
+16 
+9 
+0 
+0 
+16 
+9 
+48 
+6 
+24 
+3 
+25 
+3 
+2,613 
+20 
+Isolates recovered in MK 
+Isolation rate (%) 
+1,782 
+14 
+Isolates recovered in HFD 
+Isolation rate (%) 
+1,820 
+14 
+and early studies indicated that human 
+fetal diploid cell lines were highly sensitive 
+for propagation and isolation of other hu­
+man viruses as well.
+7-13>31 
+For the past 8 years, clinical specimens 
+examined in this laboratory for the pres­
+ence of virus have been inoculated into 
+both primary or secondary rhesus monkey 
+kidney (MK) cells and human fetal diploid 
+(HFD) cells (either lung or kidney, de­
+pending upon the type of specimen). Ru­
+bella virus isolation attempts are per­
+formed in the BS-C-1 line of grivet mon­
+key kidney cells and the RK-13 line of 
+rabbit kidney cells,
+39 since rhesus MK and 
+HFD cells do not show clear-cut interfer­
+ence or a cytopathic effect when infected 
+with this virus. It has been found that the 
+parallel use of two cell culture systems con­
+tributes an appreciable number of viral 
+isolates over those recovered in a single cell 
+culture system. 
+Table
+ 1  compares the viral isolation rates 
+from various clinical materials in both MK 
+and HFD cells with those in each individ­
+ual cell culture system for the 5-year period 
+from 1966 through 1970. Figure 1 compares 
+the sensitivity of MK cells with that of 
+HFD cells for isolation of viruses in each 
+major group. Data on rubella virus isola­
+tions are presented separately in Table 2, 
+since different cell culture systems were 
+used. It is evident in Table 1 that the use 
+of both cell culture systems increased the 
+viral isolation rates from each type of clini­
+cal specimen, with the exception of urine 
+specimens, from which only cytomegalo­
+virus was recovered, and only in HFD cells. 
+In Figure 1 it is evident that MK cells 
+were somewhat more sensitive than HFD 
+cells for isolation of poliovirus strains; 
+these were vaccine strains recovered from 
+individuals with recent histories of oral im­
+munization. The two cell culture systems 
+===== PAGE 4 =====
+June 1972 TISSUE CULTURE  IN  DIAGNOSIS  OF  VIRUS 823 
+ENTEROVIRUSES 
+100 
+80 -
+All 
+40 
+20 
+HERPESVIRUSES 
+93% 
+72% 
+77% 
+71% 
+100% 
+18% 
+63% 
+90% 
+LATES RECO ISO 
+s g 
+1 
+POLIO-
+VIRUSES 
+(161)* 
+GROUP A 
+COXSACKIE­
+VIRUSES 
+(70) 
+GROUP B 
+COXSACKIE­
+VIRUSES 
+(237) 
+ECHO-
+V1RUSES 
+(1128) 
+MYXOVIRUSES, PARAMYXOVIRUSES AND RH1NOVIRUSES 
+80 
+60 
+•10 
+20 
+100% 
+INFL 
+A 
+(1 
+0.7% 
+JENZA 
+fc B 
+40) 
+100% 
+' PA 
+1NFLU 
+(1 
+0% 1 
+RA-
+ENZA 
+83) 
+100% 
+MU 
+VI 
+(3 
+17% 
+MPS 
+%US 
+5) 
+t 
+77% 
+IESPIR 
+SYNC 
+VI 
+(' 
+82% 
+ATOR 
+VTIAL 
+tUS 
+9) 
+HERPESVIRUS 
+HOMIN1S 
+NON-GENITAL 
+STRAINS 
+(148) 
+HERPESVIRUS 
+HOMINIS 
+GENITAL 
+STRAINS 
+(52) 
+VARICELLA-
+ZOSTER 
+VIRUS 
+(16) 
+CYTO-
+MEGAI.O. 
+VIRUS 
+(31) 
+ADENOVIRUSES, VACCINIA VIRUS. REOVIRUS 
+8% 
+r" RH 
+VIRl 
+95% 
+NO-
+JSES 
+') 
+65% 
+81% 
+ADENO­
+VIRUSES 
+(233) 
+100% 
+94% 
+VACCINIA 
+VIRUS 
+(") 
+100% 
+1 
+REO-
+VIRUSES 
+(«) 
+* Number of isolates in parentheses Q  RHESUS MONKEY KIDNEY CELLS [~] HUMAN FETAL DIPLOID CELLS 
+FIG.  I.  Comparative sensitivities  of  rhesus monkey kidney cell cultures  and  human fGtal diploid 
+cell cultures  for  isolation  of  certain viruses infecting  man. 
+were similar  in  sensitivity  for  isolation  of 
+group  A  coxsackieviruses; these were pre­
+dominately types A9  and  A16.  For isolation 
+of group  B  coxsackieviruses, however,  MK 
+cells were much more sensitive than  HFD 
+cells. On the  other hand,  HFD  cells were 
+more sensitive than  MK  cells for  recovery 
+of echoviruses. Overall, 72%  of the  entero­
+virus isolates were recovered  in MK, and 
+77% in  HFD cells.  All of the  throat speci­
+mens were inoculated into HFD lung cells, 
+and the  other specimens into  HFD  kidney 
+cells. A  direct comparison  of the  sensitivi­
+ties of HFD lung  and  kidney cells  for isola­
+tion of  viruses  was  not made,  but the  fact 
+that 77%  of the 1,337 enteroviruses isolated 
+from stool specimens, spinal fluid speci­
+mens, or  tissues were recovered  in HFD 
+kidney cells  and  76%  of the 259  enterovi­
+ruses isolated from throat washings were 
+recovered  in  HFD  lung cells suggests that 
+the lung  and  kidney cells were similar  in 
+susceptibility  to  the human enteroviruses. 
+Figure  1  shows that  the  herpesviruses  in­
+fecting man are  rarely recovered  in MK 
+cells, with  the  exception  of  genital strains 
+(type 2  viruses)  of  Herpesvirus hominis. 
+This herpesvirus type  is  also known  to 
+have greater pathogenicity than type  1 
+(non-genital) strains  for  other laboratory 
+hosts such  as  embryonated eggs, mice,  and 
+rabbits. 20 '23 Herpesvirus hominis  and  vari­
+cella-zoster viruses were recovered  in  either 
+HFD lung  or  kidney cells,  but  isolation  at­
+tempts  for  cytomegaloviruses were per­
+formed,  and  virus  was  recovered  in HFD 
+lung cells only. 
+Comparing  the  sensitivities  of MK and 
+HFD cells  for  isolation  of  respiratory  vi­
+ruses and  mumps virus,  it is  evident  in 
+Figure  1  that  the  influenza  and  parainflu­
+enza viruses were recovered almost exclu-
+===== PAGE 5 =====
+824 SCHMIDT A.J.CP.—Vol. 57 
+Table 2. Comparative Sensitivities of BS-C-1 Grivet Monkey Kidney Cells and RK-13 Rabbit 
+Kidney Cells for Isolation of Rubella Virus (1966-1970) 
+Type of 
+Specimen 
+Nasopharynx 
+or throat 
+Tissues 
+TOTAL 
+Number of 
+Isolation 
+Attempts 
+521 
+118 
+639 
+Number of 
+Isolates 
+Recovered 
+102 
+32 
+134 
+Number of Rubella Isolates Recovered in 
+Both Cell 
+Systems 
+54 
+13 
+67 
+BS-C-1 RK-13 
+Only Only BS-C-1 RK-13 
+28 20 82 74 
+1 18 14 31 
+29 38 96 105 
+sively in MK cells. All of the mumps virus 
+strains were isolated in MK, but a few were 
+also recovered in HFD cells. The two cell 
+culture systems were similar in sensitivity 
+for isolation of respiratory syncytial virus. 
+HFD lung cells were markedly more sensi­
+tive than MK cells for isolation of rhino-
+viruses; the only rhinovirus types recovered 
+in MK were types la, lb, and 14, but 41 
+different immunotypes were recovered in 
+HFD lung cells. 
+HFD cells were more sensitive than MK 
+cells for recovery of adenoviruses. Seventy-
+nine per cent of the 106 adenoviruses iso­
+lated from fecal specimens were recovered 
+in HFD cells, and 82% of the 127 isolated 
+from throat specimens were recovered in 
+HFD lung cells, suggesting that these two 
+types of HFD cells were also similar in 
+sensitivity for isolation of adenoviruses. 
+The MK and HFD cell culture systems 
+were similar in sensitivity for isolation of 
+vaccinia virus. The few reovirus isolations 
+were made in MK cells only. 
+Table 2 shows that the BS-&L and RK-13 
+cell lines were roughly comparable overall 
+in sensitivity for isolation of rubella virus, 
+but the use of both cell culture systems 
+contributed additional isolates to those re­
+covered in a single system. 
+Modified Cell Culture Procedures Employed 
+to Increase Sensitivity for Isolation and 
+Subpassage of Certain Viruses 
+The importance of using viable, infected 
+cells for recovery and subpassage of certain 
+human viruses has become apparent over 
+the years in which cell culture host sys­
+tems have been employed in diagnostic vi­
+rology. It was early recognized that vari­
+cella-zoster (V-Z) virus could be subpassaged 
+only through the use of viable, infected 
+cells as an inoculum/
+5 since infectious 
+virus is spread by cell-to-cell transfer rather 
+than through infected culture fluids, and 
+it was found that trypsin-dispersed cells 
+were more effective in transferring infec-
+tivity than were cells dispersed by mechani­
+cal means.
+42 
+Certain viruses which are not so closely 
+cell-associated as V-Z virus are also sub-
+passaged most effectively through the use 
+of trypsin-dispersed, infected cells. Thus, 
+cytomegalovirus is best propagated by mix­
+ing trypsin-dispersed, infected cells with 
+trypsinized uninfected human fibroblast 
+cells and planting.
+2 It has been shown that 
+hamster-adapted measles virus may be iso­
+lated in cell cultures from trypsinized, in­
+fected brain tissue, but not from homoge-
+nates of the same tissue.
+4'40 In this labora­
+tory it has been found that, at low passage 
+levels, measles and adenovirus isolates are 
+subcultivated most effectively through the 
+use of trypsin-dispersed, infected cells as an 
+inoculum rather than culture fluids or cells 
+scraped from infected cultures. 
+The superiority of viable cells over
+ tis­
+sue homogenates for recovery of certain vi­
+ruses from autopsy or biopsy tissues has 
+been illustrated in studies comparing virus 
+recovery in cell cultures established from 
+===== PAGE 6 =====
+June 1972 TISSUE CULTURE IN DIACNOSIS OF VIRUS 825 
+human organs obtained at autopsy or by 
+biopsy with recovery in the usual labora­
+tory cell culture systems inoculated with 
+suspensions of the same organs. In attempt­
+ing to isolate viruses from kidneys and 
+other organs of children with congenital 
+malformations, Benyesh-Melnick and col­
+leagues
+ 3 recovered nine isolates in cell cul­
+tures prepared from the organs themselves, 
+but only two of these viruses were also 
+recovered in cell cultures inoculated with 
+suspensions of the organs. Similarly, Rawls 
+and associates 24 recovered rubella virus 
+from cultured cells of certain organs, but 
+not from suspensions of the organs. The 
+greater success of viral isolation through 
+culturing cells from tissue specimens may 
+be due to the need for cell-to-cell transfer 
+of virus from viable cells, as in the case of 
+V-Z virus, or it is possible that homogeniza-
+tion of organs or tissues releases viral in­
+hibitory substances. Inhibitors for measles 
+virus have been demonstrated in extracts of 
+rat brain,
+4 and inhibitors of dengue virus 
+infectivity have been detected in certain 
+organs of monkeys.
+21 
+The cultivation of brain cells from pa­
+tients with subacute sclerosing panencepha­
+litis (SSPE) together with HeLa cells 15 or 
+BS-C-1 grivet monkey kidney cells 22 has 
+permitted the recovery of infectious mea­
+sles virus from the cells, and thus has fur­
+nished direct evidence of the etiologic role 
+of measles virus in this clinical entity. Cul­
+tures of the brain cells alone showed the 
+presence of measles antigen by fluorescent 
+antibody staining, and the presence of syn­
+cytia, but infectious virus was not recover­
+able.  Apparently the HeLa or BS-C-1 cells 
+contributed some factor essential to the 
+production of complete, infectious virus 
+which was lacking or ineffective in the 
+brain cell cultures. Cocultivation technics 
+will probably receive wide use in future 
+efforts to recover viruses in central nervous 
+system diseases and chronic diseases sus­
+pected to have a viral etiology. 
+The cultivation of tissue explants in a 
+simple, chemically-defined medium without 
+serum or plasma tends to restrict the out­
+growth of undifferentiated cells and per­
+mits the in vitro cultivation of tissues in 
+which the various constituents retain their 
+normal relationship to each other and 
+maintain their normal function. The use 
+of such "organ" cultures of ciliated nasal or 
+tracheal epithelium from human embryos 
+for virus isolation attempts has led to the 
+recognition of new human respiratory vi­
+ruses which cannot be isolated in undiffer­
+entiated monolayer cell cultures.
+18 '44 These 
+are members of die human coronavirus 
+group, 5 and they are becoming increasingly 
+implicated as important etiologic agents of 
+acute upper respiratory tract illness. 
+It is possible that the increased use of 
+organ cultures for virus isolation attempts 
+may lead to the discovery of additional, 
+heretofore unrecognized, viruses which in­
+fect man. 
+Identification of Viruses Recovered in 
+Cell Culture Systems 
+Based upon the type of clinical speci­
+men, the disease suspected, the type of 
+cytopathic effect seen in inoculated cell 
+cultures, or the demonstration of hemad­
+sorption or interference, a suitable proce­
+dure is selected for identification of viruses 
+isolated in cell culture systems.
+28 
+Fluorescent antibody staining of infected 
+cell culture material provides a rapid 
+means of identification and differentiation 
+between herpes simplex, varicella-zoster, 
+and vaccinia viruses, 38 and also for the 
+identification of rubella 39 and respiratory 
+syncytial 27 viruses. 
+The use of the "intersecting serum pool" 
+scheme 30 for virus neutralization tests has 
+greatly facilitated identification of isolates 
+in the large adenovirus, enterovirus, and 
+rhinovirus groups, which consist of many 
+different immunologic types. Antisera to 
+the various immunotypes within each 
+===== PAGE 7 =====
+826 SCHMIDT A.J.CP.—Vol. 57 
+group are pooled so that each antiserum is 
+incorporated into two different pools, and 
+identification is made by demonstrating 
+neutralization of the isolate by the two 
+pools sharing a common, type-specific im­
+mune serum. Antisera for as many as 36 
+immunotypes can be incorporated into 
+only 12 pools, and antisera for 49 viral 
+types, into 14 pools. 
+In some instances influenza virus isolates 
+possess sufficiently high hemagglutinating 
+titers to permit identification by in vitro 
+hemagglutination-inhibition (HI) tests on 
+the MK cell culture fluid. If titers are not 
+sufficiently high for HI tests, hemadsorbing 
+isolates may be identified by neutralization 
+or hemadsorption inhibition tests. 
+Viruses replicating in organ cultures gen­
+erally do not produce an overt effect, and 
+their presence is usually detected by means 
+of electron microscopy. 
+Micro Technics for Viral 
+Neutralization Tests 
+In the past few years microneutralization 
+tests utilizing cell cultures in microtiter 
+plates have been developed for a variety of 
+viruses. These tests may be used for identi­
+fication of viral isolates, for serodiagnosis 
+of viral infections, or for evaluation of 
+viral vaccines. The micro tests require 
+about one-tenth of the amounts of cells 
+and medium used for equivalent tests in 
+tube cultures, and they require far less in­
+cubation space. In addition to the economy 
+of reagents and space, the tests are easier 
+to perform and read than tests which in­
+volve the handling of individual tube cul­
+tures. 
+Microneutralization tests may be read by 
+microscopic observation of the inhibition 
+of a viral cytopathic effect,
+18- 1T-2S or a meta­
+bolic inhibition system may be used, 29 in 
+which case the tests are read macroscopi-
+cally using colorimetric endpoints. Micro-
+neutralization tests utilizing hemadsorption 
+as an indicator of unneutralized virus have 
+been devised for assay of antibodies to cer­
+tain myxoviruses.
+35 
+The successful adaptation of micrometh-
+ods for virus neutralization tests has been 
+made possible largely through the develop­
+ment of disposable microtiter plates (with 
+either flat-bottomed or "U"-shaped cups) 
+from plastics which are nontoxic and con­
+sistently permit cellular growth. For a num­
+ber of years the development and large-
+scale use of microneutralization tests was 
+hampered by inconsistencies in the ability 
+of disposable plastic plates to support the 
+growth of cells in culture. In recent years, 
+however, suitable microtiter plates have be­
+come available from several sources. 
+Production of Viral Serologic Antigens 
+in Cell Cultures 
+It has been found that the highest-titered 
+viral hemagglutinating (HA) or comple­
+ment-fixing (CF) antigens are produced by 
+infecting large populations of host cells. 
+Continuous passage cell lines which mul­
+tiply rapidly and attain high cell popula­
+tions in culture generally give rise to more 
+potent antigens than do primary or diploid 
+cultures containing fewer cells. The HeLa, 
+KB, and HEp-2 continuous lines of human 
+epithelial cells have been employed for 
+many years in the production of serologic 
+antigens. The BHK-21 continuous line of 
+baby hamster kidney cells 19 has found wide 
+use in recent years in the production of 
+serologic antigens for a variety of viruses 
+such as rubella,
+10- 82>41 certain arboviruses, 34 
+rabies virus, 9 herpes simplex, vaccinia, and 
+reoviruses. 34 
+In addition to the use of rapidly-multi­
+plying cell lines, mechanical devices such 
+as suspension cultures and roller bottle cul­
+tures may also be employed to obtain large 
+host cell populations for production of 
+viral antigens. 
+It has been shown that much of the viral 
+antigen produced in cell cultures remains 
+associated with the host cells rather than 
+===== PAGE 8 =====
+June 1972 TISSUE CULTURE IN DIAGNOSIS OF VIRUS 827 
+being released into the culture medium, 
+and high-titered serologic antigens have 
+been produced by suspending the cellular 
+phase of virus-infected cultures in a small 
+volume of fluid and then releasing the viral 
+antigens by sonication or by freezing and 
+thawing the cells.
+1- ""• 34>S7 For some vi­
+ruses,  extraction of the infected cells with 
+alkaline buffers is more effective than me­
+chanical disruption for release of anti­
+gen.32' 3* In the case of rubella virus, CF 
+antigens prepared by alkaline buffer extrac­
+tion of infected cells have been shown to 
+be more sensitive for detection of antibody 
+than are antigens produced by mechanical 
+disruption of the cells or by concentration 
+of the fluid phase of the culture.
+8'33 
+References 
+1. Artzet F, Ryhiner L: Antigdne poliorayelitique 
+pour fixation clu complement. Ann Inst Pas­
+teur 99:852-858, 1960 
+2. Bcnyesh-Melnick M, Dessy SI, Fernbach DJ: 
+Cytomegaloviruria in children with acute leu­
+kemia and in other children. Proc Soc Exp 
+Med 117:624-630, 1964 
+3. Benycsh-Melnick M, Rosenberg HS, Watson B: 
+Viruses in cell cultures of kidneys of children 
+with congenital heart malformations and 
+other diseases. Proc Soc Exp Biol Med 117: 
+452-459, 1964 
+4. Burnstein T, Byington DP: On the isolation of 
+measles virus from infected brain tissue. Neu­
+rology 18:162-164, 1968 
+5. Coronaviruses. Nature (London) 220:620, 1968 
+6. Dudgeon JA, Marshall WC, Peckham CS: Ru­
+bella vaccine trials in adults and children. 
+Comparison of three attenuated vaccines. Am 
+J Dis Child 118:237-242, 1969 
+7. Embil JA, Faulkner RS: Human diploid cell 
+strains and their susceptibility to viruses. Can 
+J Public Health 55:111-116, 1964 
+8. Forman ML, Inborn SL, Sheaff E, et al: Bio­
+logical characteristics and viral spectrum of 
+serially cultivated fetal rhesus monkey kidney 
+cells. Proc Soc Exp Biol Med 131:1060-1067, 
+1969 
+9. Halonen PE, Murphy FA, Fields BN, et al: He­
+magglutinin of rabies and some other bullet-
+shaped viruses. Proc Soc Exp Biol Med 127: 
+1037-1042, 1968 
+10. Halonen PE, Ryan JM, Stewart JA: Rubella 
+hemagglutinin prepared with alkaline extrac­
+tion of virus grown in suspension culture of 
+BHK-21 cells. Proc Soc Exp Biol Med 125: 
+162-167, 1967 
+11. Hambling MH, Davis PM: Susceptibility of the 
+LLC-MK 2 line of monkey kidney cells to hu­
+man enteroviruses. J Hyg (Camb) 63:169-174, 
+1965 
+12. Hamparian VV, Ketler A, Hillcman MR: Re­
+covery of new viruses (coryzavirus) from cases 
+of common cold in human adults. Proc Soc 
+Exp Biol Med 108:444-453, 1961 
+13. Hayflick L: Advances in tissue culture methods 
+important to viral disease problems. Postgrad 
+Med 35:503-511, 1964 
+14. Hayflick L, Moorhead PS: The serial cultiva­
+tion of human diploid cell strains. Exp Cell 
+Res 25:585-621, 1961 
+15. Horta-Barbosa L, Fuccillo DA, London VVT, et 
+al: Isolation of measles virus from brain cell 
+cultures of two patients with subacute scleros­
+ing panencephalitis. Proc Soc Exp Biol Med 
+132:272-277, 1969 
+16. Kenny MT, Albright KL, Sanderson RP: Mi-
+croneutralization test for the determination of 
+mumps antibody in Vero cells. Appl Micro­
+biol 20:371-373, 1970 
+17. Kriel RL, Wulff H, Chin TDY: Microneutrali-
+zation test for determination of rhinovirus 
+and coxsackievirus A antibody in human dip­
+loid cells. Appl Microbiol 17:611-613, 1969 
+18. Mcintosh K, Dees JH, Becker WB, et al: Re­
+covery in tracheal organ cultures of novel vi­
+ruses from patients with respiratory disease. 
+Proc Nat Acad Sci 57:933-940, 1967 
+19. Macpherson I, Stoker M: Polyoma transforma­
+tion of hamster cell clones—an investigation 
+of genetic factors affecting cell competence. 
+Virology 16:147-151, 1962 
+20. Nahmias AJ, Dowdle WR: Antigenic and bio­
+logic differences in Herpesvirus hominis. Progr 
+Med Virol 10:110-159, 1968 
+21.  Nash DR, Halstead SB, Stenhousc AC, et al: 
+Nonspecific factors in monkey tissues and 
+serum causing inhibition of plaque formation 
+and hemagglutination by dengue viruses. In­
+fection and Immunity 3:193-199, 1971 
+22. Payne FE, Baublis JV, Itabashi HH: Isolation 
+of measles virus from cell cultures of brain 
+from a patient with subacute sclerosing pan­
+encephalitis. N Engl J Med 281:585-589, 1969 
+23. Plummer G, Waner JL, Phuangsab A, et al: 
+Type 1 and type 2 herpes simplex viruses: 
+Serological and biological differences. J Virol 
+5:51-59, 1970 
+24. Rawls WE, Melnick JL, Rosenberg HS, et al: 
+Spontaneous virus carrier cultures and post­
+mortem isolation of virus from infants with 
+congenital rubella. Proc Soc Exp Biol Med 
+120:623-626, 1965 
+25. Rosenbaum MJ, Edwards EA, Sullivan EJ: Mi-
+cromethods for respiratory virus sero-epidemi-
+ology. Health Lab Sci 7:42-52, 1970 
+26. Schell K, Huebner RJ, Turner HC: Concentra­
+tion of complement fixing viral antigens. 
+Proc Soc Exp Biol Med 121:41-46, 1966 
+27. Schieble JH, Lennette EH, Kase A: An imrnu-
+nofluorescent staining method for rapid iden­
+tification of respiratory syncytial virus. Proc 
+Soc Exp Biol Med 120:203-208, 1965 
+28. Schmidt NJ: Trends in the laboratory diagnosis 
+of viral infections. Postgrad Med 35:488-495, 
+1964 
+29. Schmidt NJ: Tissue culture technics for diag­
+nostic virology, Diagnostic Procedures for 
+Viral and Rickettsial Infections. Fourth edi-
+===== PAGE 9 =====
+828 SCHMIDT A.J.C.P.—Vol. 57 
+tion. Edited by EH Lennette, NJ Schmidt. 
+New York, Amer Public Health Ass Inc, 1969, 
+pp 130-133 
+30. Schmidt NJ, Guenther RW, Lennette EH: Typ­
+ing of ECHO virus isolates by immune serum 
+pools. The "intersecting serum scheme." J 
+Immunol 87:623-626, 1961 
+31. Schmidt NJ, Ho HH, Lennette EH: Compara­
+tive sensitivity of human fetal diploid kidney 
+cell strains and monkey kidney cell cultures 
+for isolation of certain human viruses. Am J 
+Clin Pathol 43:297-301, 1965 
+32. Schmidt NJ, Lennette EH: Rubella comple­
+ment-fixing antigens derived from the fluid 
+and cellular phases of BHK-21 cells; extrac­
+tion of cell-associated antigen with alkaline 
+buffers. J Immunol 97:815-821, 1966 
+33. Schmidt NJ, Lennette EH: Complement-fixing 
+and fluorescent antibody responses to an at­
+tenuated rubella virus vaccine. Am J Epi­
+demiol 91:351-354, 1970 
+34. Schmidt NJ, Lennette EH: Comparison of vari­
+ous methods for preparation of viral sero­
+logical antigens from infected cell cultures. 
+Appl Microbiol 21:217-226, 1971 
+35. Schmidt NJ, Lennette EH, Hanahoe MF: A 
+micromethod for performing parainfluenza 
+virus neutralization tests. Proc Soc Exp Biol 
+Med 122:1062-1067, 1966 
+36. Schmidt NJ, Lennette EH, Shon CW, et al: 
+The sensitivity of grivet monkey kidney cell 
+line BS-C-1 for propagation and isolation of 
+certain human viruses. Am J Public Health 
+54:1522-1530, 1964 
+37. Schmidt NJ, Lennette EH, Shon CW, et al: A 
+complement-fixing antigen for varicella-zoster 
+derived from infected cultures of human fetal 
+diploid cells. Proc Soc Exp Biol Med 116:144-
+149, 1964 
+38. Schmidt NJ, Lennette EH, Woodie JD, et al: 
+Immunofluorescent staining in the laboratory 
+diagnosis of varicella-zoster virus infections. J 
+Lab Clin Med 66:403-412, 1965 
+39. Schmidt NJ, Lennette EH, Woodie JD, et al: 
+Identification of rubella virus isolates by im­
+munofluorescent staining, and a comparison of 
+the sensitivity of three cell culture systems for 
+recovery of virus. J Lab Clin Med 68:502-509, 
+1966 
+40. Schumacher HP, Albrecht P: Optimal condi­
+tions for isolation of a neurotropic measles 
+virus from brain tissue. Proc Soc Exp Biol 
+Med 134:396-402, 1970 
+41. Stewart GL, Parkman PD, Hopps HE, et al: 
+Rubella-virus hemagglutination-inhibition test. 
+N Engl J Med 276:554-557, 1967 
+42. Taylor-Robinson D: Chickenpox and herpes 
+zoster. III. Tissue culture studies. Br J Exp 
+Pathol 40:521-532, 1959 
+43. Taylor-Robinson D: Studies on some viruses 
+(rhinoviruses) isolated from common colds. 
+Arch Gesamte Virusforsch 13:281-293, 1963 
+44. Tyrrell DAJ, Bynoe ML: Cultivation of a novel 
+type of common-cold virus in organ cultures. 
+Br Med J 1:1467-1470, 1965 
+45. Weller TH: Serial propagation in vitro of 
+agents producing inclusion bodies derived 
+from varicella and herpes zoster. Proc Soc Exp 
+Biol Med 83:340-346, 1953 

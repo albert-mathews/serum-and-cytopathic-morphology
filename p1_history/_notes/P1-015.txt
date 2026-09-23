@@ -1,0 +1,307 @@
+
+===== PAGE 1 =====
+ 
+ 
+Since January 2020 Elsevier has created a COVID-19 resource centre with 
+free information in English and Mandarin on the novel coronavirus COVID-
+19. The COVID-19 resource centre is hosted on Elsevier Connect, the 
+company's public news and information website. 
+ 
+Elsevier hereby grants permission to make all its COVID-19-related 
+research that is available on the COVID-19 resource centre - including this 
+research content - immediately available in PubMed Central and other 
+publicly funded repositories, such as the WHO COVID database with rights 
+for unrestricted research re-use and analyses in any form or by any means 
+with acknowledgement of the original source. These permissions are 
+granted for free by Elsevier for as long as the COVID-19 resource centre 
+remains active. 
+ 
+
+===== PAGE 2 =====
+CHAPTER 1 
+Some Cell Culture Procedures in 
+Diagnostic Medical Virology 
+Margaret A. J. Moffat 
+During the last 20 years cell culture has become an invaluable tool in diag­
+nostic medical virology. Cultured cells had been used previously for the detec­
+tion of virus but it was not until type 2 poliovirus was grown in cultures of 
+nonneural tissue from human embryos
+1 that the technique began to receive due 
+recognition. An easily observed destructive effect or cytopathogenic effect (CPE) 
+was produced in the cells by the virus and this effect could be prevented by 
+type-specific immune sera providing a convenient neutralization test. 2 Many 
+viruses other than poliovirus could be detected and neutralized using this tech­
+nique and a large number of previously unknown viruses was isolated. There 
+have been continuous developments in cell culture and with each new tech­
+nique comes the possibility of detecting the more elusive viruses. As a result 
+of this, there are now many different methods of cell culture used in diagnostic 
+virology and it is impossible to describe all of these here. I will attempt to give 
+representative examples and references with the accent more on different 
+methods than on preparation of cultures; such technical details will be found 
+elsewhere in this book. The main uses of cell culture in diagnostic medical 
+virology are to demonstrate the presence of virus and to detect humoral anti­
+bodies in patients' sera. The production of antigens will not be discussed. 
+MONOLAYER CULTURES 
+General Method of Preparation. Culture of cells in monolayers is the most 
+common method used in diagnostic virology laboratories. Cell suspensions are 
+prepared from tissue or from stock cultures by using one of the dispersing 
+agents. The suspension is then diluted in growth medium to contain from 
+50,000 to 200,000 cells per milliliter and dispensed into suitable containers; 
+these may be large bottles for stock cultures, test tubes for roller culture, Petri 
+1J. F. Enders, T. H. Weller, and F. C. Robbins, Science 109, 85 (1949). 
+2 F. C. Robbins, J. F. Enders, and T. H. Weller, Proc. Soc. Exp. Biol. Med. 75, 378 (1950). 
+611 
+===== PAGE 3 =====
+612 XIII. DIAGNOSIS AND UNDERSTANDING OF DISEASE 
+dishes, or coverslips in Leighton tubes. Growth medium usually consists of a 
+synthetic medium such as 199 or Eagle's Basal Medium with added 10% calf 
+serum. The serum may be varied in type or amount according to the virus or 
+cells being cultured. After about 3 days the cultures are changed to maintenance 
+medium which may contain 1% serum or be serum-free. Antibiotics are usually 
+included. The optimum temperature for growth is 37°C, but after inoculation 
+a lower temperature may be more satisfactory. Incubation may be stationary 
+or in a roller drum. Containers which are not stoppered, e.g., Petri dishes, must 
+be incubated in an atmosphere containing 5% COo in air. 
+Types of monolayer cultures may be divided into (a) primary or secondary, 
+(b) continuous, and (c) semicontinuous. 
+Primary or Secondary Cultures. These cells retain their diploid chromosome 
+number, a factor which makes them particularly susceptible to certain viruses. 
+Their disadvantage lies in the fact that they must be prepared from fresh tissue 
+which may vary in susceptibility. Kidney of various species is particularly suit­
+able and monkey kidney is used routinely in most diagnostic laboratories. Simian 
+viruses may be present in monkey kidney and apart from herpesvirus simiae, 
+which may be a hazard to personnel, SV5 and SV40 may interfere with isola­
+tion of other viral agents. Human amnion and human thyroid also provide satis­
+factory cell cultures although amnion cultures require more care in preparation. 
+Monkey kidney cultures are satisfactory for the isolation of the myxoviruses 
+and the enteroviruses except coxsackie A. Human amnion cells support the 
+multiplication of measles and enteroviruses including some types of coxsackie A. 
+Continuous Cell Cultures. The discovery of a cell line, e.g., HeLa cells, which 
+could be subcultured indefinitely was of considerable importance. These cells 
+were isolated from an epidermoid carcinoma of the cervix 3 and were found to 
+support the growth of a large number of viruses. Since then, other cell lines, 
+HEp-2 (human epithelium), have been isolated and it has also been possible 
+to transform normal cells, e.g., BHK 21 (baby hamster kidney) and RK 13 
+(rabbit kidney). The Bristol strain of HeLa cells is particularly useful for the 
+isolation of respiratory syncytial virus, and RK 13 cells produce a recognizable 
+CPE when infected with rubella virus. Adenoviruses and herpes simplex pro­
+duce a characteristic CPE in HeLa and HEp-2 cells. 
+Although the advantages of continuous cell cultures seemed so considerable 
+that they might replace primary and secondaiy cultures, this has not been the 
+case. During transformation of the cells the chromosome number becomes ab­
+normal and the susceptibility to certain viruses is lowered. 
+Semicontinuous Cell Cultures. The ideal cell system for a diagnostic virology 
+laboratory would be a continuous line which retained its diploid chromosome 
+number. An attempt to attain this ideal system was made by subculturing 
+G. O. Gey, W. D. Coffmann, and M. T. Kubicek, Cancer Res. 12, 264 (1952). 
+===== PAGE 4 =====
+1. Culture Procedures in Medical Virology 613 
+cells from human embryonic tissue. 4 The cells, of the fibroblast type, remained 
+diploid and could be subcultured up to fifty times. Such cultures can be pre­
+served by freezing and thus theoretically provide a constant supply of cells. 
+These semicontinuous cells may be as susceptible to certain viruses as pri­
+mary or secondary cells but this is not always the case. They provide a par­
+ticularly satisfactory host system for cytomegalovirus, varicella zoster, herpes 
+simplex, and certain rhino viruses. 
+ROUTINE ISOLATION OF VIRUSES 
+It would be impossible in a routine laboratory to inoculate each specimen 
+into every type of cell culture. A routine procedure is therefore employed and 
+the specimen is inoculated into three types of cells which will support the 
+growth of as many viruses as possible. For this purpose the cells are usually 
+grown in stoppered test tubes which may or may not be 'rolled." Rotation only 
+seems to be essential for the isolation of certain rhinoviruses which also require 
+a lower temperature (33°C) and a lower pH (6.8). A typical routine method 
+for virus isolation may include the inoculation of: (a) secondary monkey kidney 
+or human amnion cells, and (b) HeLa or Hep-2 cells. If the presence of rhino-
+viruses, cytomegaloviruses, or varicella zoster is suspected, human embryo fibro­
+blasts should also be inoculated; rubella virus can be isolated in RK 13 cells 
+while respiratory syncytial virus requires the more susceptible Bristol strain of 
+HeLa cells. 
+Two tubes of each type of culture are inoculated with a small amount of 
+the specimen (0.2 ml) and the tubes are then incubated. They are examined 
+microscopically using a low-power objective every 2 days for 10 days or longer 
+depending on the virus. If there is no evidence of virus after this time the cells 
+may be inoculated into fresh cultures (blind passage). 
+DETECTION OF VIRUS IN CELL CULTURES 
+Degenerative Changes (CPE) in the Cells. Different virus groups produce 
+characteristic changes in the monolayers which can be seen microscopically, 
+e.g., adenoviruses produce a clumping effect while enteroviruses produce round­
+ing and shrinking of the cells. The CPE and the type of cells in which it is 
+seen help to diagnose the virus. Identification is carried out by neutralization 
+test in which the infected fluid is treated with known antisera; these virus-
+serum mixtures are inoculated into cell cultures and after incubation the cells 
+are examined to determine which antiserum has neutralized the effect of the 
+virus. In the case of large groups of viruses such as the echoviruses it is usual 
+to combine several antisera in pools. 
+The CPE of a virus may be made more visible by the staining of cells, e.g., 
+4L. Hayflick and P. S. Moorehead, Exp. Cell Res. 25, 585 (1961); cf. Sections II and IV, 
+this volume. 
+===== PAGE 5 =====
+614 XIII. DIAGNOSIS AND UNDERSTANDING OF DISEASE 
+for identification of respiratory syncytial virus a 1:8000 dilution of neutral red 
+is added to the inoculated cultures. 
+Hemadsorption Test. This technique has been found useful for the detection 
+of certain viruses, such as parainfluenza, which do not always give a definite 
+CPE in tissue culture. 5 The test is performed by adding 0.2 ml of 0.4% guinea 
+pig or human "O" erythrocytes to roller tube cultures which have been incu­
+bated for 5 to 7 days following inoculation; uninoculated controls must be 
+included. The tubes are incubated at 4°C for 20 minutes and then examined 
+microscopically. A positive test is indicated by the adherence of red cells to 
+the cultures. A hemadsorption inhibition test is then carried out by inoculating 
+infected fluid into more cultures and incubating them until the hemadsorption 
+test is positive. The medium is then replaced with fresh medium containing 
+specific antisera and the tubes are incubated at 37°C for 1 hour. The fluid is 
+removed and a hemadsorption test is carried out. Inhibition of hemadsorption 
+by a particular antiserum indicates the identity of the virus. 
+Fluorescent Antibody Technique. Virus may be detected in cell cultures by 
+this method before CPE occurs, thus providing a quick specific diagnostic test. 
+The method has been successfully used for the diagnosis of respiratory syncytial 
+virus infections.
+6 The tube cultures are inoculated and incubated in the usual 
+way. For fluorescent antibody examination the cells are scraped off the tubes 
+and transferred to slides. After fixing they are then stained by the indirect method 
+with rabbit antiserum, e.g., against respiratory syncytial virus, followed by 
+fluorescein-conjugated anti-rabbit globulin. The virus can easily be detected 
+within the cells when the preparations are examined in the ultraviolet microscope. 
+Interference Test. This test is not used routinely but may be useful to detect 
+the presence of viruses which cannot be demonstrated by conventional methods. 
+For example some rhinoviruses and rubella virus were first isolated by this 
+technique. 7' 8 African green monkey kidney cell cultures were originally used 
+for rubella. Throat washings or other suitable specimens are inoculated into 
+each of two tube cultures and after 1 hour at room temperature the inoculum 
+is removed and replaced by nutrient medium. Following incubation for 7 days, 
+one of each pair of cultures is tested by challenge with 1000 TCID 50 of echo-
+virus type 11; control cultures are also inoculated and all cultures are incubated. 
+When the control cultures show an advanced CPE, fluids are collected from 
+control and test cultures and assayed for hemagglutination. Reduction of the 
+hemagglutination titer in the test culture indicates the presence of a virus in 
+the initial inoculum. 
+5R. M. Chanock, R. H. Parrott, K. Cook, B. E. Andrewes, J. A. Bell, T. Reichelderfer, 
+A. Z. Kapikian, F. M. Mastrota, and R. J. Huebner, N. Engl. /. Med. 258, 207 (1958). 
+6 P. S. Gardner and J. McQuillin, Brit. Med. J. 3, 340 (1968). 
+7G. Hitchcock and D. A. J. Tyrrell, Lancet i, 237 (1960). 
+8E. L, Buescher, P. D. Parkman, M. S. Artenstein, and S. B. Halstead, Fed. Proc. 21, 466 
+(1962). 
+===== PAGE 6 =====
+1. Culture Procedures in Medical Virology 615 
+MIXED CULTURE TECHNIQUE (COCULTIVATION) 
+This method has proved of value when a viral agent is difficult to isolate 
+from the original tissue, e.g., isolation of measles from a brain biopsy. 9 
+Primary cultures are prepared from such tissues by standard methods and 
+allowed to grow into monolayers. They are then trypsinized and suspended in 
+growth medium. One volume of this suspension is then combined with two vol­
+umes of HeLa cells and this mixture is cultured (see monolayer cultures). It 
+is possible that a CPE will develop in the HeLa cells although no CPE was 
+seen in the primary culture of the tissue. 
+ORGAN CULTURE 
+Cultures of chopped tissues have been used for many years to support the 
+growth of viruses but the techniques were not readily applicable to diagnostic 
+virology. However, a simple method of cultivating fragments of ciliated epi­
+thelium was described 10 which resulted in the isolation of new rhinoviruses and 
+a new member of the corona virus group. 11 
+For the isolation of respiratory viruses, tracheas of 14- to 22-week-old human 
+embryos are chopped into fragments; these are planted with the ciliated surface 
+uppermost on the scratched surface of a plastic Petri dish and medium (e.g., 
+Medium 199) is added. After approximately 2 days the cultures are inoculated 
+by dropping a small amount of the specimen onto the fragments and incubating. 
+Virus may be detected in the following ways: (a) stopping of ciliary activity 
+which may take 7-10 days, (b) fragments may be rubbed gently in distilled 
+water and the suspension examined by negative contrast in the electron micro­
+scope, (c) the medium may be collected, sedimented in the ultracentrifuge, and 
+examined in the electron microscope, or (d) the tissue may be examined for 
+pathological changes. 
+A recent report describes the use of human embryo liver cultures for experi­
+ments with Australia antigen. 12 The antigen was detected by complement fixa­
+tion test and by means of electron microscopy after freezing and thawing of the 
+cells. 
+DETECTION OF VIRAL ANTIBODIES 
+Immunofluorescence Studies 
+1. Monolayer cultures. Cells may be cultured on coverslips, in Leighton tubes, 
+or in Petri dishes. A suspension of cells is prepared in growth medium and 
+9L. Horta-Barbosa, D. A. Fuccillo, and J. L. Sever, Nature (London) 221, 974 (1969). 
+10 B. Hoorn, Acta Oto-Laryngol. Suppl. 188, 138 (1964). 
+11 D. A. J. Tyrrell and M. L. Bynoe, Brit. Med. J. 1, 1467 (1965). 
+12 A. J. Zuckerman, P. M. Baines, and J. D. Almeida, Nature (London) 236, 78 (1972). 
+===== PAGE 7 =====
+616 XIII. DIAGNOSIS AND UNDERSTANDING OF DISEASE 
+added in a concentration which will produce a monolayer. If Petri dishes are 
+used it is helpful to make the coverslips adhere to the glass with a small spot 
+of wax or silicone grease. Petri dishes may need to be incubated in an atmosphere 
+of 5% C0 2 in air but the use of HEPES buffer will overcome this. The method 
+has been found particularly useful in the diagnosis of rubella to detect rubella-
+specific IgM antibody. 13 Coverslip cultures of BHK 21 cells are prepared and 
+inoculated with rubella virus. After incubation the cultures are fixed in acetone 
+and can be preserved at — 20°C in the presence of silica gel. Uninfected cul­
+tures are also necessary. To detect rubella-specific IgM in human serum, dilu­
+tions of the serum are overlaid on the rubella-infected coverslip cultures. After 
+incubation for 30 minutes followed by a thorough washing the coverslips are 
+treated with fluorescein-labeled anti-human IgM. Specific fluorescence indicates 
+the presence of rubella-specific IgM antibody due to recent infection. 
+2. Suspended cell cultures. Indirect immunofluorescence is used routinely to 
+measure antibodies to EB virus. 14 Coverslip cultures cannot be prepared in the 
+usual way since EB cells are cultured in suspension and do not attach to the 
+surface of a glass vessel. Cell smears are therefore prepared. After centrifuga-
+tion of the cultures the supernatant fluid is removed and the cells are resus­
+pended in the remaining fluid. A small drop of this suspension is placed on a 
+coverslip, evenly distributed over the surface, and allowed to dry thoroughly at 
+37°C. The coverslips are then fixed. Using the indirect method the coverslip 
+preparations are exposed to diluted test serum (1:8) for 1 hour at 37°C. After 
+washing, fluorescein isothiocyanate-labeled serum prepared to the appropriate 
+globulin is added and left for a further incubation period; the coverslips are 
+then washed and mounted. Specific fluorescence in the cells indicates EB anti­
+body and the test can be made quantitative by using dilutions of serum. 
+Plaque Inhibition Test. The original demonstration
+15 that polio virus could 
+produce plaques in monolayer cultures of monkey kidney cells has led to the 
+demonstration of plaque production by most viruses. Cell monolayers are pre­
+pared in flat bottles or Petri dishes. The growth medium is removed and the 
+cells are inoculated with virus. After a suitable time for adsorption (1 hour) 
+the virus is removed and the monolayers are overlaid with growth medium 
+containing agar (1.5%); neutral red may be incorporated in the medium. An accu­
+rate measurement of the number of plaque-forming units may be calculated 
+after incubation. The neutralizing capacity of serum may be measured by 
+mixing the serum with a known amount of virus and comparing the number 
+of plaques produced by the mixture with the number produced by virus without 
+serum. This method is sensitive and provides a more accurate neutralization 
+test for enteroviruses than tube cultures
+16 but it is more cumbersome and is 
+therefore not used widely in routine laboratories. The plaque test has also been 
+used to differentiate between wild and vaccine strains of polio virus. 
+13 M. Haire and D. S. M. Hadden, /. Med. Microbiol. 5, 237 (1972). 
+14 G. Henle and W. Henle, /. Bacteriol. 91, 1248 (1966). 
+35 R. Dulbecco and M. Vogt, /. Exp. Med. 99, 167 (1954). 
+MG. D. Hsiung and J. L. Melnick, Virology 1, 533 (1955). 
+===== PAGE 8 =====
+2. Use of Cultures Initiated from Amniocentesis 617 
+Metabolic Inhibition Test. This test depends on the ability to use the metab­
+olism of cell cultures as an indication of virus growth. 17 Acid is produced by 
+actively growing cultures but if the metabolism is inhibited by the presence 
+of virus the pH will be different; such differences can be measured if an indica­
+tor is incorporated in the medium. Neutralization tests can therefore be carried 
+out using this principle, i.e., if virus is neutralized by antiserum and inoculated 
+into cell cultures the cells will continue to metabolize whereas if there is no 
+neutralization metabolism will be reduced. This test can be carried out in tubes, 
+macroplates or microplates. Rigid disposable plastic plates have proved satis­
+factory. Serum dilutions in 0.025-ml amounts can be prepared in the plates and 
+an equal quantity of virus added. After incubation of the serum-virus mixtures 
+for 1 hour a suitable dilution of cells in 0.1 ml medium is added. The plates are 
+then sealed with transparent tape and incubated. If phenol red is incorporated 
+in the medium, neutralization will be indicated by a yellow color; the virus 
+control will be pink. Time of incubation will vary for different viruses and modi­
+fications such as the addition of extra glucose and/or magnesium chloride have 
+been made. The test has been used for coxsackie B viruses and rhinoviruses and 
+has proved valuable to distinguish between wild and vaccine strains of polio­
+virus. It is economical on reagents and space. 
+17 F. L. Shand, /. Med. Lab. Technol. 18, 75 (1961). 
+Carlo Volenti 
+The prenatal detection of genetic disorders, by the analysis of cultivated 
+fetal cells obtained by amniocentesis during the second trimester, has recently 
+added a new useful and very promising dimension to genetic counseling, once 
+based on empirical statistical data. 1-3 The indications to genetic diagnostic 
+1 A. Dorfman (ed.), "Antenatal Diagnosis." The University of Chicago Press, Chicago, 
+Illinois, 1972. 
+2 A. Milunsky, J. W. Littlefield, J. N. Kaufer, E. H. Kolodny, V. E. Shih, and L. Atkins, 
+N. Engl. J. Med. 283, 1370, 1441, 1498 (1970). 
+3C. Valenti, Ric. Clini. Lab. 1, 443 (1971). 
+CHAPTER 2 
+Cultures Initiated 

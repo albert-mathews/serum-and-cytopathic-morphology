@@ -1,0 +1,252 @@
+
+===== PAGE 1 =====
+It is further indicated that progesterone may be 
+obtained from the reaction in an alternate state Pi. 
+Preliminary studies indicate that Pi is water soluble, 
+but further studies are in progress on the nature of 
+this change. 
+One of the most meaningful aspects of this study 
+may be the ilz vitro demonstration of the effect of a 
+hormone on an enzymatic reaction at a subcellular 
+level. It is furthermore indicated that the participa- 
+tion of the hormone in the enzymatic reaction results 
+in its alteration (metabolism!). This specific example 
+may, therefore, illustrate a concept of wide applica- 
+tion and significance. 
+References 
+1. JONES. H. W.. WADHI. 0. RUTH. and GOLDBERG. B. Am. J. 
+0b8tet.' ~~necol., 64, ill8 (1952). 
+2. DuBo~s, K. P., and POTTER, V. R. J. Btol. Ckem., 150, 185 
+(1943). 
+3. MICHAELIS, L. Biochem. Z., 234, 139 (1934). 
+4. FISKE, C. H., and SUBBAROW, Y. J. Biol. Chem., 66, 375 
+(1925). 
+5. Nov~~o~r, A. B., HECHT, L., PODBER, E., and RYAN, J. J. 
+Biol. Chem., 194, 153 (1962). 
+6. MARQUETTE. M.. and SCEWEIGEBT. B. S. Science. 111. 660 . . 
+(1950). 
+7. SWANSON, M. A. J. Btol. Chem., 191, 577 (1951). 
+Manuscript received November 10, 1952. 
+A Simplified Method for Cultivation of 
+Poliomyelitis Virus in Tissue Culture 
+C. P. Li and Morris Schaeffer 
+Virus and Rickettsia Section, 
+Colnnrunicable Disease Center, Public Healtb Sewice, 
+U. S. Department of Healtb, Education and Welfare, 
+Montgomery, Alabama 
+Roller tube tissue culture methods, as described by 
+Enders and associates (1, 2) and extended by others 
+(3-6)) have opened new vistas in poliomyelitis re- 
+search by providing techniques more economical than 
+previous methods, requiring the use of monkeys, for 
+poliomyelitis virus isolation, virus typing, and the 
+assay of specific antibodies. 
+However, there still remain a number of practical 
+difficulties and limitations, and foremost among them 
+are the ingredients of the medium. Tissues su~h as 
+human embryo and monkey testes either are not 
+always readily available or are expensive. Horse serum 
+is frequently inhibitory to virus, and chick embryo 
+extracts are at times sources of contamination. While 
+search is continuing for a suitable substitute for mon- 
+key testes, currently the most commonly employed tis- 
+sue, we wish to report briefly on some changes in 
+technique. These modifications permit the rotary drum 
+to be dispensed with, and, when monkey testis tissue 
+is used, the chick embryo extract and horse serum to 
+be replaced by plasma hydrolyzate with rather satis- 
+factory results. 
+Shortly after tissue culture study with poliomyelitis 
+virus was instituted at this laboratory one year ago, 
+it was observed that rotation of the tissue cultures is 
+FIG. 1. Wooden racks holding tissue culture tubes in up- 
+right position or in slanted position. 
+not essential for adequate cell or virus multiplication. 
+If the culture tubes are kept stationary in slanted 
+position so that the fluid just covers the tissue em- 
+bedded at the lower end of the test tube, the cells as 
+well as the virus grow very well. Other workers have 
+had similar experience (7-9). 
+Of a number of substances tested with a view to- 
+ward replacement of chick +mbryo extract and horse 
+serum, bovine plasma hydrolyzatel proved most satis- 
+factory. Consequently, a medium incorporating this 
+material was devised; it is designated Medium E. 
+Medium E is rather simple, consisting of 75% Hank- 
+Simms (Hank's 3 parts, Simms' 1 part) solution and 
+25% of the bovine plasma hydrolyzate; It is adjusted 
+to pH 7.0-7.2 by the addition of sterile sodium bicar- 
+bonate solution. Recently it has been found that the 
+Simms serum ultrafiltrate may be omitted entirely 
+with equally good results. 
+The tissue cultures are prepared with fragments of 
+monkey testicular tissue covered with 2 cc of the 
+medium in ordinary bacteriological test tubes, 15 x 150 
+mm, similar to the techniques of Youngner, Ward, and 
+Salk (5) and Ledinko, Riordan, and Melnick (6). 
+The tubes are inserted into especially designed wooden 
+racks, 11% x 5y2 x 5y2 in., with holes for 4 rows of 
+tubes, 8 tubes/row. When the rack is placed side- 
+wise, a strip of wood about 1 cm thick across the 
+upper back keeps the tubes in a slanted position at 
+an angle of about 5O above horizontal level, and the 
+medium just covers the tissue. When the tubes are 
+moved from one place to another, the rack is carried 
+in an upright position to prevent the fluid from touch- 
+ing the rubber stoppers (Fig. 1). 
+The cultures are incubated at 35' C for 5-7 days. 
+No change of the medium is required during this 
+period. The medium is then removed, and the vim, 
+or other material desired to be cultured (in an amount 
+of about 0.1 cc), is placed in contact with the cells 
+for about 10 min, after which 2 cc of fresh medium is 
+added. Incubation is continued and the cells are ob- 
+served. With this procedure, both the fibroblasts and 
+the virus grow well in Medium E, and, although the 
+cells do not grow so richly and densely as those cul- 
+tured in Medium A of Youngner, Ward, and Salk 
+1 Obtained commercially as Travamin, a sterile 5% solu- 
+tion of bovine plasma hydrolyzate, w/v in water, from Baxter 
+Laboratories, Inc., Morton Grove, Ill. Recently Melnlck and 
+Riordan (8) reported that lactalbumin enzymatic hydrolyzate 
+is also satisfactory. 
+
+===== PAGE 2 =====
+FIGS. 2-5. The cytopathogenic effect of poliomyelitis viruses on monkey testicular tissue culture Nedium E without ro- 
+tation, showing various degrees of cellular degeneration. 75 x. Fig. 2. First degree of degeneration. Beginning degeneration 
+of the periphery of the outgrowth zone. Twelve-day viral growth. (Mouse-adapted Type I11 Leon virus.) Fig. 3. Second degree 
+of degeneration. Massive degeneration of the entire outgrowth. Four-day viral growth. (Tissue-culture-adapted Type I Mahouey 
+virus.) Fig. 4. Third degree of degeneration. The outgrowth is almost entirely gone. The periphery of the mother tissue itself 
+shows degeneration. Seven-day viral growth. (Tissue-culture-adapted Type I Mahoney virus.) Fig. 5. Control. Ten-day cellular 
+culture without inoculation of virus. 
+(5), they are not granular as are those observed in 
+Medium A. The pH of this medium does not drop so 
+rapidly as does the medium containing chick embryo 
+extract and horse serum. Consequently the number of 
+necessary changes of medium is reduced. 
+The cellular degeneration caused by poliomyelitis 
+viruses in Medium E is not only clearly defined but 
+also, because nonspecific degeneration does not readily 
+occur in uninfected tissue, the specific effects may be 
+more easily recognized. There appears to be no dif- 
+ference in virus yield when this technique is compared 
+to techniques employing the other media with and 
+without the use of the rotary drums. For instance, a 
+culture of Type I virus (Mahoney strain2) in Medium 
+E without rotation yielded a pooled fluid with a tissue 
+culture titer of 10-5. This is the highest titer we have 
+obtained as yet with any medium with or without rota- 
+tion. 
+The cytopathogenic effects of the viruses on tissue 
+culture cells in Medium E without rotation are shown 
+in Figs. 2-5. 
+*Kindly supplied by J. E. Salk, Pittsburgh. Pa. 
+===== PAGE 3 =====
+In a number of tests, cultures in Medium E without 
+rotation have proved satisfactory for primary isola- 
+tion of virus and for the performance of neutraliza- 
+tion tests with the three types of poliomyelitis virus. 
+Poliomyelitis viruses have been isolated from infected 
+monkey cord, mouse cord, and human stools. One of 
+the stool specimens was negative by monkey inocula- 
+tion, but positive results were obtained by this tissue 
+culture method. The fluid phase of this tissue culture, 
+produced paralysis in two monkeys inoculated with it, 
+and poliomyelitis was confirmed by histopathologio 
+findings. 
+Neutralization tests, with the Mahoney strain as 
+the test virus, have been performed by this method on 
+a group of 80 human serum specimens with quite 
+satisfactory results. In non-neutralized mixtures first 
+evidence of cellular degeneration was usually observed 
+On a New Derivative of Thiamine 
+with Cysteine 
+Taizo Matsukawa and Shojiro Yurugi 
+Research Laboratory, Takeda Pharmaceutical 
+Industries, Ltd., Osaka, Japan 
+The mechanism of thiamine in the metabolism in the 
+living body is not yet clear. Zima and Williams (1) 
+previously proposed a redox system between the thiol 
+form of thiamine and thiamine disulfide. 
+The present authors have recently hypothesized a 
+mechanism of thiamine in a medium that contains 
+cystine, cysteine, glutation, or proteins having thiol 
+groups, and have studied as a model experiment the 
+reactions between thiamine and cystine, and between 
+thiamine disulfide and cysteine by paper partition 
+chromatography. 
+(1) Thiamine and equivalent cystine were dissolved 
+in a phosphate buffer solution (pH 7.5), left stand- 
+ing at 37' C for 20 min, and then subjected to paper 
+partition chromatography using the solvent prepared 
+by shaking a mixture of alcohol, acetic acid, butanol, 
+and water (1 :1:4: 10) and then drawing off the 
+lower layer (Table 1). 
+on the second day after inoculation with the virus. 
+This became fairly definite by the third day, and the 
+final readings were possible on the fourth day. 
+References 
+1. ENDERS,J. F., WELLER, T.H., and ROBRINS, F. C. Sc6enoe, 
+109,85 (1949). 
+2. ROBBINS,F. C., et al. Am. J. Hug., 54, 286 (1951). 
+3. 	SMITH, W. M., CHAMBERS, V. C., and EVANS, C. A. Pro& 
+Soc. E~ptl. Biol. Ned., 76, 696 (1951). 
+4. SYVERTON, W. F., and BUTORAC, J. T., SCHERER, G. Ibid., 
+77, 23 (1951). 
+5. YOUNGNER. WARD. E. ' N.. and SALK. J. E. Ant.J. S.. 	 J. 
+-	 Hug., 55, 2.91 (1952). 
+6. LEDINKO,N., RIORDAN,J. T., and MELNICK, J. L. Ibid., 
+323. 
+7. SCHERER.W. and SYYERTON. I.. J. T. J. Emptl. died., 96, 
+369 (1952). 
+8. MELNICK,J. L., and RIORDAN, J. T. Proc. Soc. Effiptl. BdoE. 
+Med.. 81. 208 (1952). 
+9. ENDERS; J. F.', and ROBBINS, F. C. Personal communica-
+tions. 
+Manuscript received October 31, 1952. 
+The five paper strips on which the specimen was 
+developed under the same conditions were dried in air 
+and sprayed separately with the reagents indicated 
+in Table 1. 
+The zones of Rf 0.04-0.05, 0.28-0.29, 0.29-0.31, and 
+0.36-0.38 correspond to cystine, cysteine, thiamine, 
+and thiamine disulfide (VI), respectively. Besides 
+these a new zone of Rf 0.14-0.15 was clearly detected 
+by the reagents D, N, and I between the zones of 
+cystine and thiamine. 
+When the paper strip sprayed with the reagent B 
+was heated at 70-80' C for 5-10 min and then sprayed 
+with the reagent A, the zone corresponding to thia- 
+mine showed strong fluorescence of thiochrome under 
+the quartz mercury lamp, while the zones of Rf 0.14- 
+0.15 and thiamine disulfide (VI) did not. However, 
+when the paper strip was sprayed with the reagent C 
+and heated at 70-80' C for 15-30 min in order to 
+reduce the substances before spraying with the re-
+agents B and A, all the three zones showed strong 
+fluorescence. 
+From the result it seems evident that the new zone 
+of Rf 0.14-0.15 means a new compound having the 
+structure (IV) which was produced from the thiol 
+form (11) of thiamine and cystine (111). 
+TABLE 1 
+Thiamine Thiamine 
+Reagents Cystine cysteine Cysteine Thiamine disulfide 
+(IV) (VI) 
+D = the Kraut-Dragendorff reagent (2). 
+N = 0.2% solution if ninhydrin in the water saturated with 
+butanol. 
+I = 0.05 aqueous solution of iodine containing % 
+sodium azide. The reagent used for the detection of sulfur- 
+containing amino acids (8) (thiamine and some related corn- 
+pounds can be detected by this reagent). 
+July 24, 1953 
+B = this reagent is pre~ared bs adding 10% solution of 
+sodium cyanide to the water sahrated with bromine until 
+the color of the bromine has disappeared (this is used instead 
+of potassium ferricyanide to oxidize thiamine to thiochrome). 
+C = 0.4% solution of cysteine hydrochloride in water. 
+A=5% solution of sodium hydroxide in the water satur-
+ated with butanol. 
+The mark (--) implies weak detection. 
+109 

@@ -1,0 +1,1066 @@
+[
+  {
+    "pmcid": "PMC13224474",
+    "pmid": "42232058",
+    "doi": "10.3389/fvets.2026.1829414",
+    "year": "2026",
+    "title": "A new lineage of Ranavirus micropterus1 infects ornamental wrasses (Macropharyngodon choati) from the Great Barrier Reef and causes severe disease in captivity",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "growth medium (10% FBS",
+    "quote_post": "maintenance medium (L15 + 2% FBS",
+    "method": "GM_MM",
+    "cells": [
+      "BF-2",
+      "RD"
+    ],
+    "viruses": [
+      "ranavirus"
+    ],
+    "note": "ranavirus fish isolation"
+  },
+  {
+    "pmcid": "PMC13556978",
+    "pmid": "42695606",
+    "doi": "10.1080/21505594.2026.2714605",
+    "year": "2026",
+    "title": "A conserved E1 stem motif functions as a virulence switch in the emerging Getah virus",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "maintained in Dulbecco’s Modified Eagle Medium (DMEM; Cat: 12,491,015, Gibco, USA) supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with an overlay of maintenance medium (DMEM with 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero",
+      "N2a"
+    ],
+    "viruses": [
+      "getv",
+      "chikungunya",
+      "cmv",
+      "west nile"
+    ],
+    "note": "GETV piglet isolation"
+  },
+  {
+    "pmcid": "PMC13184637",
+    "pmid": "42164053",
+    "doi": "10.1155/tbed/1340053",
+    "year": "2026",
+    "title": "Genetic Diversity, Recombination, and Pathogenicity of Porcine Epidemic Diarrhea Virus Strains Circulating in China During 2023–2024",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "maintained in Dulbecco’s modified Eagle’s medium (DMEM; Biochannel, China) supplemented with 10% fetal bovine serum",
+    "quote_post": "After adsorption at 37°C for 1 h, the inoculum was removed and cells were overlaid with DMEM containing 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero"
+    ],
+    "viruses": [
+      "pedv",
+      "prrsv"
+    ],
+    "note": "PRRSV isolation"
+  },
+  {
+    "pmcid": "PMC13431588",
+    "pmid": "42515612",
+    "doi": "10.3390/v18070760",
+    "year": "2026",
+    "title": "Detection of Infectious Hepatitis E Virus in Retail Pork Pâté After Optimization of Extraction Protocols",
+    "pre": "5",
+    "post": "5",
+    "quote_pre": "cultured in maintenance medium: Minimal Essential Medium (MEM, Thermo Fisher, #31095-029), supplemented with 5% fetal bovine serum",
+    "quote_post": "maintenance medium: Minimal Essential Medium (MEM, Thermo Fisher, #31095-029), supplemented with 5% fetal",
+    "method": "grown_maint",
+    "cells": [
+      "A549"
+    ],
+    "viruses": [
+      "hev",
+      "hepatitis e",
+      "norovirus"
+    ],
+    "note": "HEV pork isolation"
+  },
+  {
+    "pmcid": "PMC13086431",
+    "pmid": "41955273",
+    "doi": "10.1371/journal.ppat.1014147",
+    "year": "2026",
+    "title": "Accumulation of mutations in nsp4, E, and the S2 subunit underlies mammalian cell tropism expansion and virulence attenuation of avian coronavirus",
+    "pre": "10",
+    "post": "1",
+    "quote_pre": "maintained in Dulbecco’s modified Eagle medium (DMEM; Gibco) supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with maintenance medium containing 1% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "BHK-21",
+      "Vero",
+      "vero",
+      "MDCK"
+    ],
+    "viruses": [
+      "sars-cov-2",
+      "influenza",
+      "zika",
+      "fmdv"
+    ],
+    "note": "SARS-CoV-2?"
+  },
+  {
+    "pmcid": "PMC12040631",
+    "pmid": "40223343",
+    "doi": "10.61186/ibj.4367",
+    "year": "2024",
+    "title": "Combination Therapy of Oncolytic Newcastle Virus and Lenalidomide Enhanced Cytotoxicity in Prostate Cancer Cells",
+    "pre": "10",
+    "post": "0",
+    "quote_pre": "Growth medium (+ 10% FBS",
+    "quote_post": "maintenance medium without FBS",
+    "method": "GM_MM0",
+    "cells": [
+      "Vero",
+      "HeLa"
+    ],
+    "viruses": [
+      "ndv",
+      "newcastle",
+      "adenovirus",
+      "influenza"
+    ],
+    "note": "NDV"
+  },
+  {
+    "pmcid": "PMC13017990",
+    "pmid": "41811506",
+    "doi": "10.1007/s00248-026-02733-2",
+    "year": "2026",
+    "title": "Diagnosis of Betanodavirus Infection in the Gonad of Greater Amberjack Broodstocks Shows a Sex-Biased Infection and Immune Responses",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "growth medium which consisted on Leibovitz (L-15) medium (Gibco) supplemented with 10% foetal",
+    "quote_post": "maintenance medium (2% FBS",
+    "method": "GM_MM",
+    "cells": [],
+    "viruses": [
+      "betanodavirus"
+    ],
+    "note": "betanodavirus"
+  },
+  {
+    "pmcid": "PMC12298480",
+    "pmid": "40711261",
+    "doi": "10.3390/vetsci12070601",
+    "year": "2025",
+    "title": "Preparation of Monoclonal Antibodies Against the gD Protein of Feline Herpesvirus Type-1 by mRNA Immunization",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "growth medium (MEM with 10% fetal bovine",
+    "quote_post": "maintenance medium (MEM) containing 2% fetal bovine",
+    "method": "GM_MM",
+    "cells": [],
+    "viruses": [
+      "sars-cov-2"
+    ],
+    "note": "gD protein? herpes"
+  },
+  {
+    "pmcid": "PMC13185581",
+    "pmid": "42012186",
+    "doi": "10.1128/jvi.00006-26",
+    "year": "2026",
+    "title": "The oral nucleoside analogue inhibitor VV251 effectively inhibits coinfection by respiratory syncytial virus and influenza A virus",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cultured in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with fresh DMEM containing 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "HEp-2",
+      "MDCK",
+      "A549",
+      "Vero"
+    ],
+    "viruses": [
+      "rsv",
+      "influenza",
+      "sars-cov-2",
+      "hsv"
+    ],
+    "note": "VV251 antiviral"
+  },
+  {
+    "pmcid": "PMC13296062",
+    "pmid": "42351612",
+    "doi": "10.3390/biomedicines14061184",
+    "year": "2026",
+    "title": "In Vitro Antiviral Effects of Green-Lipped Mussel Oil and Low-Molecular-Weight Fucoidan on HSV, RSV, and SARS-CoV-2 Pseudovirus",
+    "pre": "10",
+    "post": "5",
+    "quote_pre": "maintained in Dulbecco’s Modified Eagle’s Medium (DMEM) containing 4 mM L-glutamine, 4500 mg/L glucose, 1 mM sodium pyruvate, and 1500 mg/L sodium bicarbonate, supplemented with 10% fetal bovine serum",
+    "quote_post": "infection medium (Opti-mem supplemented with 5% heat inactivated FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero",
+      "HEp-2",
+      "Hep-2"
+    ],
+    "viruses": [
+      "sars-cov-2",
+      "hsv",
+      "rsv",
+      "influenza"
+    ],
+    "note": "antiviral mussel"
+  },
+  {
+    "pmcid": "PMC12474224",
+    "pmid": "41012598",
+    "doi": "10.3390/v17091170",
+    "year": "2025",
+    "title": "An Anti-HIV Drug Is Highly Effective Against SARS-CoV-2 In Vitro and Has Potential Benefit for Long COVID Treatment",
+    "pre": "10",
+    "post": "5",
+    "quote_pre": "growth medium (DMEM + 10% FBS",
+    "quote_post": "maintenance medium was DMEM + 5% FBS",
+    "method": "GM_MM",
+    "cells": [
+      "Vero E6",
+      "Vero",
+      "VeroE6"
+    ],
+    "viruses": [
+      "sars-cov-2",
+      "hiv",
+      "influenza",
+      "ebola"
+    ],
+    "note": "anti-HIV SARS"
+  },
+  {
+    "pmcid": "PMC5133602",
+    "pmid": "27910909",
+    "doi": "10.1038/srep38293",
+    "year": "2016",
+    "title": "The Disinfection Characteristics of Ebola Virus Outbreak Variants",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "propagated in growth media consisting of Dulbecco’s modified eagle medium (DMEM) (HyClone) which included 10% Fetal Bovine Serum",
+    "quote_post": "FBS reduced to 2%",
+    "method": "reduced_to",
+    "cells": [
+      "VeroE6"
+    ],
+    "viruses": [
+      "ebola",
+      "rotavirus",
+      "influenza"
+    ],
+    "note": "Ebola VeroE6 10-2"
+  },
+  {
+    "pmcid": "PMC8493110",
+    "pmid": "34631492",
+    "doi": "10.2147/VMRR.S326479",
+    "year": "2021",
+    "title": "Immunogenicity and Efficacy Evaluation of Vero Cell-Adapted Infectious Bursal Disease Virus LC-75 Vaccine Strain",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "Medium (DMEM, HIMeDIA) with 10% and 2% sterile fetal calf serum (FCS; Gibco) was used as a growth and maintenance",
+    "quote_post": "Medium (DMEM, HIMeDIA) with 10% and 2% sterile fetal calf serum (FCS; Gibco) was used as a growth and maintenance",
+    "method": "growth_and_maint_pair",
+    "cells": [
+      "Vero"
+    ],
+    "viruses": [
+      "ibdv",
+      "newcastle"
+    ],
+    "note": "IBDV Vero 10-2"
+  },
+  {
+    "pmcid": "PMC11266174",
+    "pmid": "39051013",
+    "doi": "10.3389/fvets.2024.1439015",
+    "year": "2024",
+    "title": "Inhibition of porcine reproductive and respiratory syndrome virus replication by rifampicin in vitro",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cultured at 37°C in 5% CO2 in RPMI-1640 medium supplemented with 10% fetal bovine serum",
+    "quote_post": "fresh medium supplemented with 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Marc-145",
+      "Vero"
+    ],
+    "viruses": [
+      "prrsv",
+      "pedv",
+      "sars-cov-2",
+      "influenza"
+    ],
+    "note": "PRRSV rifampicin 10-2"
+  },
+  {
+    "pmcid": "PMC7127220",
+    "pmid": "15451183",
+    "doi": "10.1016/j.antiviral.2004.02.004",
+    "year": "2004",
+    "title": "Apoptosis induced by a cytopathic hepatitis A virus is dependent on caspase activation following ribosomal RNA degradation but occurs in the absence of 2′–5′ oligoadenylate synthetase",
+    "pre": "1",
+    "post": "1",
+    "quote_pre": "growth medium or maintenance medium (1% FBS",
+    "quote_post": "maintenance medium (1% FBS",
+    "method": "GM_MM",
+    "cells": [
+      "MRC-5"
+    ],
+    "viruses": [],
+    "note": "epmc:2004:Apoptosis induced by a cytopathic hepati"
+  },
+  {
+    "pmcid": "PMC3073889",
+    "pmid": "21439070",
+    "doi": "10.1186/1743-422X-8-141",
+    "year": "2011",
+    "title": "In vitro evaluation of antiviral and virucidal activity of a high molecular weight hyaluronic acid",
+    "pre": "10",
+    "post": "10",
+    "quote_pre": "growth medium) or 5% (maintenance medium) foetal bovine serum (FBS), penicillin (100 U/ml) and streptomycin (100 μg/ml); RPMI 1640 medium supplemented with 10% heat-inactivated FBS",
+    "quote_post": "maintenance medium) foetal bovine serum (FBS), penicillin (100 U/ml) and streptomycin (100 μg/ml); RPMI 1640 medium supplemented with 10% heat-inactivated FBS",
+    "method": "GM_MM",
+    "cells": [
+      "VERO",
+      "MDCK"
+    ],
+    "viruses": [
+      "hsv",
+      "influenza",
+      "prrsv",
+      "adenovirus"
+    ],
+    "note": "epmc:2011:In vitro evaluation of antiviral and vir"
+  },
+  {
+    "pmcid": "PMC3341398",
+    "pmid": "22563456",
+    "doi": "10.1371/journal.pone.0034589",
+    "year": "2012",
+    "title": "Inhibition of Enterovirus 71 (EV-71) Infections by a Novel Antiviral Peptide Derived from EV-71 Capsid Protein VP1",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "grown in Dulbecco’s Modified Eagle’s Medium (DMEM) supplemented with 10% fetal bovine serum",
+    "quote_post": "maintenance medium supplemented with 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "RD",
+      "Vero",
+      "HeLa"
+    ],
+    "viruses": [
+      "enterovirus",
+      "hiv",
+      "influenza",
+      "dengue"
+    ],
+    "note": "epmc:2012:Inhibition of enterovirus 71 (EV-71) inf"
+  },
+  {
+    "pmcid": "PMC4682342",
+    "pmid": "26651605",
+    "doi": "10.1016/j.stemcr.2015.11.002",
+    "year": "2015",
+    "title": "Canonical MicroRNA Activity Facilitates but May Be Dispensable for Transcription Factor-Mediated Reprogramming",
+    "pre": "15",
+    "post": "15",
+    "quote_pre": "maintained in mouse ESC maintenance medium (DMEM, 15% fetal bovine serum",
+    "quote_post": "maintenance medium (DMEM, 15% fetal",
+    "method": "grown_maint",
+    "cells": [],
+    "viruses": [
+      "adenovirus"
+    ],
+    "note": "epmc:2015:Canonical MicroRNA Activity Facilitates "
+  },
+  {
+    "pmcid": "PMC7118997",
+    "pmid": "24769243",
+    "doi": "10.1016/j.antiviral.2014.04.004",
+    "year": "2014",
+    "title": "Inhibition of enterovirus 71 infection by antisense octaguanidinium dendrimer-conjugated morpholino oligomers",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "grown in Dulbecco’s modified Eagle’s medium (DMEM, Hyclone) supplemented with 10% fetal bovine serum",
+    "quote_post": "maintenance medium (DMEM with 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "RD",
+      "vero"
+    ],
+    "viruses": [
+      "enterovirus",
+      "ebola",
+      "west nile",
+      "dengue"
+    ],
+    "note": "epmc:2014:Inhibition of enterovirus 71 infection b"
+  },
+  {
+    "pmcid": "PMC7114468",
+    "pmid": "23856384",
+    "doi": "10.1016/j.virusres.2013.06.019",
+    "year": "2013",
+    "title": "A study of the virulence in mice of high copying fidelity variants of human enterovirus 71",
+    "pre": "5",
+    "post": "2",
+    "quote_pre": "Growth medium was DMEM supplemented with 5% FBS",
+    "quote_post": "Maintenance medium was Dulbecco's Modified Eagle Medium (DMEM) (HyClone) supplemented with 2% foetal",
+    "method": "GM_MM",
+    "cells": [
+      "RD",
+      "Vero"
+    ],
+    "viruses": [
+      "enterovirus",
+      "cdv",
+      "fmdv",
+      "chikungunya"
+    ],
+    "note": "epmc:2013:A study of the virulence in mice of high"
+  },
+  {
+    "pmcid": "PMC6264763",
+    "pmid": "21869749",
+    "doi": "10.3390/molecules16097210",
+    "year": "2011",
+    "title": "Effect of ASP2151, a Herpesvirus Helicase-Primase Inhibitor, in a Guinea Pig Model of Genital Herpes",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "grown in Eagle’s minimum essential medium supplemented with 10% fetal bovine serum",
+    "quote_post": "maintenance medium containing 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero",
+      "HEF"
+    ],
+    "viruses": [
+      "hsv"
+    ],
+    "note": "epmc:2011:Effect of ASP2151, a herpesvirus helicas"
+  },
+  {
+    "pmcid": "PMC7126431",
+    "pmid": "25794961",
+    "doi": "10.1016/j.bios.2015.03.018",
+    "year": "2015",
+    "title": "Impedimetric cell-based biosensor for real-time monitoring of cytopathic effects induced by dengue viruses",
+    "pre": "10",
+    "post": "5",
+    "quote_pre": "growth medium (RPMI-1640 medium supplemented with 10% FBS",
+    "quote_post": "maintenance medium (RPMI-1640 supplemented with 5% FBS",
+    "method": "GM_MM",
+    "cells": [
+      "BHK-21",
+      "Vero",
+      "C6/36"
+    ],
+    "viruses": [
+      "dengue",
+      "chikungunya",
+      "ebola",
+      "influenza"
+    ],
+    "note": "epmc:2015:Impedimetric cell-based biosensor for re"
+  },
+  {
+    "pmcid": "PMC3438744",
+    "pmid": "22973164",
+    "doi": "10.1100/2012/102843",
+    "year": "2012",
+    "title": "HIV-1 Replication in HIV-Infected Individuals Is Significantly Reduced When Peripheral Blood Mononuclear Cells Are Superinfected with HSV-1",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "growth medium (GM; M199 with Earle's salt (Gibco, USA), supplemented with 10% FBS",
+    "quote_post": "maintenance medium (MM: same as GM except with 2% FBS",
+    "method": "GM_MM",
+    "cells": [
+      "Vero"
+    ],
+    "viruses": [
+      "hiv",
+      "hsv"
+    ],
+    "note": "epmc:2012:HIV-1 replication in HIV-infected indivi"
+  },
+  {
+    "pmcid": "PMC4157854",
+    "pmid": "25198669",
+    "doi": "10.1371/journal.pone.0106891",
+    "year": "2014",
+    "title": "Generation and Efficacy Evaluation of Recombinant Classical Swine Fever Virus E2 Glycoprotein Expressed in Stable Transgenic Mammalian Cell Line",
+    "pre": "10",
+    "post": "1",
+    "quote_pre": "cultured at 37°C in a 5% CO 2 atmosphere in Dulbecco's modified Eagle's medium (DMEM; Gibco, Invitrogen, Carlsbad, CA) supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with fresh medium to maintain the culture (DMEM with 1% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "BHK-21"
+    ],
+    "viruses": [
+      "adenovirus"
+    ],
+    "note": "epmc:2014:Generation and efficacy evaluation of re"
+  },
+  {
+    "pmcid": "PMC4008601",
+    "pmid": "24794394",
+    "doi": "10.1371/journal.pone.0096623",
+    "year": "2014",
+    "title": "Silencing Herpes Simplex Virus Type 1 Capsid Protein Encoding Genes by siRNA: A Promising Antiviral Therapeutic Approach",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cultured in Dulbecco’s modified Eagle medium (DMEM) (Gibco) supplemented with 10% heat-inactivated fetal bovine serum",
+    "quote_post": "maintenance medium were DMEM supplemented with 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero",
+      "vero"
+    ],
+    "viruses": [
+      "hsv",
+      "hiv",
+      "dengue",
+      "influenza"
+    ],
+    "note": "epmc:2014:Silencing herpes simplex virus type 1 ca"
+  },
+  {
+    "pmcid": "PMC4413797",
+    "pmid": "25972850",
+    "doi": "10.3389/fmicb.2015.00359",
+    "year": "2015",
+    "title": "Comparison of α-glucosyl hesperidin of citrus fruits and epigallocatechin gallate of green tea on the Loss of Rotavirus Infectivity in Cell Culture",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "Growth medium (GM) consisting of Eagle’s minimal essential medium supplemented with 10% fetal bovine",
+    "quote_post": "Maintenance medium (MM) was the same as GM except that 2% FBS",
+    "method": "GM_MM",
+    "cells": [
+      "Vero"
+    ],
+    "viruses": [
+      "rotavirus",
+      "influenza",
+      "enterovirus",
+      "hiv"
+    ],
+    "note": "epmc:2015:Comparison of α-glucosyl hesperidin of c"
+  },
+  {
+    "pmcid": "PMC3749529",
+    "pmid": "23658209",
+    "doi": "10.1099/vir.0.052613-0",
+    "year": "2013",
+    "title": "Integrins modulate the infection efficiency of West Nile virus into cells",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cultured in ZB5 containing 10 % FBS",
+    "quote_post": "maintenance medium, supplemented with 25 mM HEPES and 2 % FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero"
+    ],
+    "viruses": [
+      "west nile",
+      "dengue",
+      "adenovirus",
+      "hsv"
+    ],
+    "note": "epmc:2013:Integrins modulate the infection efficie"
+  },
+  {
+    "pmcid": "PMC4111870",
+    "pmid": "25089242",
+    "doi": "10.1007/s13659-014-0026-2",
+    "year": "2014",
+    "title": "Highly Oxygenated Limonoids and Lignans from Phyllanthus flexuosus",
+    "pre": "2",
+    "post": "2",
+    "quote_pre": "growth medium except that only 2 % FBS",
+    "quote_post": "maintenance medium were the same as those of the growth medium except that only 2 % FBS",
+    "method": "GM_MM",
+    "cells": [
+      "Vero"
+    ],
+    "viruses": [
+      "hsv"
+    ],
+    "note": "epmc:2014:Highly Oxygenated Limonoids and Lignans "
+  },
+  {
+    "pmcid": "PMC13517838",
+    "pmid": "42655668",
+    "doi": "10.3390/v18080850",
+    "year": "2026",
+    "title": "Development of Cell Culture-Derived Hemagglutination Antigens for Japanese Encephalitis Virus Genotypes 1 and 3",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cultured in Dulbecco’s modified Eagle’s medium supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with a maintenance medium containing 2% fetal",
+    "method": "grown_maint",
+    "cells": [
+      "Vero",
+      "BHK-21",
+      "C6/36",
+      "BHK21"
+    ],
+    "viruses": [
+      "rabies"
+    ],
+    "note": "epmc:2026:Development of Cell Culture-Derived Hema"
+  },
+  {
+    "pmcid": "PMC12581222",
+    "pmid": "41185026",
+    "doi": "10.1186/s12985-025-02961-x",
+    "year": "2025",
+    "title": "Characterization of two novel Negevirus strains and analysis of global Negevirus distribution and host diversity",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "maintained in CO₂ incubator at 28 °C in Roswell Park Memorial Institute (RPMI) 1640 medium containing 10% fetal bovine serum",
+    "quote_post": "replaced with maintenance medium (RPMI 1640 for C6/36 and DMEM for mammalian cells) containing 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "C6/36",
+      "BHK-21",
+      "VeroE6",
+      "Vero E6"
+    ],
+    "viruses": [
+      "zika",
+      "west nile"
+    ],
+    "note": "epmc:2025:Characterization of two novel Negevirus "
+  },
+  {
+    "pmcid": "PMC13119600",
+    "pmid": "42076746",
+    "doi": "10.3390/vetsci13040374",
+    "year": "2026",
+    "title": "Prevalence, Clinical Signs, Diagnosis and Treatment of Post-Pandemic SARS-CoV-2 Infection in Cats in 2023: Co-Infection with FHV, FCV, Mycoplasma spp. and Chlamydia felis—A Single-Center Study in Bulg",
+    "pre": "4",
+    "post": "4",
+    "quote_pre": "propagated in a 24 h monolayer culture with DMEM maintenance medium (with 4% FBS",
+    "quote_post": "maintenance medium (with 4% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "VERO E6"
+    ],
+    "viruses": [
+      "sars-cov-2"
+    ],
+    "note": "epmc:2026:Prevalence, Clinical Signs, Diagnosis an"
+  },
+  {
+    "pmcid": "PMC12749811",
+    "pmid": "41372193",
+    "doi": "10.1038/s41467-025-66307-5",
+    "year": "2025",
+    "title": "A primary oseltamivir-resistant mutation in influenza hemagglutinin and its implications for antiviral resistance surveillance",
+    "pre": "10",
+    "post": "0.5",
+    "quote_pre": "grown in Dulbecco’s modified Eagle’s medium (DMEM; Gibco) supplemented with 10% fetal bovine serum",
+    "quote_post": "maintenance medium (DMEM containing 0.5% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "MDCK"
+    ],
+    "viruses": [
+      "influenza",
+      "sars-cov-2"
+    ],
+    "note": "epmc:2025:A primary oseltamivir-resistant mutation"
+  },
+  {
+    "pmcid": "PMC12474081",
+    "pmid": "41012659",
+    "doi": "10.3390/v17091231",
+    "year": "2025",
+    "title": "Susceptibility and Transmission Dynamics of Peste des Petits Ruminants Virus in Domestic and Wild Ruminants: Experimental Insights from Kazakhstan",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cultured in DMEM with the addition of 10% FBS",
+    "quote_post": "maintenance medium (DMEM with 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero"
+    ],
+    "viruses": [
+      "measles"
+    ],
+    "note": "epmc:2025:Susceptibility and Transmission Dynamics"
+  },
+  {
+    "pmcid": "PMC11346336",
+    "pmid": "39083026",
+    "doi": "10.1080/22221751.2024.2387449",
+    "year": "2024",
+    "title": "Gene editing of pigs to control influenza A virus infections",
+    "pre": "5",
+    "post": "10",
+    "quote_pre": "maintained in Dulbecco’s Modified Eagle Medium (DMEM; Corning, Manassas, VA, USA) supplemented with 5% fetal bovine serum",
+    "quote_post": "isolation medium, samples were filtered through a 70–100 μm cell strainer, centrifuged (200 g, 10 min, 4°C), and resuspended in isolation medium with 10% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "MDCK"
+    ],
+    "viruses": [
+      "influenza"
+    ],
+    "note": "epmc:2024:Gene editing of pigs to control influenz"
+  },
+  {
+    "pmcid": "PMC12411486",
+    "pmid": "40919194",
+    "doi": "10.3389/fmicb.2025.1658838",
+    "year": "2025",
+    "title": "The role of glycerophospholipid metabolism in feline parvovirus infected CRFK cells",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cultured in Dulbecco’s Modified Eagle Medium (DMEM) supplemented with 10% fetal bovine serum",
+    "quote_post": "maintenance medium (DMEM + 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "CRFK"
+    ],
+    "viruses": [
+      "sars-cov-2",
+      "hsv",
+      "zika"
+    ],
+    "note": "epmc:2025:The role of glycerophospholipid metaboli"
+  },
+  {
+    "pmcid": "PMC10913406",
+    "pmid": "38289932",
+    "doi": "10.1128/spectrum.01762-23",
+    "year": "2024",
+    "title": "Genetic characterization and pathogenicity in a mouse model of newly isolated bat-originated mammalian orthoreovirus in South Korea",
+    "pre": "10",
+    "post": "10",
+    "quote_pre": "cultured in DMEM plus 10% FBS",
+    "quote_post": "maintenance medium (DMEM plus trypto-phosphate broth, yeast extract, and trypsin) or growth media (DMEM supplemented with 10% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero",
+      "A549",
+      "LLC-MK2",
+      "Hela"
+    ],
+    "viruses": [
+      "influenza",
+      "rabies",
+      "sars-cov-2",
+      "ebola"
+    ],
+    "note": "epmc:2024:Genetic characterization and pathogenici"
+  },
+  {
+    "pmcid": "PMC11439533",
+    "pmid": "39345729",
+    "doi": "10.1016/j.onehlt.2024.100894",
+    "year": "2024",
+    "title": "Waste management and disease spread potential: A case study of SARS-CoV-2 in garbage dumping sites in Bangkok and its vicinity",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cultured in Eagle's minimum essential medium (EMEM) (Gibco, Grand Island, NY, USA) supplemented with 10 % heat-inactivated fetal bovine serum",
+    "quote_post": "maintenance medium with 2 % FBS",
+    "method": "grown_maint",
+    "cells": [
+      "Vero"
+    ],
+    "viruses": [
+      "sars-cov-2"
+    ],
+    "note": "epmc:2024:Waste management and disease spread pote"
+  },
+  {
+    "pmcid": "PMC12172445",
+    "pmid": "40401981",
+    "doi": "10.1128/jvi.00308-25",
+    "year": "2025",
+    "title": "The A487 residue in the E protein of duck Tembusu virus significantly enhances viral replication and increases its neurovirulence in Kunming mice",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "maintained in Modified Eagle’s medium (DMEM) (Gibco, Shanghai, China) with 10% fetal bovine serum",
+    "quote_post": "replaced with 1 mL of 1% methylcellulose overlay containing 2% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "BHK-21"
+    ],
+    "viruses": [
+      "zika",
+      "dengue",
+      "cmv",
+      "west nile"
+    ],
+    "note": "epmc:2025:The A487 residue in the E protein of duc"
+  },
+  {
+    "pmcid": "PMC11089916",
+    "pmid": "38726839",
+    "doi": "10.1080/01652176.2024.2350668",
+    "year": "2024",
+    "title": "Development and evaluation of a chicken embryo fibroblast cell culture based live attenuated Indian strain duck plague vaccine",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "grown in tissue culture flasks (25 cm 2 ) at 37 °C under 5% CO 2 in Dulbecco’s modified Eagle’s medium (DMEM, Gibco, USA), supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with DMEM maintenance medium containing 2% FBS",
+    "method": "grown_maint",
+    "cells": [],
+    "viruses": [
+      "newcastle",
+      "influenza",
+      "adenovirus"
+    ],
+    "note": "epmc:2024:Development and evaluation of a chicken "
+  },
+  {
+    "pmcid": "PMC10907662",
+    "pmid": "38434371",
+    "doi": "10.1016/j.heliyon.2024.e26578",
+    "year": "2024",
+    "title": "Preparation and evaluation of the immune efficacy of an inactivated fowl adenovirus 8a serotype oil emulsion vaccine",
+    "pre": "10",
+    "post": "1",
+    "quote_pre": "grown in Dulbecco's Modified Eagle Medium (DMEM) (Gibco, USA) supplemented with 10% fetal bovine serum",
+    "quote_post": "maintenance medium containing 1% fetal",
+    "method": "grown_maint",
+    "cells": [],
+    "viruses": [
+      "adenovirus",
+      "ndv",
+      "ibdv"
+    ],
+    "note": "epmc:2024:Preparation and evaluation of the immune"
+  },
+  {
+    "pmcid": "PMC5081539",
+    "pmid": "27786297",
+    "doi": "10.1038/srep36082",
+    "year": "2016",
+    "title": "Identification of different respiratory viruses, after a cell culture step, by matrix assisted laser desorption/ionization time of flight mass spectrometry (MALDI-TOF MS)",
+    "pre": "10",
+    "post": "0",
+    "quote_pre": "propagated in different lots of Dulbecco Minimum Essential Medium (D-MEM) supplemented with 2 mM L-glutamine, antibiotics (100 U/ml penicillin, 100 mg/ml streptomycin, 2% geneticin G418) and 1% or 10% fetal bovine serum",
+    "quote_post": "replaced with a maintenance medium (E-MEM without serum",
+    "method": "grown_SF",
+    "cells": [
+      "MDCK",
+      "LLC-MK2"
+    ],
+    "viruses": [
+      "influenza",
+      "adenovirus",
+      "rsv",
+      "hev"
+    ],
+    "note": "epmc:2016:Identification of different respiratory "
+  },
+  {
+    "pmcid": "PMC12368721",
+    "pmid": "40852290",
+    "doi": "10.1021/acsomega.5c02814",
+    "year": "2025",
+    "title": "Antiviral Effect\nof Piperine on Chikungunya Virus: In Vitro Evidence\nand In Silico Analysis\nof E1-E2 Binding",
+    "pre": "10",
+    "post": "5",
+    "quote_pre": "cultured in Medium 199 supplemented with 10% fetal bovine serum",
+    "quote_post": "FBS reduced to 5%",
+    "method": "reduced_to",
+    "cells": [
+      "VERO",
+      "BHK-21",
+      "Vero"
+    ],
+    "viruses": [
+      "chikungunya",
+      "sars-cov-2",
+      "dengue",
+      "zika"
+    ],
+    "note": "epmc:2025:Antiviral Effect of Piperine on Chikungu"
+  },
+  {
+    "pmcid": "PMC12017303",
+    "pmid": "40267184",
+    "doi": "10.1126/sciadv.adt7836",
+    "year": "2025",
+    "title": "Structure-based discovery of highly bioavailable, covalent, broad-spectrum coronavirus MPro inhibitors with potent in vivo efficacy",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "maintained with Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% fetal bovine serum",
+    "quote_post": "FBS reduced to 2%",
+    "method": "reduced_to",
+    "cells": [
+      "A549",
+      "Vero",
+      "MDCK",
+      "BHK-21"
+    ],
+    "viruses": [
+      "sars-cov-2",
+      "influenza"
+    ],
+    "note": "epmc:2025:Structure-based discovery of highly bioa"
+  },
+  {
+    "pmcid": "PMC13018305",
+    "pmid": "41690944",
+    "doi": "10.1038/s41467-026-69527-5",
+    "year": "2026",
+    "title": "From nicotine to SARS-CoV-2 antivirals with potent in vivo efficacy and a broad anti-coronavirus spectrum",
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "maintained in high-glucose DMEM supplemented with GlutaMAX and 10% fetal bovine serum",
+    "quote_post": "FBS reduced to 2%",
+    "method": "reduced_to",
+    "cells": [
+      "A549",
+      "Vero E6",
+      "Vero",
+      "VeroE6"
+    ],
+    "viruses": [
+      "sars-cov-2"
+    ],
+    "note": "epmc:2026:From nicotine to SARS-CoV-2 antivirals w"
+  },
+  {
+    "pmcid": "PMC10044120",
+    "pmid": "36977673",
+    "doi": "10.1038/s41467-023-37254-w",
+    "year": "2023",
+    "title": "Potent and selective covalent inhibition of the papain-like protease from SARS-CoV-2",
+    "pre": "5",
+    "post": "2",
+    "quote_pre": "maintained in Modified Eagle Medium (MEM) supplemented with 5% fetal bovine serum",
+    "quote_post": "FBS reduced to 2%",
+    "method": "reduced_to",
+    "cells": [
+      "Vero E6",
+      "Vero"
+    ],
+    "viruses": [
+      "sars-cov-2"
+    ],
+    "note": "epmc:2023:Potent and selective covalent inhibition"
+  },
+  {
+    "pmcid": "PMC7992063",
+    "pmid": "33778258",
+    "doi": "10.1021/acsomega.0c05996",
+    "year": "2021",
+    "title": "Repurposing the Ebola and Marburg Virus Inhibitors\nTilorone, Quinacrine, and Pyronaridine: In Vitro Activity\nagainst SARS-CoV-2 and\nPotential Mechanisms",
+    "pre": "5",
+    "post": "2",
+    "quote_pre": "maintained in the minimum essential medium (MEM) supplemented with 5% fetal bovine serum",
+    "quote_post": "FBS reduced to 2%",
+    "method": "reduced_to",
+    "cells": [
+      "Vero",
+      "A549",
+      "Vero E6",
+      "HeLa"
+    ],
+    "viruses": [
+      "sars-cov-2",
+      "ebola",
+      "influenza",
+      "rubella"
+    ],
+    "note": "epmc:2021:Repurposing the Ebola and Marburg Virus "
+  },
+  {
+    "pmcid": "PMC8983140",
+    "pmid": "35104245",
+    "doi": "10.1172/jci.insight.155944",
+    "year": "2022",
+    "title": "Adaptive immune responses in vaccinated patients with symptomatic SARS-CoV-2 Alpha infection",
+    "pre": "10",
+    "post": "2.5",
+    "quote_pre": "cultured in complete media (CM) consisting of DMEM containing 10% FBS",
+    "quote_post": "FBS reduced to 2.5%",
+    "method": "reduced_to",
+    "cells": [
+      "Vero",
+      "VeroE6"
+    ],
+    "viruses": [
+      "sars-cov-2",
+      "influenza"
+    ],
+    "note": "epmc:2022:Adaptive immune responses in vaccinated "
+  },
+  {
+    "pmcid": "PMC4395333",
+    "pmid": "25874629",
+    "doi": "10.1371/journal.pone.0122300",
+    "year": "2015",
+    "title": "Removal of Transmissible Spongiform Encephalopathy Prion from Large Volumes of Cell Culture Media Supplemented with Fetal Bovine Serum by Using Hollow Fiber Anion-Exchange Membrane Chromatography",
+    "pre": "10",
+    "post": "10",
+    "quote_pre": "grown for 6 h in a serum-free medium, after which the medium was replaced with medium supplemented with 10% FBS",
+    "quote_post": "replaced with medium supplemented with 10% FBS",
+    "method": "grown_maint",
+    "cells": [
+      "BHK-21",
+      "Vero"
+    ],
+    "viruses": [],
+    "note": "epmc:2015:Removal of transmissible spongiform ence"
+  },
+  {
+    "pmcid": "PMC7804308",
+    "pmid": "33436903",
+    "doi": "10.1038/s41598-020-80577-7",
+    "year": "2021",
+    "title": "Targeted disruption of pi–pi stacking in Malaysian banana lectin reduces mitogenicity while preserving antiviral activity",
+    "pre": "10",
+    "post": "5",
+    "quote_pre": "maintained in DMEM supplemented with 10% FBS",
+    "quote_post": "FBS reduced to 5%",
+    "method": "reduced_to",
+    "cells": [
+      "Vero",
+      "Vero E6",
+      "HELA",
+      "RD"
+    ],
+    "viruses": [
+      "hiv",
+      "ebola",
+      "influenza",
+      "cmv"
+    ],
+    "note": "epmc:2021:Targeted disruption of pi-pi stacking in"
+  },
+  {
+    "pmcid": "PMC13067622",
+    "pmid": "41963923",
+    "doi": "10.1186/s12929-026-01237-y",
+    "year": "2026",
+    "title": "Many but not all pathogen-associated molecular patterns aggravate neurogenic heterotopic ossification after spinal cord injury",
+    "pre": "15",
+    "post": "10",
+    "quote_pre": "maintained for 10 days in α-MEM supplemented with 15% FCS",
+    "quote_post": "replaced by osteogenic medium (α-MEM supplemented with 10% FCS",
+    "method": "grown_maint",
+    "cells": [
+      "Pam"
+    ],
+    "viruses": [],
+    "note": "epmc:2026:Many but not all pathogen-associated mol"
+  }
+]

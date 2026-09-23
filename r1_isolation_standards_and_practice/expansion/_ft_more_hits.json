@@ -1,0 +1,46 @@
+[
+  {
+    "pmid": "22973164",
+    "doi": "10.1100/2012/102843",
+    "pmcid": "PMC3438744",
+    "year": "2012",
+    "title": "HIV-1 replication in HIV-infected individuals is significantly reduced when peripheral blood mononuclear cells are superinfected with HSV-1.",
+    "pre": "10",
+    "post": "2",
+    "qp": "growth medium (GM; M199 with Earle's salt (Gibco, USA), supplemented with 10% FBS",
+    "qo": "maintenance medium (MM: same as GM except with 2% FBS"
+  },
+  {
+    "pmid": "19429341",
+    "doi": "10.1016/j.jep.2009.02.028",
+    "pmcid": "PMC7126793",
+    "year": "2009",
+    "title": "The cytotoxicity to leukemia cells and antiviral effects of Isatis indigotica extracts on pseudorabies virus.",
+    "pre": "10",
+    "post": "5",
+    "qp": "grown in Iscove's Modified Dulbecco's Medium (IMDM, Sigma, MO, USA) supplemented with 10% FBS",
+    "qo": "FBS was reduced to 5%"
+  },
+  {
+    "pmid": "39235995",
+    "doi": "10.1371/journal.pntd.0012439",
+    "pmcid": "PMC11376573",
+    "year": "2024",
+    "title": "Isolation and characterization of genetic variants of Orthohantavirus hantanense from clinical cases of HFRS in Jiangxi Province, China.",
+    "pre": "10",
+    "post": "2",
+    "qp": "grown in the minimal essential medium (MEM) (Gibco, USA) containing 10% fetal bovine",
+    "qo": "replaced with 5 mL fresh maintaining media (MEM+2% FBS"
+  },
+  {
+    "pmid": "39253971",
+    "doi": "10.1172/jci.insight.172261",
+    "pmcid": "PMC11385098",
+    "year": "2024",
+    "title": "Immunological landscape of human lymphoid explants during measles virus infection.",
+    "pre": "10",
+    "post": "2",
+    "qp": "maintained in DMEM with 10% FBS",
+    "qo": "replaced with 500 μL/well of methylcellulose (in DMEM + 2% FBS"
+  }
+]

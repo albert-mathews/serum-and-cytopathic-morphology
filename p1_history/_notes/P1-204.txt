@@ -1,0 +1,296 @@
+
+===== PAGE 1 =====
+UNCLASSIFIED
+411928A D ... ..... .
+DEFENSE DOCUMENTATION CENTER
+FOR
+SCIENTIFIC AND TECHNICAL INFORMATION
+CAMERON STATION. ALEXANDRIA. VIRGINIA
+UNCLASSIFIED
+
+===== PAGE 2 =====
+NOTICE: When goverament or other drawings, speci.-
+fications or other data are used for any purpose
+other than in connection with a definitely related
+goverinent procurment operation,. the U. S.
+Government thereby incurs no responsibility, nor any
+oblipgtion whatsoever; and the fact that the Govern-
+ment may have toz=uLlated, furni shed,, or in any way
+supplied the said drawings, specifications, or other
+data Is not to be regarded by implication or other-
+vise as in any manner licensing the holder or any
+other person or corporation, or conveying any rights
+or permission to manufacture, use or sell any
+patented Invention that my In aWy way be related
+thereto.
+
+===== PAGE 3 =====
+Copyright, 1963, by the Society for Rxperimentol Biology and Medicine.
+Reprinted from PROCEEI)INOS OF 'Hr Sooiim1Y ' OH 'EXIEKRIMEN'I'AII 1OLOY AND MEDICINE,.1963, v.1.13, 2241-229
+-' -
+S/ 6
+t / C' /7k,
+, --- / " ,. c 4
+" c-..DDC
+),A Simplified Method for Virus-Tissue Culture Procedures in
+Microtitration Plates.* (28325)
+', MAX.J. ROSENBAUM, I. A. PHILLIPS, ELIZABETH J. SULLIVAN, EARL A. EDWARDS
+I AND L. F. MILLER (Introduced by Gene-H. Stollerfnrian) ......
+Divisions of Virology and Immunology, U. S. Naval Medical Research Unit #4, U. S. Naval Hospital,
+Great Lakes, Ill.
+The method reported herein is a modifica- paratus was obtained from a commercial
+tion of the Takatsy(I) serological microtitra- sourcet and consisted of Plexiglas plates
+tion technique adapted to conventional tissue moulded to contain 96 cups, each of which
+culture procedures, and recently described by has a working capacity of approximately 0.2
+Sever(2). Briefly, the titration plate (Fig. 1) ml; wire spiral loops with a calibrated trans-
+simulates a series of micro tissue culture fer of 0.025 ml; and micropipets which de-
+tubes in which cell monolayers are grown on liver 0.025 ml/drop (Fig. 1).
+the hemispherical bottom of the well com- Plates and micropipets were soaked in de-
+partment. Rapid serial dilution of virus or tergent and washed in tap water, followed by
+serum can be accurately accomplished by 3 rinses in triple distilled water. Virus-con-
+loop transfer. taminated plasticware was soaked in a solu-
+Materials and methods. Microtitration ap- tion of 0.5% sodium hypochlorite and then
+washed as above. The utensils were then
+• The opinions and assertations contained herein air-dried before further treatment.
+are thcse of the authors and are not to be construed Plates were irradiated with a 30W germici-
+as official or reflecting the views of the Navy De-
+partment or the Naval Service at large. t Cooke Engineering Co., Alexandria, Va.
+NO. ')
+
+===== PAGE 4 =====
+MICROI'LAT, Tissups' CULruE
+dal lamp for I hour,t and micropipets were
+autoclaved before use. Wire diluting loops
+were flame-cleaned and sterilized before se-
+rum or virus dilutions were carried out. The
+operation of the test was carried out under
+"open" conditions.
+Diluent consisted of 0.5o lactalbumin-
+hydrolysate in Hanks' balanced salt solution
+(HBSS). Tissue culture growth medium con-
+tained 90% Eagle's minimum essential me-
+dium (MEM) in HBSS with 10o inacti-
+vated fetal calf serum. Although only growth
+media was used for microtitration tissue cul-
+tures (MTC), conventional (MACRO) tissue
+cultures in tubes were changed to mainte-
+nance medium (95% MEM and 5%7 inacti-
+vated horse serum) once monolayers were
+established. All media contained penicillin
+(200 units/m), streptomycin (200 ,Ag/ml),
+and Amphotericin B§ (5 ug/ml).
+Serum samples for the poliovirus neutrali-
+zation test were obtained from 151 naval re- FIG. 1. 1[icrotitration apparatus for tissue cul-ture techniques. Foreground: Inverted microscope
+cruits. Tventy-eight of these individuals with mieroplate on the microscope stage. Back-
+were then vaccinated with commercial live ground: Cell suspension on a magnetic stirrer;
+oral Type III poliovirus vaccine and second . mieropipets and loops in racks.
+serum samples were obtained 42 days later. tions by micropipet I drop (0.025 ml) per
+All specimens were inactivated by heat cup (7,500-12,500 cells). Included in each
+(56°C/30 min) prior to dilution. Poliovirus plate were 8 cup cultures which did not con-
+Type III was obtained from the American tain virus and served as cell controls. All
+Type Culture Collection, Washington, D. C. cups were finally overlaid with 1 drop of
+and a large pool was made in H.Ep-2 mono- mineral oil (0.05 ml) to prevent dehydra-
+layers for both the MTC and MACRO tests. tion and prolonged alkalinity. The total vol-
+H.Ep-2 cell suspensions (3-5 X 101 cells/ ume of the ingredients of each cup was 0.125
+ml) were prepared from either trypsin-ver- ml.
+sene dispersed monolayers or spinner cul- Plates were incubated in a humidified bac-
+tures. teriological incubator (35°C t 1) in a
+MTC procedures. Poliovirus infectivity ti- stacked manner which provided cover lids for
+ter was determined by making serial loglo the underlying plates and also conserved
+dilutions of pooled stock virus in diluent in space.
+11 X 25 mm metal capped tubes. Eight Control tissue culture cell compartments
+replicates of each virus dilution were made showed confluent outgrowth after 48 hours
+by loop transfer to plate cups containing of incubation and virus infectivity titers were
+0.025 ml of diluent (simulated serum dilu- microscopically observed and recorded at this
+tion).I H.Ep-2 cells were added to virus dilu- time.
+Recent information indicates that prolonged ex- II Once the approximate virus infectivity titer is
+posure of Plexiglas plates to ultra-violet light will known, it can be verified by serial 2-fold dilu-
+induce structural weaknesses and result in plate tions in the plates in a dilution range which brackets
+damage. the actual titer.
+§ Fungizone-E. R. Squibb & Sons, New York. Drakeol-Pennsylvania Refining Co., Butler, Pa.
+
+===== PAGE 5 =====
+MICRO'LA'rE TissuE CULTURE
+FIG. 2. Microscopic appearance of umst'ined H.Ep-2 microplate itionolayers. Normal cells
+icrpaecell(ft) 1d poliovirus Type . ifected cells (right). (99X)
+Microplate cell cultures were observed with assay were carried out as described above.
+the aid of the Leitz inverted microscope** Inhibition of 2 + CPE was considered as
+(Fig. 1) which facilitates microscopic view- protective.
+ing of the plates without loss of the cup con- MACRO procedures. Tissue culture tubes
+tents. The microsco)ic appearance of nor- were prepared by inoculation of 60,000 H.Ep-
+mal and poliovirus infected MTC monolayers 2 cells contained in one ml of growth media
+is shown, respectively, in Fig. 2. per tube. These culture tubes were incubated
+Infectivity titers were made on the basis at 350 C for 48 hours at which time islands
+of conventional 1+ - 4+ (25-100%) evidence of cells were established (the time required
+of cytopathic effect (CPE). Fifty percent or to complete the MTC test). At this time the
+greater CPE was indicative of infection. In- culture fluids were removed and replenished
+fectivity titers were calculated by the method with maintenance media.
+of Kairber(3). Virus infectivity dilutions were carried out
+Dilutions of serum antibody for neutraliza- as in the MTC test and 0.1 ml of dilution
+tion tests were accomplished in the plate cups was inoculated into quadruplicate culture
+containing diluent with the aid of the trans- tubes.
+fer loop. Initial serum was diluted 1:20 in Inoculated tubes were reincubated for an-
+quadruplicate cups with one pair serving as other 48 hours at 35'C and read for micro-
+the serum toxicity controls. Virus dosage scopic evidence of CPE. Titer endpoints
+(500 TCDro/.025 ml) was delivered by mi- were evaluated in a manner similar to that
+cropipet (1 drop/cup) to duplicate serum di- described in the MTC procedure.
+lutions and the mixtures were incubated at Neutralization tests were performed by
+room temperature for 30 minutes. Subsequent addition of equal volumes of 500 TCDro to
+addition of cells, oil, incubation and titration 2-fold serum dilution in a separate tube and
+** Lcitz microscope-supplied by W. H. Kessel & mixtures were incubated at room temperature
+Co., Scientific Instruments, Chicago, III. for 30 minutes. Two-tenths ml of the mix-
+
+===== PAGE 6 =====
+MICROPLATE' TISSUE 'CULTURE
+TAL31E] 1, Collpitrisoii of Not trnlizi og Antibody serologic conversion or not was 25/28
+Titers* to Poliovirus Type [1,1' Determhild by 89
+Microt, irt, ion (M'J.') nod Tissue Culture 'JPlbo
+MAethods. In these 56 neutralization tests (pre and
+Neutralizing aitibody t;iters (reiprool of iitial post vaccination sera) the number of sera
+dihition) whose titer did not vary more than 2-fold
+by either test was 45 (80.3%), indicating
+30,,O c ,,,,, ,ub (MACRO) .,- substantial agreem ent of the two techniques.>a,-, j," F2 -- Bacterial or fungal contam ination occurred
+,20 in less than 0.1% of the total number of
+microplate wells employed.
+IUD/ , Discussion. Virus titrations and serum neu-
+. ltralization tests with either suspensions of
+,...,., cells or established monolayers in plastic
+4, / plates have been used by various investiga-
+___ j - - tors for enterovirus(2,4-6) adenovirus(7,8)
+0and influenza virus(9). These investigators
+.'M 7 . assayed virus and antibody titers by the
+• 40 SU 100 3"... colorimetric or metabolic inhibition proce-
+• Serum samples from :151 liVa recruit's. dures.
+Althouvh the colorimetric estimation tech-
+ture was added to duplicate tissue culture nique can be of advantage where clear-cut con-
+tubes containing established monolayers and sistent indicator changes occur due to viral
+antibody titer was assayed as described above, infection, many virus-host cell systems do
+Results. Infectivity titers of Type III not produce such effect. Lennette(7) ob-
+poliovirus as measured by the MACRO and served that indicator changes were affected
+MTC technics were 107.0 and 101-7 respec- by the cell concentration, and that accurate
+tively. enumeration of cells was essential to forma-
+A comparison of poliovirus neutralizing tion of significant color changes. In most of
+antibody tests performed by both methods the past studies, estimates of antibody titer
+on 151. single sera (Table 1) indicates good by color were 3- to 4-fold higher than by
+agreement of antibody titers was obtained. micro-conic observation. This discrepancy
+However, since titer endpoints were not de- was also observed in our'MTC study.
+termined on 78 sera (77 with titers < 1:20; Therefore, it is believed that evaluation
+I with titer > 1:320), a complete analysis of CPE remains the best criterion for the
+could not be made. Therefore, the 28 paired presence and quantitation of virus. The
+serum specimens were titrated again by both methods described here show how this evalu-
+methods (MTC and MACRO) at dilutions ation can be easily and accurately attained.
+extending from 1:2 to 1:2048. The results The requirements for reagents, time of
+of these 56 neutralization tests are shown in preparation and operation are considerably
+Table TI. It can be seen that by MTC re- reduced from those of the disposable plate
+titration of the 28 prcvaccination sera, one and greatly reduced from tissue culture tube
+(3.6%) failed to reproduce antibody titers methods.
+less than the 1:20 dilution; whereas 3 of the Microscopic viewing of cell monolayers is
+28 sera' remeasured by the MACRO test facilitated since 96 closely spaced wells
+(10.7%) showed titers in excess of the 1:20. (equivalent to approximately one and one-
+The ratio of significant serological conver- half commercial tissue culture tube racks)
+sions noted in Table IT by the MTC test are incorporated on a single plate reducing
+was 21/28 (75%) as compared to 18/28 the number of manipulations. An entire cell
+(64%) in the MACRO test. However, the monolayer can be observed in 1 to 4 micro-
+number of agreements in both tests as to scopic fields (depending on the microscope
+
+===== PAGE 7 =====
+MICROPLATE TISSUE CULTURE
+TABLE 11 Comparison of Poliovirus Type I1:1 Neutralizing Antibody Titers and Serological
+Conversions in Paired IHunan Sera by Mierotitration Plate (M.TC) and Tissue Culture Tube
+(MACRO) Methods.
+Neutralizing antibody titers by test method (reciprocal of dilution)
+____ _ .__M.IC .. MACRO
+Post Vie- 4-fold or > Post vae- 4-fold or >
+Paired Prevace'inution cination titer Prevaceination eination titer
+sera titer titer increase titer titer increase
+l)eterniiiation Determnuation
+(J)* (2) (3)* (2)
+.1 <20 <2 4 + <20 <2 8 +
+4 <20 <2 64 + <20 <2 64 +
+9 <20 2 128 + <20 4, 128 +
+17 <20 8 .128 + <20 16 128 +
+20 <20 1 .102.1 + <20 8 1024 +
+21 <20 16 64 + <20 32 16
+32 <20 16 128 + <20 32 128 +
+36 <20 32 + <20 8 32 +
+39 <20 2 32 + <20 2 16 +
+45 <20 2 128 + <20 2 64 +
+47 <20 2 8 + <20 2 8 +
+48 <20 2 1024 4- <20 2 1024 +
+50 <20 2 128 + <20 2 32 +
+55 <20 <2 32 + <20 <2 64 +
+70 <20 2 2 - <20 2 4
+82 <20 <2 16 + <20 <2 4 +
+87 <20 16 256 + <20 8 36
+97 <20 2 2 - <20 8 8
+102 <20 4 64 + <20 8 64 +
+108 <20 16 32 - <20 16 32
+132 <20 16 128 + <20 8 1.6
+117 <20 32 256 + <20 16 256 +
+119 <20 16 32 - 40 64 32
+122 <20 2 16 + <20 2 8 +
+323 <20 4 128 + <20 8 64 +142 <20 16 16 - 40 64 32
+146 <20 4 8 - <20 8 16
+350 <20 8 16 - <20 32 1.6
+Total
+28 21 (75%) 18 (64%)
+Ceometrie mean liter 4.3 45.0 6.1. 34.0
+Data from Table I.
+objective used); whereas many more field- duced by poliovfrus Type II vaccination.
+shifts are required when appraising a tissue Further studies should be done comparing
+culture tube. Not only does the MTC pro- antibody titers produced by both techniques
+cedure lessen the burden of decision upon with a third parameter such as plaque re-
+the viewer in evaluating extent of CPE, but duction methods to determine which of the
+greater replication of titrations can be easily two former most accurately measures virus
+made to increase statistical reliance, antibody.
+The discrepancies in antibody titer end- Nevertheless, the performance of mass vi-
+points observed between the MTC and ral neutralization serology need not be the
+MACRO tests may be due to the inherent difficult process which it is usually consid-
+error in the reproducibility of either test. ered to -be. Tn fact, titration of serum for
+Tt should be noted that in the 28 sera re- antibody content can be accomplished with
+run by both tests, a smaller error (3.6%) greater ease than screening at one dilution
+was observed in the MTC than in the by conventional tube technique. In a recent
+MACRO test (10.7%). This error may also study 7,500 sera were titrated by neutraliza-
+be involved in the 11% differences noted in tion tests with adenovirus within one week.
+the number of serological conversions pro- This would normally require 10 weeks of
+
+===== PAGE 8 =====
+MICROPLATE TISSUE CULTURE
+sustained maximum effort(10). Moreover, study, disposable MTC plates have been pro-
+prolonged testing periods make it virtually duced by the manufacturer.
+impossible to retain cell cultures with simi-
+lar susceptibility characteristics since these The authors wish to express their gratitude for
+are subject to change with succeeding gener- the capable technical assistance rendered by C. A.
+ations of cells. Patterson, S. W. Bouma, and J. R. Baker, Division
+Diagnostic virus serology by MTC meth- of Virology, and R. Peck, C. E Cephas, and L. L.
+ods is made more feasible and relatively in- North, Division of Immunology.
+expensive for even the smallest tissue culture 1. Takatsy, G., Furesz, J., Farkas, E., Acta Physiol.
+laboratory. The reduction of serum require- Hung., 1954, vS, 241.
+ments is appropriate for neutralizing anti- 2. Sever, J. L., J. Immunol., 1962, v88, 320.
+body studies of children or infants where 3. Kirber, G., in Diagnostic Procedures for Virus
+only small amounts are usually available. and Rickettsial Diseases, Am. Public Health Assn.,
+Finally, it is possible that many if not all 1956, p46, New York.
+conventional tissue culture techniques can be 4. Salk, J. E., Youngner, J. S., Ward, E. N.,
+applied to the MTC method with its subse- Am. J. Hyg., 1954, v6O, 214.5. Lipton, M. M., Steigman, A. J., Pnoc. Soc.
+quent economy and ease of replication so as 5. L.oM M., 1955, , .ExP. BIOL. AND MED., 1955, v88, 114.
+to greatly enhance virus research as well as 6. Melnick, J. L., Opton, E. M., Bull. WHO, 1956,
+diagnostic efforts. v14, 129.
+Summary. A simplified method for virus- 7. Lennette, E. H., Neff, B. J., Fox, V. L., Am.
+tissue culture practices accomplished in mi- J. Hyg., 1957, v65, 94.
+crotitration plates reduces time, materials, 8. Johnston, P. B., Grayston, J. T., Loosli, C. G.,
+and effort, yet agrees well with results ob- PRoc. Soc. Exp. BIOL. AND MED., 1957, v94, 338.
+tained by conventional tissue culture tube 9. Gaush, C. R., Youngner, J. S., ibid., 1959, viOl,
+methods. Neutralization tests for poliovirus 853.
+10. Edwards, E. A., Rosenbaum, M. J., Phillips,Type III performed by both methods indi- I . ilr .Ft epbihd
+cated a high degree of compatibility.
+Addendum. Since the completion of this Received February 1, 1963. P.S.E.B.M., 1963, v113.
+
+===== PAGE 9 =====
+POST PUBLICATION ADDENDUM
+Use of plastic disposable microfftratton plates has shown some variability in the
+establishment of cll monolayers. Itis, Iteved that this is due to either plastic toxicity
+from melding processes. at in the non-wettability of the plastic material itself.
+In most insta nces, this problem has been solved, by dipping the plates in sterle
+5% gelatte solutien (tempera ture a pproxiately 600C) and alluring exeag iquid to
+dra1n bru the *1ate.
+MJR

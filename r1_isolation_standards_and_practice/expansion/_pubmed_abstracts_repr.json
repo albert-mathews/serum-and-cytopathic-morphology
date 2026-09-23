@@ -1,0 +1,1105 @@
+{
+  "queries": {
+    "maint 2 fetal growth 10": [],
+    "10 percent FBS 2 percent isolation": [
+      "42490010",
+      "40185367",
+      "39402512",
+      "38669820",
+      "37450488",
+      "37201590",
+      "36062749",
+      "34782922",
+      "34728730",
+      "33556411",
+      "33208823",
+      "33005480",
+      "31944172",
+      "31563585",
+      "31087689",
+      "31032368",
+      "30641021",
+      "30466633",
+      "30047007",
+      "29757587",
+      "29064103",
+      "27458084",
+      "26870822",
+      "26447649",
+      "26415862",
+      "25138015",
+      "24969017",
+      "24464351",
+      "24415196",
+      "24361963"
+    ],
+    "growth medium 10 FBS maintenance 2": [],
+    "MEM 10 FBS 2 FBS virus isolation": [
+      "10077445"
+    ],
+    "Vero 10 FBS 2 FBS isolation clinical": [
+      "30466633",
+      "15274477",
+      "10077445"
+    ],
+    "Hierholzer virus isolation": [
+      "10565911",
+      "8567914",
+      "7751371",
+      "15566763",
+      "8249282",
+      "8227890",
+      "8349768",
+      "8391749",
+      "8314992",
+      "8390824",
+      "8257296",
+      "1331143",
+      "1323383",
+      "1894931",
+      "1988511",
+      "2117679",
+      "2260924",
+      "2546977",
+      "2546973",
+      "2548461",
+      "2844918",
+      "3384629",
+      "2850781",
+      "3307377",
+      "2821062",
+      "3007566",
+      "4066916",
+      "2579169",
+      "6206088",
+      "6741724"
+    ],
+    "Mizuta isolation FBS": [
+      "40738664",
+      "40738663",
+      "40523503",
+      "39370858",
+      "38932274",
+      "36951317",
+      "35579425",
+      "35545856",
+      "34811773",
+      "34523967",
+      "33802440",
+      "33250494",
+      "32999187",
+      "32863354",
+      "32741934",
+      "32187235",
+      "32135195",
+      "31651085",
+      "31500967",
+      "30814463",
+      "30683510",
+      "30504645",
+      "30081972",
+      "29962488",
+      "29848582",
+      "28890517",
+      "28851118",
+      "27384661",
+      "27357992",
+      "27206988"
+    ],
+    "shell vial virus isolation FBS": [
+      "1328510"
+    ],
+    "diagnostic virology laboratory isolation FBS": [],
+    "WHO measles isolation Vero": [
+      "10077445"
+    ],
+    "rubella virus isolation cell culture FBS": [],
+    "enterovirus RD isolation FBS": []
+  },
+  "candidates": [
+    {
+      "pmid": "33556411",
+      "year": "2021",
+      "title": "Comparative sensitivity of three new cell lines developed from gill, liver and brain tissues of goldfish, Carassius auratus (L.) to cyprinid herpesvirus-2 (CyHV-2).",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "15 (L-15) medium supplemented with 10 % fetal bovine serum (FBS). The PDT during exponential"
+      ],
+      "abstract": "Cyprinid herpesvirus 2 (CyHV-2) is the etiological agent of Goldfish herpesviral haematopoietic necrosis (GHVHN) in goldfish. In this study, three new cell lines including Fantail goldfish gill (FtGG), Fantail goldfish liver (FtGL) and Fantail goldfish brain (FtGB) had been established and characterized from the gill, liver and brain tissue of C. auratus respectively. Cell lines were optimally grown at 28&#x202f;&#xb0;C in Leibovitz-15 (L-15) medium supplemented with 10 % fetal bovine serum (FBS). The PDT during exponential growth of FtGG, FtGL and FtGB cells were determined to be 41.47&#x202f;h, 63.43&#x202f;h and 79.79&#x202f;h respectively. Karyotyping analysis of cell lines remained diploid (2n&#x202f;=&#x202f;100). The revival rate was 82 %, 72 % and 70 % in FtGG, FtGL and FtGB cells respectively after 6 months of cryopreservation. All the three cells showed similar cytopathic effect (CPE) between 3-5 days post-infection (dpi) with CyHV-2 and complete destruction of the monolayer was observed at 8-10 dpi. The viral titers of CyHV-2 in FtGG, FtGL and FtGB reached 107.375&#xb1;0.35 TCID50&#x202f;ml-1, 104&#xb7;55&#xb1;0.070 TCID50&#x202f;ml-1 and 106.45&#xb1;0.070 TCID50&#x202f;ml-1 respectively. These newly established cell lines will be a useful diagnostic tool for viral diseases in this fish species and also for the isolation and study of goldfish viruses in future.",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "33208823",
+      "year": "2020",
+      "title": "Characterization of a new cell line from ornamental fish Amphiprion ocellaris (Cuvier, 1830) and its susceptibility to nervous necrosis virus.",
+      "pcts": [
+        "15",
+        "20"
+      ],
+      "fbs_context": [
+        "ovitz's-15 medium supplemented with 15% FBS (Fetal Bovine Serum) and was successful",
+        "ne was maximum in medium containing 20% FBS and 1% of 0.2&#xa0;M NaCl at 28&#xa0;&#"
+      ],
+      "abstract": "Amphiprion ocellaris (ocellaris clownfish) is one of the most commercially important marine ornamental fish. A cell line designated as OCF was developed for the first time from the caudal fin of this fish&#xa0;species. The cell line was maintained in Leibovitz's-15 medium supplemented with 15% FBS (Fetal Bovine Serum) and was successfully subcultured up to 34 passages. The cell line was authenticated by sequencing mitochondrial cytochrome C oxidase subunit I (COI) and 16S rRNA&#xa0;genes. The growth rate of the OCF cell line was maximum in medium containing 20% FBS and 1% of 0.2&#xa0;M NaCl at 28&#xa0;&#xb0;C. Chromosome analysis revealed 48&#xa0;diploid chromosomes. The OCF cell line was&#xa0;transfected with the pMaxGFP plasmid vector with 7% efficiency and GFP expression was observed. The OCF cell line was used for testing nervous necrosis virus (NNV) susceptibility. Cytopathic effect (CPE) was observed in terms of plaque formation after virus inoculation. Nested PCR confirmed the susceptibility of the OCF cell line to NNV. The cell line was successfully cryopreserved by a slow freezing procedure at&#x2009;-&#x2009;80&#xa0;&#xb0;C with a revival efficiency of 70-75%. The study revealed that the OCF cell line would be useful for virological studies. In addition, the cell line would play an important role as an in vitro tool for carrying out toxicological and biotechnological studies.",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "33005480",
+      "year": "2020",
+      "title": "Establishment and characterization of fantail goldfish fin (FtGF) cell line from goldfish, Carassius auratus for in vitro propagation of Cyprinid herpes virus-2 (CyHV-2).",
+      "pcts": [
+        "20",
+        "10"
+      ],
+      "fbs_context": [
+        "itz's L-15 (L-15) medium containing 20% FBS and 1X concentration of antibiotic anti",
+        "assaged up to 56 times in L-15 with 10% FBS. Karyotyping of FtGF cells at 30th, 40t"
+      ],
+      "abstract": "Herpesviral hematopoietic necrosis disease, caused by cyprinid herpesvirus-2 (CyHV-2), is responsible for massive mortalities in the aquaculture of goldfish, Carassius auratus. Permissive cell lines for the isolation and propagation of CyHV-2 have been established from various goldfish tissues by sacrificing the fish. Here, we report the development of a cell line, FtGF (Fantail Goldfish Fin), from caudal fin of goldfish using non-lethal sampling. We also describe a simple protocol for successful establishment and characterization of a permissive cell line through explant method and continuous propagation of CyHV-2 with high viral titer using this cell line. Caudal fin tissue samples were collected from goldfish without killing the fish. Cell culture of goldfish caudal fin cells was carried out using Leibovitz's L-15 (L-15) medium containing 20% FBS and 1X concentration of antibiotic antimycotic solution, incubated at 28 &#xb0;C. Cells were characterized and origin of the cells was confirmed by sequencing fragments of the 16S rRNA and COI genes. CyHV-2 was grown in the FtGF cells and passaged continuously 20 times. The infectivity of the CyHV-2 isolated using FtGF cells was confirmed by experimental infection of na&#xef;ve goldfish. The cell line has been passaged up to 56 times in L-15 with 10% FBS. Karyotyping of FtGF cells at 30th, 40th and 56th passage indicated that modal chromosome number was 2n = 104. Species authentication of FtGF was performed by sequencing of the 16",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "31563585",
+      "year": "2020",
+      "title": "Establishing the optimal fetal bovine serum concentration to support replication of cyprinid herpesvirus 3 in CCB and KF-1 cell lines.",
+      "pcts": [
+        "10",
+        "2",
+        "5"
+      ],
+      "fbs_context": [
+        " determine the optimal concentration of fetal bovine-serum (FBS) to use for supporting the r",
+        "ations were tested: 0%, 2%, 5%, and 10% FBS. At 7 days post-viral inoculation (dpi)",
+        "l lines when supplemented with 0 and 2% FBS, but not in those supplemented with 5% ",
+        "or 10% FBS. At 14 dpi, CPE was observed in both ce"
+      ],
+      "abstract": "Koi herpesvirus (KHV) disease is a serious disease in cultured carp (Cyprinus carpio). CCB and KF-1 cell lines are commonly used for virus isolation and observation of cytopathic effects (CPE) in carp and koi samples. The purpose of this study was to determine the optimal concentration of fetal bovine-serum (FBS) to use for supporting the replication of cyprinid herpesvirus 3 CyHV-3 in CCB and KF-1 cell lines. The following concentrations were tested: 0%, 2%, 5%, and 10% FBS. At 7 days post-viral inoculation (dpi), CPE with clear vacuolation was observed in both cell lines when supplemented with 0 and 2% FBS, but not in those supplemented with 5% or 10% FBS. At 14 dpi, CPE was observed in both cell lines supplemented with FBS at any of the tested concentrations when a high virus titer was inoculated. However, CPE was indistinguishable between cell lines supplemented with 10% FBS when a low virus titer was inoculated. Results of qPCR indicated that the number copies of the viral genome tended to be larger in both cell lines supplemented with 10% FBS than the corresponding number in cell lines supplemented with 0%, 2%, or 5% FBS, at 7 dpi. In conclusion, we recommend using 2% FBS as supplement for isolation and diagnosis of CyHV-3 viral infection in carp samples.",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "26447649",
+      "year": "2016",
+      "title": "A Novel Organ Culture Model of Mouse Intervertebral Disc Tissues.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "upplemented with 2% bovine serum or 10% fetal bovine serum (FBS). We find the minimal IVD un",
+        "ubmersion culture supplemented with 10% FBS. New bone formation in the EPs of the c"
+      ],
+      "abstract": "The intervertebral disc (IVD) is a fibrocartilaginous joint between two vertebral bodies. An IVD unit consists of a gelatinous central nucleus pulposus, encased by the annulus fibrosus, which is sandwiched between cartilaginous endplates (EPs). The IVD homeostasis can be disrupted by injuries, ageing and/or genetic predispositions, leading to degenerative disc disorders and subsequent lower back pain. The complex structure and distinct characteristics of IVDs warrant the establishment of robust in vitro IVD organ culture for studying the etiology and treatment of disc degeneration. Here, we isolate mouse lumbar IVDs and culture the minimal IVD units in submersion or suspension medium supplemented with 2% bovine serum or 10% fetal bovine serum (FBS). We find the minimal IVD units remain healthy for up to 14 days when cultured in submersion culture supplemented with 10% FBS. New bone formation in the EPs of the cultured IVDs can be assessed with calcein labeling. Furthermore, the cultured IVDs can be effectively transduced by recombinant adenovirus, and transgene expression lasts for 2 weeks. Thus, our findings demonstrate that the optimized IVD organ culture system can be used to study IVD biology and screen for biological factors that may prevent, alleviate and/or treat disc degeneration.",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "1328510",
+      "year": "1992",
+      "title": "Improved detection of cytomegalovirus viremia in AIDS patients using shell vial and indirect immunoperoxidase methodologies.",
+      "pcts": [
+        "10",
+        "2"
+      ],
+      "fbs_context": [
+        "treated with medium containing 2 of 10% fetal bovine serum (FBS) or 100 micrograms% cortisol",
+        "imens in shell vials maintained with 2% FBS, 100 micrograms% cortisol + 2% FBS, and",
+        " 10% FBS was 36, 44, and 52%, respectively. Dete",
+        "reated with medium supplemented with an FBS concentration of 2% (P = .0132), but no"
+      ],
+      "abstract": "One hundred twelve peripheral blood specimens were tested for the presence of cytomegalovirus (CMV) by the tube culture indirect immunoperoxidase (TC-IPA) procedure, the shell vial assay [shell vials were pre- and postinoculation treated with medium containing 2 of 10% fetal bovine serum (FBS) or 100 micrograms% cortisol] (SV-IFA), and conventional (MRC-5) tube cultures (TC-CPE). CMV was detected in 25 (22%) of the 112 specimens tested by at least one of these methods. The detection/isolation of CMV among the 25 positive specimens in shell vials maintained with 2% FBS, 100 micrograms% cortisol + 2% FBS, and 10% FBS was 36, 44, and 52%, respectively. Detection/isolation of the virus from blood by TC-IPA and TC-CPE was 52% and 76%, respectively. A significantly greater CMV detection rate occurred using TC-CPE compared to SV-IFA treated with medium supplemented with an FBS concentration of 2% (P = .0132), but not medium containing the higher serum supplement or the glucocorticoid (P greater than .05). Differences in the identification of a CMV viremia were observed by IPA, SV-IFA, and TC-CPE methodologies on a patient-to-patient basis, denoting the necessity of incorporating each methodology into the CMV screening panel. Demographic analysis of 82 AIDS patients showed a CMV viremia prevalence of 9% (2/28) in intravenous drug users, 57% (27/47) in homosexual patients, and 22% (2/9) in heterosexual and transfusion patients. Overnight (24 hr) storage of whole blood at 4 or 24 degre",
+      "has_isolation_kw": true
+    }
+  ],
+  "all": [
+    {
+      "pmid": "42490010",
+      "year": "2026",
+      "title": "Model-Guided Optimization of a Low-Serum Medium for Madin-Darby Canine Kidney Cells Using a Kolmogorov-Arnold Network and Bayesian Optimization.",
+      "pcts": [
+        "2"
+      ],
+      "fbs_context": [
+        "ure-based viral vaccine production, but fetal bovine serum (FBS) supplementation increases c",
+        "atory burden. This study developed a 2% FBS low-serum medium optimization workflow "
+      ],
+      "abstract": "Madin-Darby canine kidney (MDCK) cells are important hosts for cell culture-based viral vaccine production, but fetal bovine serum (FBS) supplementation increases cost, batch variability, adventitious-agent risk, and regulatory burden. This study developed a 2% FBS low-serum medium optimization workflow for MDCK cells by integrating design of experiments (DoE) with interpretable machine learning. A Plackett-Burman (PB) design screened 27 nutritional components and identified seven factors that significantly affected proliferation. L-glutamine, L-asparagine, and L-tyrosine showed positive effects and were further optimized using a three-factor Box-Behnken design (BBD). A Kolmogorov-Arnold network (KAN) modeled the nonlinear proliferation response, and its response function served as the objective function for Bayesian optimization (BO). After two KAN-BO validation cycles, the optimized formulation contained 292.30&#xa0;mg/L L-glutamine, 54.36&#xa0;mg/L L-tyrosine, and 11.34&#xa0;mg/L L-asparagine. The predicted relative proliferation rate was 159.38%, in close agreement with the experimental value of 158.63&#x2009;&#xb1;&#x2009;1.70%. Compared with Baseline medium, Optimized medium enhanced MDCK cell proliferation while maintaining typical adherent epithelial-like morphology and high viability. In H1N1 BVR-26 production assays, Optimized medium achieved a peak titer of 3.50&#x2009;&#xb1;&#x2009;0.05 log10 50% tissue culture infectious dose (TCID50)/mL at 48&#xa0;h post-infecti"
+    },
+    {
+      "pmid": "40185367",
+      "year": "2025",
+      "title": "Development of traceable international standard materials using sequence-customized lentivirus, modeled on SARS-CoV-2 nucleic acid amplification tests, and validation through a pilot external quality ",
+      "pcts": [],
+      "fbs_context": [
+        "U/mL as low-concentration) in 10&#xa0;% FBS/DMEM of the original sequence-customize"
+      ],
+      "abstract": "International standardization and quality control of nucleic acid amplification tests (NAATs) require traceable, full-process control materials aligned with international standards. We proposed a protocol for producing sequence-customized, traceable full-process controls, validated for stability and utility through a pilot external quality assessment (EQA) using SARS-CoV-2 NAATs as a model. The concatenated SARS-CoV-2 NAATs target sequence was synthesized as a DNA fragment. A recombinant lentiviral material was generated using the Lentiviral High Titer Packaging Mix (pLVSIN-CMV Neo Vector, Takara Bio). Stability was evaluated after one freeze-thaw cycle at -80&#xa0;&#xb0;C followed by incubation at 4&#xa0;&#xb0;C or 25&#xa0;&#xb0;C for seven days. The reference SARS-CoV-2 reverse transcription-quantitative PCR was standardized internationally using the WHO international standard material (National Institute for Biological Standards and Control). A pilot EQA of SARS-CoV-2 NAAT was conducted in 31 laboratories using high, low, and negative lentiviral materials. The 106-fold dilutions (7.41 x 103 IU/mL as low-concentration) in 10&#xa0;% FBS/DMEM of the original sequence-customized lentiviral materials were stable for seven days at 4&#xa0;&#xb0;C after freeze-thaw. Thirty laboratories reported positive results for high-concentration material, while 27 reported positive results for low-concentration material. GeneXpert (eight laboratories), with Ct values ranging from 22.6 to 26.7"
+    },
+    {
+      "pmid": "39402512",
+      "year": "2024",
+      "title": "Optimization of culture conditions for HBV-specific T cell expansion in vitro from chronically infected patients.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "-V medium outperformed 1640 medium, and fetal bovine serum (FBS) exceeded human AB serum und",
+        "s in AIM-V medium supplemented with 10% FBS is the best approach and that HBeAg, HB"
+      ],
+      "abstract": "Hepatitis B virus (HBV) clearance depends on an effective adaptive immune response, especially HBV-specific T cell-mediated cellular immunity; however, it is difficult to produce enough HBV-specific T cells effectively. In this work, we investigated the proportions of stimulated cells, serum, and culture media as the three primary factors to determine the most effective procedure and applied it to HLA-A2 (+) people. In parallel, we also examined the correlation between clinical parameters and HBV-specific immunity. Concerning amplification efficiency, 4&#x2009;&#xd7;&#x2009;105 cells stimulation was superior to 2&#x2009;&#xd7;&#x2009;106 cells stimulation, AIM-V medium outperformed 1640 medium, and fetal bovine serum (FBS) exceeded human AB serum under comparable conditions. As expected, this procedure is also suitable for developing HBV-specific CD8&#x2009;+&#x2009;T cells in HLA-A2(+) individuals. Expanded HBV-specific T cell responses decreased with treatment time and were negatively correlated with HBV DNA and HBsAg. Furthermore, the number of HBV-specific IFN-&#x3b3;&#x2009;+&#x2009;SFCs was strongly correlated with the ALT level and negatively correlated with the absolute lymphocyte count and the ALB concentration. We confirm that stimulating 4&#x2009;&#xd7;&#x2009;105 PBMCs in AIM-V medium supplemented with 10% FBS is the best approach and that HBeAg, HBsAg, and ALB are independent predictors of HBV-specific T-cell responses."
+    },
+    {
+      "pmid": "38669820",
+      "year": "2024",
+      "title": "Primary goose kidney tubular epithelial cells for goose astrovirus genotype 2 infection: establishment and RNA sequencing analysis.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "e medium/Nutrient mixture F-12 with 10% fetal bovine serum (FBS), the isolated cells had pol"
+      ],
+      "abstract": "Goose astrovirus genotype 2 (GAstV-2) mainly causes gout in goslings; therefore, it is a major pathogen threatening to goose flocks. However, the mechanisms underlying host-GAstV-2 interactions remain unclear because host cells suitable for GAstV-2 replication have been unavailable. We previously noted that GAstV-2 is primarily located in goose renal epithelial cells, where it causes kidney damage. Therefore, here, we derived goose primary renal tubular epithelial (RTE) cells (GRTE cells) from the kidneys of goose embryos after collagenase I digestion. After culture in Dulbecco's modified Eagle medium/Nutrient mixture F-12 with 10% fetal bovine serum (FBS), the isolated cells had polygonal with roadstone-like morphology; they were identified to be epithelial cells based on the presence of cytokeratin 18 expression detected through immunofluorescence assay (IFA). GAstV-2 infection in GRTE cells led to no obvious cytopathic effects; the maximum amounts of infectious virions were observed 48 h post infection through IFA and quantitative PCR. Next, RNA-seq was performed to identify and map post-GAstV-2 infection differentially expressed genes. The downregulated pathways were mainly related to metabolism, including tryptophan metabolism, drug metabolism by cytochrome P450, xenobiotic metabolism by cytochrome P450, retinol metabolism, butanoate metabolism, starch and sucrose metabolism, ascorbate and aldarate metabolism, and drug metabolism by other enzymes and peroxisome. In contr"
+    },
+    {
+      "pmid": "37450488",
+      "year": "2023",
+      "title": "Virus purification highlights the high susceptibility of SARS-CoV-2 to a chlorine-based disinfectant, chlorous acid.",
+      "pcts": [
+        "5"
+      ],
+      "fbs_context": [
+        "BSA + 0.3% sheep red blood cells, or 5% FBS) were added to the purified virus, the "
+      ],
+      "abstract": "Chlorous acid water (HClO2) is known for its antimicrobial activity. In this study, we attempted to accurately assess the ability of chlorous acid water to inactivate SARS-CoV-2. When using cell culture supernatants of infected cells as the test virus, the 99% inactivation concentration (IC99) for the SARS-CoV-2 D614G variant, as well as the Delta and Omicron variants, was approximately 10ppm of free chlorine concentration with a reaction time of 10 minutes. On the other hand, in experiments using a more purified virus, the IC99 of chlorous acid water was 0.41-0.74ppm with a reaction time of 1 minute, showing a strong inactivation capacity over 200 times. With sodium hypochlorite water, the IC99 was 0.54ppm, confirming that these chlorine compounds have a potent inactivation effect against SARS-CoV-2. However, it became clear that when using cell culture supernatants of infected cells as the test virus, the effect is masked by impurities such as amino acids contained therein. Also, when proteins (0.5% polypeptone, or 0.3% BSA + 0.3% sheep red blood cells, or 5% FBS) were added to the purified virus, the IC99 values became high, ranging from 5.3 to 76ppm with a reaction time of 10 minutes, significantly reducing the effect. However, considering that the usual usage concentration is 200ppm, it was shown that chlorous acid water can still exert sufficient disinfection effects even in the presence of proteins. Further research is needed to confirm the practical applications and e"
+    },
+    {
+      "pmid": "37201590",
+      "year": "2023",
+      "title": "A rapid procedure to generate stably transfected HEK293 suspension cells for recombinant protein manufacturing: Yield improvements, bioreactor production and downstream processing.",
+      "pcts": [
+        "20"
+      ],
+      "fbs_context": [
+        " grown in adherent conditions, with 20% FBS supplementation. These transfection con"
+      ],
+      "abstract": "The human cell line HEK293 is one of the preferred choices for manufacturing therapeutic proteins and viral vectors for human applications. Despite its increased use, it is still considered in disadvantage in production aspects compared to cell lines such as the CHO cell line. We provide here a simple workflow for the rapid generation of stably transfected HEK293&#xa0;cells expressing an engineered variant of the SARS-CoV-2 Receptor Binding Domain (RBD) carrying a coupling domain for linkage to VLPs through a bacterial transpeptidase-sortase (SrtA). To generate stable suspension cells expressing the RBD-SrtA, a single two plasmids transfection was performed, with hygromycin selection. The suspension HEK293 were grown in adherent conditions, with 20% FBS supplementation. These transfection conditions increased cell survival, allowing the selection of stable cell pools, which was otherwise not possible with standard procedures in suspension. Six pools were isolated, expanded and successfully re-adapted to suspension with a gradual increase of serum-free media and agitation. The complete process lasted four weeks. Stable expression with viability over 98% was verified for over two months in culture, with cell passages every 4-5 days. With process intensification, RBD-SrtA yields reached 6.4&#xa0;&#x3bc;g/mL and 13.4&#xa0;&#x3bc;g/mL in fed-batch and perfusion-like cultures, respectively. RBD-SrtA was further produced in fed-batch stirred tank 1L-bioreactors, reaching 10-fold hig"
+    },
+    {
+      "pmid": "36062749",
+      "year": "2022",
+      "title": "An Evaluation of Different Types of Peptone as Partial Substitutes for Animal-derived Serum in Vero Cell Culture.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "as peptones, as partial substitutes for fetal bovine serum (FBS) in Vero cell culture. Eleve",
+        "ffects of three concentration ratios of FBS and peptone on Vero cell proliferation,",
+        " combination with a minimal 1% level of FBS, supported cell proliferation rates equ",
+        "ivalent to those achieved with 10% FBS. Collectively, our findings showed that"
+      ],
+      "abstract": "Vero cells are one of the most frequently used cell types in virology. They can be used not only as a vehicle for the replication of viruses, but also as a model for investigating viral infectivity, cytopathology and vaccine production. There is increasing awareness of the need to limit the use of animal-derived components in cell culture media for a number of reasons, which include reducing the risk of contamination and decreasing costs related to the downstream processing of commercial products obtained via cell culture. The current study evaluates the use of protein hydrolysates (PHLs), also known as peptones, as partial substitutes for fetal bovine serum (FBS) in Vero cell culture. Eleven plant-based, two yeast-based, and three casein-based peptones were assessed, with different batches evaluated in the study. We tested the effects of three concentration ratios of FBS and peptone on Vero cell proliferation, four days after the initial cell seeding. Some of the tested peptones, when in combination with a minimal 1% level of FBS, supported cell proliferation rates equivalent to those achieved with 10% FBS. Collectively, our findings showed that plant-based peptones could represent promising options for the successful formulation of serum-reduced cell culture media for vaccine production. This is especially relevant in the context of the current COVID-19 pandemic, in view of the urgent need for SARS-CoV-2 virus production for certain types of vaccine. The current study contr"
+    },
+    {
+      "pmid": "34782922",
+      "year": "2021",
+      "title": "Upstream process optimization and micro- and macrocarrier screening for large-scale production of the oncolytic H-1 protoparvovirus.",
+      "pcts": [
+        "5"
+      ],
+      "fbs_context": [
+        "ells/cm2. Production also requires a 5% fetal bovine serum (FBS) supplementation and has a v",
+        " density to 5.0E3 cells/cm2 and cutting FBS supplementation by up to 40% during the",
+        " production process. Additionally, FBS is completely removed at the time of ha",
+        " &#x2022;&#xa0;Virus yield increase and FBS-free harvest after switching to cell cu"
+      ],
+      "abstract": "The oncolytic virus H-1PV is a promising candidate for various cancer treatments. Therefore, production process needs to be optimized and scaled up for future market release. Currently, the virus is produced with minimum essential medium in 10-layer CellSTACK&#xae; chambers with limited scalability, requiring a minimum seeding density of 7.9E3 cells/cm2. Production also requires a 5% fetal bovine serum (FBS) supplementation and has a virus yield up to 3.1E7 plaque-forming units (PFU)/cm2. Using the animal-free cell culture medium VP-SFM&#x2122; and a new feeding strategy, we demonstrate a yield boost by a mean of 0.3 log while reducing seeding density to 5.0E3 cells/cm2 and cutting FBS supplementation by up to 40% during the production process. Additionally, FBS is completely removed at the time of harvest. Eleven commercial micro- and macrocarriers were screened regarding cell growth, bead-to-bead transfer capability, and virus yield. We present a proof-of-concept study for producing H-1PV on a large scale with the microcarrier Cytodex&#xae; 1 in suspension and a macrocarrier for a fixed-bed iCELLis&#xae; bioreactor. A carrier-based H-1PV production process combined with an optimized cell culture medium and feeding strategy can facilitate future upscaling to industrial-scale production. KEY POINTS: &#x2022;&#xa0;Virus yield increase and FBS-free harvest after switching to cell culture medium VP-SFM&#x2122;. &#x2022;&#xa0;We screened carriers for cell growth, bead-to-bead tra"
+    },
+    {
+      "pmid": "34728730",
+      "year": "2021",
+      "title": "Evidencing the presence of merkel cell polyomavirus in papillary thyroid cancer.",
+      "pcts": [],
+      "fbs_context": [
+        "es, including 412 fresh biopsy samples (FBS) and 645 paraffin-embedded PTC biopsy s",
+        "%) of samples, including 126 (30.6%) in FBS and 89 (13.8%) in PEBS. In MCPyV-positi",
+        " number was higher in the patients with FBS (2.3&#x2009;&#xd7;&#x2009;10-1&#x2009;&",
+        " The LT-Ag RNA expression was higher in FBS compared to PEBS, while VP1 gene transc"
+      ],
+      "abstract": "Merkel cell polyomavirus (MCPyV) infects most people asymptomatically, but recent reports indicate that the virus may be related to carcinogenesis. This study aimed to evaluate the impact of MCPyV on the development of papillary thyroid cancer (PTC). Totally, 1057 samples, including 412 fresh biopsy samples (FBS) and 645 paraffin-embedded PTC biopsy samples (PEBS), and 1057 adjacent non-cancerous samples were assessed for the presence of MCPyV DNA and RNA. MCPyV DNA was positive in 215 (20.3%) of samples, including 126 (30.6%) in FBS and 89 (13.8%) in PEBS. In MCPyV-positive samples, the mean MCPyV copy number was higher in the patients with FBS (2.3&#x2009;&#xd7;&#x2009;10-1&#x2009;&#xb1;&#x2009;0.5&#x2009;&#xd7;&#x2009;10-1 copies/cell) compared to PEBS (0.7&#x2009;&#xd7;&#x2009;10-4&#x2009;&#xb1;&#x2009;0.1&#x2009;&#xd7;&#x2009;10-4 copies/cell) and adjacent non-PTC normal samples (0.3&#x2009;&#xd7;&#x2009;10-5&#x2009;&#xb1;&#x2009;0.02&#x2009;&#xd7;&#x2009;10-5 copies/cell), indicating a statistically significant difference (P&#x2009;&lt;&#x2009;0.001). The LT-Ag RNA expression was higher in FBS compared to PEBS, while VP1 gene transcript was not detected in any samples. Although our findings showed the presence of MCPyV in a subset of PTC Iranian patients, further research is required to confirm these findings."
+    },
+    {
+      "pmid": "33556411",
+      "year": "2021",
+      "title": "Comparative sensitivity of three new cell lines developed from gill, liver and brain tissues of goldfish, Carassius auratus (L.) to cyprinid herpesvirus-2 (CyHV-2).",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "15 (L-15) medium supplemented with 10 % fetal bovine serum (FBS). The PDT during exponential"
+      ],
+      "abstract": "Cyprinid herpesvirus 2 (CyHV-2) is the etiological agent of Goldfish herpesviral haematopoietic necrosis (GHVHN) in goldfish. In this study, three new cell lines including Fantail goldfish gill (FtGG), Fantail goldfish liver (FtGL) and Fantail goldfish brain (FtGB) had been established and characterized from the gill, liver and brain tissue of C. auratus respectively. Cell lines were optimally grown at 28&#x202f;&#xb0;C in Leibovitz-15 (L-15) medium supplemented with 10 % fetal bovine serum (FBS). The PDT during exponential growth of FtGG, FtGL and FtGB cells were determined to be 41.47&#x202f;h, 63.43&#x202f;h and 79.79&#x202f;h respectively. Karyotyping analysis of cell lines remained diploid (2n&#x202f;=&#x202f;100). The revival rate was 82 %, 72 % and 70 % in FtGG, FtGL and FtGB cells respectively after 6 months of cryopreservation. All the three cells showed similar cytopathic effect (CPE) between 3-5 days post-infection (dpi) with CyHV-2 and complete destruction of the monolayer was observed at 8-10 dpi. The viral titers of CyHV-2 in FtGG, FtGL and FtGB reached 107.375&#xb1;0.35 TCID50&#x202f;ml-1, 104&#xb7;55&#xb1;0.070 TCID50&#x202f;ml-1 and 106.45&#xb1;0.070 TCID50&#x202f;ml-1 respectively. These newly established cell lines will be a useful diagnostic tool for viral diseases in this fish species and also for the isolation and study of goldfish viruses in future.",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "33208823",
+      "year": "2020",
+      "title": "Characterization of a new cell line from ornamental fish Amphiprion ocellaris (Cuvier, 1830) and its susceptibility to nervous necrosis virus.",
+      "pcts": [
+        "15",
+        "20"
+      ],
+      "fbs_context": [
+        "ovitz's-15 medium supplemented with 15% FBS (Fetal Bovine Serum) and was successful",
+        "ne was maximum in medium containing 20% FBS and 1% of 0.2&#xa0;M NaCl at 28&#xa0;&#"
+      ],
+      "abstract": "Amphiprion ocellaris (ocellaris clownfish) is one of the most commercially important marine ornamental fish. A cell line designated as OCF was developed for the first time from the caudal fin of this fish&#xa0;species. The cell line was maintained in Leibovitz's-15 medium supplemented with 15% FBS (Fetal Bovine Serum) and was successfully subcultured up to 34 passages. The cell line was authenticated by sequencing mitochondrial cytochrome C oxidase subunit I (COI) and 16S rRNA&#xa0;genes. The growth rate of the OCF cell line was maximum in medium containing 20% FBS and 1% of 0.2&#xa0;M NaCl at 28&#xa0;&#xb0;C. Chromosome analysis revealed 48&#xa0;diploid chromosomes. The OCF cell line was&#xa0;transfected with the pMaxGFP plasmid vector with 7% efficiency and GFP expression was observed. The OCF cell line was used for testing nervous necrosis virus (NNV) susceptibility. Cytopathic effect (CPE) was observed in terms of plaque formation after virus inoculation. Nested PCR confirmed the susceptibility of the OCF cell line to NNV. The cell line was successfully cryopreserved by a slow freezing procedure at&#x2009;-&#x2009;80&#xa0;&#xb0;C with a revival efficiency of 70-75%. The study revealed that the OCF cell line would be useful for virological studies. In addition, the cell line would play an important role as an in vitro tool for carrying out toxicological and biotechnological studies.",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "33005480",
+      "year": "2020",
+      "title": "Establishment and characterization of fantail goldfish fin (FtGF) cell line from goldfish, Carassius auratus for in vitro propagation of Cyprinid herpes virus-2 (CyHV-2).",
+      "pcts": [
+        "20",
+        "10"
+      ],
+      "fbs_context": [
+        "itz's L-15 (L-15) medium containing 20% FBS and 1X concentration of antibiotic anti",
+        "assaged up to 56 times in L-15 with 10% FBS. Karyotyping of FtGF cells at 30th, 40t"
+      ],
+      "abstract": "Herpesviral hematopoietic necrosis disease, caused by cyprinid herpesvirus-2 (CyHV-2), is responsible for massive mortalities in the aquaculture of goldfish, Carassius auratus. Permissive cell lines for the isolation and propagation of CyHV-2 have been established from various goldfish tissues by sacrificing the fish. Here, we report the development of a cell line, FtGF (Fantail Goldfish Fin), from caudal fin of goldfish using non-lethal sampling. We also describe a simple protocol for successful establishment and characterization of a permissive cell line through explant method and continuous propagation of CyHV-2 with high viral titer using this cell line. Caudal fin tissue samples were collected from goldfish without killing the fish. Cell culture of goldfish caudal fin cells was carried out using Leibovitz's L-15 (L-15) medium containing 20% FBS and 1X concentration of antibiotic antimycotic solution, incubated at 28 &#xb0;C. Cells were characterized and origin of the cells was confirmed by sequencing fragments of the 16S rRNA and COI genes. CyHV-2 was grown in the FtGF cells and passaged continuously 20 times. The infectivity of the CyHV-2 isolated using FtGF cells was confirmed by experimental infection of na&#xef;ve goldfish. The cell line has been passaged up to 56 times in L-15 with 10% FBS. Karyotyping of FtGF cells at 30th, 40th and 56th passage indicated that modal chromosome number was 2n = 104. Species authentication of FtGF was performed by sequencing of the 16",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "31944172",
+      "year": "2020",
+      "title": "Metabolic effects of RUBCN/Rubicon deficiency in kidney proximal tubular epithelial cells.",
+      "pcts": [],
+      "fbs_context": [
+        "r 4E binding protein 1; FA: fatty acid; FBS: fetal bovine serum; GTT: glucose toler"
+      ],
+      "abstract": "Macroautophagy/autophagy is a lysosomal degradation system which plays a protective role against kidney injury. RUBCN/Rubicon (RUN domain and cysteine-rich domain containing, Beclin 1-interacting protein) inhibits the fusion of autophagosomes and lysosomes. However, its physiological role in kidney proximal tubular epithelial cells (PTECs) remains uncertain. In the current study, we analyzed the phenotype of newly generated PTEC-specific rubcn-deficient (KO) mice. Additionally, we investigated the role of RUBCN in lipid metabolism using isolated rubcn-deficient PTECs. Although KO mice exhibited sustained high autophagic flux in PTECs, they were not protected from acute ischemic kidney injury. Unexpectedly, KO mice exhibited hallmark features of metabolic syndrome accompanied by expanded lysosomes containing multi-layered phospholipids in PTECs. RUBCN deficiency in cultured PTECs promoted the mobilization of phospholipids from cellular membranes to lysosomes via enhanced autophagy. Treatment of KO PTECs with oleic acid accelerated fatty acids transfer to mitochondria. Furthermore, KO PTECs promoted massive triglyceride accumulation in hepatocytes (BNL-CL2 cells) co-cultured in transwell, suggesting accelerated fatty acids efflux from the PTECs contributes to the metabolic syndrome in KO mice. This study shows that sustained high autophagic flux by RUBCN deficiency in PTECs leads to metabolic syndrome concomitantly with an accelerated mobilization of phospholipids from cellular"
+    },
+    {
+      "pmid": "31563585",
+      "year": "2020",
+      "title": "Establishing the optimal fetal bovine serum concentration to support replication of cyprinid herpesvirus 3 in CCB and KF-1 cell lines.",
+      "pcts": [
+        "10",
+        "2",
+        "5"
+      ],
+      "fbs_context": [
+        " determine the optimal concentration of fetal bovine-serum (FBS) to use for supporting the r",
+        "ations were tested: 0%, 2%, 5%, and 10% FBS. At 7 days post-viral inoculation (dpi)",
+        "l lines when supplemented with 0 and 2% FBS, but not in those supplemented with 5% ",
+        "or 10% FBS. At 14 dpi, CPE was observed in both ce"
+      ],
+      "abstract": "Koi herpesvirus (KHV) disease is a serious disease in cultured carp (Cyprinus carpio). CCB and KF-1 cell lines are commonly used for virus isolation and observation of cytopathic effects (CPE) in carp and koi samples. The purpose of this study was to determine the optimal concentration of fetal bovine-serum (FBS) to use for supporting the replication of cyprinid herpesvirus 3 CyHV-3 in CCB and KF-1 cell lines. The following concentrations were tested: 0%, 2%, 5%, and 10% FBS. At 7 days post-viral inoculation (dpi), CPE with clear vacuolation was observed in both cell lines when supplemented with 0 and 2% FBS, but not in those supplemented with 5% or 10% FBS. At 14 dpi, CPE was observed in both cell lines supplemented with FBS at any of the tested concentrations when a high virus titer was inoculated. However, CPE was indistinguishable between cell lines supplemented with 10% FBS when a low virus titer was inoculated. Results of qPCR indicated that the number copies of the viral genome tended to be larger in both cell lines supplemented with 10% FBS than the corresponding number in cell lines supplemented with 0%, 2%, or 5% FBS, at 7 dpi. In conclusion, we recommend using 2% FBS as supplement for isolation and diagnosis of CyHV-3 viral infection in carp samples.",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "31087689",
+      "year": "2019",
+      "title": "A standard procedure for lentiviral-mediated labeling of murine mesenchymal stromal cells in vitro.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "lbecco's modified Eagle medium with 10% FBS one day before transfection. Transfecti"
+      ],
+      "abstract": "Tracking of stem cells after transplantation is effectively performed in vivo with imaging systems, assuming the cells are adequately labeled to facilitate their recognition. This study aimed to optimize a protocol for fluorescent labeling of mesenchymal stromal cells (MSCs) in vitro, by using a third-generation lentiviral system. Basically, 293T cells are seeded in high-glucose Dulbecco's modified Eagle medium with 10% FBS one day before transfection. Transfection is done for 24&#xa0;h using a mix of transfer, packaging, regulatory, and envelope plasmids, in molar ratio of 4:2:1:1, respectively. After transfection, the cells are further cultured for two days. During this period, the viral medium is harvested two times, at 24-h intervals, with the first round being stored at 4&#xb0;C until the second round is completed. The pooled viral medium is frozen in single-use aliquots. MSCs are transduced with 25 multiplicity of infection (MOI) and one day later the cells are passaged at standard seeding density and further grown for three days, when the fluorescence reach the maximum level. Our protocol provides particular experimental details for permanent MSC labeling that makes the procedure highly effective for therapeutic purposes, without affecting the functional properties of stem cells."
+    },
+    {
+      "pmid": "31032368",
+      "year": "2019",
+      "title": "Improvement of K562 Cell Line Transduction by FBS Mediated Attachment to the Cell Culture Plate.",
+      "pcts": [],
+      "fbs_context": [
+        "4-well plate was coated by 300 &#x3bc;l fetal bovine serum (FBS) before seeding. Then 2&#xd7",
+        ";104 K562 cells were seeded in each FBS coated plate. After 24h, K562 cells wer",
+        "s showed that, after plate treatment by FBS, 64.5% transduction rate in K562 cells "
+      ],
+      "abstract": "Lentiviral vectors have been used for gene therapy in the clinical phase in recent years. These vectors provide a tool for gene insertion, deletion, or modification in organisms. The K562 human cell line has been used extensively in hematopoietic research. Despite its broad application, it is hard-to-transfection and transduction. So, this study presents a simple method to increase the transduction efficiency of K562 cells with a low multiplicity of infection (MOI) of the virus particle. For this purpose, 24-well plate was coated by 300 &#x3bc;l fetal bovine serum (FBS) before seeding. Then 2&#xd7;104 K562 cells were seeded in each FBS coated plate. After 24h, K562 cells were attached and doubled. Different amount of lentivirus-based GFP vector according to MOI (5, 10, 15, and 20) along with 8 &#x3bc;g polybrene was added to the attached K562 cells and after 6h cells and viral particle complex were spinfected. Then cells were returned to the plate and incubated in 37&#xb0;C overnight. After 48h transduction efficiency was established by measuring the GFP-expressing cells by flow cytometry. Flow cytometry analysis showed that, after plate treatment by FBS, 64.5% transduction rate in K562 cells was achieved at MOI=20. Therefore, this method can be an effective and simple way to increase the lentiviral transduction rate for suspended cells such as K562."
+    },
+    {
+      "pmid": "30641021",
+      "year": "2018",
+      "title": "[Mesenchymal stem cells enhance immune response and protect mice against lethal herpes viral infection.].",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "n &#xfb02;asks with DMEM containing 10% FBS, insulin, transferrin, selenite, fbrobl"
+      ],
+      "abstract": "The objective of this study was to evaluate immunoregulatory and protective potential of mesenchymal stem cells (MSC) in a mouse model of lethal HSV1 infection. MSC were isolated from bone marrow of DBA mice and cultured in &#xfb02;asks with DMEM containing 10% FBS, insulin, transferrin, selenite, fbroblast growth factor, glutamin&#x435; and gentamicin. Antiviral activity was tested on HSV1-infected Vero cells. In vivo experiments were performed on DBA mice divided into 5 groups (10 animals each): group 1, intact (na&#xef;ve) mice; group 2, intravenous (iv) MSC injection; group 3, ntraperitoneal infection with 20 LD50 HSV1 followed by MSC injection; group 4, HSV1 infection followed by acyclovir (ACV) injection; group 5, HSV1 infection and iv injection of saline. Isolated cells were consistent with MSC morphologically, by adhesive ability and surface receptors. Conditioned media from MSC collected after 4-5 passages inhibited HSV1 infection in vitro by 64-70% and contained IL-6 and TNF-&#x3b1;, whose concentrations were 5- and 20-fold higher, respectively, than in the control. MSC and ACV injections protected 70% and 60% of DBA mice, respectively, compared with the control (group 5, 10% survival). High activity of virus neutralizing anti-HSV1 antibodies and activation of T cell proliferation were observed in survived mice from group 3. Serum levels of IL-6 and TNF-&#x3b1; in these mice were lower and that of INF-&#x3b3; much higher than in agonizing animals of this group (&#x4"
+    },
+    {
+      "pmid": "30466633",
+      "year": "2018",
+      "title": "Boswellia serrata oleo-gum-resin and &#x3b2;-boswellic acid inhibits HSV-1 infection in vitro through modulation of NF-&#x43a;B and p38 MAP kinase signaling.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Herpes Simplex Virus (HSV), a highly contagious pathogen, is responsible for causing lifelong oral to genital infection in human. Boswellia serrata oleo-gum-resin possesses a strong traditional background of treating diverse skin ailments including infection but its effect on HSV-1 has not been examined yet. To exploit its potential, we aimed to explore the antiviral activity of methanol extract of B. serrata oleo-gum-resin (BSE) and one of its major constituent &#x3b2;-boswellic acid (BA) against HSV-1 along with the underlying mechanism of action involved. BSE was subjected to RP-HPLC analysis to quantify the active constituent. Cytotoxicity (CC50) and antiviral activity were evaluated by MTT and plaque reduction assay, followed by the determination of median effective concentration (EC50). The mode of antiviral activity was assessed by time-of-addition assay and confirmed by reverse transcriptase-PCR (RT-PCR). Further, the expressions of various cytokines were measured by RT-PCR, while the proteins by Western blot. BSE and BA potently inhibited wild-type and a clinical isolate of HSV-1 (EC50 5.2-6.2 and 12.1-14.63&#x202f;&#x3bc;g/ml), with nearly-complete inhibition (EC99) at 10 and 30&#x202f;&#x3bc;g/ml, respectively. The inhibitory effect was significant at 1&#x202f;h post-infection and effective up to 4&#x202f;h. Based on target analysis we examined the inhibition of NF-&#x3ba;B, essential for virus replication, and observed significant down-regulation of NF-&#x3ba;B, a"
+    },
+    {
+      "pmid": "30047007",
+      "year": "2019",
+      "title": "Establishment and characterization of a caudal fin-derived cell line, AOF, from the Oscar, Astronotus ocellatus.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "itz's L-15 medium supplemented with 10% fetal bovine serum at 28&#xa0;&#xb0;C. The optimum t",
+        "emperature and FBS concentration for cell growth were test",
+        "e ranges from 20 to 37&#xa0;&#xb0;C and FBS concentrations of 5-20% at 28&#xa0;&#xb"
+      ],
+      "abstract": "Astronotus ocellatus, commonly called the oscar, is one of the popular cichlids among aquarium hobby. The present study deals with the development and characterization of a new cell line from caudal fin of A. ocellatus. The cell line was cultured in Leibovitz's L-15 medium supplemented with 10% fetal bovine serum at 28&#xa0;&#xb0;C. The optimum temperature and FBS concentration for cell growth were tested with temperature ranges from 20 to 37&#xa0;&#xb0;C and FBS concentrations of 5-20% at 28&#xa0;&#xb0;C. The Astronotus ocellatus fin cell line has been subcultured 45 times since its development and the modal chromosome number (2n) is 48. The cell line is composed mainly of epithelial cells as confirmed by immunocytological technique using anti-cytokeratin antibodies. The cell line was cryopreserved at different passage levels and the revival efficiency showed 80% survival rate. Partial sequence amplification and sequencing of two genes, mitochondrial 16S ribosomal RNA and cytochrome oxidase I, confirmed the origin of cell line. The cell line did not show Mycoplasma contamination. The cells showed good transfection efficiency when transfected with 2&#xa0;&#x3bc;g of pAcGFP1-N1 expression vector. The extracellular products of fish bacterial pathogens viz., Aeromonas hydrophila and A. caviae, were cytotoxic to AOF cells but were not susceptible to Cyprinid herpes virus 2. The development of AOF cell line will have significant applications in fish virology and will prove useful "
+    },
+    {
+      "pmid": "29757587",
+      "year": "2018",
+      "title": "Development and Evaluation of a Novel ELISA for Detection of Antibodies against HTLV-I Using Chimeric Peptides.",
+      "pcts": [
+        "5"
+      ],
+      "fbs_context": [
+        "g/mL; the optimal blocking buffer was5% fetal bovine serum (FBS); the secondary antibody con"
+      ],
+      "abstract": "We aimed to develope a peptide-based indirect ELISA to detect antibodies against Human T-lymphotropic virus type I (HTLV-I). Two chimeric peptides (CP-1 and CP-2) were designed using linear immunodominant epitopes of gp-46-I, and gp21-I proteins, according to the sequence from Uniprot database. These peptides were studied initially in the ELISA using infected sera. The most promising peptideCP-1, was used to develop a peptide ELISA for detection of HTLV-I infected sera. The optimal conditions for CP-1ELISA were: the optimum coating buffer was 100mM NaHCO3, pH 9.6; coating peptide concentration was 10 &#xb5;g/mL; the optimal blocking buffer was5% fetal bovine serum (FBS); the secondary antibody concentration was 1:2000; and serum dilution was 1:20. 20serum samples from HTLV-I infected patients were evaluated by ELISA developed. CP-1 showed high antigenicity while lacking any cross-reactivity with normal human sera. The results of evaluations indicated that in comparison with commercial ELISA, CP-1 ELISA showed good sensitivity and specificity. With further validation, CP-1as described in the present study could be introduced as novel reliable and cost-effective candidates for the high-specific screening of HTLV-I/-II infections in endemic regions."
+    },
+    {
+      "pmid": "29064103",
+      "year": "2018",
+      "title": "Establishment and characterization of a new cell line from koi brain (Cyprinus carpio L.).",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "itz's L-15 medium supplemented with 10% foetal bovine serum (FBS). It was subcultured more th"
+      ],
+      "abstract": "A novel permanently growing brain cell line from koi (Cyprinus carpio L.) (KB cell line) was established, and its suitability for detection of koi herpesvirus (KHV) was demonstrated in this study. The KB cell line was optimally maintained at 27&#xb0;C in Leibovitz's L-15 medium supplemented with 10% foetal bovine serum (FBS). It was subcultured more than 100 times, and chromosome analysis revealed that 51.54% of KB cells at passage 80 maintained the abnormal diploid chromosome number 2n&#xa0;=&#xa0;96 while the modal chromosome number was 2n&#xa0;=&#xa0;100. The cell line was cryopreserved in liquid nitrogen at -196&#xb0;C and was recovered from storage after 1&#xa0;year with good cell viability and vitality. The results of virus isolation demonstrated that KB cells were susceptible to KHV, which was shown by the presence of an obvious cytopathic effect and abundant virus particles. The viral titres of KHV in KB reached 105.73 TCID50 /0.1&#xa0;ml within 7&#xa0;days. Immunofluorescence and Western blot assays confirmed that KB replicated KHV. The newly established KB cell line will serve as a useful tool to elucidate KHV disease (KHVD) pathogenesis."
+    },
+    {
+      "pmid": "27458084",
+      "year": "2016",
+      "title": "A new fish cell line derived from the caudal fin of freshwater angelfish Pterophyllum scalare: development and characterization.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "vitz's -15 medium supplemented with 10% foetal bovine saline (FBS) at 28&#xb0;&#x2009;C and t",
+        " 20 to 37&#xb0;&#x2009;C and at various FBS concentrations of 5-20% at 28&#xb0;&#x2"
+      ],
+      "abstract": "In this study, a new cell line derived from the caudal fin of the freshwater angelfish Pterophyllum scalare was developed and characterized. The cell line was designated angelfish fin (AFF) and subcultured 44 times since its development. These cells grew well in Leibovitz's -15 medium supplemented with 10% foetal bovine saline (FBS) at 28&#xb0;&#x2009;C and the modal chromosome number (2n) was 48. The AFF cell-line is mainly comprised of epithelial cells as confirmed by immunocytological technique using anti-cytokeratin antibodies, an epithelial cell marker. This cell line was tested for growth in a temperatures range from 20 to 37&#xb0;&#x2009;C and at various FBS concentrations of 5-20% at 28&#xb0;&#x2009;C. The cell line was cryopreserved at different passage levels and revived successfully with 80% survival rate. Polymerase chain reaction amplification and sequencing of partial mitochondrial 16s rRNA and coI genes confirmed that the AFF cell-line originated from angelfish. Mycoplasma sp. contamination was not detected in AFF cells and checked by Hoechst 33258 fluorescence staining. At the 42nd passage the cells were transfected with 2&#x2009;&#x3bc;g of pAcGFP1-N1 expression vector. The AFF cells exhibited cytotoxic effects when exposed to the bacterial extra cellular products from Serratia marcescens and Proteus hauseri. The AFF cells and cells from kidney and brain did not show cytopathic effect when exposed to cyprinid herpes virus2 and viral nervous necrosis virus. Th"
+    },
+    {
+      "pmid": "26870822",
+      "year": "2016",
+      "title": "Small Molecule Inhibitors of BAF; A Promising Family of Compounds in HIV-1 Latency Reversal.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Persistence of latently infected cells in presence of Anti-Retroviral Therapy presents the main obstacle to HIV-1 eradication. Much effort is thus placed on identification of compounds capable of HIV-1 latency reversal in order to render infected cells susceptible to viral cytopathic effects and immune clearance. We identified the BAF chromatin remodeling complex as a key player required for maintenance of HIV-1 latency, highlighting its potential as a molecular target for inhibition in latency reversal. Here, we screened a recently identified panel of small molecule inhibitors of BAF (BAFi's) for potential to activate latent HIV-1. Latency reversal was strongly induced by BAFi's Caffeic Acid Phenethyl Ester and Pyrimethamine, two molecules previously characterized for clinical application. BAFi's reversed HIV-1 latency in cell line based latency models, in two ex vivo infected primary cell models of latency, as well as in HIV-1 infected patient's CD4&#xa0;+ T cells, without inducing T cell proliferation or activation. BAFi-induced HIV-1 latency reversal was synergistically enhanced upon PKC pathway activation and HDAC-inhibition. Therefore BAFi's constitute a promising family of molecules for inclusion in therapeutic combinatorial HIV-1 latency reversal."
+    },
+    {
+      "pmid": "26447649",
+      "year": "2016",
+      "title": "A Novel Organ Culture Model of Mouse Intervertebral Disc Tissues.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "upplemented with 2% bovine serum or 10% fetal bovine serum (FBS). We find the minimal IVD un",
+        "ubmersion culture supplemented with 10% FBS. New bone formation in the EPs of the c"
+      ],
+      "abstract": "The intervertebral disc (IVD) is a fibrocartilaginous joint between two vertebral bodies. An IVD unit consists of a gelatinous central nucleus pulposus, encased by the annulus fibrosus, which is sandwiched between cartilaginous endplates (EPs). The IVD homeostasis can be disrupted by injuries, ageing and/or genetic predispositions, leading to degenerative disc disorders and subsequent lower back pain. The complex structure and distinct characteristics of IVDs warrant the establishment of robust in vitro IVD organ culture for studying the etiology and treatment of disc degeneration. Here, we isolate mouse lumbar IVDs and culture the minimal IVD units in submersion or suspension medium supplemented with 2% bovine serum or 10% fetal bovine serum (FBS). We find the minimal IVD units remain healthy for up to 14 days when cultured in submersion culture supplemented with 10% FBS. New bone formation in the EPs of the cultured IVDs can be assessed with calcein labeling. Furthermore, the cultured IVDs can be effectively transduced by recombinant adenovirus, and transgene expression lasts for 2 weeks. Thus, our findings demonstrate that the optimized IVD organ culture system can be used to study IVD biology and screen for biological factors that may prevent, alleviate and/or treat disc degeneration.",
+      "has_isolation_kw": true
+    },
+    {
+      "pmid": "26415862",
+      "year": "2017",
+      "title": "Genetic Diversity of Brazilian Bovine Pestiviruses Detected Between 1995 and 2014.",
+      "pcts": [],
+      "fbs_context": [
+        "and that originated from either cattle, fetal bovine serum (FBS) or as cell culture contamin"
+      ],
+      "abstract": "Pestivirus infections in ruminants result in significant economic losses worldwide. The aetiological agents are three species from the genus Pestivirus, family Flaviviridae, including bovine viral diarrhoea virus type 1 (BVDV-1), BVDV-2, border disease virus (BDV), and an atypical pestivirus named HoBi-like pestivirus. In this study, eighty-nine pestivirus isolates that were collected in Brazil between 1995 and 2014 and that originated from either cattle, fetal bovine serum (FBS) or as cell culture contaminants were genotyped based on a comparison of gene sequences from their 5' untranslated regions (5'UTR), N-terminal autoprotease (Npro ) and envelope glycoprotein 2 (E2). Of these isolates, 53.9% of the sequences were genotyped as BVDV-1, 33.7% as BVDV-2 and 12.4% as HoBi-like pestivirus. The prevalence of subgenotypes within the species was as follows: BVDV-1a (35.9%), BVDV-2b (31.4%), BVDV-1b (10.1%), BVDV-1d (6.7%), BVDV-2c (2.2%) and BVDV-1e (1.1%). BVDV-2c and BVDV-1e were detected for the first time in Brazil. This study revealed extensive genetic diversity among Brazilian pestivirus isolates, and the combination of pestiviruses that was detected is unique to Brazil. This information may serve as a foundation for designing and evaluating diagnostic tools and in the development of more effective vaccines; therefore, it may potentially contribute to pestivirus control and eradication."
+    },
+    {
+      "pmid": "25138015",
+      "year": "2014",
+      "title": "Development of a cytokine-producing immortalized murine Kupffer cell line.",
+      "pcts": [
+        "5"
+      ],
+      "fbs_context": [
+        "24 h when cultured in RPMI 1640 with 5% FBS. Our observations indicate that both ac"
+      ],
+      "abstract": "Kupffer cells (KC) play a critical role in both liver physiology and the pathogenesis of various liver diseases. Isolated primary KC have a limited lifespan in culture, and due to the relatively low number obtained, limit their study in vitro. Here, a cytokine-producing immortalized KC (ImKC) line was established from transgenic mice that express the thermolabile mutant tsA58 of the Simian virus 40 large T antigen under the control of the H-2k(b) promoter. Primary KC were obtained using a three step procedure: liver perfusion, centrifugal elutriation, and sorting for F4/80&#x207a; cells. ImKC were identified within the small-intermediate population of KC that maintained stable expression of F4/80, and the surface antigens CD11b, CD14 and TLR4. ImKC grow at IFN&#x3b3;-independent manner at 37&#xb0;C and exhibited a doubling time of &#x223c;24 h when cultured in RPMI 1640 with 5% FBS. Our observations indicate that both activation of telomerase and expression of P53 are markedly increased, suggesting that enhanced telomerase activity and P53 expression may contribute to the immortalization of this cell population. ImKC cells maintained a high capacity to phagocytose FITC-latex beads, and bind/phagocytose erythrocytes. In addition, similar to primary KC, ImKC responded to stimulation with lipopolysaccharide (LPS: 0.1-1&#x3bc;g/ml) by upregulating mRNA levels of TNF&#x3b1; (23-fold), IL-6 (28-fold), and IL-1&#x3b2; (1459-fold), as measured by qRT-PCR. Protein levels of TNF&#x3b1;"
+    },
+    {
+      "pmid": "24969017",
+      "year": "2015",
+      "title": "Improved replication of the baculovirus Anticarsia gemmatalis nucleopolyhedrovirus (AgMNPV) in vitro using proteins from Lonomia obliqua hemolymph.",
+      "pcts": [],
+      "fbs_context": [
+        "m was supplemented with 10&#xa0;% (v/v) Fetal Bovine Serum (FBS), 1&#xa0;% (v/v) hemolymph e",
+        "edium supplemented with 10&#xa0;% (v/v) FBS and 1&#xa0;% (v/v) hemolymph provided a",
+        "edium supplemented with 10&#xa0;% (v/v) FBS. In addition, this work suggests that h"
+      ],
+      "abstract": "The baculovirus Anticarsia gemmatalis nucleopolyhedrovirus (AgMNPV), a member of the family Baculoviridae, has been widely applied as a biopesticide for the control of the velvetbean caterpillar, a pest of soybean crop field. Baculoviruses are considered safe and efficient agents for this purpose, because they do not infect vertebrates, being safe for the health of humans and animals, as well as to the environment. The objective of this work was to identify proteins obtained from Lonomia obliqua hemolymph with potential application in the optimization of baculovirus AgMNPV replication in Sf9 insect cell culture. In this work the improvement of the cell culture and viral replication of the AgMNPV baculovirus was observed when Grace medium was supplemented with 10&#xa0;% (v/v) Fetal Bovine Serum (FBS), 1&#xa0;% (v/v) hemolymph extract, or 3&#xa0;% (v/v) of hemolymph fractions or hemolymph sub-fractions obtained by purifying hemolymph through High Performance Liquid Chromatography. Hemolymph presented a positive effect on the synthesis of polyhedra and enhanced baculovirus replication in Spodoptera frugiperda (Sf9) cells (TCID50/mL), and led to Sf9 cell culture improvement. Grace medium supplemented with 10&#xa0;% (v/v) FBS and 1&#xa0;% (v/v) hemolymph provided an increase of baculovirus replication, when the cells were infected with multiplicity of infection of 1. In this case, the baculovirus replication was 6,443.91 times greater than that obtained with the control: Grace med"
+    },
+    {
+      "pmid": "24464351",
+      "year": "2014",
+      "title": "Establishment and characterization of three new cell lines from the embryonic tissue of Holotrichia oblita Faldermann (Coleoptera: Scarabaeidae).",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "NM-FH insect cell medium containing 10% fetal bovine serum (FBS). All of them showed adheren"
+      ],
+      "abstract": "The establishment of new insect cell lines plays important roles in the researches of insect pathology, insect toxicology, insecticide screening and activity assay, etc. Using embryos of Holotrichia oblita Faldermann (Coleoptera: Scarabaeidae) as materials, this study describes the establishment of three cell lines designated as QAU-Ho-E-3 (Ho-3), QAU-Ho-E-4 (Ho-4), and QAU-Ho-E-6 (Ho-6), respectively. Currently, the three cell lines have been passaged more than 50 times in the TNM-FH insect cell medium containing 10% fetal bovine serum (FBS). All of them showed adherent growth. The majority of Ho-3 cells are spindle-shaped, with a size of 24.35 &#xb1; 5.29 &#xd7; 11.56 &#xb1; 1.67 &#x3bc;m. The Ho-4 cells were either spindle-shaped or oblong, with a size of 38.07 &#xb1; 8.57 &#xd7; 17.62 &#xb1; 2.48 &#x3bc;m. The Ho-6 cells were primarily round in shape with a diameter of 14.54 &#xb1; 1.96 &#x3bc;m. The Ho-3 and Ho-4 cell lines contained 20 chromosomes (i.e., diploid, 2n = 20) at passages 14 and 45. The Ho-6 cell line contained 20 chromosomes (i.e., diploid, 2n = 20) at passage 14 but 40 chromosomes (i.e., polyploidy, 4n = 40) at passage 45. The results of random amplified polymorphic DNA (RAPD) analysis showed that the RAPD fingerprint of the three cell lines was consistent with that of H. oblita eggs, but clearly different from that of BTI-Tn5B1-4 and Sf-9 cells, demonstrating that the three cell lines Ho-3, Ho-4, and Ho-6 are H. oblita cell lines. The results of the growt"
+    },
+    {
+      "pmid": "24415196",
+      "year": "2014",
+      "title": "Lack of evidence for the presence of emerging HoBi-like viruses in North American fetal bovine serum lots.",
+      "pcts": [],
+      "fbs_context": [
+        "stivirus species, \"HoBi-like virus,\" in fetal bovine serum (FBS) labeled as U.S. origin, but",
+        "tates. In the current study, 90 lots of FBS originating in North America (NA) were "
+      ],
+      "abstract": "The detection of an emerging pestivirus species, \"HoBi-like virus,\" in fetal bovine serum (FBS) labeled as U.S. origin, but packaged in Europe, raised concerns that HoBi-like virus may have entered the United States. In the current study, 90 lots of FBS originating in North America (NA) were screened for pestivirus antigen and antibodies. Lots in group 1 (G1, 72 samples) and group 2 (G2, 9 samples) originated in NA and were packaged in the United States. Group 3 (G3) was composed of 9 lots collected in NA and processed in Europe. Lots in G1 were claimed negative for Bovine viral diarrhea virus (BVDV), while lots in G2 and G3 were claimed positive by the commercial processor. All lots in G1 and G2 tested negative by reverse transcription polymerase chain reaction (RT-PCR) using HoBi-like-specific primers. Two G1 lots tested positive by BVDV RT-PCR. One of these was also positive by virus isolation. All G2 lots were positive by BVDV RT-PCR. In addition, four G2 lots were VI positive while 1 lot was antigen-capture enzyme-linked immunosorbent assay (ELISA) positive. Two G3 lots were positive by HoBi-like-specific RT-PCR tests. All lots were negative for HoBi_D32/00 neutralizing antibodies. Seven lots (4 G1; 1 G2; 2 G3) had antibodies against BVDV by virus neutralization and/or antigen-capture ELISA. While there is no evidence of HoBi-like viruses in NA based on tested samples, further studies are required to validate HoBi-like virus-free status and develop means to prevent the s"
+    },
+    {
+      "pmid": "24361963",
+      "year": "2014",
+      "title": "Human cytomegalovirus latent infection alters the expression of cellular and viral microRNA.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "MicroRNAs (miRNAs) play important roles in regulating gene expression of plants, animals and viruses. Comprehensive characterization of host and viral miRNA will help uncover the molecular mechanisms that underlie the progression of human cytomegalovirus (HCMV) latent infection. To investigate the miRNA expression profile of HCMV and host cells during latent infection, we performed deep-sequencing analysis of the small RNAs isolated from HCMV-infected and mock-infected human monocytic leukemia cell line, THP-1. We established a HCMV latent infection cell model using the THP-1 cells. High-throughput sequencing technology was used to sequence small RNA libraries of the HCMV-infected and mock-infected THP-1 and to investigate their small RNA transcriptomes. We found eight miRNAs including miR-US25-1, miR-US25-2-5p and miR-UL112 that were expressed by HCMV during latent infection. The expressions of the host miRNAs were also affected by HCMV latent infection. At least 49 cellular miRNAs were differentially expressed: 39 were up-regulated and 10 were down-regulated upon HCMV latent infection. The expression of the human miRNA hsa-miR-124-3p was significantly up-regulated in the HCMV latent infection library. In addition, we found 14 cellular novel miRNAs in the HCMV-infected and mock-infected THP-1 libraries. Functional annotation of the target genes of the differentially expressed miRNAs suggested that the majority of the genes are involved in melanogenesis, pathways in cancer, e"
+    },
+    {
+      "pmid": "10077445",
+      "year": "1999",
+      "title": "Sensitivity of real time viral detection by an optical biosensor system using a crude home-made antiserum against measles virus as a ligand.",
+      "pcts": [
+        "10"
+      ],
+      "fbs_context": [
+        "minimum essential medium (MEM) with 10% fetal bovine serum (FBS) could be detected in high s"
+      ],
+      "abstract": "Virus identification in clinical materials during acute phase infections could give necessary information for the treatment of infections by human immunoglobulin (hIg) or interferon (IF). But because of a lack of information, most virus infections have not been treated. We have tried to develop a real time detection system for viruses in general using an optical biosensor and a model virus, Herpes simplex virus Type 1 (HSV-1), and have proved that the HSV-1 virus propagated in Vero cells and diluted in minimum essential medium (MEM) with 10% fetal bovine serum (FBS) could be detected in high sensitivity close to 10 infectious units (50% tissue culture infective dose [TCID50] units) using purified cellular receptor molecules as the ligand because the receptor could be the most specific ligand. However, because ligands available for this system to identify various viral infections in general are limited, we also tested this system using a purified polyclonal antibody which contained many other antigens as the ligand, and produced sensitivity comparable to that using the receptor as a ligand. In this paper, we tested the sensitivity by this system under the worst condition. That is, we used a crude home-made rabbit antiserum against measles virus with host cell debris as a ligand. It was found that less than 500 infectious (TCID50) units of virus were required for detection in a 100 microl solution, and that the efficacy of the commercially available hIg was also estimated by th"
+    },
+    {
+      "pmid": "15274477",
+      "year": "2004",
+      "title": "Goat serum: an alternative to fetal bovine serum in biomedical research.",
+      "pcts": [],
+      "fbs_context": [
+        "st supplementation to a basal medium is fetal bovine serum (FBS) that is most frequently use",
+        "ns, employing tissue culture. Initially FBS was used for this purpose. However, due",
+        "th in comparison with cultures grown in FBS containing media, and were used for mas",
+        "able to those of cell cultures grown in FBS containing media. Similar results on ch"
+      ],
+      "abstract": "Serum is frequently added to the defined basal medium as a source of certain nutritional and macromolecular growth factors essential for cell growth. Although a number of synthetic media have been prepared serum continues to be used in cell culture by many investigators. The best supplementation to a basal medium is fetal bovine serum (FBS) that is most frequently used for all types of cell cultures. During last four decades National Institute of Virology, Pune, has been working on isolation and identification of viruses from clinical specimens, employing tissue culture. Initially FBS was used for this purpose. However, due to its prohibitive cost and uncertain supply an alternative was sought. Commercially available sera from newborn calf, sheep, horse, human and serum obtained from goat blood (available from local abattoir) were tried. Goat serum (GS) was found to be suitable for most of the cell lines and primary cultures. Primary cultures from guinea pig embryo, monkey kidney, chick embryo, mouse peritoneal macrophages, and established cell lines were prepared and grown in growth media supplemented with GS. These cultures were studied for their morphology and growth in comparison with cultures grown in FBS containing media, and were used for mass cultivation of cells, quantitation and susceptibility of various virus strains, studies on effects of different nutrients and natural substances on cellular metabolism and virus replication, epitope analysis of various strains of"
+    },
+    {
+      "pmid": "10565911",
+      "year": "1999",
+      "title": "Adenoviruses from human immunodeficiency virus-infected individuals, including two strains that represent new candidate serotypes Ad50 and Ad51 of species B1 and D, respectively.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Adenovirus (Ad) isolates from a large number of human immunodeficiency virus (HIV)-infected individuals were compared serologically and genetically with Ad isolates from immunocompetent patients. Between 1982 and 1994, stool and urine samples from 137 subjects with AIDS hospitalized in The Netherlands yielded 143 Ad strains. Forty additional Ad strains were obtained from 35 HIV-positive patients in Manchester, United Kingdom, in 1992 and 1993. Of these 183 HIV-associated Ad strains, 84% belonged to species D and 3% belonged to species C. These strains were compared with 2,301 Ad strains collected during general diagnostic examinations in The Netherlands from 1973 to 1992. Of the latter strains, 5% belonged to species D and 49% belonged to species C. Two of the Ads isolated from fecal specimens of AIDS patients represent new serotypes: candidate Ad serotype 50 (prototype strain, Wan) of subspecies B1 and candidate Ad serotype 51 (prototype strain, Bom) of species D. The DNA restriction enzyme patterns of strains Wan and Bom differed from the patterns of all established prototypes."
+    },
+    {
+      "pmid": "8567914",
+      "year": "1995",
+      "title": "Adenovirus types 2, 8, and 37 associated with genital infections in patients attending a sexually transmitted disease clinic.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Adenoviruses (Ads) are an important cause of respiratory illness, conjunctivitis, and gastroenteritis, but they are seldom recognized as a potential cause of sexually transmitted disease. We performed virus cultures on approximately 7,000 patients attending a sexually transmitted disease clinic or other health department clinics for the evaluation of genital ulcers, urethritis, or conjunctivitis. Ads were isolated from genital or conjunctival specimens obtained from 23 (0.33%) patients. Among the 20 Ad-positive men, 15 (75%) had urethritis, 12 (60%) had conjunctivitis, and 10 (50%) had both. All three Ad-positive women had vaginal discharge and genital ulcers or fissures. Ad isolates from 17 patients were available for serotyping. Ad type 37 was isolated from 14 patients, Ad type 8 was isolated from 2 patients, and Ad type 2 was isolated from 1 patient. In three of the Ad type 37 cases, Ad was recovered from both urethral and conjunctival specimens. One of the Ad type 8 cases had conjunctivitis, but the Ad type 2 case did not. Ads, particularly type 37, may be a sexually transmissible cause of genital ulcers, urethritis, and conjunctivitis."
+    },
+    {
+      "pmid": "7751371",
+      "year": "1995",
+      "title": "Detection of enteroviruses and rhinoviruses in clinical specimens by PCR and liquid-phase hybridization.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "A sensitive method based on PCR followed by liquid-phase hybridization for detection of enterovirus and rhinovirus RNAs in clinical specimens and cell culture supernatants is described. RNA was extracted from stool samples, throat swabs, nasopharyngeal aspirates, cerebrospinal fluid, urine, and plasma with a commercial phenol-guanidinium-chloroform reagent and purified on a polysulfone membrane, on which the reverse transcriptase reaction was also done. Two sets of oligonucleotide primers from the 5' noncoding region of picornaviruses were selected for DNA amplification of 153-bp (enterovirus) and 120-bp (rhinovirus) regions. Double-stranded amplicons were digested into single strands with T7 gene 6 exonuclease and quantitated by an assay using a europium-labeled probe, streptavidin- and biotinylated probe-coated microtitration wells, and time-resolved fluorometry. The sensitivity of the assay was about one template molecule when purified coxsackievirus A9 RNA was used. All enterovirus prototype strains, except echoviruses 22 and 23, and clinical isolates grown in cell culture or suckling mice were strongly positive by the enterovirus PCR-hybridization, as were selected prototype strains and untyped isolates of rhinoviruses by the rhinovirus PCR-hybridization. In a series of 100 clinical specimens tested, the results for 92 agreed with virus culture results. The detection method described will be useful in etiopathogenic studies on enteroviruses and rhinoviruses."
+    },
+    {
+      "pmid": "15566763",
+      "year": "1994",
+      "title": "Antigen detection in human respiratory Coronavirus infections by monoclonal time-resolved fluoroimmunoassay.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "The diagnosis of respiratory infections by detecting viral antigens has received considerable attention using immunofluorescent assays (IFA) and enzyme immunoassays (EIA). Time-resolved fluoroimmunoassay (TR-FIA) has been developed for several viruses. To prepare monoclonal antibodies to coronavirus strains, to incorporate them into a TR-FIA, and test the assay on clinical specimens. Monoclonal antibodies were prepared to the N nucleoprotein of the two human respiratory coronaviruses, HCV strains 229E and OC43. Monoclonals to both viruses were completely type-specific; they did not cross-react between themselves or with multiple strains of other respiratory viruses. These antibodies were configured into optimized EIA and TR-FIA tests. The all-monoclonal tests were then compared to polyclonal EIA tests in terms of their ability to detect virus in clinical specimens. The all-monoclonal TR-FIA was uniformly the most sensitive, detecting virus in all 13 229E-positive specimens compared to 69% for the monoclonal EIA and 54% for the polyclonal EIA test. Similar results were obtained for 10 OC43-positive specimens: 100% in TR-FIA, 90% in monoclonal EIA, and 80% in polyclonal EIA. For 229E in TR-FIA, mean positive/negative (P/N) ratios were 143 for 229E-positive human embryonic lung fibroblast (HLF) cell culture fluids and 10 for positive nasopharyngeal aspirate specimens; for OC43 in TR-FIA, mean P/N values were 964 for OC43-positive rhabdomyosarcoma (RD) cell culture fluids and 174"
+    },
+    {
+      "pmid": "8249282",
+      "year": "1993",
+      "title": "Sequence and functional analysis of the human adenovirus type 7 E3-gp19K protein from 17 clinical isolates.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "The adenovirus (Ad) early region 3 (E3) glycoprotein of 19K (gp19K) binds major histocompatibility (MHC) class I antigens in the endoplasmic reticulum (ER), and the gp19K-class I complex is retained in the ER through an ER retention signal at the C-terminus of gp19K. This retention of class I antigens blocks cytolysis of gp19K-expressing cells by cytotoxic T lymphocytes (CTL). Animal models infected with Ad mutants lacking gp19K support a role for gp19K in counteracting a CTL response. Gp19K binds with different avidities to different class I antigens, and portions of the gp19K sequence are highly variable among Ad serotypes in different subgroups (Ad3, 11, and Ad35 in subgroup B; Ad2 and Ad5 in subgroup C); this raises the possibility that certain human individuals may be more susceptible to productive or persistent infection by particular serotypes of Ad, depending on the haplotype of the individual and the type of Ad. To begin to address this possibility, the gp19K gene from 17 very diverse Ad7 (subgroup B) clinical isolates was amplified by the polymerase chain reaction, and the DNA sequences were determined. The Ad7 gp19K sequence was 98% identical to that of Ad3. Surprisingly, we found complete conservation of the amino acid sequence of gp19K from all but one of the clinical isolates; one isolate had a conservative Ala to Val substitution. Gp19K from Ad7 clinical isolates representing distinct Ad7 genotypes co-immunoprecipitated with class I antigens. Our data indicate "
+    },
+    {
+      "pmid": "8227890",
+      "year": "1993",
+      "title": "Epidemic keratoconjunctivitis in a chronic care facility: risk factors and measures for control.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "To study patterns of transmission of epidemic keratoconjunctivitis (EKC) in a chronic care facility and to assess control measures and prevent future outbreaks in this setting. A retrospective cohort study. A 120-bed, four-unit, skilled nursing facility. Residents and employees of the above facility. Increased frequency of cleaning; use of bleach disinfectant; universal precautions in handling eye secretions from residents with conjunctivitis; cohorting residents by unit; suspension of new admissions; closure of common gathering areas. Resident demographics; possible risk factors for infection among residents (including mobility, underlying illness, medications, involvement in social activity, level of confusion) and among employees (including co-morbid illnesses and eye conditions, exposures to persons with conjunctivitis, visits to eye care specialists, use of contact lenses or glasses); testing of conjunctival specimens from symptomatic persons for viral and bacterial agents. Of 95 residents on three chronic care units, 47 (attack rate 49%) had onset of eye symptoms consistent with EKC between September 14 and December 7, 1990. Thirty-eight (81%) of these had onset following the onset of symptoms in a resident with dementia who, despite habitual eye-rubbing and wandering into other residents' rooms, was not isolated or restricted in any way. Attack rates were higher (though not statistically significant) among more mobile residents (60% for ambulatory residents) and among "
+    },
+    {
+      "pmid": "8349768",
+      "year": "1993",
+      "title": "Detection of adenovirus in clinical specimens by polymerase chain reaction and liquid-phase hybridization quantitated by time-resolved fluorometry.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "In addition to tests for the group-specific hexon antigen of adenoviruses, adenoviruses can be detected in clinical specimens by hybridization assays utilizing the widely shared base sequences of the region of the hexon gene that codes for the group-reactive determinants. We have developed a liquid-phase hybridization system with biotin- and europium-labeled probes which are reacted after DNA amplification of a 161-bp region of the hexon gene and which are quantitated by time-resolved (TR) fluorometry in streptavidin-coated microtiter wells. Polymerase chain reaction (PCR)-TR fluorometry is not a rapid test in the usual sense, but it is highly useful for specimens with inherent toxicity or with low virus yield, such as organ minces and specimens obtained late in the course of an illness. In a survey of 103 specimens tested by this method, including urine, stool, and tissue suspensions, the agreement with the hexon-specific TR fluoroimmunoassay antigen test for positive specimens was 100% and the sensitivity compared with that of virus culture was 91%. The PCR-TR fluorometry system was also shown to be advantageous as a quantitative measure of PCR products."
+    },
+    {
+      "pmid": "8391749",
+      "year": "1993",
+      "title": "Isolation of parainfluenza virus type 3 from cerebrospinal fluid associated with aseptic meningitis.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Parainfluenza virus type 3 has been isolated from the cerebral spinal fluid (CSF) from six individuals--four children and two adults--over a 10-year period. All had fever, and four had signs of meningitis. All recovered uneventfully, including one child undergoing chemotherapy for medulloblastoma. The clinical presentation of this child who developed parainfluenza virus type 3 meningitis is described, and the cases of five other individuals with parainfluenza virus type 3 isolated from the CSF are briefly reviewed. The paramyxovirus parainfluenza type 3, in addition to mumps virus, may be considered capable of infecting the central nervous system."
+    },
+    {
+      "pmid": "8314992",
+      "year": "1993",
+      "title": "Sensitivity of NCI-H292 human lung mucoepidermoid cells for respiratory and other human viruses.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "NCI-H292 mucoepidermoid carcinoma cells from human lungs were shown in an earlier report to be a fully adequate substitute for primary rhesus monkey kidney (MK) cells for the isolation and propagation of the human paramyxoviruses. Although sensitivity for ortho- and paramyxoviruses was the principal reason for using MK cells, the cells were also sensitive to many other viruses, which constituted another important value of MK cells. That MK cells supported the initial isolation and growth of so many respiratory viruses made it a mandatory cell type for any clinical laboratory. We therefore felt it was imperative to evaluate the virus spectrum of NCI-H292 cells, which are being used as a substitute for MK cells in many laboratories. In the present report, we show that NCI-H292 cells are sensitive for vaccinia virus, herpes simplex virus, adenoviruses, BK polyomavirus, reoviruses, measles virus, respiratory syncytial virus, some strains of influenza virus type A, most enteroviruses, and rhinoviruses, in addition to the parainfluenza and mumps viruses originally reported. Furthermore, these viruses replicate in NCI-H292 cells to the same virus and antigen titers and at the same speed of replication as they do in their usually preferred cells. The NCI-H292 cells are therefore an excellent substitute for MK cells in terms of laboratory safety, ease of availability, paramyxovirus isolation, and broad virus spectrum but cannot substitute for MK cells for the isolation of influenza vi"
+    },
+    {
+      "pmid": "8390824",
+      "year": "1993",
+      "title": "Time-resolved fluoroimmunoassays with monoclonal antibodies for rapid identification of parainfluenza type 4 and mumps viruses.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Monoclonal antibodies were prepared to the F and M proteins of parainfluenza 4A and 4B and to mumpsvirus to obtain reagents that could be configured into type-specific yet broadly-reactive IFA, EIA, and TR-FIA tests. Several antibodies to parainfluenza 4A also detected subtype 4B, although to a somewhat lower signal, and thus were well suited to generic parainfluenza type 4 tests that were comparable to similar tests previously described for parainfluenza types 1, 2, and 3. Monoclonals to subtype 4B were less able to detect 4A because of high background problems in one or another test. Monoclonals to mumpsvirus F protein were completely type-specific. These antibodies were screened by IFA and EIA for broad reactivity with diverse strains of each virus and were configured into optimized EIA and TR-FIA tests. The all-monoclonal tests were then compared to polyclonal tests in terms of their ability to detect virus in clinical specimens. The all-monoclonal TR-FIA was uniformly the most sensitive, detecting virus in 80% of culture-positive parainfluenza 4A specimens, 67% of parainfluenza 4B specimens, and 90% of mumps specimens, compared to 40-67% for the monoclonal EIA tests and 33-60% for the polyclonal EIA tests. For parainfluenza 4 TR-FIA, mean P/N values were 379 for subtype 4A cell culture fluids (228 for subtype 4B cultures) and 57 for 4A clinical specimens (43 for 4B specimens). For mumpsvirus TR-FIA, mean P/N values were 27 for culture fluids and 32 for clinical specimens"
+    },
+    {
+      "pmid": "8257296",
+      "year": "1993",
+      "title": "Characterization of two divergent adenovirus 31 strains.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Two divergent strains of adenovirus type 31 were analyzed by neutralization test and restriction endonuclease (RE) patterns in an effort to find the basis for their genetic variability. One strain, isolated from the throat of a child in Maryland during an upper respiratory illness in 1968, was partially neutralized by Ad 31 antisera (to 16-fold lower than homologous titer) while its own antiserum fully neutralized prototype Ad 31 virus, but shared only 9% of comigrating RE fragments with Ad 31 prototype (vs. 30% with Ad 18 prototype); however, PCR tests specific for the inverted terminal repeat (ITR) sequence of Ads 12 and 18 were negative. The other strain, recovered from a stool sample from an infant with diarrhea in Georgia in 1979, was inhibited by Ad 31 antiserum to within 4-fold homologous titer, but shared only 15% of comigrating fragments with Ad 31 prototype (vs. 91% with Ad 18 prototype); ITR-specific PCR tests with this virus were positive for Ad 12/Ad 18. These data suggest that both strains are from separate evolutionary lines of Ad 31 unrelated to all other isolates studied to date by RE analysis, and that the partial neutralization by prototype Ad 31 antisera might represent small mutations in the hexon gene."
+    },
+    {
+      "pmid": "1331143",
+      "year": "1992",
+      "title": "Restriction endonuclease patterns of adenovirus type 12 and 18.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Restriction endonuclease analysis using 10 restriction enzymes was performed on six and three wild isolates of adenovirus (Ad) type 12 and 18, respectively. Among the Ad12 strains, five DNA variants could be identified. The degree of pairwise comigration of restriction fragments suggests a high degree of genomic diversity within Ad12. The wild isolates of Ad18, on the other hand, displayed a low degree of genetic variability and comprised one DNA variant closely related to the prototype strain. The BglII, BstEII, and HindIII restriction endonuclease patterns of Ad18 were inconsistent with those originally presented. Identical RE-patterns among Ad18 prototype strains (DC) obtained from four different sources, including directly from the American Type Culture Collection, verify that the genuine Ad18 prototype was used in the present study. Using the revised restriction patterns of BglII, BstEII, and HindIII, a proper identification of Ad18 will be facilitated."
+    },
+    {
+      "pmid": "1323383",
+      "year": "1992",
+      "title": "Adenoviruses in the immunocompromised host.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Adenoviruses are among the many pathogens and opportunistic agents that cause serious infection in the congenitally immunocompromised, in patients undergoing immunosuppressive treatment for organ and tissue transplants and for cancers, and in human immunodeficiency virus-infected patients. Adenovirus infections in these patients tend to become disseminated and severe, and the serotypes involved are clustered according to the age of the patient and the nature of the immunosuppression. Over 300 adenovirus infections in immunocompromised patients, with an overall case fatality rate of 48%, are reviewed in this paper. Children with severe combined immunodeficiency syndrome and other primary immunodeficiencies are exposed to the serotypes of subgroups B and C that commonly infect young children, and thus their infections are due to types 1 to 7 and 31 of subgenus A. Children with bone marrow and liver transplants often have lung and liver adenovirus infections that are due to an expanded set of subgenus A, B, C, and E serotypes. Adults with kidney transplants have viruses of subgenus B, mostly types 11, 34, and 35, which cause cystitis. This review indicates that 11% of transplant recipients become infected with adenoviruses, with case fatality rates from 60% for bone marrow transplant patients to 18% for renal transplant patients. Patients with AIDS become infected with a diversity of serotypes of all subgenera because their adult age and life-style expose them to many adenovirus"
+    },
+    {
+      "pmid": "1894931",
+      "year": "1991",
+      "title": "Astrovirus and adenovirus associated with diarrhea in children in day care settings.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "The relative importance of astrovirus and adenoviruses as etiologic agents of diarrhea among children in day care was examined. Stool specimens from this prospective study were screened for both astrovirus and adenovirus hexon with two new indirect double-antibody assays and for enteric adenoviruses with an EIA specific for serotypes 40 and 41. Astrovirus was detected in a significantly greater percentage of children with diarrhea (4%, 21/524) than of those without (less than 1%, 1/138) (P less than .05); however, no difference between such such children with adenovirus infections was found (8%, 43/565, and 8%, 10/129, respectively). Overall, 30% (13/43) of all adenovirus hexon-positive specimens were enteric serotypes, and by extrapolation, enteric adenoviruses were identified in an equal percentage of children (2%) with and without diarrhea. This study documents the presence of astrovirus and enteric adenoviruses among children in day care in the United States, associates astrovirus with diarrhea in this setting, and suggests that viral agents may be the most common enteric pathogens among children with diarrhea in day care."
+    },
+    {
+      "pmid": "1988511",
+      "year": "1991",
+      "title": "Genome analysis of adenovirus type 31 strains from immunocompromised and immunocompetent patients.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Adenovirus type 31 (Ad31) was isolated from 15 immunocompromised patients in 12 of whom seroconversion was also recorded. Ad31 infection has a substantial clinical relevance since 8 of 10 with lower respiratory tract infection and 4 of 4 with hepatitis died. Therefore, Ad31 isolates from immunocompetent and immunodeficient hosts were compared by restriction endonuclease analysis. Nine genome types were identified among the 79 Ad31 isolates. Pairwise comparison of comigrating restriction fragments indicated that the genome types could be divided into three genomic clusters. Several Ad31 genome types were isolated from immunocompromised patients, but no highly virulent genome type could be found. A genome type was identified in a child with severe combined immunodeficiency who originally was infected with another genome type. This observation is suggested to have evolutionary implications."
+    },
+    {
+      "pmid": "2117679",
+      "year": "1990",
+      "title": "Respiratory viruses and mycoplasma as cofactors for epidemic group A meningococcal meningitis.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "To investigate the role of coincident respiratory viral and mycoplasmal agents in the pathogenesis of meningococcal meningitis, we performed a matched case-control study of 62 patients with group A meningococcal meningitis during an epidemic in Chad. Case patients were more likely than controls to have nasal colonization or infection with respiratory viruses and Mycoplasma species (matched odds ratio, 23; 95% confidence interval, 3.1 to 170). Respiratory pathogens were found more commonly in older patients with meningitis (odds ratios were 2.9 for children under age 5 years and 46.5 in those over age 15 years), consistent with the increasing risk of meningitis with age during epidemics. In controls, the presence of respiratory pathogens increased the risk of upper-respiratory-tract symptoms but did not significantly increase meningococcal carriage."
+    },
+    {
+      "pmid": "2260924",
+      "year": "1990",
+      "title": "NCI-H292 as an alternative cell line for the isolation and propagation of the human paramyxoviruses.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Primary rhesus monkey kidney (MK) cells have long been the cells of choice for isolation and propagation of the human paramyxoviruses (parainfluenza 1, 2, 3, 4A, 4B, and mumps). However, problems with the supply and cost of MK cells and the presence of endogenous viruses, including herpes B virus and SV-5, necessitated a search for an alternative cell line. Continuous cell cultures of human origin (L132, A-549, HuT-292, HEK, G-293, G-401, A-498, A-704, CAKI-1, RD) and simian origin (LLC-MK2, BSC-1, MA-104, Vero) were evaluated for their capacity to support the growth of the human paramyxoviruses, as followed by cytopathic effect, hemadsorption, hemagglutination, and EIA. NCI-H292 (HuT-292) human lung mucoepidermoid carcinoma cells (ATCC # CRL-1848) proved to be the most sensitive line for cultivating all serotypes and strains of the paramyxoviruses. These cells were also shown to be a suitable substitute for MK in primary isolation of paramyxoviruses from clinical specimens. RPMI-1640 with 1.5 micrograms/ml trypsin was the preferred maintenance medium; alternatively, Eagle's MEM supplemented with 1.5 micrograms/ml trypsin and 0.1% ITS was satisfactory. NCI-H292 cells are a continuous line with excellent growth characteristics, although the genetic polyploidy of the cells may limit the number of passages of usable cells."
+    },
+    {
+      "pmid": "2546977",
+      "year": "1989",
+      "title": "Molecular epidemiology and restriction site mapping of adenovirus type 3 genome types.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "One hundred thirty-eight strains of adenovirus type 3 isolated from patients in the United States, West Germany, and other regions between 1961 and 1984 were analyzed with six restriction endonucleases; 18 genome types were found. BglII was the most discriminative enzyme. Mapping of altered restriction sites was also performed for all six enzymes. The genome types D1 (like the prototype) and D3 prevailed among 45 and 47 strains, respectively. All genome types could be divided into two groups related to D1 or D3. Several clusters of infections by strains with the same genome type were observed. Only hints of differences were found in the pathogenicities of individual genome types. D1 strains were present in the United States and in Europe; group D3 prevailed almost exclusively in the United States."
+    },
+    {
+      "pmid": "2546973",
+      "year": "1989",
+      "title": "Comparison of monoclonal antibody time-resolved fluoroimmunoassay with monoclonal antibody capture-biotinylated detector enzyme immunoassay for respiratory syncytial virus and parainfluenza virus anti",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "An all-monoclonal antibody, time-resolved fluoroimmunoassay was compared with several enzyme immunoassays for the detection of respiratory syncytial virus and parainfluenza virus type 1, 2, and 3 antigens in clinical specimens. The most sensitive enzyme immunoassay for parainfluenza virus type 1 was an all-monoclonal antibody assay with biotin-labeled detector antibody and streptavidin-peroxidase conjugate, but for respiratory syncytial virus and parainfluenza virus types 2 and 3 the most sensitive assay was a polyclonal antibody assay with horse capture antibodies and bovine or rabbit detector antibodies with anti-species peroxidase. All tests were evaluated with nasopharyngeal aspirate specimens from respiratory illnesses and with cell culture harvests of multiple strains of each virus isolated over many years. The time-resolved fluoroimmunoassay detected respiratory syncytial virus antigen in 92% of the specimens positive by culture, which was a decidedly higher sensitivity than either the monoclonal or polyclonal antibody enzyme immunoassay format (62 and 76%, respectively). For the parainfluenza viruses the time-resolved fluoroimmunoassay detected type-specific antigen in 94 to 100% of culture-positive specimens and again was more sensitive than the all-monoclonal antibody enzyme immunoassays (75 to 89%) or all-polyclonal antibody enzyme immunoassays (66 to 95%). Combined with results from a previously reported adenovirus time-resolved fluoroimmunoassay, these tests iden"
+    },
+    {
+      "pmid": "2548461",
+      "year": "1989",
+      "title": "Molecular epidemiology and restriction site mapping of adenovirus 7 genome types.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "From the United States, the Federal Republic of Germany, and other regions, 168 strains of AV7, isolated between 1961 and 1985, were analyzed by six restriction endonucleases and nine genome types were identified. The enzymes BamHI and HindIII were most discriminative. The genome type D5 (or 7b) predominated with 120 isolates since 1970 in both countries. Strains of D2 (7a) and D4 (7c) were isolated for a limited time, D3 for an extended time period. Several clusters of infections with the same genome type were found. Differences in pathogenicity could not be derived from our data. On the basis of restriction site mapping, most other genome types were similar to D5, one to D2 and one to the prototype (D1). The genomic relation between AV7 and AV3 is discussed and shown by a dendrogram."
+    },
+    {
+      "pmid": "2844918",
+      "year": "1988",
+      "title": "Adenoviruses from patients with AIDS: a plethora of serotypes and a description of five new serotypes of subgenus D (types 43-47).",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "We analyzed 67 adenovirus isolates from 48 patients with AIDS. The isolates included 5 of subgenus A (all Ad31), 23 of subgenus B, 4 of subgenus C (all Ad5), and 35 of subgenus D. The subgenus A and C strains were from liver, lung, blood, urine, and stool and were unremarkable in their antigenic characteristics. The subgenus B strains were mostly from urine and were serotyped by neutralization (SN) and hemagglutination-inhibition (HAI) tests as Ad11 (12 isolates), Ad16 (1), Ad35 (3), and Ad21/H21 + 35 (1) plus new intermediate strains 34/H11 (3), 35/H11 (1), and 11 + 35/H11 (2). The subgenus D serotypes from 24 patients were mostly from stool specimens and consisted of 8 isolates of known serotypes, 16 of antigenically intermediate strains, and 11 of five new adenovirus types with distinct antigenic and restriction enzyme characteristics. The new serotypes were described as candidate types 43-47 in accordance with currently accepted taxonomic criteria. Ad45, 46, and 47 showed a major relation by HAI with Ad29, 24, and 20, respectively. Four intermediate types were related to the new serotypes. The plethora of serotypes from patients with AIDS suggests that no epidemiological significance can be attached to any one serotype."
+    },
+    {
+      "pmid": "3384629",
+      "year": "1988",
+      "title": "Evaluation of human adenoviruses 38, 39, 40, and 41 as new serotypes.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Four new serotypes of human adenovirus (Ad38-41) have been described in recent literature. We conducted a thorough evaluation of the prototype strains of these types by preparing rabbit and horse antisera to them and performing reciprocal neutralization and hemagglutination-inhibition (HI) tests with all 41 prototype viruses and antisera. Types 38 and 39 are in subgenus D, share hemagglutinins with Ad13 and each other in three-way HI tests, and have been rarely encountered thus far; types 40 and 41 are in subgenus F, are related to each other by serum neutralization and HI tests, and are well-established agents of acute gastroenteritis in infants. All four prototype strains meet the accepted criteria for new serotypes, although special mention is made of the serologic relationship between Ad40 and 41. The horse antisera have stable titers and can serve as international reference reagents for these viruses."
+    },
+    {
+      "pmid": "2850781",
+      "year": "1988",
+      "title": "Analysis of antigenically intermediate strains of subgenus B and D adenoviruses from AIDS patients.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "We carried out detailed antigenic and restriction enzyme (RE) analyses on the subgenus B and D adenovirus isolates from 48 AIDS patients. These isolates were unusual both in the diversity of serotypes and in the number of intermediate strains identified. All unusual isolates were strain-purified and tested by serum neutralization (SN) and hemagglutination-inhibition (HI) tests with reference horse and rabbit antisera to all the prototype human adenoviruses; conversely, rabbit antisera were prepared to 16 selected strains from this study and tested by SN and HI with all prototype viruses. Among subgenus B strains, 6 DNA variants of Ad 11 isolates were distinguished by endonucleases BamHI, BglII, BstEII, HindIII, and SmaI. The D 2 variant of Ad 11 was prominent with 5 isolates, and 7 other isolates differed from D 2 in only 1 or 2 enzymes. HindIII was the most discriminative endonuclease for Ad 11 and related strains. Within subgenus D, there were 16 isolates of intermediate strains, including 4 intermediate types related to new Ad types 43-47. The RE patterns of subgenus D strains showed fragment distributions typical of subgenus D, with various unique patterns. Particular care was taken to analyze multiple strains from the same patient, recovered as much as 8 months apart, for evidence of genetic changes. The possible long-term infections with these viruses may provide the opportunity for mutations and recombination to occur, with the resultant generation of a variety of new "
+    },
+    {
+      "pmid": "3307377",
+      "year": "1987",
+      "title": "The effect of centrifugation on the rapid detection of adenovirus in shell vials.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Monoclonal antibody, specific for the adenovirus group-reactive hexon antigen, was used for the detection of this agent by immunofluorescence 24 and 48 hours after inoculation of HEp-2 cell monolayers in 1-dram shell vials after low-speed centrifugation (700 X g, 30 minutes). Of 31 adenovirus isolates, 16 (sensitivity, 52%) and 30 (sensitivity, 97%) were detected after incubation for 24 hours and 48 hours, respectively. All adenovirus strains were detected in conventional tube cell cultures but required an average of four days incubation. The shell vial assay is rapid, sensitive, and specific and can be easily implemented in laboratories with cell culture experience."
+    },
+    {
+      "pmid": "2821062",
+      "year": "1987",
+      "title": "Comparison of monoclonal time-resolved fluoroimmunoassay with monoclonal capture-biotinylated detector enzyme immunoassay for adenovirus antigen detection.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "A sensitive time-resolved fluoroimmunoassay (TR-FIA), adapted from TR-FIA procedures already described, was developed with monoclonal antibodies and compared with several enzyme immunoassays (EIAs) for detecting adenovirus antigens in clinical specimens. The most sensitive EIA was an all-monoclonal assay with biotin-labeled detector antibody and streptavidin-peroxidase conjugate. All tests were evaluated with nasopharyngeal aspirate specimens from respiratory illness, with tissue homogenates from patients with systemic infection, and with stool specimens from gastrointestinal illnesses. For respiratory and tissue specimens, the TR-FIA detected adenovirus in 85% of the specimens positive by culture, which was a sensitivity similar to those of the all-monoclonal biotin-avidin EIA (79%) and the polyclonal-capture biotin-avidin EIA (88%). For stool specimens, the TR-FIA detected adenovirus in 100% of the specimens positive by culture, which was a decidedly higher sensitivity than either EIA format (78 and 75%, respectively). The TR-FIA was shown to be an efficient, flexible, and specific test for large numbers of clinical specimens."
+    },
+    {
+      "pmid": "3007566",
+      "year": "1986",
+      "title": "Three adenovirus type 8 genome types defined by restriction enzyme analysis: prototype stability in geographically separated populations.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Adenovirus type 8 strains were collected over a 19-year period from eye specimens from patients with keratoconjunctivitis. These strains were divided by restriction enzyme analysis with the endonucleases SalI, HindIII, SacI, KpnI, and SmaI into three genotypic subgroups. The prototype strain (Trim) was found throughout the United States from 1966 through 1985 and also in Taiwan and Greece in the early 1980s. Genotype 8C was identified in an arc from Maryland to Missouri to Alabama from 1971 through 1974. Genotype 8D was found only in an epidemic of eye disease among Vietnamese refugees being resettled in northwest Florida in 1975. Genotypes 8C and D were distinct from genotypes 8A and B described from Japan in 1975 through 1981. Hemagglutination tests with a battery of avian and mammalian erythrocytes did not distinguish between the genotypic subgroups. Similarly, the genotypes could not be differentiated by hemagglutination inhibition or serum neutralization tests with reference prototype antisera. The long-term prevalence of the Trim strain suggests that adenovirus type 8 has greater genetic stability than the other adenovirus types studied to date."
+    },
+    {
+      "pmid": "4066916",
+      "year": "1985",
+      "title": "Microneutralization test for respiratory syncytial virus based on an enzyme immunoassay.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Virus infectivity and antibody neutralization titers for respiratory syncytial virus were determined in cell cultures in microtiter plates. After an appropriate incubation period, the cells were fixed, and an enzyme-linked immunosorbent assay was performed directly in the microtiter plates for detection of virus. Results could be read and recorded automatically, which is especially helpful when running large numbers of tests."
+    },
+    {
+      "pmid": "2579169",
+      "year": "1985",
+      "title": "Antigenic characterization of respiratory syncytial virus strains with monoclonal antibodies.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "To study the antigenic characteristics of respiratory syncytial virus (RSV), we developed and evaluated monoclonal antibodies (MAbs) to three strains of RSV: 11 to Long, 4 to 18537, and 9 to A2. Six of these MAbs immunoprecipitated the nucleoprotein, six the large glycoprotein, and 11 the fusion protein. By the pattern of the reactions of these MAbs to 16 strains of RSV in an indirect immunofluorescence assay or enzyme-linked immunosorbent assay, we were able to distinguish three subgroups. With a panel of 10 of these 24 MAbs, we tested 26 strains isolated between 1979 and 1982 in Boston and found that 22 belonged to group 1, 4 to group 2, and none to group 3. The pattern of the reactions of the MAbs against representative strains from the three groups identified nine epitopes by indirect immunofluorescence assay: three of each on the nucleoprotein, the large glycoprotein, and the fusion protein. These results, along with those of previous studies, suggest that groups 1 and 3 are antigenically similar and group 2 is antigenically more distinct."
+    },
+    {
+      "pmid": "6206088",
+      "year": "1984",
+      "title": "Quantitation of enterovirus 70 antibody by microneutralization test and comparison with standard neutralization, hemagglutination inhibition, and complement fixation tests with different virus strains",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "We describe here a microneutralization procedure for conveniently testing large numbers of specimens for antibodies to enterovirus 70. The test utilized human rhabdomyosarcoma cells and was read by staining with crystal violet after 4 days of incubation. The test compares well with other serological assays, being more sensitive than the standard tube neutralization test and the complement fixation test, but less sensitive than the hemagglutination inhibition test. However, the hemagglutination inhibition test required concentrated, partially purified virus as antigen, as did the complement fixation test, and was difficult to read, so that its greater sensitivity may not be of practical significance. By all four test procedures, a recent isolate of enterovirus 70 was a more sensitive antigen than the prototype strain, as shown by greater geometric mean titers in sera of patients from various epidemics."
+    },
+    {
+      "pmid": "6741724",
+      "year": "1984",
+      "title": "Characterization of viral proteins synthesized in 229E infected cells and effect(s) of inhibition of glycosylation and glycoprotein transport.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "40738664",
+      "year": "2026",
+      "title": "Parechovirus A3 Infections, Including Myalgia, in Yamagata, Japan, Between 2022 and 2023 and Their Next-Generation Sequencing Analyses.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Since we reported the first parechovirus A3-associated myalgia (PeVA3-M) outbreak in Yamagata in 2008 as an emerging disease, we have investigated PeVA3 infections as part of the National Epidemiological Surveillance of Infectious Diseases, Japan, in sentinel hospitals and clinics and also performed a specific symptomatic surveillance targeting PeVA3-M. As PeVA3-M has only been reported from Japan, it is necessary to continue the above surveillance. In our surveillance from July 2022 to December 2023, we found 31 PeVA3 infections, including three confirmed or suspected PeVA3-M cases, using PCR and a virus isolation method. Further next-generation sequencing (NGS) analysis was performed for the representative isolates and their original specimens between 2022 and 2023 as well as those between 2003 and 2019. NGS analysis showed that 7,245-7,309 and 7,118-7,287 nucleotides (98.7%-99.8% and 97.1%-99.4% compared with the reference strains) were available from 25 representative isolates and from 6 clinical specimens, respectively. This study indicated that the recombinant PeVA3 strains, which appeared in 2019, remained in circulation in Yamagata between 2022 and 2023. Furthermore, the NGS method is useful for the molecular epidemiological surveillance of PeVA3 infections, although improvements in the method used for the clinical specimens are required."
+    },
+    {
+      "pmid": "40738663",
+      "year": "2026",
+      "title": "Phylogenetic Analysis of the VP1 Coding Region of Coxsackievirus A6 Detected in Hand-foot-and-mouth Disease During Surveillance from 2019 to 2024 in Japan.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Hand, foot, and mouth disease (HFMD) caused by enteroviruses is common in children. Recently, coxsackievirus A6 (CVA6) has been identified as a major causative agent. In this study, we conducted a phylogenetic analysis of a part of the VP1 coding region of 194 CVA6 strains detected directly in 767 nasopharyngeal swab or stool samples of HFMD patients in Japan from 2019 to 2024. The detected CVA6 strains were classified into genotype D. Moreover, the strains detected from before 2019 to 2023 belonged to a cluster (cluster 1 and 2), whereas most of the strains detected in 2024 belonged to another cluster (cluster 3). Genetic identity among all detected CVA6 strains was 89.1-100%, and genetic identity within the cluster for each detected strain was 90.6-100% for the before 2019 (cluster 1) strains, 92.6-100% for the 2019-2023 (cluster 2) strains, and 94.5-100% for the 2024 (cluster 3) strains. Most of the strains detected in 2024 were similar to the strains detected in China in 2023, suggesting that the influx of new strains caused the 2024 outbreak in Japan. HFMD is one of the most prevalent diseases worldwide and its pathogenicity and antigenicity may change over time. Surveillance of the influx of new strains from outside Japan will become increasingly important."
+    },
+    {
+      "pmid": "40523503",
+      "year": "2025",
+      "title": "Characterization of antigenically dominant regions in the hemagglutinin protein of B/victoria-lineage influenza B virus using monoclonal antibody escape mutants.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "As of 2024, B/Victoria-lineage strains have emerged as the predominant influenza B viruses globally. To elucidate the antigenic regions responsible for variation within this lineage, three monoclonal antibodies (MAbs) targeting the hemagglutinin (HA) protein were employed to generate escape mutants of the B/Victoria strain B/Aichi/20/99, which was isolated approximately 10 years after the B/Victoria and B/Yamagata lineages began cocirculating. A total of 45 escape mutants were obtained. Sequencing of their HA genes identified six amino acid substitutions at four sites within two key antigenic regions-the 160-loop and 190-helix-specifically, N165Y, N165S, K167R, and an asparagine insertion between residues 164 and 165 in the 160-loop; and K203R and K203N in the 190-helix (numbering is based on the B/Brisbane/60/2008 HA sequence). Hemagglutination inhibition (HI) assays revealed that two MAbs affected binding of both mutants with mutations in the 160-loop and those with a mutation at residue 203. Mutations in the 160-loop did not affect reactivity with antiserum against the parental B/Aichi/20/99 strain, whereas K203N substitution reduced antiserum reactivity, indicating the antigenic importance of this residue. Further HI analyses using eight B/Victoria lineage strains isolated between 1997 and 2021 showed that all three MAbs lost reactivity with strains isolated after 2016, while the antiserum demonstrated reduced reactivity. Notably, the current vaccine strain, B/Austria/135"
+    },
+    {
+      "pmid": "39370858",
+      "year": "2024",
+      "title": "Seroprevalence of enterovirus D68 in Yamagata, Japan, between 1976 and 2019.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "To clarify the epidemiology of enterovirus D68 (EV-D68), an enterovirus rarely identified in the 20th century, we performed seroepidemiological analysis against EV-D68 using sera collected in 1976, 1985, 1990, 1999, 2009, and 2019, as well as Yamagata isolate (EVD68/Yamagata.JPN/2023-89), in Yamagata, Japan. The neutralizing antibody (Ab)-positive rates for those under 20 years old were 61.0%, 82.5%, 84.3%, 46.7%, 50.5%, and 67.9%, in each year, whereas the rates for those above 20 years old were between 93.4% and 99.1%. Generally, geometric mean titers (GMTs&#xff09;increased with age among children and the total GMT in each year was 25.4, 49.2, 37.2, 30.8, 29.5, and 33.9, from 1976 to 2019, respectively. The findings in this Yamagata-based study showed that the seroprevalence of EV-D68 over the last four decades has increased with age among children, as a susceptible group, and then reaches a plateau of over approximately 80% among adults. This study clearly revealed that EV-D68 was stably transmitted among children in the 20th century, when EV-D68 detection was quite rare."
+    },
+    {
+      "pmid": "38932274",
+      "year": "2024",
+      "title": "Genetic Reassortment in a Child Coinfected with Two Influenza B Viruses, B/Yamagata Lineage and B/Victoria-Lineage Strains.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "We identified a child coinfected with influenza B viruses of B/Yamagata and B/Victoria lineages, in whom we analyzed the occurrence of genetic reassortment. Plaque purification was performed using a throat swab specimen from a 9-year-old child, resulting in 34 well-isolated plaques. The genomic composition of eight gene segments (HA, NA, PB1, PB2, PA, NP, M, and NS genes) for each plaque was determined at the lineage level. Of the 34 plaques, 21 (61.8%) had B/Phuket/3073/2013 (B/Yamagata)-like sequences in all gene segments, while the other 13 (38.2%) were reassortants with B/Texas/02/2013 (B/Victoria)-like sequences in 1-5 of the 8 segments. The PB1 segment had the most B/Victoria lineage genes (23.5%; 8 of 34 plaques), while PB2 and PA had the least (2.9%; 1 of 34 plaques). Reassortants with B/Victoria lineage genes in 2-5 segments showed the same level of growth as viruses with B/Yamagata lineage genes in all segments. However, reassortants with B/Victoria lineage genes only in the NA, PB1, NP, or NS segments exhibited reduced or undetectable growth. We demonstrated that various gene reassortments occurred in a child. These results suggest that simultaneous outbreaks of two influenza B virus lineages increase genetic diversity and could promote the emergence of new epidemic strains."
+    },
+    {
+      "pmid": "36951317",
+      "year": "2023",
+      "title": "Longitudinal antigenic and seroepidemiological analyses of parechovirus A1 in Yamagata, Japan.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "To investigate the antigenic changes in parechovirus 1 (PeVA1), seroepidemiological analyses were performed against the Harris strain (Harris), isolated in 1956, and PeVA1/Yamagata.JPN/2021-4785, isolated in 2021, using immune sera and 207 and 237 human serum specimens collected in 2021 and 1976, respectively. Although rabbit immune sera showed the highest neutralization antibody (NT-Ab) titers against the immunized viruses at 1:12&#x2009;800-1:102&#x2009;400, they were cross-reactive at 1:400-1:800. All 62 Yamagata isolates obtained between 2001 and 2021 (Yamagata strains), belonging to phylogenetic lineage 1B, reacted more strongly (mostly 4-64 times) to antiserum against PeVA1/Yamagata.JPN/2021-4785 than to antiserum against Harris, belonging to phylogenetic lineage 1&#x2009;A. Human serum specimens obtained in 2021 showed higher NT-Ab titers against PeVA1/Yamagata.JPN/2021-4785, whereas those obtained in 1976 had similar NT-Ab titers against both strains. These findings suggested that Yamagata strains and Harris were antigenically cross-reactive, although there were differences. There are still high NT-Abs titers present against Harris in 2021 in particular, indicating that PeVA1 has been in circulation with high immunity in the population. In conclusion, this study suggested that PeVA1 has been endemically perpetuated with only minor antigenic changes as well as with high immunity over several decades in the community."
+    },
+    {
+      "pmid": "35579425",
+      "year": "2022",
+      "title": "Recombinant parechovirus A3 possibly causes various clinical manifestations, including myalgia; findings in Yamagata, Japan in 2019.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Parechovirus A3 was first reported in 2004 and has been recognized as a causative agent of mild and severe infections in children. Since we first reported an outbreak of adult parechovirus A3-associated myalgia in Yamagata, Japan in 2008, this disease has since been recognized across Japan, but has not yet been reported from other countries. We analysed 19 cases of parechovirus A3 infections identified in Yamagata in 2019 to further clarify the epidemiology of this disease. We performed phylogenetic analyses of parechovirus A3 isolates and analysed the clinical manifestations and the genomic clusters. There were two clusters, with cluster 2019B replacing 2019&#x2009;A around October/November. Phylogenetic analysis revealed that 2019B cluster strains and Australian recombinant strains, which appeared between 2012 and 2013, were grouped in one cluster at non-structural protein regions, suggesting that the ancestor to these regions of 2019B cluster strains were Australian recombinant lineage strains. The strains from both clusters caused various infections in children including myalgia. These findings strongly support that parechovirus A3 strains cause myalgia and other paediatric infections irrespective of the virus strains involved, including recombinant strains.&#x3000;&#x3000;. We have reported repeatedly sporadic cases of myalgia and here showed that recombinant strains also cause myalgia. We hope our experiences will help better understand these infections and possibly res"
+    },
+    {
+      "pmid": "35545856",
+      "year": "2022",
+      "title": "Suitability of NIID-MDCK cells as a substrate for cell-based influenza vaccine development from the perspective of adventitious virus susceptibility.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "The practical use of cell-based seasonal influenza vaccines is currently being considered in Japan. From the perspective of adventitious virus contamination, we assessed the suitability of NIID-MDCK cells (NIID-MDCK-Cs) as a safe substrate for the isolation of influenza viruses from clinical specimens. We first established a sensitive multiplex real-time PCR system to screen for 27 respiratory viruses and used it on 34 virus samples that were isolated by passaging influenza-positive clinical specimens in NIID-MDCK-Cs. Incidentally, the limit of detection (LOD) of the system was 100 or fewer genome copies per reaction. In addition to influenza viruses, human enterovirus 68 (HEV-D68) genomes were detected in two samples after two or three passages in NIID-MDCK-Cs. To further investigate the susceptibility of NIID-MDCK-Cs to adventitious viruses, eight common respiratory viruses were subjected to passages in NIID-MDCK-Cs. The genome copy numbers of seven viruses other than parainfluenza 3 decreased below the LOD by passage 4. By passaging in NIID-MDCK-Cs, the genome numbers of the input HEV-D68, 1&#x2009;&#xd7;&#x2009;108 copies, declined to 102 at passage 3 and to under the LOD at passage 4, whereas those of the other six viruses were under the LOD by passage 3. These results implied that during the process of isolating influenza viruses with NIID-MDCK-Cs, contaminating viruses other than parainfluenza 3 can be efficiently removed by passages in NIID-MDCK-Cs. NIID-MDCK-Cs could"
+    },
+    {
+      "pmid": "34811773",
+      "year": "2022",
+      "title": "Seroprevalence of coxsackievirus A21 neutralizing antibodies in Yamagata, Japan, between 1976 and 2019; coxsackievirus A21 has rarely affected young children.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Although coxsackievirus A21 (CV-A21) has been associated with an acute respiratory infection (ARI) as well as poliomyelitis-like paralysis, reports of CV-A21 detection have been quite limited both globally and in Japan. CV-A21 strains were isolated from five sporadic pediatric cases with ARI in 2019 in Yamagata, Japan. Neutralizing antibodies (NT Abs) were then measured against CV-A21 using sera collected in 1976, 1985, 1999, 2009, and 2019 in Yamagata, to clarify the longitudinal epidemiology of CV-A21. The total Ab-positive rate in each year was 15.2% (35/233), 10.7% (30/281), 14.3% (28/196), 3.1% (7/236), and 1.3% (3/226), respectively. Ab-positive rates generally increased with age, especially between 1976 and 1999. Among the total Ab-positive cases, the Ab titers were relatively low; 50 cases belonged to the 1:8-1:16, 40 to 1:32-1:64, 12 to 1:128-1:256, and 1 to 1:1024&lt; groups, respectively. No Ab-positive cases under the age of 10 were observed in any of the years analyzed. In conclusion, this study and previous works suggested that CV-A21 is a unique enterovirus, which is not transmitted readily among young children but causes sporadic ARI cases mainly among those &#x2265;15 years of age in the community."
+    },
+    {
+      "pmid": "34523967",
+      "year": "2021",
+      "title": "Virulence of Enterovirus A71 Fluctuates Depending on the Phylogenetic Clade Formed in the Epidemic Year and Epidemic Region.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Although epidemics of hand, foot, and mouth disease (HFMD) caused by enterovirus A71 (EV-A71) have occurred worldwide, the Asia-Pacific region has seen large sporadic outbreaks with many severe neurological cases. This suggests that the virulence of the circulating viruses fluctuates in each epidemic and that HFMD outbreaks with many severe cases occur when highly virulent viruses are circulating predominantly, which has not been experimentally verified. Here, we analyzed 32 clinically isolated strains obtained in Japan from 2002 to 2013, along with 27 Vietnamese strains obtained from 2015 to 2016 that we characterized previously using human SCARB2 transgenic mice. Phylogenetic analysis of the P1 region classified them into five clades belonging to subgenogroup B5 (B5-I to B5-V) and five clades belonging to subgenogroup C4 (C4-I to C4-V) according to the epidemic year and region. Interestingly, clades B5-I and B5-II were very virulent, while clades B5-III, B5-IV, and B5-V were less virulent. Clades C4-II, C4-III, C4-IV, and C4-V were virulent, while clade C4-I was not. The result experimentally showed for the first time that several clades with different virulence levels emerged one after another. The experimental virulence evaluation of circulating viruses using SCARB2 transgenic mice is helpful to assess potential risks of circulating viruses. These results also suggest that a minor nucleotide or amino acid substitution in the EV-A71 genome during circulation causes fluctua"
+    },
+    {
+      "pmid": "33802440",
+      "year": "2021",
+      "title": "Growth Kinetics of Influenza C Virus Antigenic Mutants That Escaped from Anti-Hemagglutinin Esterase Monoclonal Antibodies and Viral Antigenic Changes Found in Field Isolates.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "The antigenicity of the hemagglutinin esterase (HE) glycoprotein of influenza C virus is known to be stable; however, information about residues related to antigenic changes has not yet been fully acquired. Using selection with anti-HE monoclonal antibodies, we previously obtained some escape mutants and identified four antigenic sites, namely, A-1, A-2, A-3, and Y-1. To confirm whether the residues identified as the neutralizing epitope possibly relate to the antigenic drift, we analyzed the growth kinetics of these mutants. The results showed that some viruses with mutations in antigenic site A-1 were able to replicate to titers comparable to that of the wild-type, while others showed reduced titers. The mutants possessing substitutions in the A-2 or A-3 site replicated as efficiently as the wild-type virus. Although the mutant containing a deletion at positions 192 to 195 in the Y-1 site showed lower titers than the wild-type virus, it was confirmed that this region in the 190-loop on the top side of the HE protein is not essential for viral propagation. Then, we revealed that antigenic changes due to substitutions in the A-1, A-3, and/or Y-1 site had occurred in nature in Japan for the past 30 years. These results suggest that some residues (i.e., 125, 176, 192) in the A-1 site, residue 198 in the A-3 site, and residue 190 in the Y-1 site are likely to mediate antigenic drift while maintaining replicative ability."
+    },
+    {
+      "pmid": "33250494",
+      "year": "2021",
+      "title": "Isolation of Human Coronaviruses OC43, HKU1, NL63, and 229E in Yamagata, Japan, Using Primary Human Airway Epithelium Cells Cultured by Employing an Air-Liquid Interface Culture.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Isolation of seasonal coronaviruses, which include human coronavirus (HCoV) OC43, HCoV-HKU1, and HCoV-NL63, from primary cultures is difficult because it requires experienced handling, an exception being HCoV-229E, which can be isolated using cell lines such as RD-18S and HeLa-ACE2-TMPRSS2. We aimed to isolate seasonal CoVs in Yamagata, Japan to obtain infective virions useful for further research and to accelerate fundamental studies on HCoVs and SARS-CoV-2. Using modified air-liquid interface (ALI) culture of the normal human airway epithelium from earlier studies, we isolated 29 HCoVs (80.6%: 16, 6, 6, and 1 isolates of HCoV-OC43, HCoV-HKU1, HCoV-NL63, and HCoV-229E, respectively) from 36 cryopreserved nasopharyngeal specimens. In ALI cultures of HCoV-OC43 and HCoV-NL63, the harvested medium contained more than 1 &#xd7; 104 genome copies/&#xb5;L at every tested time point during the more than 100 days of culture. Four isolates of HCoV-NL63 were further subcultured and successfully propagated in an LLC-MK2 cell line. Our results suggest that ALI culture is useful for isolating seasonal CoVs and sustainably obtaining HCoV-OC43 and HCoV-NL63 virions. Furthermore, the LLC-MK2 cell line in combination with ALI cultures can be used for the large-scale culturing of HCoV-NL63. Further investigations are necessary to develop methods for culturing difficult-to-culture seasonal CoVs in cell lines."
+    },
+    {
+      "pmid": "32999187",
+      "year": "2021",
+      "title": "Isolation of Coxsackievirus A21 from Patients with Acute Respiratory Infection in Yamagata, Japan in 2019.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "32863354",
+      "year": "2021",
+      "title": "Detection of Tick-Borne Pathogens in Ticks from Dogs and Cats in the Yamagata Prefecture of Japan in 2018.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Companion animals can become infected with tick-borne diseases (TBDs) becoming a reservoir for human transfer, thereby damaging human health. To evaluate whether companion animals are infested with ticks harboring human TBD pathogens, we detected TBD pathogens in ticks collected from dogs and cats brought to animal hospitals in the Yamagata prefecture of Japan. An investigation of 164 adult ticks collected from 88 dogs and 41 cats between March and July 2018 revealed that this region was dominated by three tick species, Ixodes ovatus (n = 95, 57.9%), Ixodes nipponensis (n = 37, 22.6%) and Haemaphysalis flava (n = 10, 6.1%). To evaluate their pathogenic potential, we went on to test each tick for spotted fever group rickettsiae, Lyme disease borreliae, relapsing fever borreliae, tick-borne encephalitis virus, and Huaiyangshan banyangvirus (formerly SFTS virus). Our results identified two I. ovatus ticks infected with Borrelia miyamotoi, which causes emerging relapsing fever; several I. nipponensis ticks infected with Rickettsia monacensis, which cause rickettsiosis; and several Ixodes persulcatus ticks infected with Rickettsia helvetica, which can also cause rickettsiosis. These results suggest that dogs and cats, and veterinary professionals and pet owners, in the Yamagata prefecture have some risk of exposure to several TBDs. This means that there should be continuous monitoring and reporting of TBDs, even those known to be uncommon in Japan, in both companion animals and hu"
+    },
+    {
+      "pmid": "32741934",
+      "year": "2020",
+      "title": "Seasonality of Human Coronavirus OC43, NL63, HKU1, and 229E Infection in Yamagata, Japan, 2010-2019.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "32187235",
+      "year": "2020",
+      "title": "Heparan sulfate attachment receptor is a major selection factor for attenuated enterovirus 71 mutants during cell culture adaptation.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Enterovirus 71 (EV71) is a causative agent of hand, foot, and mouth disease (HFMD). However, this infection is sometimes associated with severe neurological complications. Identification of neurovirulence determinants is important to understand the pathogenesis of EV71. One of the problems in evaluating EV71 virulence is that its genome sequence changes rapidly during replication in cultured cells. The factors that induce rapid mutations in the EV71 genome in cultured cells are unclear. Here, we illustrate the population dynamics during adaptation to RD-A cells using EV71 strains isolated from HFMD patients. We identified a reproducible amino acid substitution from glutamic acid (E) to glycine (G) or glutamine (Q) in residue 145 of the VP1 protein (VP1-145) after adaptation to RD-A cells, which was associated with attenuation in human scavenger receptor B2 transgenic (hSCARB2 tg) mice. Because previous reports demonstrated that VP1-145G and Q mutants efficiently infect cultured cells by binding to heparan sulfate (HS), we hypothesized that HS expressed on the cell surface is a major factor for this selection. Supporting this hypothesis, selection of the VP1-145 mutant was prevented by depletion of HS and overexpression of hSCARB2 in RD-A cells. In addition, this mutation promotes the acquisition of secondary amino acid substitutions at various positions of the EV71 capsid to increase its fitness in cultured cells. These results indicate that attachment receptors, especially H"
+    },
+    {
+      "pmid": "32135195",
+      "year": "2020",
+      "title": "Antigenic changes among the predominantly circulating C/Sao Paulo lineage strains of influenza C virus in Yamagata, Japan, between 2015 and 2018.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Influenza C virus is a pathogen that causes acute respiratory illness in children and results in the hospitalization of infants. The antigenicity of the hemagglutinin esterase (HE) glycoprotein is highly stable, and it is not yet known whether antigenic changes contribute to the worldwide transmission and the occurrence of outbreaks of influenza C virus. Here, we performed antigenic analysis of 84 influenza C viruses isolated in Yamagata, Japan, during a 4-year period from 2015 to 2018 and analyzed sequence data for strains of the virus from Japan and many other parts of the world. Antigenic and phylogenetic analyses revealed that 83 strains belonged to the C/Sao Paulo lineage, and two sublineage strains, the Aichi99 sublineage and Victoria2012 sublineage, cocirculated between 2016 and 2018. Aichi99 sublineage strains exhibiting decreased reactivity with the monoclonal antibody YA3 became predominant after 2016, and these strains possessed the K190N mutation. Residue 190 is located in the 190-loop on the top side of the HE protein within a region that is known to show variation that does not impair the biological activity of the protein. The Aichi99 sublineage strains possessing the K190N mutation were detected after 2012 in Europe, Australia, the USA, and Asia as well as Japan. These observations suggest that antigenic variants with K190N mutations have circulated extensively around the world and caused outbreaks in Japan between 2016 and 2018. Our study indicated that the 1"
+    },
+    {
+      "pmid": "31651085",
+      "year": "2020",
+      "title": "Comparison of suspension MDCK cells, adherent MDCK cells, and LLC-MK2 cells for selective isolation of influenza viruses to be used as vaccine seeds.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Cell-based influenza vaccines can solve the problem of the frequent occurrence of egg adaptation-associated antigenic changes observed in egg-based vaccines. Seed viruses for cell-based vaccines can be prepared from clinical specimens by cell culture; however, clinical samples risk harboring respiratory viruses other than influenza virus. Therefore, it is necessary to investigate the patterns of co-infection in clinical samples and explore whether cell culture technology can selectively propagate influenza viruses from samples containing other respiratory viruses. A total of 341 clinical specimens were collected from patients with influenza or influenza-like illness and analyzed by ResPlex II assay to detect 18 respiratory viruses. The patterns of co-infection were statistically analyzed with Fisher's exact test. The samples with double or triple infections were passaged in suspension MDCK cells (MDCK-S), adherent MDCK cells (MDCK-A), and LLC-MK2D cells. Cell-passaged samples were analyzed by ResPlex II assay again to investigate whether each cell line could amplify influenza viruses and eliminate other respiratory viruses. Double infections were detected in 8.5% and triple infections in 0.9% of the collected clinical specimens. We identified four pairs of viruses with significant correlation. For all samples with double and triple infection, MDCK-S and MDCK-A could selectively propagate influenza viruses, while eliminating all contaminating viruses. In contrast, LLC-MK2D sho"
+    },
+    {
+      "pmid": "31500967",
+      "year": "2019",
+      "title": "Systematic evaluation of suspension MDCK cells, adherent MDCK cells, and LLC-MK2 cells for preparing influenza vaccine seed virus.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Suspension Madin-Darby canine kidney (MDCK) cells (MDCK-N), adherent MDCK cells (MDCK-C), and adherent rhesus monkey kidney LLC-MK2 cells (LLC-MK2D) were systematically evaluated for the preparation of influenza vaccine seed viruses for humans on the basis of primary virus isolation efficiency, growth ability, genetic stability of the hemagglutinin (HA) and neuraminidase (NA) genes, and antigenic properties in hemagglutination inhibition (HI) test of each virus isolate upon further passages. All the subtypes/lineages of influenza viruses (A(H1N1), A(H1N1)pdm09, A(H3N2), B-Victoria, and B-Yamagata) were successfully isolated from clinical specimens by using MDCK-N and MDCK-C, whereas LLC-MK2D did not support virus replication well. Serial passages of A(H1N1) viruses in MDCK-N and MDCK-C induced genetic mutations of HA that resulted in moderate antigenic changes in the HI test. All A(H1N1)pdm09 isolates from MDCK-C acquired amino acid substitutions at the site from K153 to N156 of the HA protein, which resulted in striking antigenic alteration. In contrast, only 30% of MDCK-N isolates showed amino acid changes at this site. The frequency of MDCK-N isolates with less than two-fold reduction in the HI titer was as high as 70%. A(H3N2) and B-Yamagata isolates showed high antigenic stability and no specific amino acid substitution during passages in MDCK-N and MDCK-C. B-Victoria isolates from MDCK-N and MDCK-C acquired genetic changes at HA glycosylation sites that greatly affected"
+    },
+    {
+      "pmid": "30814463",
+      "year": "2019",
+      "title": "Longitudinal Epidemiology of Viral Infectious Diseases Combining Virus Isolation, Antigenic Analysis, and Phylogenetic Analysis as Well as Seroepidemiology in Yamagata, Japan, between 1999 and 2018.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "We introduced a microplate method for virus isolation in the Department of Microbiology, Yamagata Prefectural Institute of Public Health (YPIPH) in 1999 in Yamagata, Japan. We have since carried out longitudinal epidemiological studies on viral infectious diseases, particularly respiratory viruses, combining traditional technologies such as virus isolation and serological techniques and newly developed molecular methods. Here, we provide an overview of our activities at YPIPH between 1999 and 2018. During the study period, we observed emerging and re-merging diseases such as those caused by echovirus type 13, enterovirus D68, parechovirus-A3 (PeV-A3), and Saffold virus. With regard to PeV-A3, we proposed a new disease concept, \"PeV-A3-associated myalgia/myositis.\" We also revealed the longitudinal epidemiologies of several viruses such as enterovirus A71 and coxsackievirus A16. To perform longitudinal epidemiological studies at any time in Yamagata, we established a system for stocking clinical specimens, viral isolates, complementary DNAs, and serum specimens. We have also pursued collaboration works with virology laboratories across Japan. We hope our experiences, findings, and research materials will further contribute to the development of countermeasures against viral infectious diseases and improvement in public health strategies in Yamagata, Japan, Asia, and around the world."
+    },
+    {
+      "pmid": "30683510",
+      "year": "2019",
+      "title": "Phylogenetic and antigenic analyses of coxsackievirus A6 isolates in Yamagata, Japan between 2001 and 2017.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Although coxsackievirus A6 (CV-A6) is generally recognized as a causative agent of herpangina in children, CV-A6 infections globally emerged as a new and major cause of epidemic hand-foot-and-mouth-diseases (HFMDs) around 2008. To clarify the longitudinal epidemiology of CV-A6, we carried out sequence and phylogenetic analyses for the VP1 and partially for the VP4-3D regions as well as antigenic analysis using 115 CV-A6 isolates and 105 human sera in Yamagata, Japan between 2001 and 2017. Phylogenetic analysis revealed that CV-A6 isolates were clearly divided into two clusters; strains in circulation between 2001 and 2008 and those between 2010 and 2017. Neutralizing antibody titers of two rabbit antisera, which were immunized with Yamagata isolates in 2001 and 2015, respectively, against 28 Yamagata representative strains as well as the prototype Gdula strain were 1:2560-1:5120 and 1:160-1:640, respectively. The neutralizing antibody titers among residents in Yamagata against the above two strains were similar. Our analyses revealed that there were cross-antigenicities among all analyzed CV-A6 strains, although the newly emerged strains were introduced into Yamagata around 2010 and replaced the previous ones. With regard to control measures, these findings suggest that we can prevent CV-A6 infections through the development of a vaccine that effectively induces neutralizing antibodies against CV-A6, irrespective of genetic cluster."
+    },
+    {
+      "pmid": "30504645",
+      "year": "2019",
+      "title": "Careful Clinical Surveillance Is Important for the Identification of Parechovirus Type A3-Associated Myalgia/Myositis: a Sporadic Case Found in a Season with a Low Level of Its Activity in Yamagata, J",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "30081972",
+      "year": "2018",
+      "title": "Detection of modified measles and super-spreader using a real-time reverse transcription PCR in the largest measles outbreak, Yamagata, Japan, 2017 in its elimination era.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "We aimed to verify the effectiveness of real-time reverse transcription (rRT) polymerase chain reaction (PCR) for detecting cases of modified measles (M-Me) and for predicting super-spreader candidates through the experience of a measles outbreak dominated by M-Me in Yamagata, Japan, during March-April 2017. We applied rRT-PCR to specimens from 35 cases of M-Me, nine cases of typical measles (T-Me) and nine cases of prodromal stage of T-Me (P-Me). From rRT-PCR among the M-Me cases, peripheral blood mononuclear cells (PBMC) showed the highest positive rate (80.0%), followed by throat swab (48.6%), urine (33.3%) and serum (3.1%). The negative result of PBMC in M-Me cases was recovered by the result of a throat swab. In specimens of PBMC, throat swab and urine, M-Me group showed the significantly higher cycle of threshold (i.e., lower viral load) in the rRT-PCR than T-Me and P-Me groups, respectively. Furthermore, three super-spreaders in T-Me or P-Me showed an extremely low cycle of threshold in their throat swab specimens. rRT-PCR using PBMC and throat swab might be helpful for clinical management and measles control by certain detection of M-Me cases and by predicting super-spreading events resulting from measles cases with the high viral load."
+    },
+    {
+      "pmid": "29962488",
+      "year": "2018",
+      "title": "The Largest Measles Outbreak, Including 38 Modified Measles and 22 Typical Measles Cases in Its Elimination Era in Yamagata, Japan, 2017.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "The incidence of modified measles (M-Me), characterized by milder symptoms than those of typical measles (T-Me), has been increasing in Japan. However, the outbreak dominated by M-Me cases has not been thoroughly investigated worldwide. The largest importation-related outbreak of measles with genotype D8 occurred in Yamagata Prefecture, Japan, from March to April 2017. This phenomenon was observed after Japan had achieved measles elimination in 2015. We confirmed 60 cases by detecting the genome of the measles virus (MeV). Among the cases, 38 were M-Me and 22 were T-Me. Thirty-nine (65.0%) patients were 20-39 years of age. Three out of 7 primary cases produced 50 transmissions, of which each patient caused 9-25 transmissions. These patients were 22-31 years old and were not vaccinated. Moreover, they developed T-Me and kept contact with the public during their symptomatic periods. Considering that M-Me is generally caused by vaccine failure, some individuals in Japan may have insufficient immunity for MeV. Accordingly, additional doses of measles vaccine may be necessary in preventing measles importation and endemicity among individuals aged 20-39 years. Furthermore, to accurately and promptly diagnose individuals with measles, particularly those who can be considered as primary cases, efforts must be exerted to detect all measles cases using epidemiological and genetic approaches in countries where measles elimination had been achieved."
+    },
+    {
+      "pmid": "29848582",
+      "year": "2018",
+      "title": "VP1 Amino Acid Residue 145 of Enterovirus 71 Is a Key Residue for Its Receptor Attachment and Resistance to Neutralizing Antibody during Cynomolgus Monkey Infection.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Enterovirus 71 (EV71) is a causative agent of hand, foot, and mouth disease and sometimes causes severe or fatal neurological complications. The amino acid at VP1-145 determines the virological characteristics of EV71. Viruses with glutamic acid (E) at VP1-145 (VP1-145E) are virulent in neonatal mice and transgenic mice expressing human scavenger receptor B2, whereas those with glutamine (Q) or glycine (G) are not. However, the contribution of this variation to pathogenesis in humans is not fully understood. We compared the virulence of VP1-145E and VP1-145G viruses of Isehara and C7/Osaka backgrounds in cynomolgus monkeys. VP1-145E, but not VP1-145G, viruses induced neurological symptoms. VP1-145E viruses were frequently detected in the tissues of infected monkeys. VP1-145G viruses were detected less frequently and disappeared quickly. Instead, mutants that had a G-to-E mutation at VP1-145 emerged, suggesting that VP1-145E viruses have a replication advantage in the monkeys. This is consistent with our hypothesis proposed in the accompanying paper (K. Kobayashi, Y. Sudaka, A. Takashino, A. Imura, K. Fujii, and S. Koike, J Virol 92:e00681-18, 2018, https://doi.org/10.1128/JVI.00681-18) that the VP1-145G virus is attenuated due to its adsorption by heparan sulfate. Monkeys infected with both viruses produced neutralizing antibodies before the onset of the disease. Interestingly, VP1-145E viruses were more resistant to neutralizing antibodies than VP1-145G viruses in vitro A sm"
+    },
+    {
+      "pmid": "28890517",
+      "year": "2017",
+      "title": "First Isolation of Human Parechovirus Type 4 in Yamagata, Japan.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "28851118",
+      "year": "2018",
+      "title": "Detection of Saffold viruses from children with acute respiratory infections in Yamagata, Japan, between 2008 and 2015.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Although Saffold virus (SAFV) was reported as a novel human cardiovirus in 2007, no causative association between SAFV and clinical disease has been proven and the longitudinal epidemiology of SAFVs is not available. To establish the relationship between SAFVs and acute respiratory infections (ARIs) and to clarify the longitudinal epidemiology of SAFVs, 7258 nasopharyngeal specimens were collected from children with ARIs in Yamagata, Japan between 2008 and 2015. The specimens were inoculated on a microplate including six cell lines as part of routine surveillance, and molecular screening was performed for SAFVs using a reverse transcription (RT)-PCR method. Throughout the study period, 95 (1.3%) SAFV genotype 2 (SAFV2), and 28 (0.4%) SAFV3 were detected, mainly between September and November. There were two outbreaks of SAFV2 in 2009 and 2013, and one outbreak of SAFV3 in 2012 and the positive rates during these outbreaks were 12.1% (53/439), 11% (35/319), and 4.4% (20/453), respectively. Sixty-three SAFV2 and 28 SAFV3 strains were detected as a single virus from children with ARIs such as pharyngitis, herpangina, and tonsillitis. These results suggested that SAFV2 and SAFV3 are possible causative agents of ARIs among children and their infections occur mainly in the autumn season in Japan."
+    },
+    {
+      "pmid": "27384661",
+      "year": "2016",
+      "title": "Genetic Lineage and Reassortment of Influenza C Viruses Circulating between 1947 and 2014.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "Since influenza C virus was first isolated in 1947, the virus has been only occasionally isolated by cell culture; there are only four strains for which complete genome sequences are registered. Here, we analyzed a total of 106 complete genomes, ranging from the first isolate from 1947 to recent isolates from 2014, to determine the genetic lineages of influenza C virus, the reassortment events, and the rates of nucleotide substitution. The results showed that there are six lineages, named C/Taylor, C/Mississippi, C/Aichi, C/Yamagata, C/Kanagawa, and C/Sao Paulo. They contain both antigenic and genetic lineages of the hemagglutinin-esterase (HE) gene, and the internal genes PB2, PB1, P3, NP, M, and NS are divided into two major lineages, a C/Mississippi/80-related lineage and a C/Yamagata/81-related lineage. Reassortment events were found over the entire period of 68 years. Several outbreaks of influenza C virus between 1990 and 2014 in Japan consisted of reassortant viruses, suggesting that the genomic constellation is related to influenza C virus epidemics. The nucleotide sequences were highly homologous to each other. The minimum percent identity between viruses ranged from 91.1% for the HE gene to 96.1% for the M gene, and the rate of nucleotide substitution for the HE gene was the highest, at 5.20 &#xd7; 10(-4) substitutions/site/year. These results indicate that reassortment is an important factor that increases the genetic diversity of influenza C virus, resulting in it"
+    },
+    {
+      "pmid": "27357992",
+      "year": "2016",
+      "title": "HeLa-ACE2-TMPRSS2 Cells Are Useful for the Isolation of Human Coronavirus 229E.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "27206988",
+      "year": "2016",
+      "title": "Chronological changes of mumps virus genotypes in Japan between 1999-2013.",
+      "pcts": [],
+      "fbs_context": [],
+      "abstract": "The molecular epidemiology of mumps virus (MuV) has been carried out worldwide based on genotyping proposed by the World Health Organisation. However, longitudinal molecular epidemiological studies of MuV are still limited. This study carried out genotyping of MuVs isolated in Yamagata prefecture, which is located in northern Japan, between 1999-2013, using standard nomenclature based on the sequence analysis of the entire 316 nucleotides of the small hydrophobic (SH) gene. During this 15-year period, 249 MuVs were isolated, with the majority of them belonging to genotype G. Phylogenetic analysis revealed that genotype G strains were divided into two distinct clusters 1 and 2, consisting of 178 and 47 strains, respectively. The cluster 1 strains were isolated every year since 2001, except for 2012. The cluster 2 strains first appeared in 2011 and were dominant in 2011 and 2012. The epidemic pattern of genotype G strains observed in Yamagata was similar to those in Kanagawa and Hyogo prefectures located in eastern and western Japan, respectively. Only one L, three H and one F genotype strains were isolated in 2001, 2004 and 2010, respectively. Almost every year several genotype B strains related to Japanese vaccine strains were isolated. These data demonstrated that the genotype G strains have been endemically perpetuating as the major type over a wide area of Japan since 2001, although the genotype G strains that emerged after 2011 differed from the earlier strains."
+    },
+    {
+      "pmid": "1328510",
+      "year": "1992",
+      "title": "Improved detection of cytomegalovirus viremia in AIDS patients using shell vial and indirect immunoperoxidase methodologies.",
+      "pcts": [
+        "10",
+        "2"
+      ],
+      "fbs_context": [
+        "treated with medium containing 2 of 10% fetal bovine serum (FBS) or 100 micrograms% cortisol",
+        "imens in shell vials maintained with 2% FBS, 100 micrograms% cortisol + 2% FBS, and",
+        " 10% FBS was 36, 44, and 52%, respectively. Dete",
+        "reated with medium supplemented with an FBS concentration of 2% (P = .0132), but no"
+      ],
+      "abstract": "One hundred twelve peripheral blood specimens were tested for the presence of cytomegalovirus (CMV) by the tube culture indirect immunoperoxidase (TC-IPA) procedure, the shell vial assay [shell vials were pre- and postinoculation treated with medium containing 2 of 10% fetal bovine serum (FBS) or 100 micrograms% cortisol] (SV-IFA), and conventional (MRC-5) tube cultures (TC-CPE). CMV was detected in 25 (22%) of the 112 specimens tested by at least one of these methods. The detection/isolation of CMV among the 25 positive specimens in shell vials maintained with 2% FBS, 100 micrograms% cortisol + 2% FBS, and 10% FBS was 36, 44, and 52%, respectively. Detection/isolation of the virus from blood by TC-IPA and TC-CPE was 52% and 76%, respectively. A significantly greater CMV detection rate occurred using TC-CPE compared to SV-IFA treated with medium supplemented with an FBS concentration of 2% (P = .0132), but not medium containing the higher serum supplement or the glucocorticoid (P greater than .05). Differences in the identification of a CMV viremia were observed by IPA, SV-IFA, and TC-CPE methodologies on a patient-to-patient basis, denoting the necessity of incorporating each methodology into the CMV screening panel. Demographic analysis of 82 AIDS patients showed a CMV viremia prevalence of 9% (2/28) in intravenous drug users, 57% (27/47) in homosexual patients, and 22% (2/9) in heterosexual and transfusion patients. Overnight (24 hr) storage of whole blood at 4 or 24 degre",
+      "has_isolation_kw": true
+    }
+  ]
+}

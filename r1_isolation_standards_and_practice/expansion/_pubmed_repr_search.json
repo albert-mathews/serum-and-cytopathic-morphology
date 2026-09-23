@@ -1,0 +1,337 @@
+{
+  "queries": {
+    "enterovirus isolation FBS 10% 2%": [],
+    "adenovirus isolation 10 2": [],
+    "HSV isolation 10% 2%": [],
+    "measles rubella isolation FBS": [],
+    "RSV isolation 10 2 FBS": [],
+    "arbovirus isolation Vero 10 2": [],
+    "Numazaki isolation": [
+      "19628901",
+      "19186193",
+      "17475752",
+      "17368662",
+      "16885781",
+      "16628580",
+      "15902703",
+      "15236662",
+      "14563226",
+      "12146500",
+      "11810545",
+      "11699954",
+      "11407382",
+      "11204492",
+      "10586375",
+      "9825792",
+      "9758247",
+      "9500365",
+      "9270728",
+      "9230973",
+      "9223612",
+      "9140195",
+      "8699086",
+      "8784617",
+      "8757991",
+      "8699095",
+      "8934674",
+      "8589665",
+      "7677420",
+      "7796773",
+      "7792788",
+      "7863500",
+      "8030242",
+      "8073426",
+      "7908941",
+      "8193264",
+      "1333832",
+      "1337573",
+      "1993950",
+      "1943849"
+    ],
+    "clinical virus isolation maintenance medium 2% FBS": [],
+    "diagnostic virology growth medium 10% maintenance 2%": [],
+    "influenza isolation MDCK 10% FBS": []
+  },
+  "summaries": [
+    {
+      "pmid": "19628901",
+      "title": "Assay of Chlamydia pneumoniae-specific IgM antibodies by ELISA method--reduction of non-specific reaction and resetting of serological criteria by measuring IgM antibodies--.",
+      "pubdate": "2009 Jul",
+      "source": "Jpn J Infect Dis",
+      "authors": "Kishimoto T; Ando S; Numazaki K"
+    },
+    {
+      "pmid": "19186193",
+      "title": "Rapid detection of human immunodeficiency virus type 1 group M by a reverse transcription-loop-mediated isothermal amplification assay.",
+      "pubdate": "2009 May",
+      "source": "J Virol Methods",
+      "authors": "Hosaka N; Ndembi N; Ishizaki A"
+    },
+    {
+      "pmid": "17475752",
+      "title": "The herpes simplex virus type 1 BgKL variant, unlike the BgOL variant, shows a higher association with orolabial infection than with infections at other sites, supporting the variant-dispersion-replacement hypothesis.",
+      "pubdate": "2007 Jul",
+      "source": "J Clin Microbiol",
+      "authors": "Ozawa S; Eda H; Ishii Y"
+    },
+    {
+      "pmid": "17368662",
+      "title": "Current problems of measles control in Japan and Western Pacific Region.",
+      "pubdate": "2007 Apr 20",
+      "source": "Vaccine",
+      "authors": "Numazaki K"
+    },
+    {
+      "pmid": "16885781",
+      "title": "Emergence of antiretroviral therapy resistance-associated primary mutations among drug-naive HIV-1-infected individuals in rural western Cameroon.",
+      "pubdate": "2006 Sep",
+      "source": "J Acquir Immune Defic Syndr",
+      "authors": "Koizumi Y; Ndembi N; Miyashita M"
+    },
+    {
+      "pmid": "16628580",
+      "title": "Screening for vaginal shedding of cytomegalovirus in healthy pregnant women using real-time PCR: correlation of CMV in the vagina and adverse outcome of pregnancy.",
+      "pubdate": "2006 Jun",
+      "source": "J Med Virol",
+      "authors": "Tanaka K; Yamada H; Minami M"
+    },
+    {
+      "pmid": "15902703",
+      "title": "Human cytomegalovirus genetic variability in strains isolated from Japanese children during 1983-2003.",
+      "pubdate": "2005 Jul",
+      "source": "J Med Virol",
+      "authors": "Tanaka K; Numazaki K; Tsutsumi H"
+    },
+    {
+      "pmid": "15236662",
+      "title": "Chronological changes of incidence and prognosis of children with asymptomatic congenital cytomegalovirus infection in Sapporo, Japan.",
+      "pubdate": "2004 Jul 6",
+      "source": "BMC Infect Dis",
+      "authors": "Numazaki K; Fujikawa T"
+    },
+    {
+      "pmid": "14563226",
+      "title": "Human cytomegalovirus infection during pregnancy and detection of specific T cells by intracellular cytokine staining.",
+      "pubdate": "2003 Sep",
+      "source": "Int J Infect Dis",
+      "authors": "Fujikawa T; Numazaki K; Asanuma H"
+    },
+    {
+      "pmid": "12146500",
+      "title": "Prevalence of serum antibodies to cytomegalovirus in pregnant women in Sapporo, Japan.",
+      "pubdate": "2002 Jun",
+      "source": "Int J Infect Dis",
+      "authors": "Numazaki K; Fujkawa T"
+    },
+    {
+      "pmid": "11810545",
+      "title": "Relationship between seropositivity of husbands and primary cytomegalovirus infection during pregnancy.",
+      "pubdate": "2000 Jun",
+      "source": "J Infect Chemother",
+      "authors": "Numazaki K; Fujikawa T; Chiba S"
+    },
+    {
+      "pmid": "11699954",
+      "title": "Antigenic and genetic analyses of influenza B viruses isolated in Lusaka, Zambia in 1999.",
+      "pubdate": "2001",
+      "source": "Arch Virol",
+      "authors": "Muyanga J; Matsuzaki Y; Sugawara K"
+    },
+    {
+      "pmid": "11407382",
+      "title": "Transmission of cytomegalovirus.",
+      "pubdate": "2001 Jun 2",
+      "source": "Lancet",
+      "authors": "Numazaki K; Chiba S; Asanuma H"
+    },
+    {
+      "pmid": "11204492",
+      "title": "Subtyping of cytomegalovirus strains obtained from immunocompetent children.",
+      "pubdate": "2000 Nov-Dec",
+      "source": "In Vivo",
+      "authors": "Numazaki K; Ikehata M; Chiba S"
+    },
+    {
+      "pmid": "10586375",
+      "title": "Analysis of immune cells in a patient with post-transfusion hepatitis caused by human cytomegalovirus.",
+      "pubdate": "1999 Jul-Aug",
+      "source": "In Vivo",
+      "authors": "Asanuma H; Numazaki K; Chiba S"
+    },
+    {
+      "pmid": "9825792",
+      "title": "Respiratory syncytial virus infection in children with acute respiratory infections in Zambia.",
+      "pubdate": "1998 Oct",
+      "source": "Epidemiol Infect",
+      "authors": "Saijo M; Terunuma H; Mizuta K"
+    },
+    {
+      "pmid": "9758247",
+      "title": "Detection of cytokines and cytomegalovirus DNA in serum as test for congenital infection.",
+      "pubdate": "1998 Aug 28",
+      "source": "Early Hum Dev",
+      "authors": "Numazaki K; Asanuma H; Ikehata M"
+    },
+    {
+      "pmid": "9500365",
+      "title": "Human herpesvirus 8 variants.",
+      "pubdate": "1998 Feb 28",
+      "source": "Lancet",
+      "authors": "Numazaki K; Chiba S; Aoki K"
+    },
+    {
+      "pmid": "9270728",
+      "title": "Laboratory diagnosis of acute measles infections in hospitalized children in Zambia.",
+      "pubdate": "1997 Jul",
+      "source": "Trop Med Int Health",
+      "authors": "Oshitani H; Suzuki H; Mpabalwani M"
+    },
+    {
+      "pmid": "9230973",
+      "title": "Epidemiology of influenza virus infections in children with acute respiratory infections in Zambia.",
+      "pubdate": "1997 Jun",
+      "source": "Ann Trop Paediatr",
+      "authors": "Mizuta K; Oshitani H; Saijo M"
+    },
+    {
+      "pmid": "9223612",
+      "title": "Human cytomegalovirus infection of breast milk.",
+      "pubdate": "1997 Jun",
+      "source": "FEMS Immunol Med Microbiol",
+      "authors": "Numazaki K"
+    },
+    {
+      "pmid": "9140195",
+      "title": "Interspecies transmission of influenza C virus between humans and pigs.",
+      "pubdate": "1997 Apr",
+      "source": "Virus Res",
+      "authors": "Kimura H; Abiko C; Peng G"
+    },
+    {
+      "pmid": "8699086",
+      "title": "Anti-human cytomegalovirus effects of breast milk.",
+      "pubdate": "1996 Aug",
+      "source": "J Infect Dis",
+      "authors": "Numazaki K; Asanuma H; Hotsubo T"
+    },
+    {
+      "pmid": "8784617",
+      "title": "PCR detection of cytomegalovirus DNA in serum as test for congenital cytomegalovirus infection.",
+      "pubdate": "1996 Jul",
+      "source": "J Clin Microbiol",
+      "authors": "Numazaki K; Chiba S"
+    },
+    {
+      "pmid": "8757991",
+      "title": "Frequent occurrence of genetic reassortment between influenza C virus strains in nature.",
+      "pubdate": "1996 Jul",
+      "source": "J Gen Virol",
+      "authors": "Peng G; Hongo S; Kimura H"
+    },
+    {
+      "pmid": "8699095",
+      "title": "[The etiology of acute lower respiratory tract infections in infants].",
+      "pubdate": "1996 May",
+      "source": "Kansenshogaku Zasshi",
+      "authors": "Ishiwada N; Sugimoto K; Uehara S"
+    },
+    {
+      "pmid": "8934674",
+      "title": "Role of milk whey in the transmission of human cytomegalovirus infection by breast milk.",
+      "pubdate": "1996",
+      "source": "Microbiol Immunol",
+      "authors": "Asanuma H; Numazaki K; Nagata N"
+    },
+    {
+      "pmid": "8589665",
+      "title": "Cytokine response and polymerase chain reaction study of peripheral blood mononuclear cells in infants with human cytomegalovirus infection.",
+      "pubdate": "1995 Oct",
+      "source": "FEMS Immunol Med Microbiol",
+      "authors": "Asanuma H; Numazaki K; Nagata N"
+    },
+    {
+      "pmid": "7677420",
+      "title": "Measles infection in hospitalized children in Lusaka, Zambia.",
+      "pubdate": "1995 Jun",
+      "source": "Ann Trop Paediatr",
+      "authors": "Oshitani H; Mpabalwani M; Kasolo F"
+    },
+    {
+      "pmid": "7796773",
+      "title": "An outbreak of influenza A/H3N2 in a Zambian school dormitory.",
+      "pubdate": "1995 Mar",
+      "source": "East Afr Med J",
+      "authors": "Mizuta K; Oshitani H; Mpabalwani EM"
+    },
+    {
+      "pmid": "7792788",
+      "title": "Longitudinal investigation of epidemiologic feature of adenovirus infections in acute respiratory illnesses among children in Yamagata, Japan (1986-1991).",
+      "pubdate": "1995 Mar",
+      "source": "Tohoku J Exp Med",
+      "authors": "Sakamoto M; Yazaki N; Katsushima N"
+    },
+    {
+      "pmid": "7863500",
+      "title": "Human cytomegalovirus neutralizing antibody response in Japanese children with bone marrow transplantation.",
+      "pubdate": "1994 Sep",
+      "source": "Tohoku J Exp Med",
+      "authors": "Ohizumi Y; Suzuki H; Numazaki Y"
+    },
+    {
+      "pmid": "8030242",
+      "title": "Cocirculation of two distinct groups of influenza C virus in Yamagata City, Japan.",
+      "pubdate": "1994 Aug 1",
+      "source": "Virology",
+      "authors": "Matsuzaki Y; Muraki Y; Sugawara K"
+    },
+    {
+      "pmid": "8073426",
+      "title": "Effect of glycyrrhizin in children with liver dysfunction associated with cytomegalovirus infection.",
+      "pubdate": "1994 Feb",
+      "source": "Tohoku J Exp Med",
+      "authors": "Numazaki K; Umetsu M; Chiba S"
+    },
+    {
+      "pmid": "7908941",
+      "title": "Six-year longitudinal analysis of adenovirus type 3 genome types isolated in Yamagata, Japan.",
+      "pubdate": "1994 Feb",
+      "source": "J Med Virol",
+      "authors": "Mizuta K; Suzuki H; Ina Y"
+    },
+    {
+      "pmid": "8193264",
+      "title": "Natural course and trial of treatment for infantile liver dysfunction associated with cytomegalovirus infections.",
+      "pubdate": "1993 Nov-Dec",
+      "source": "In Vivo",
+      "authors": "Numazaki K; Chiba S"
+    },
+    {
+      "pmid": "1333832",
+      "title": "Evaluation of the shell vial pre-CPE method using monoclonal antibodies for the diagnosis of human cytomegalovirus infection in the field of pediatrics.",
+      "pubdate": "1992 Sep-Oct",
+      "source": "In Vivo",
+      "authors": "Numazaki K; Nagata N; Chiba S"
+    },
+    {
+      "pmid": "1337573",
+      "title": "Replication of human cytomegalovirus in the cells of the U937 monocytoid cell line.",
+      "pubdate": "1992",
+      "source": "Med Microbiol Immunol",
+      "authors": "Numazaki K; Nagata N; Sato T"
+    },
+    {
+      "pmid": "1993950",
+      "title": "Community-acquired influenza C virus infection in children.",
+      "pubdate": "1991 Feb",
+      "source": "J Pediatr",
+      "authors": "Moriuchi H; Katsushima N; Nishimura H"
+    },
+    {
+      "pmid": "1943849",
+      "title": "The herald waves of influenza virus infections detected in Sendai and Yamagata cities in 1985-1990.",
+      "pubdate": "1991",
+      "source": "Microbiol Immunol",
+      "authors": "Moriuchi H; Oshima T; Komatsu S"
+    }
+  ]
+}

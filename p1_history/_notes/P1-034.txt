@@ -1,0 +1,833 @@
+
+===== PAGE 1 =====
+Proceedings 
+of the 
+Society 
+for 
+Experimental Biology and Medicine 
+VOL. 73 JANUARY, 19 5 0 No. 1 
+SECTION MEETINGS 
+CLEVELAND 
+DISTRICT OF COLUMBIA 
+MINNESOTA 
+NEW YORK 
+Western Reserve University 
+George Washington University 
+University of Minnesota 
+New York Academy of Medicine 
+November 11 and 14, 1949 
+December 1, 1949 
+December 22, 1949 
+December 14, 1949 
+Nutrition of Animal Cells in Tissue Culture. I. Initial Studies on a 
+Synthetic Medium."? (17557) 
+JOSEPH F. MORGAN, HELEN J. MORTON, AND RAYMOND C. PARKER. 
+From the Connaught Medical Research Labora.torias, University of Toronto. 
+Over the past 30 years, the nutritive 
+media that have been employed for the 
+propagation of animal cells in tissue cul- 
+ture have bmeen derived, directly or in- 
+directly, from the organism and have con- 
+sisted of blood plasma, blood serum, body 
+exudates and extracts of various tissues and 
+organs. But the complexity and. varia- 
+bility of these natural substrates has made 
+it allmost ismpossible to employ them in 
+experiments designed to determine the sub- 
+stances that are actually utilized by the cells 
+for survival and' multiplication. From time 
+to time, ,attempts have been made to devise 
+* This investigation was supported, in part, by 
+grants from the National Cancer Institute of 
+Canada, and the Ontario Cancer Treatment and 
+Research Foundation. 
+t Grateful acknowledgment is made to Mrs. 
+M. G. Pearce and Mrs. C. J. Porter for technical 
+assistance. 
+nutritive media comprised of chemically- 
+known ingredients. Thus, Vogelaar and 
+Erl'ichman ( 1 ) , Baker (2), and Baker and 
+Ebeling (3), have reported feeding sulutions 
+for fibroblasts, epithelial cells and blood 
+macrophages. These media consisted in part 
+of chemically-defined substances, but the ad- 
+dition of serum or other natural substrates 
+was necessary for cell multiplication and sur- 
+vival. Fischer and his associates (4) employed 
+dialyzed plasma and dialyzed chick embryo 
+extract as a base and devised supplementary 
+solutions consisting of compounds of known 
+1. Vogelaar, J. P. M., and Erlichman, E.; An%. J. 
+2. Baker, L. E., Science, 1936, v83: 605. 
+3. Baker, L. E., and Ebeling, A. H., J. Exp. 
+Med., 1939, v69, 365. 
+4. Fischer, A., Astrup, T., Ehrensvard, G., and 
+Oehlenschlager, V., PROC. XOC. EXP. BIOL. AND 
+MED., 1948, 1767, 40. 
+Cancer, 1933, v18, 28. 
+===== PAGE 2 =====
+2 SYNTHETIC FEEDIKG MIXTURE FOR TISSUE CULTURES 
+biological importance to replace the accessory 
+growth factors removed during dialysis. 
+White( 5) reported a culture fluid consisting of 
+constituents of known composition that sup- 
+ported the life of relatively large masses of 
+chick embryo tissue for several weeks. It was 
+found by Jacolby and Darke( 6) , however, 
+that it was necessary to add serum to White‘s 
+mixture in order to support ithe life and activi- 
+ty of pure cultures of blood macrophages. 
+It is the purpose of the present communi- 
+cation to report the first of a series of studies 
+made in this laboratory over the past 2 years 
+in an attempt to devise a synthetic medium 
+of chemically-known composition that would 
+promote continuous cell multiplication of 
+small amounts of tissue in the absence of 
+blood. serum and embryo extract. Although 
+a completeiy adequate synthetic mixture has 
+not yet been achieved, the results thus far 
+obtained are sufficiently encouraging to justify 
+the present report. 
+Materials and Methods. *4ll cultures were 
+preparedl from the leg muscle of ll-day-old 
+chick embryos. After the tissue had been 
+chopped with cataract knives into extremely 
+fine fragments, and the fragments had been 
+washed with Earle’s modification of Tyrode’s 
+solution(7), very small amounts of the re- 
+sulting suspension were transferred with a 
+pipette to the inner surface of standard pyrex 
+test tubes ( 18 >( 150 mm) . The culture fluid 
+(2 ml) was then placed in the bottom of the 
+tubes, care being taken to avoid wetting the 
+tissue, the pH was adjusted to 7.2 with a gas 
+mixture consisting of 8% COZ, 21% 02 and 
+7 1 % K2, and the tubes were tightly stoppered. 
+It was found that a period of 1 hour was 
+required for the tissue to become firmly at- 
+tached to the glass surface of the tubes before 
+the fluid medium could be washed over it. 
+As soon as the tissues were flooded with the 
+culture fluid, the tubes were inserted in an al- 
+most horizontal position in a rotating drum( 8) 
+at 38°C. 
+5. White, P. R., Growfh, 1946, v10, 931. 
+6. Jacoby, P.: and Darke, 8. J., Snture, 1948, 
+7. Earle, W. R., J. A-at. Cancer Insf., 1943, v4, 
+8. Gey, G. O., Am. J. Cancer, 1933, v17, 752. 
+rlG1, 768. 
+165. 
+,411 cultures received a preliminary feeding 
+mixture containing naturally-occurring ingre- 
+dients (horse serum and embryo extract) when 
+first made and were left in the rotating drum 
+for an initial period of 3 to 5 days. At the 
+end of this time, they were examined micro- 
+scopically and any unsuitable cultures were 
+discarded. The remaining cultures were di- 
+vided into groups of 5 or more, and the pre- 
+liminary feeding mixture was replaced by 
+various synthetic mixtures. These mixtures 
+were changed 3 times a week. The cultures 
+were examined microscopically at frequent 
+intervals and careful record was made of the 
+development of new tissue, breakdown of 
+the original tissue, and the general appear- 
+ance of the individual cells. Cultures were 
+maintained in the synthetic mixtures until 
+living cells were no longer apparent. The 
+average survival time of the cultures in each 
+group of a series (Table I) was considered 
+to be a rough indication of the suitability of 
+the experimental media. Th’roughout the ex- 
+periments, certain cultures were continued, in 
+the preliminary feeding mixture (containing 
+<horse serum and embryo extract) as positive 
+controls, and in Earle’s solution alone as nega- 
+tive controls. 
+By careful refinements of technique, it was 
+found possible to decrease progressively the 
+amount of #embryo tissue added to the roller 
+tubes. In all of the experiments to be re- 
+ported, cultures were made with the min<imum 
+amount of tissue (Fig. 1) that would yield 
+extensive cell growth. 
+The non-synthetic, preliminary feeding mix- 
+ture consisted of 4 parts horse serum, 6 parts 
+FIG. 1. 
+Portion of 18 X 150 mm 
+amount of tissue employed 
+typical culture ; photographed 
+tion. X1. 
+test tube showing 
+in preparation of 
+after 18 hr incuba- 
+
+===== PAGE 3 =====
+SYNTHETIC FEEDING MIXTURE FOR TISSUE CULTURES 3 
+Earle's solution, and final concentrations of 
+1 % chick embryu extract (9) (in Earle's solu- 
+tian) and 0.002% phenol red. 
+The components of the synthetic media 
+were of the highest grade obtainable com- 
+mercially and were employed without further 
+purification. It was found !most convenient 
+to prepare a number of basic stock solutions 
+and to combine these in various proportions. 
+Sol. A : Z-Arginine monohydrochloride, 14.0 
+mg ; l-histidine monuhydrochloride, 4.0 mg; 
+Llysine monohydrochloride, 14.0 mg ; dZ-tryp- 
+topham, 4.0 mg; dl-phenylalanine, 10.0 mg; 
+dZ-methionhe, 6.0 mg; dZ-serine, 10.0 mg; 
+dl-thrmnine, 12.0 mg; dl-leucine, 24.0 mg; 
+dl-isoleucine, 8.0 mg; dZ-valine, 10.0 mg; dl- 
+glutamic acid monohydrate, 30.0 mg; dl- 
+aspartic acid, 12 .O mg ; dl-a-alanine, 10.0 mg ; 
+Ziproline, 8.0 mg; l-hydroxyproline, 2.0 mg; 
+glycine, 10.0 mg; Eglutam'ine, 20.0 mg; so- 
+daium acetate, 16.3 mg. These ingredients were 
+dsissolved in 100 ml of dwble-strength kle's 
+solution. 
+Sol. B: Z-Tyrosine, 20 mg; Z-cystine, 
+100 mg. These substances were dissolved 
+with gentle heating in 100 ml of 0.075 N HCl. 
+.Sot. C: Niacin, 25.0 mg; niacin amide, 
+25.0 mg; pyridoxine hydrochloride, 25.0 mg; 
+pyridoxal hydrochloride, 25.0 mg ; thiamin hy- 
+drrochloride, 10.0 mg; riboflavin, 10.0 mg; 
+calcium pantothenate, 10.0 mg ; i-inositd, 50.0 
+mg; p-aminolbenzoic acid, 50 mg; choline 
+chloride, 500.0 mg ; glass-distilled water to 
+200 ml. 
+Sol. D: Cysteine hydruchloride, 100.0 mg; 
+glutathione, 50.0 mg; ascorbic acid, 50.0 mg; 
+glass-distilled water to 100 ml. A fresh solu- 
+tion was prepared each month. 
+Sol. E: &-Biotin, 10.0 mg; glass-distilled 
+watler to 100 ml. 
+Sol. F: Fdic acid, 10.0 )mg; Earle's solu- 
+tion to 100 ml. 
+Sol. G: Vitamin A, 10.0 mg; ethyl alcohol 
+(950/,), 1.0 ml; Tween 80 (5% aqueous mlu- 
+tion), 10.0 ml; (glass-distilled water to 100 ml. 
+A fresh stock solution was prepared each 
+month. 
+Sol. H: Calciferul (vit. DZ), 10.0 mg; 
+9. Morgan, J. F., and Parker, R. C., PRW. SOC. 
+En. BIOL. AND MED., 1949, v71, 665. 
+ethyl alcohol (95%), 1.0 ml; Tween 80 (5% 
+aqueous solution), 10.0 ml; glass-distilled 
+water to 100 ml. 
+Sol. I: Disodium a-tocopherol phosphate,# 
+10.0 mg; glass-distilled water to 100 ml. 
+Sol. J: Menadione (vit. K), 10.0 mg; glass- 
+distilled water to 100 ml. 
+Sol. K: Cholesterol, 10.0 mg; ethyl alcohol 
+(95%), 10.0 ml; Tween 80 (5% aqueous so- 
+lution), 10.0 ml; glass-distilled water to 100 
+ml. 
+Sol. L: Adenine sulfate, 500.0 mg; glass-dis- 
+tilled water to 100 ml. 
+Sol. 34: Guanine hydrochloride, 10.0 mg; 
+xanthine, 10.0 mg; hpxanb$hine, 10.0 mg; 
+thymine, 10.0 mg; uracil, 10.0 mg. These 
+substances were dissolved in 100 ml glass- 
+distilled water with the addition of 0.35 ml 
+concentrated NH4OH. 
+Sol. N: d-Kihse, 1W.O mg; d-2-desoxy- 
+ribose, 100.0 mg; glass-distilled water to 100 
+ml. A 1.0 ml amount of this solution was in- 
+corporated in each liter of Solution A. 
+Sol. 0: Adenylic acid (from muscle), 100.0 
+mg; glass-distilled water to 100 ml. A 4.0 d 
+portion of this solution was inmr+prated in: 
+each liter of Solution A. 
+Sol. P: Adenosinetriphosphate (dibarium 
+salt), 67.6 mg. This substance was dissolved 
+in 50 ml of 0.01N El. The barium was 
+precipitated by the addition of a slight excess 
+of saturated Na2S04 solution, removed by 
+centrifuging, and the clear supernatant was 
+diluted to 100 ml with glass-distilled water. 
+A fresh solution was prepared. each, week. 
+Sol. Q: Fe(N0&.9H20, 14.5 mg; glass- 
+distilled water to 100 d. 
+Stock solutions A, B, K, L, M, P and, Q 
+were employed without further dilution So- 
+lutions C, G, H and J were diluted 1:10 in 
+glass-distilled water before use. Solutions D, 
+E, F and I were diluted 1 : 100 in glassdis- 
+tilled water. 
+All solutions used in the prwaration of the 
+synthetic mixtures were sterilized by passage 
+through UF fritted glass filters (Corning). 
+Stock solutions and the combined mixtures 
+were stored in low-actinic glassware. The 
+$ Obtained through the courtesy of Dr. J. G. 
+Baxter, Distillation Products, fnc., Rochester, N.Y. 
+===== PAGE 4 =====
+4 SYNTHETIC FEEDING MIXTURE FOR TISSUE CULTURES 
+TABLE I. 
+-%wage Survival Time of Chick EinbrJ-o Roller-tube Cultures in 6 of the 199 Synthetic 
+Mixtures That Were Tested. 
+Mixture No. of Total No. of Ayg survivsl 
+NO. Ingredients experiments cultures" (days 1 
+Balanced 
+salt 
+mixture 
+22 
+81 
+88 
+148B 
+199 
+Esrle 's modification (7) of 6 
+Tyrode's solutiou (incor- 
+parated in all subsequent 
+mixtures) 
+Amiiio-acid mixture 5 
+Misture Xo. 22 + vitaxiiiiis 5 
+and Tween 80 
+Mixture Xo. 81 + purines, 
+Misture No. 88 + ATP, 
+5 
+11 y r iniidinea and choles t er 01 
+adenylic acid, sodium ace- 
+tate, glutamine, ribose, and 
+desoxyribose 
+12 
+Misture No. 148B + 
+ferric nitrate 
+11 
+23 6.6 
+23 14.5 
+18 16.8 
+22 23.4 
+'70 28.0 
+GO 33.0t 
+* ApproxiinatelF 3.000 cultures mere used to test all of the mixtures Btudied. 
+t A few cultures in this misture hare survived beyond 70 days. 
+majority of these solutions were kept at 4"C, 
+but certain stock solutions. e.g. adenine: cho- 
+lesterol, tyrosine and cystine, which tended 
+to form precipitates in the refrigerator, were 
+stored at room temperature. 
+In thae preparation of the synthetic mix- 
+tures, 25 ml of the amino acid basal mixture 
+(Solution A) were taken, and to this were 
+added appropriate volumes of the other stock 
+solutions. Sufficient glass-distilled water was 
+then addled to bring the total volume to 50 ml. 
+The isotonicity of the media was confirmed by 
+freezing-point determinations. Each new in- 
+gredient, or group of ingredients, added to 
+&he basal solution was first studied over a 
+wicie range of concentrations to detect pos- 
+sible toxic effects, and was finally incorpor- 
+ated in the mixture at a level that was either 
+beneficial or, at least! non-toxic. 
+Experimental. Amino acids. Preliminary 
+experiments were carried out in which an acid 
+hydrolyzate of casein, fortified with trypto- 
+phane, served as the sole source of nutrient. 
+This solution proved to be completely inade- 
+quate,,since it supported cell life for only 5 
+to 7 days, An amino acid mixture was then 
+prepared, from pure constituents and was made 
+up in proportions based on analyses of tissue 
+proteins(l0). This mixture was tested at 
+several concentrations over the range of 500 
+to 50 mg/100 ml total amino acids. A level of 
+100 mg/lBO ml was found to be most suitable. 
+At this concentration, cultures remained alive 
+for an average period of 14 days (Table I), 
+while at levels above and- below this amount 
+the duration of life was mmewhat shorter. 
+Vitamins. The bad amino acid mixture 
+was next supplemented by the addition of 
+vitamins (Solutions C to J). These were 
+tested over a wide range of concentrations, 
+some singly and some in groups. The addi- 
+tion of vitamins was found to improve the 
+appearance of the individual cells, but was 
+not observed to increase the amount of new 
+tissue. 
+In these early vitamin experiments, con- 
+siderable difficulty was encountered with 
+vitamins A and D. "he stock solutions of 
+these substances were madie up in 95% ethyl 
+alcohol, and the vitamins tenddl to precipitate 
+out when they were added to the aqueous basal 
+mixture. It was also observed that the pres- 
+ence of more than a trace of these solutions 
+10. Block, R. J., and Bolling, D., The Amino 
+Acid Composition of Proteins and Foods, Spring- 
+field, Ill., Thomas, 1945. 
+===== PAGE 5 =====
+SYNTHETIC FEEDING MIXTURE FOR TISSUE CULTURES 5 
+markedly decreased the survival period of the 
+cultures. This ,was attrhted to the toxic 
+effect of ethyl alcohol upon the tissue cells. 
+Tzeieens. The surface active agents of the 
+Tween series were next investigated as a 
+possible means of supplying the tissues with 
+a water-soluble source of fatty acid. Ex- 
+tensive experiments, to be published separate- 
+ly, have established that concentrations rang- 
+ing from 0.005 to 0.0005% were suitable for 
+use in the cultures. Since it was considered 
+possilble that the cells might require a source 
+of unsaturated fatty acid, it was decided to 
+incorporate Tween 80 (containing oleic acid) 
+in all subsequent synthetic mixtures. The 
+surface activity of this compound was also 
+utilized to dissolve fat-soluble compounds. It 
+was found that if vitamin A, vitamin D and 
+cholesterol were first dissolved in a minimal 
+amount of 95% ethyl alcohol, and Tween 80 
+was added subsequently (Solutions G, H, R) , 
+these substances remained in solution and did 
+not precipitate even in high dilution with dis- 
+tilled water. 
+The addition of vitamins A and D, in Tween 
+80, to the synthetic mixture was found to 
+prolong the survival time of the cultures and 
+to improve the appearance of the cells. 
+Whether this beneficial effect can be attribu- 
+ted tlo the Tween 80 or to the elimination of 
+all but minute traces of alcohol from the 
+media has not yet been established. 
+Nucleic Acid Constituents. Since the syn- 
+thetic mixture now containled amino acids, 
+vitamins and a source of fatty acid, attention 
+was next directed to the constituents of nucleic 
+acid, with particular emphasis upon the purine 
+and pyrimidine bases. Adenine sulfatse was 
+not found to exert any marked effect when 
+tested alone at concentrations from 10 to 
+0.1 mg,,' 100 ml. A purine and pyrimidine so- 
+lution, cm taining guanine hydrochloride, xan- 
+thine, hypoxanthine, thymine and uracil, was 
+found, to be toxic at 6.0 mg/100 ml, but to 
+be slightly beneficial at 0.6 and 0.06 mg/100 
+ml. Adenine sulfate at the 1.0 mg/100 rnl 
+level, however, resulted in some improvement 
+when added to a mixture in which the purines 
+and pyrimidines had already been incorpor- 
+ated. The pentose sugars, ribose and clesxy- 
+ribose, did not appear to influence the survival 
+time of the cultures, but were added to the 
+medium in order to complete the list of nu- 
+cleic acid components. 
+Accessory Growth Factors. In addition to 
+the several groups of mmpunds already men- 
+tioned, a number of accessory growth factors 
+were also tested for possible stimulating ef- 
+fects upon the cultures; and these were in- 
+corporated in the synthetic mixture. Even 
+though some of them showed no apparent 
+beneficial effect when tested singly, there was 
+a progressive improvement that could be at- 
+tri'buted to various combinations of these 
+metabolites. 
+Cholesterol was dissolved in Tween 80, as 
+described previously, and was added to the 
+basal mixture at concentrations from 2.0 to 
+0.02 m@OO ml. No efflect upon the culitures 
+was noted. 
+Sodium acetate was tested at concentra- 
+tions ranging from 5.0 to 0.0005%. Levels of 
+5 .O and 0.5 yo were found to be toxic, while 
+lower concentrations had no appreciable effect. 
+An adenosinebriphosphate ( ATP) solution 
+was prepared, as already described, and this 
+compund was tested on the cultures at levels 
+of 100 to 0.01 pg per ml. No effect upon the 
+cultures was noted at any concentration 
+studied. 
+Adenylic acid (from muscle) was used over 
+the same range of concentrations employed 
+with ATP, but it had no apparent effect upon 
+the cultures. A number of experiments were 
+carried out in whlich the concentrations of 
+ATP and of adenylic acid were varied in re- 
+spect to each other. Under these conditions, 
+also, no appreciable effect upn the cultures 
+was observed. 
+Glutamine was incorporated in the synthetic 
+mixtures at concentrations ranging from 100 
+to 10 mg,/lOO ml, and appeared to be slightly 
+benefidal at the highest level tested. Later 
+experiments indicated that this concentration 
+was not effective when added to synthetic mix- 
+tures containing ATP and adenylic acid. In 
+the presence Olf these metabolites, however, 
+considerable improvement was exerted by a 
+lower level of glutamine. This beneficial effect 
+was greater than! that obtained previously by 
+the highest level of glutamine in the absence 
+of ATP and adenylic acid. Glutamine, ATP 
+===== PAGE 6 =====
+6 SYNTHETIC FEEDING MIXTURE FOR TISSUE CULTURES 
+and adenylic acid were finally added to the 
+synthetic mixture in the proportions that had 
+given this marked improvement. 
+Trace Metds. Although it is planned to 
+study the possible effects of adding various 
+truce metals to the synthetic mixture, iron is 
+the only one that has so far been tested. Solu- 
+tions of ferric nitrate and ferrous sulfate were 
+tested over wide ranges of concentration. The 
+results appeared to indicate that low concen- 
+trations of both salts were slightly beneficial. 
+Ferric nitrate was finally selected for use in 
+the synthetic mixture (Table I) because it 
+appeared to be the more stable of the two. 
+Synthetic Mixture No. 199. Since these 
+experiments had established the optimal con- 
+centrations of the individual substances tested, 
+it was now possi3ble to combine them as shown 
+in Table 11. Embryo tissue cultivated in this 
+mixture was found to put out extensive areas 
+of new growth. This was in striking contrast 
+to the results obtained with simpler mixtures. 
+The majority of the cells that grew out from 
+the original tissue fragments cultivated in 
+Mixture 199 were large, flat and spindle- 
+shaped. They did not develop excessive granu- 
+lation for about 3 weeks, after which time 
+many of the cultures underwent progressive 
+degeneration. 
+In repeatled experiments, Mixture 199 sup- 
+ported cell life for an average period of 4 to 
+5 weeks, and certain cultures survived for more 
+than twice that time. Further studies are 
+being undertaken in order to determine, if 
+possible, the additional substances that may 
+'be required to make Mixture 199 completely 
+adequate for continuous cell multiplication. 
+The effect of supplementing this medium with 
+small amounts of serum and embryo extract is 
+also under investigation. 
+The studies reported in the 
+present communication, which include the re- 
+sults obtained with approximately 3000 cul- 
+tures, have shown a progressive improvement 
+in the survival of the tissues that have been 
+cultivated. Although the medium that has 
+been developed is not entirely adequate, it 
+will support cell life for an average period of 
+4 to 5 weeks and has made it possible to 
+make a number of interesting observations on 
+cell nutrition. 
+Discussion. 
+TABLE 11. 
+Synthetic Mixture No. 199.* 
+Mg per 
+1000 ml 
+1- Arginine 
+Z-Histidine 
+I-Lysino 
+Z-Tyrosine 
+dZ-Tryptophane 
+dl-Phenylalanine 
+2 -Cyst ine 
+dl-Met hionine 
+dZ-Serjne 
+dZ-Threonine 
+dl-Leucine 
+dZ- Isoleucine 
+dE-Valinc- 
+dl-Glutamic acid 
+dZ-Aspartic acid 
+dZ- Alanine 
+Z-Proline 
+I-Hydroxypr oline 
+Glycine 
+Cysteine 
+Adenine 
+Guanine 
+Xanthine 
+Hypoxanthine 
+Thymine 
+ITracil 
+Thiamin 
+Riboflavin 
+Pyridoxine 
+Pyridoxal 
+Xiacin 
+Siacinamide 
+Pantothenate 
+Biotin 
+Folic acid 
+Choline 
+Inositol 
+p-Aminobenzoic acid 
+Vitamin 
+A 
+Calciferol (Tit. D) 
+Menadione (Vit. 9) 
+a-Tocopherol phosphate 
+Ascorbic acid 
+Glutathione 
+Tmem 80 (oleic acid) 
+Choles ter ol 
+Sodium acetate 
+I -Glut amine 
+Adenosinetriphosphate 
+Adcnylic acid 
+Iron 
+(as ferric nitrate) 
+Ribose 
+D esoxyribose 
+(Vit. E) 
+70.0 
+20.0 
+70.0 
+40.0 
+20.0 
+50.0 
+20.0 
+30.0 
+50.0 
+60.0 
+120.0 
+40.0 
+50.0 
+150.0 
+60.0 
+50.0 
+40.0 
+10.0 
+50.0 
+0.1 
+10.0 
+0.3 
+0.3 
+0.3 
+0.3 
+0.3 
+0.010 
+0.010 
+0.025 
+0.025 
+0.025 
+0.025 
+0.01 
+0.01 
+0.01 
+0.50 
+0.05 
+0.05 
+0.10 
+0.10 
+0.01 
+0.01 
+0.05 
+0.05 
+20.0 
+0.2 
+50.0 
+100.0 
+10.0 
+0.2 
+0.1 
+0.5 
+0.5 
+* This mixture also contained a modified Ty, 
+rode 's soluti,on. 
+The amino acid requirements of tissue cells 
+have been investigated extensively by Fisch- 
+er( 11) , who has shorn that cystine is most 
+essential and that arginine, tryptophane, glu- 
+11. Fischer, -A< Bioohem. J., 1948, v43, 491. 
+===== PAGE 7 =====
+SYNTHETIC FEEDING MIXTURE FOR TISSUE CULTURES 7 
+tamic acid and lysine are also required. On 
+the bask of Fischer’s work, the present finding 
+that a mixture of 19 amino acids is greatly 
+superior to an acid hydlmlyzate of casein might 
+possibly be attributed to an increased level of 
+cystine, since casein is knmn to be deficient 
+in this particular amino acidl( 10). Moreover, 
+Fischer’s results indicate that the concept of 
+“essential” and “non-essential” amino acids 
+does not apply to tissue cultures. Hence, the 
+inclusion of all the naturally-occurring &o 
+acids would seem to be a desirable feature of 
+Mixture 199. It should also be pointed out 
+that the medium. reported by White(5) con- 
+him only the “essential” amino acids and does 
+not includk cystine. 
+The amino acid mixture finally employed in 
+the present experiments contained 11 dl (the 
+more easily avaihble) amino acids and, 7 Olf 
+the natural I configuration. Colrapmtive tests 
+were carried1 out with a similar mixture made 
+up entirely of I amino acids.§ But since ex- 
+periments made with the same range of con- 
+centrations failed to show any significant dif- 
+ferences in the remilts obtained with the two 
+solutions, it was concluded that the d amino 
+acids were not growth inhfbiting. 
+The present studies did not afforcl any 
+clear-cut evidence that vitamins are required 
+by ells in tissue culture. It seemed advisable, 
+however, to include a complete vikmin sup- 
+plement in Mixture 199 in the hope that bene 
+ficial effects might be evident when the mixture 
+became more complete. It was felt that the 
+preliminary media should include as many 
+known nutritional (factors as possible, em 
+though many of them had no apparent effect. 
+If an adequate synthetic medium could be de- 
+vised in this manner, the sunnecessary sub- 
+stances auld eventually be eliminated. The 
+results shown in Table I muld seem to justi- 
+fy thlis method of approach. 
+The addition of nucleic acid constituents, 
+the purines, pyrimidhes and pentme sugars, 
+to the basal solution was found to be beneficial. 
+The incorporation of these cornpun& into 
+Mixture 199 would seem ,to constitute an im- 
+$ t-Threonine and Lvaline were obtained through 
+the courtesy of Dr. Marvin Darrach, Merck and 
+Co., Ltd., Montreal, Canada. 
+provement over other synthetic mixtures that 
+have been devised. White’s medium contained 
+IU) nucEeic acid derivatives; and Fischer’s so- 
+lution included only hypoxanthine and inosi- 
+nic acid. The important role that has been as- 
+signed to nucleic acids in cellular metabo- 
+lism( 12,13) would suggest that any synthetic 
+medium for animal tissue cells should contain 
+either the nucleic acids themselves or sub- 
+stances from which they may Ibe synthesized 
+by the cells. 
+It was hoped that the addition of varoious 
+intermediary metabolites and accessory growth 
+factors to the basal synthetic mixture ~ghd 
+increase very greatly the survival tinme of the 
+cultures through a stimulation of the cellular 
+enzyme systems involved: in the sp&& of 
+protoplasm. For this reason, great importance 
+was attached to the incorporation of adam- 
+sinetriphaphate, which is known to activate 
+many metabolic processes( 14). The faot that 
+this compound, and also adenylic acid, failed 
+to exert significant eff&s upon the survival 
+ti-me of the cultures was rather disappointing. 
+It is possible, however, that stimulation by 
+ATP may occur only in the presence of phos- 
+phorylated intermediates of the glycolytic cy- 
+cle. Thus, Fixher and his associates(4) 
+found that whereas ATP did not stinmulate 
+growth, fructose &phosphate was definitely 
+:beneficial. A further study of this intemela- 
+tionship is being conducted at the present 
+time. 
+The addition of glutamine to the basal mix- 
+ture was observed to increase the life span of 
+the cultures, but the improvement observed 
+was not as great as that reponted by Fischer 
+and his associates(4). It should be pointed 
+out, however, that the present experiments 
+were made with a basal mixture that contained 
+a high level of glutamic acid, whereas Fisch- 
+er’s results were obtained in the absence of 
+glutamic add. 
+When the present studies were undertaken, 
+it was anticipated that certain interrelation- 
+12. Davidson, J. N., Symposia SOC. Exp. Biol., 
+13. Davidson, J. N., Cold Spring Harbor Sym- 
+14. Potter, V. R., Advances in Enzymology, 1944, 
+1947, v1, 77. 
+posia &want. Biol., 1947, v12, 50. 
+v4, 201. 
+===== PAGE 8 =====
+8 KIDNEY AND PROTEIN CATABOLISM 
+ships and possible antagonisms might de- 
+velop between various groups of growth fac- 
+tors. The only instance of such effects en- 
+countered up to the present time is that be- 
+tween glutainiiie and -4TP plus adenylic acid. 
+KO explanation of this interesting relationship 
+is available at the present time. 
+The necessity of cultivating the tissues in 
+naturally-occurring nutritive media for 3 to 
+5 days prior to the replacemlent of these 
+natural media by synthetic mixtures is an un- 
+desirable feature of the present experiments. 
+During this preliminarq- period of cultivation, 
+the cells might be able to store up reserve food 
+substances that would serve as a source of 
+nutrient during the subsequenlt period oif culti- 
+vation in synthetic media. Still, tissues cul- 
+tivated in Earle’s solution alone degenerated 
+and died within 6 or 7 days (Table I). This 
+yould seem to indicate that the effects of the 
+initial period of maintenance in the prelim- 
+inary feeding mixture are not exerted long 
+after this original fluid is removed. Eventually 
+it is hoped that this early maintenance period 
+in non-synthetic media may be eliminated. 
+The systematic addition of new ingredients 
+to the synthetic mixture has seldom resulted 
+in a marked improvement that could be at- 
+tributed to any one substance. But periodic 
+comparisons of the effect of the more recent 
+test solutions with simpler 
+b,een used earlier (Table 
+111. Influence of 
+mixtures that had 
+I) have shown a 
+progressive increase in the survival time of 
+the cultures and a markled improvement in 
+their appearance. Thus, for esample, results 
+obtained, with Mixture 199 were vastly su- 
+perior to those obtainled with mistures con- 
+taining only amino acids, vitamins and Tween 
+80. 
+The results reported in the present com- 
+munication have established that synthetic 
+Mixture 199 will support the survival of chick 
+embryo tissues for an average period of 4 to 5 
+weeks. Although this mixture will not support 
+the cells indefinitely, it does appear suitable 
+for use as a basal synthetic medium for further 
+investigations on cell nutrition. 
+The nutrition of animal cells 
+in tissue culture has been studried with partic- 
+ular referenlcx to amino acids, vitamins, nucleic 
+acid constituents and various accessory growth 
+factors. Th,e optimal concentrations of these 
+substances for the maintenance of cell life 
+in vitro have been established and a complete- 
+ly synthetic fleeding solution has been devised. 
+Although this mixture will not support cell 
+life indefinitely, it has been found adequate to 
+maintain chick em,bryo cells for an average 
+period of 4 to 5 weeks. The mixttire is being 
+used as a basal synthetic medium for furthler 
+studies on the unidentified growth-promoting 
+substances known to occur in natural media. 
+Summary. 
+Received Octobcr 4,, 1949. F.S. l-:.I3.M., 3 950, vT3. 
+Inhibition of Protein Catabolism.” Renal Tissue in 
+( 17558) 
+EDWARD C. PERSIKE (Introduced by -Arthur L. Bloomfield) 
+From the Departiimzt oj Medicine, Stanjord rniversity School of Medicine, Saiz Fraizci,rcn, Cali!’. 
+Data are presented elsewhere(1) which measured by the rate of urea formation, is 
+show that the rate of protein catabolism, as increased markedly in rats after sudden loss 
+of 75% or all of thle total renal tissue. -4 
+higher rate of protein catabolism waJs found ’. This work was supported by a grant from the 
+The author gratefully ackiiowledges technical in rats subjected to nephrectomy than in those with 25% oif the total renal 
+substance remaining. It was suggested that 
+loss of 75% or all of the total renal tissue 
+might release the mechanism responsible for 
+~___ ~~ 
+Columbia Foundation. 
+nssistaiice by JIiss H. J. L.reen, ~r. W. ~cw, 3Tr. 
+I>. J. Poo, and Mr. Tt’. TVoiig. 
+1. Persike, E. C., and Addis, T., Ani. J. Physiol., 
+1949! ~158, 149. 

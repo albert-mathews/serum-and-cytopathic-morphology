@@ -1,0 +1,68 @@
+ID, year, virus, cells*, Base Medium, FBS% pre-inoculation, FBS% post-inculcation, penicillin (IU/ml),streptomycin (mg/ml), amphotericin (mg/ml),link
+VI2,2013,SL-CoV-WIV1,Vero E6,DMEM,10,2,200,0.2,0.5,https://pubmed.ncbi.nlm.nih.gov/24172901/
+VI8,2020,SARS-CoV-2,Vero E6,DMEM,10,2,100,-,15,https://pubmed.ncbi.nlm.nih.gov/6134854/
+VI13,2020,SARS-CoV-2,Vero CCL-81,DMEM,5-10,10,200***,0.2***,0.0005***,https://wwwnc.cdc.gov/eid/article/26/6/20-0516_article
+VI14,2019,HRSV,HEP-2,DMEM,10**,2,100,-,100,https://doi.org/10.1016/j.bjid.2019.10.007
+VI15,2019,DENV-2,C6/36,MEM,10**,2,^^,^^,^^,https://pmc.ncbi.nlm.nih.gov/articles/PMC6823047/
+VI16,2002,HSV-1,Vero,MEM,5,1,-,-,-,https://pubmed.ncbi.nlm.nih.gov/11983023/
+VI18,2015,influenza,Vero,DMEM,10,0.2,-,-,-,https://pubmed.ncbi.nlm.nih.gov/25448099/
+SPT10,2022,ZIKV,Vero,DMEM,10,2,100--,0.1--,0,https://pubmed.ncbi.nlm.nih.gov/35285687/
+VI23,2024,SARS-CoV-2,Vero E6 / Vero E6 TMPRSS2 / Vero E6 ACE2 TMPRSS2,DMEM,10,2,100,0.1,0,https://pmc.ncbi.nlm.nih.gov/articles/PMC12870042/
+VI24,2011,Influenza A and B,Vero (CCL81),OptiPRO SFM (serum-free) or EMEM,0,0,-,-,0.25 (added for enhanced isolation),https://pmc.ncbi.nlm.nih.gov/articles/PMC3194987/
+VI25,2019,EBOV (Makona-C05 and Yambuko-Mayinga),Vero E6; Huh-7; monocyte-derived macrophages (MDM),DMEM (or MEM-α for some passages),10,2-10,100,0.1,0.25,https://www.mdpi.com/1999-4915/11/2/161 (or PMC6410085)
+VI28,2024 (or recent),SARS-CoV-2,Vero E6 / VeroE6/TMPRSS2 / Vero E6-TMPRSS2-T2A-ACE2,DMEM,10,2,100,0.1,0.25 (via 1% Antibiotic-Antimycotic in isolation medium),https://www.nature.com/articles/s41598-024-75038-4
+VI29,2014,Rabies virus (PV strain),BSR (Baby Hamster Kidney clone),DMEM,10,10,not specified (none detailed),not specified (none detailed),not specified (none detailed),https://pmc.ncbi.nlm.nih.gov/articles/PMC4255371/
+VI30,~2020-2023,Influenza A (IAV clinical/swine isolates) / MDCK (various lines),EMEM or DMEM/MEM-α,5-10,0-2 (often serum-free + TPCK-trypsin),100,0.1,0 (or variable; some use gentamicin/nystatin),e.g., https://pmc.ncbi.nlm.nih.gov/articles/PMC12964720/ or similar MDCK flu isolation papers (many variants)
+VI32,2020,FHV-1 (feline herpesvirus-1),CRFK (primary; also tested Vero/MDCK/BHK-21 etc.),DMEM,10,3,standard (not numerically specified; typical 100/0.1/0.00025),standard (not numerically specified),standard (not numerically specified),https://journal-jbv.apub.kr/articles/xml/eALz/
+VI33,2023,MERS-CoV,Vero E6,DMEM,10,not explicitly reduced (fresh DMEM added post-wash; typical maintenance 2%),100 (from 1× Gibco Antibiotic-Antimycotic),0.1 (from 1× Gibco Antibiotic-Antimycotic),0.00025 (from 1× Gibco Antibiotic-Antimycotic),https://pmc.ncbi.nlm.nih.gov/articles/PMC10500840/
+VI34,2024,CAV-2 (canine adenovirus type 2 variant),MDCK,DMEM,10,not explicitly detailed (maintenance implied post-1 h adsorption),standard (pen/strep/ampho included),standard,standard,https://www.kjvr.org/journal/view.php?number=3970
+VI36,2023,CHIKV (chikungunya virus),Vero (ATCC CCL-81),DMEM,10,2 (typical post-inoculation maintenance),100 (from 1% antibiotics/antimycotics),0.1 (from 1% antibiotics/antimycotics),0.00025 (from 1% antibiotics/antimycotics),https://www.sciencedirect.com/science/article/pii/S1931524422002808
+VI38,2022,SARS-CoV-2,Vero E6,DMEM (high-glucose),10,0 (FBS-free + trypsin),100 (from 100× stock),0.1 (from 100× stock),not provided,https://link.springer.com/article/10.1007/s00705-021-05343-0
+VI39,~2025,Oita virus (rhabdovirus),Vero / Vero-RcACE2 / VeroE6/TMPRSS2 / A549 / BHK,DMEM,10,2,10000 U/ml (stock; standard final ~100 IU/ml),10 mg/ml (stock; standard final ~0.1 mg/ml),not provided,https://journals.asm.org/doi/10.1128/spectrum.03158-25
+VI40,2022,RSV (respiratory syncytial virus),HEp-2,MEM,10**,2,100 (1% of 10000 U/ml stock),0.1 (1% of 10000 U/ml stock),0.00025 (25 μg/ml stock),https://pmc.ncbi.nlm.nih.gov/articles/PMC9006923/
+VI41,2007,West Nile virus (small plaque variant),Vero,MEM,10,2,not provided,not provided,not provided,https://www.sciencedirect.com/science/article/pii/S0042682207004151
+VI42,2006,VZV,MeWo,DMEM / EMEM,10,2,100,0.1,-,https://journals.asm.org/doi/10.1128/jvi.80.3.1497-1512.2006,
+VI43,2006,SARS-CoV,Vero E6,DMEM,5,2,100,0.1,-,https://mhlw-grants.niph.go.jp/system/files/2007/073111/200728004A/200728004A0011.pdf
+VI44,2003,enteroviruses ,HEF HEp-2 Vero GMK,MEM,10,2,-,-,-,https://pubmed.ncbi.nlm.nih.gov/12839716/
+VI45,2010,rabies,HEK-293 neuro-2a BHK-21,IMDM,10,2,-,-,-,https://www.ijidonline.com/article/S1201-9712(10)02471-9/fulltext
+VI46,1980,rabies,BHK-21,EMEM,10,3,200,0.4,-,https://europepmc.org/article/med/6999024
+VI47,2014,rabies,BSR,DMEM,10,10,-,-,-,https://pmc.ncbi.nlm.nih.gov/articles/PMC4255371/
+
+*some studies use many cell types. in these cases the primary cell type used for isolation cultures is listed.
++ hernorrhagic fever with renal syndrome
+** No mention of pre-inoculation medium. We assume ATCC recommended FBS % for the cell line thawing and pre inoculation passages.
+^^ authors report growth medium as "MEM with 2% FBS and antibiotics"
+++ Equal volumes of MEM + Ham’s nutrient mixture F-12 as basal medium.
+-- Estimated from 1% (v/v) Invitrogen penicillin-streptomycin (standard 100× stock) in Vero growth medium. Amphotericin B: not used.
+***Estimated from 2× GIBCO antibiotics/antimycotics (standard 100× stock) + 2× penicillin/streptomycin + 2× amphotericin B in Vero resuspension medium for virus isolation (DMEM + 10% FBS)
+VI35 note: i accessed the references listed as sources for the isolation procedure, and neither indicated the growth medium reagents for any stage of cell culture process.
+
+VI8: The original extraction stated 2% post-inoculation, but the text only mentions 2% for the neutralization assay. During the viral isolation stage, it states: "replaced with fresh culture medium containing antibiotics and 16 μg/ml trypsin." It omits the FBS percentage (likely 0% due to the use of trypsin, but it is ambiguous/missing). Highlighted for review.
+
+VI16: The original CSV had - for post-inoculation FBS. The text explicitly states: "maintenance medium (SHEM Supplemented with 1% FBS for HCE and MEM with 1% FBS for Vero cells) was added." I updated the CSV to 1.
+
+VI18: The original CSV reported 0.2 for post-inoculation FBS. However, the text states: "DMEM containing 0.2% bovine serum albumin (BSA) with 1 μg/ml TPCK-trypsin". Since BSA was used in place of serum, the post-inoculation FBS% should be 0. I corrected this.
+
+VI2, VI13, VI14, VI15, SPT10: The FBS percentages during the viral infection stages were explicitly stated without ambiguity, and I verified that the extracted data matches the original texts.
+
+VI24 (Influenza A & B): The text explicitly states the use of 10 µg/mL bovine serum albumin (BSA) instead of FBS during the infection stage. Thus, the 0% FBS extracted in the CSV is accurate.
+
+VI28 (SARS-CoV-2): The text explicitly confirms: "supplemented with 2% fetal bovine serum". The data extracted is accurate.
+
+VI32 (FHV-1): The text explicitly confirms: "1 mL of fresh DMEM containing 3% FBS was added to each well." The data extracted is accurate.
+
+VI25 (EBOV): Confirmed as ambiguous/range in the text. Flagged for review.
+
+VI30 (Influenza A): The text specifies culturing "in the presence of TPCK-treated trypsin" but does not explicitly state an FBS percentage for the viral growth media, aligning with the ambiguous "0-2" range. Flagged for review.
+
+VI33 (MERS-CoV) & VI34 (CAV-2): Both articles lack an explicit numeric percentage for the post-inoculation maintenance FBS. Flagged for review.
+
+VI36 (CHIKV): The text mentions 2% FBS specifically for the plaque assay and neutralization assay overlays, but for general viral isolation and propagation, it only states that Vero cells in 10% FBS were used. It does not explicitly state that the FBS is reduced to 2% for the propagation/infection phase. Because this relies on an assumption, I have flagged this article for review.
+
+VI38 (SARS-CoV-2): The text confirms the use of FBS-free medium by explicitly stating: "propagated in FBS-free medium with trypsin." The extracted data (0%) is accurate.
+
+VI39 (Oita virus): The text states explicitly: "Vero, Vero-RcACE2, VeroE6/TMPRSS2, A549, and BHK cells were maintained in 2% FBS/DMEM." The extracted data (2%) is accurate.
+
+VI40 (RSV): The text explicitly states: "...2% FBS/MEM was added and incubated for a period of 24, 48, 72, or 96 hpi." The extracted data (2%) is accurate.
+
+VI41 (WNV): The text explicitly states: "overlayed with 3 ml of the appropriate maintenance medium containing 2% FBS." The extracted data (2%) is accurate.

@@ -1,0 +1,371 @@
+[
+  {
+    "pmid": "42232058",
+    "doi": "10.3389/fvets.2026.1829414",
+    "pmcid": "PMC13224474",
+    "title": "A new lineage of &lt;i&gt;Ranavirus micropterus1&lt;/i&gt; infects ornamental wrasses (&lt;i&gt;Macropharyngodon choati&lt;/i&gt;) from the Great Barrier Reef and causes severe disease in captivity.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "growth medium (10% FBS",
+    "quote_post": "maintenance medium (L15 + 2% FBS",
+    "method": "GM_MM",
+    "sample_windows": [
+      "asks using Leibovitz\u2019s L15 medium supplemented (L15) (Gibco, ThermoFisher) with 10% foetal bovine serum (FBS) (Gibco, ThermoFisher). Cells were passaged weekly by removing mediu",
+      "ng TrypLE Express Enzyme (Gibco, ThermoFisher). After detachment, fresh medium (10% FBS/L15) was added, and cells were split at a 1:3 or 1:4 ratio. Whole spleen tissue",
+      "s were seeded in 6-well plates at ~1 \u00d7 10 5 cells per well using growth medium (10% FBS/L15) and incubated at 25 \u00b0C for 2 days until 90% confluent. Before inoculation,",
+      " the growth medium was replaced with maintenance medium (L15 + 2% FBS 1X Anti-anti, Gibco). In one plate (Plate A), two replicate wells were inoculat"
+    ]
+  },
+  {
+    "pmid": "42695606",
+    "doi": "10.1080/21505594.2026.2714605",
+    "pmcid": "PMC13556978",
+    "title": "A conserved E1 stem motif functions as a virulence switch in the emerging Getah virus.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cells were maintained in Dulbecco\u2019s Modified Eagle Medium (DMEM; Cat: 12,491,015, Gibco, USA) supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with an overlay of maintenance medium (DMEM with 2% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      "o\u2019s Modified Eagle Medium (DMEM; Cat: 12,491,015, Gibco, USA) supplemented with 10% fetal bovine serum (FBS; Cat: 16,140,071, Gibco, USA) and 1% penicillin\u2011streptomycin (Cat: 1",
+      "ral stocks were propagated and titrated on Vero cells in DMEM supplemented with 2% FBS. Plaque assay Viral plaque assays were performed to purify clonal isolates and ",
+      "ocedures, viruses were first serially diluted 10\u2011fold in DMEM supplemented with 2% FBS. For plaque purification, confluent Vero cell monolayers in 6\u2011well plates were ",
+      " 2 , the inoculum was replaced with an overlay of maintenance medium (DMEM with 2% FBS) containing 1% low\u2011melting\u2011point agarose (Cat: A8350, Solarbio, China). After 4",
+      " 50 assay. Virus stocks were serially diluted 10\u2011fold in DMEM supplemented with 2% FBS. Confluent Vero cell monolayers in 96\u2011well plates were inoculated with 100 \u00b5L o",
+      "ed saline (PBS). Cells were then maintained in 500 \u03bcL of DMEM supplemented with 2% FBS under standard culture conditions. At designated time points, cells and superna"
+    ]
+  },
+  {
+    "pmid": "42511118",
+    "doi": "10.3390/ani16142241",
+    "pmcid": "PMC13404731",
+    "title": "In Vitro Screening of Thai Medicinal Plants Identifies Antiviral Candidates Against an Avian Herpesvirus.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cells were maintained in Dulbecco\u2019s Modified Eagle Medium (DMEM; Gibco, Grand Island, NY, USA) supplemented with 10% fetal bovine serum",
+    "quote_post": "maintenance medium (DMEM supplemented with 2% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      "\u2019s Modified Eagle Medium (DMEM; Gibco, Grand Island, NY, USA) supplemented with 10% fetal bovine serum (FBS; Gibco), 100 U/mL penicillin, and 100 \u00b5g/mL streptomycin. Cells were",
+      "opagated in confluent DF-1 cell monolayers maintained in DMEM supplemented with 2% FBS. Following the development of cytopathic effects, infected cultures were harves",
+      ".20 \u00b5g/mL) extracts were prepared in maintenance medium (DMEM supplemented with 2% FBS) containing 0.1% ( v / v ) DMSO. An HVT inoculum (1 \u00d7 10 4 TCID 50 /mL) was mix",
+      "tmosphere containing 5% CO 2 . Virus incubated in maintenance medium containing 2% FBS and 0.1% DMSO without plant extract served as the virus control, whereas uninfe",
+      "tained at 0.1% ( v / v ). Wells containing maintenance medium supplemented with 2% FBS and 0.1% DMSO without plant extract served as the virus control. Cells were fur"
+    ]
+  },
+  {
+    "pmid": null,
+    "doi": null,
+    "pmcid": "PMC13578469",
+    "title": "First report of Centrocestus formosanus infection associated with mass mortality in the critically endangered Chinese Bahaba (Bahaba taipingensis)",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cells cultured in Leibovitz's L-15 medium supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with maintenance medium containing 2% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      "athead Minnow (FHM) cells cultured in Leibovitz's L-15 medium supplemented with 10% fetal bovine serum were inoculated with the sterile filtrates. Cells inoculated with sterile",
+      "od of 2 h at 28\u00b0C, the inoculum was replaced with maintenance medium containing 2% FBS. The cell monolayers were monitored daily for cytopathic effects (CPE) for a to"
+    ]
+  },
+  {
+    "pmid": "42515612",
+    "doi": "10.3390/v18070760",
+    "pmcid": "PMC13431588",
+    "title": "Detection of Infectious Hepatitis E Virus in Retail Pork P\u00e2t\u00e9 After Optimization of Extraction Protocols.",
+    "year": "2026",
+    "journal": null,
+    "pre": "5",
+    "post": "5",
+    "quote_pre": "Cells were cultured in maintenance medium: Minimal Essential Medium (MEM, Thermo Fisher, #31095-029), supplemented with 5% fetal bovine serum",
+    "quote_post": "maintenance medium: Minimal Essential Medium (MEM, Thermo Fisher, #31095-029), supplemented with 5% fetal bovine serum",
+    "method": "grown_maint",
+    "sample_windows": [
+      "m: Minimal Essential Medium (MEM, Thermo Fisher, #31095-029), supplemented with 5% fetal bovine serum (FBS, Sigma-Aldrich, #F7524), 1 mM sodium pyruvate (Sigma-Aldrich, #S8636",
+      "n medium (maintenance medium supplemented with 2% dimethyl sulfoxide (DMSO) and 5% FBS). After five days, supernatants were collected, and cells were fixed and staine"
+    ]
+  },
+  {
+    "pmid": "42164053",
+    "doi": "10.1155/tbed/1340053",
+    "pmcid": "PMC13184637",
+    "title": "Genetic Diversity, Recombination, and Pathogenicity of Porcine Epidemic Diarrhea Virus Strains Circulating in China During 2023-2024.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cells were maintained in Dulbecco\u2019s modified Eagle\u2019s medium (DMEM; Biochannel, China) supplemented with 10% fetal bovine serum",
+    "quote_post": "After adsorption at 37\u00b0C for 1 h, the inoculum was removed and cells were overlaid with DMEM containing 2% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      " Dulbecco\u2019s modified Eagle\u2019s medium (DMEM; Biochannel, China) supplemented with 10% fetal bovine serum (FBS; Biochannel, China) and 1% penicillin\u2013streptomycin at 37\u00b0C in a humi",
+      " for 1 h, the inoculum was removed and cells were overlaid with DMEM containing 2% FBS and 0.7% agarose. Plates were incubated at 37\u00b0C with 5% CO 2 for 3 days, follow",
+      "\u00b0C for 15 min. Sections were permeabilized with 0.1% Triton X\u2010100, blocked with 5% FBS, and incubated overnight at 4\u00b0C with a mouse monoclonal antibody against the PE"
+    ]
+  },
+  {
+    "pmid": "41955273",
+    "doi": "10.1371/journal.ppat.1014147",
+    "pmcid": "PMC13086431",
+    "title": "Accumulation of mutations in nsp4, E, and the S2 subunit underlies mammalian cell tropism expansion and virulence attenuation of avian coronavirus.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "1",
+    "quote_pre": "cells were maintained in Dulbecco\u2019s modified Eagle medium (DMEM; Gibco) supplemented with 10% fetal bovine serum",
+    "quote_post": "medium was replaced with maintenance medium containing 1% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      " maintained in Dulbecco\u2019s modified Eagle medium (DMEM; Gibco) supplemented with 10% fetal bovine serum (FBS), 100 U/mL penicillin, and 100 \u03bcg/mL streptomycin, and incubated at ",
+      " 4\u20136 h, the transfection medium was replaced with maintenance medium containing 1% FBS. At 48 h post-transfection, cells were subjected to three freeze\u2013thaw cycles, a"
+    ]
+  },
+  {
+    "pmid": "42496571",
+    "doi": "10.3390/biotech15030055",
+    "pmcid": "PMC13398323",
+    "title": "AAV Vector Toolkit for the Delivery and Expression of the Artificial microRNA in the Murine Heart.",
+    "year": "2026",
+    "journal": null,
+    "pre": "15",
+    "post": "10",
+    "quote_pre": "cells were maintained in a mix of DMEM (Gibco) with Medium 199 with glutamine and Earle\u2019s Salts (C210E, Paneco, Moscow, Russia) in a 4:1 proportion, supplemented with 15% fetal bovine serum",
+    "quote_post": "Maintenance Medium with 10% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      "nassas, VA, USA) were maintained in DMEM (Gibco, Paisley, UK) supplemented with 10% fetal bovine serum (BioSera, Cholet, France), 1 mM sodium pyruvate (Paneco, Moscow, Russia),",
+      "\u2019s Salts (C210E, Paneco, Moscow, Russia) in a 4:1 proportion, supplemented with 15% fetal bovine serum, 50 U/mL of penicillin/streptomycin, 10 ng/mL of dexamethasone, and 10 ng",
+      "well or 4-well culture plates in STEMdiff Cardiomyocyte Maintenance Medium with 10% FBS (HyClone, Logan, UT, USA) and 5 \u00b5M Y-27632. 2.4. DNA Constructs The following A",
+      "ac, Barcelona, Spain) in PBS + 5% goat serum (Gibco, Grand Island, NY, USA) and 5% FBS (HyClone, Logan, UT, USA) (PBS-T) for 30 min. Cells were incubated with mouse m",
+      " 300\u00d7 g for 5 min at 4 \u00b0C. The pellet was resuspended in DPBS supplemented with 10% FBS. To quantify the fraction of eGFP-positive cells and the integral fluorescence,"
+    ]
+  },
+  {
+    "pmid": "41012598",
+    "doi": "10.3390/v17091170",
+    "pmcid": "PMC12474224",
+    "title": "An Anti-HIV Drug Is Highly Effective Against SARS-CoV-2 In Vitro and Has Potential Benefit for Long COVID Treatment.",
+    "year": "2025",
+    "journal": null,
+    "pre": "10",
+    "post": "5",
+    "quote_pre": "growth medium (DMEM + 10% FBS",
+    "quote_post": "maintenance medium was DMEM + 5% FBS",
+    "method": "GM_MM",
+    "sample_windows": [
+      "was commercially purchased from Sigma-Aldrich (cultured in growth media: DMEM + 10% FBS + 1% penicillin/streptomycin). They were cultured in 96-well plates at a densit",
+      "olayers reached approximately 80\u201390% confluency. The infection media was DMEM + 2% FBS, and the maintenance media was DMEM + 5% FBS. The dilution of TDF stock was ach",
+      "overlay medium (50 \u00b5L) containing 2.4% carboxymethylcellulose, 10\u00d7 DMEM-HG, and 2% fetal bovine serum was added. Cells were then incubated for 72 h. After incubation, monolaye",
+      " 50 assay until 80\u201390% confluency was achieved. The infection medium was DMEM + 2% FBS, and the maintenance medium was DMEM + 5% FBS. The half-maximal cytotoxic conce",
+      "5) were maintained in Dulbecco\u2019s Modified Eagle Medium (DMEM) supplemented with 10% fetal bovine serum (FBS) and 1% penicillin/streptomycin at 37 \u00b0C under 5% CO 2 . The SARS-Co",
+      "25, and 0.1049 \u00b5M) were prepared by diluting the stock in growth medium (DMEM + 10% FBS), with a final DMSO concentration \u2264 0.1% in all treatments. Vehicle control wel"
+    ]
+  },
+  {
+    "pmid": "41890962",
+    "doi": "10.1016/j.isci.2026.115225",
+    "pmcid": "PMC13014674",
+    "title": "Induction of adipocyte thermogenic program by Rho-associated coiled-coil containing kinase 2.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "10",
+    "quote_pre": "growth medium DMEM/F12 (Gibco; 11320033) supplemented with 10% FBS",
+    "quote_post": "maintenance medium containing 10% FBS",
+    "method": "GM_MM",
+    "sample_windows": [
+      "re minced into small (1 to 2 mm 3 ) pieces, incubated in DMEM supplemented with 10% fetal bovine serum (FBS) in 12- or 24-well plates in cell culture incubator (37 \u00b0C, 5% CO 2 ",
+      "ice were cultured in growth medium DMEM/F12 (Gibco; 11320033) supplemented with 10% FBS and 1% Antibiotic-Antimycotic (Gibco; 15240062) in cell culture incubator (37 \u00b0",
+      "ntiation was induced by placing the cells in differentiation medium containing, 10% FBS, 1% Antibiotic-Antimycotic, 1 \u03bcg/ml insulin, 0.25 \u03bcM dexamethasone, 500 \u03bcM isob",
+      "r 3 days of induction, the cells were switched to maintenance medium containing 10% FBS, 1% Antibiotic-Antimycotic and 1 \u03bcg/ml insulin in DEME/F12 for 3 days. On day 6",
+      "n was induced by placing the cells in differentiation medium 1 (DM1) containing 1% FBS, 1% Antibiotic-Antimycotic, 1 \u03bcg/ml insulin, 0.25 \u03bcM dexamethasone, 500 \u03bcM isob",
+      "ays. Next, the cells were switched to differentiation medium 2 (DM2) containing 1% FBS, 1% Antibiotic-Antimycotic, and 1 \u03bcg/ml insulin until fully differentiated, wit"
+    ]
+  },
+  {
+    "pmid": "40223343",
+    "doi": "10.61882/ibj.4367",
+    "pmcid": "PMC12040631",
+    "title": "Combination Therapy of Oncolytic Newcastle Virus and Lenalidomide Enhanced Cytotoxicity in Prostate Cancer Cells",
+    "year": "2025",
+    "journal": null,
+    "pre": "10",
+    "post": "0",
+    "quote_pre": "Growth medium (+ 10% FBS",
+    "quote_post": "maintenance medium without FBS",
+    "method": "GM_MM0",
+    "sample_windows": [
+      "broblast were cultured in high-glucose DMEM (Biosera, France) supplemented with 10% FBS (Biosera), penicillin (100 IU/mL), and streptomycin (100 \u00b5g/mL). Jurkat cell li",
+      "ne (T lymphoblast) was cultured in RPMI 1640 medium (Biosera), 10% FBS, and antibiotic. All cell lines were cultured in 95% humidity and 5% CO 2 at 37",
+      "ion at 290 \u00d7g for 5 minutes. PBMC cells were cultured in RPMI medium containing 10% FBS and 1% antibiotic at 37 \u00b0C and 5% CO 2 . NDV strains In this study, we used thr",
+      "the cell, and shaking every 15 min, the plates were replaced with a medium with 2% FBS. Each day, the cell monolayer was inspected under an inverted microscope to det",
+      "hile shaking every 15 min. The medium was replaced with fresh medium containing 2% FBS. Control tumor cells were incubated in the same condition without the virus. MT",
+      "). Table 3 Cell culture and growth conditions Cell name Tissue Growth medium (+ 10% FBS) Culture condition PBMC PBMCs RPMI Suspension, 37 \u00b0C, 5% CO 2 LNCaP Prostate ad"
+    ]
+  },
+  {
+    "pmid": "40711261",
+    "doi": "10.3390/vetsci12070601",
+    "pmcid": "PMC12298480",
+    "title": "Preparation of Monoclonal Antibodies Against the gD Protein of Feline Herpesvirus Type-1 by mRNA Immunization.",
+    "year": "2025",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "growth medium (MEM with 10% fetal bovine serum",
+    "quote_post": "maintenance medium (MEM) containing 2% fetal bovine serum",
+    "method": "GM_MM",
+    "sample_windows": [
+      "Viral Nucleic Acids F81 cells were cultured in complete growth medium (MEM with 10% fetal bovine serum) until reaching 80% confluency. The culture medium was subsequently repla",
+      "ced with maintenance formulation (MEM containing 2% FBS), followed by viral inoculation with FHV-gD at a multiplicity of infection of 0",
+      " were seeded in each well of a 96-well plate and incubated at 37 \u00b0C in MEM with 10% FBS for 24 h. Mouse serum was serially diluted twofold in MEM and mixed equally wit",
+      "ll. After 1 h, the medium was replaced with maintenance medium (MEM) containing 2% fetal bovine serum, and the cells were incubated for 3\u20134 days. The number of wells exhibitin",
+      " were seeded in each well of a 96-well plate and incubated at 37 \u00b0C in MEM with 10% FBS for 24 h. After washing, the cells were inoculated with a 10-fold diluted virus",
+      " 1 h. Then, the inoculum was removed, and the cells were maintained in MEM with 2% FBS for 3\u20134 days. CPE was monitored daily, and the TCID 50 was calculated using the"
+    ]
+  },
+  {
+    "pmid": "41811506",
+    "doi": "10.1007/s00248-026-02733-2",
+    "pmcid": "PMC13017990",
+    "title": "Diagnosis of Betanodavirus Infection in the Gonad of Greater Amberjack Broodstocks Shows a Sex-Biased Infection and Immune Responses.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "growth medium which consisted on Leibovitz (L-15) medium (Gibco) supplemented with 10% foetal bovine serum",
+    "quote_post": "maintenance medium (2% FBS",
+    "method": "GM_MM",
+    "sample_windows": [
+      "wth medium which consisted on Leibovitz (L-15) medium (Gibco) supplemented with 10% foetal bovine serum (FBS, Lonza), 4 mM L-glutamine (Gibco), and 100 units/mL penicillin, 10 m",
+      "1 ] were maintained in 25 cm\u00b2 flasks at 25 \u00b0C, in L-15 medium supplemented with 5% FBS, 100 units/mL penicillin, and 10 mg/mL streptomycin and used for NNV (SpDl_IAus",
+      " of each diluted sample. After 1-h of adsorption, 750 \u00b5L of maintenance medium (2% FBS) were added to each well, and cells were incubated at 25 \u00b0C for 24 h. At this t"
+    ]
+  },
+  {
+    "pmid": "42450001",
+    "doi": "10.3390/ijms27135728",
+    "pmcid": "PMC13362034",
+    "title": "Lipid-Induced Endothelial Dysfunction: Pro-Atherogenic Properties of Multinucleated Variant Endothelial Cells.",
+    "year": "2026",
+    "journal": null,
+    "pre": "2",
+    "post": "0",
+    "quote_pre": "Growth medium supplemented with 2% FBS",
+    "quote_post": "maintenance medium was replaced with serum-free",
+    "method": "GM_MM0",
+    "sample_windows": [
+      "ons. Cells were routinely maintained in Endo-LV Growth medium supplemented with 2% FBS. For all experimental incubations, the maintenance medium was replaced with ser",
+      "t in the Endo-LV Growth kit (Bioinnlabs, Rostov-on-Don, Russia) with low-serum (2% FBS, Biosera, Nuaille, France), which already contained all the necessary additives",
+      "es at a density of 5 \u00d7 10 5 cells per 1 mL of DMEM/F12 medium supplemented with 10% FBS. After reaching 100% confluence, the culture medium was replaced with DMEM/F12 ",
+      "ity of 1 \u00d7 10 5 cells per insert. Cells were cultured in DMEM supplemented with 10% FBS at 37 \u00b0C in a humidified atmosphere with 5% CO 2 for 2\u20133 days until a confluent"
+    ]
+  },
+  {
+    "pmid": "42012186",
+    "doi": "10.1128/jvi.00006-26",
+    "pmcid": "PMC13185581",
+    "title": "The oral nucleoside analogue inhibitor VV251 effectively inhibits coinfection by respiratory syncytial virus and influenza A virus.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cells were cultured in Dulbecco\u2019s modified Eagle\u2019s medium (DMEM) supplemented with 10% fetal bovine serum",
+    "quote_post": "replaced with fresh DMEM containing 2% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      "ls were cultured in Dulbecco\u2019s modified Eagle\u2019s medium (DMEM) supplemented with 10% fetal bovine serum (FBS) at 37\u00b0C in a humidified atmosphere with 5% CO 2 . 16HBE cells, purc",
+      "ipore, were maintained in our laboratory in RPMI 1640 (Gibco) supplemented with 10% FBS. RSV was propagated on HEp-2 cells in DMEM supplemented with 2% FBS at 37\u00b0C. Th",
+      "he inoculum was removed from Vero cells and replaced with fresh DMEM containing 2% FBS and the corresponding concentration of the compound, which was maintained for t",
+      "dded to Vero E6 cells in duplicate, replaced with 1% methylcellulose containing 2% FBS after an incubation for 2 h, and fixed with 4% formaldehyde after 5 days. The c"
+    ]
+  },
+  {
+    "pmid": "42164882",
+    "doi": "10.1021/envhealth.5c00613",
+    "pmcid": "PMC13185058",
+    "title": "Polystyrene Microplastic-Induced Cellular Alterations and Their Effects on Viral Entry (RSV, HCoV-OC43, EV-A71) and Viral Persistence.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cells were maintained in their respective media\ue5f8DMEM for RD and MEM for HEp-2 and Vero\ue5f8each supplemented with 10% fetal bovine serum",
+    "quote_post": "medium was replaced with virus inoculum prepared in growth medium containing 2% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      " respective media\ue5f8DMEM for RD and MEM for HEp-2 and Vero\ue5f8each supplemented with 10% fetal bovine serum (FBS) and antibiotics. All cell cultures were incubated at 37 \u00b0C in a hum",
+      " 500, and 1000 ng/\u03bcL for 1, 2, 4, and 6 days in growth medium supplemented with 2% FBS. Cell viability was assessed using the MTT assay, which measures the reduction ",
+      " T25 flasks at a density of 2.5 \u00d7 10 6 cells in growth medium supplemented with 10% FBS. Cells were either left unexposed (mock control) or exposed to PS-MPs at a conc",
+      "density of 2.2 \u00d7 10 5 \u20132.7 \u00d7 10 5 cells/well in growth medium supplemented with 10% FBS. After overnight incubation to reach 80%\u201390% confluence, the medium was replace",
+      "d with virus inoculum prepared in growth medium containing 2% FBS at a multiplicity of infection (MOI) of 0.005. Coexposure experiments were perf",
+      "ere overlaid with 1.2%\u20131.56% Avicel RC-591 prepared in growth medium containing 2% FBS. The plates were then incubated under standard conditions for virus-specific du"
+    ]
+  },
+  {
+    "pmid": null,
+    "doi": null,
+    "pmcid": "PMC13296062",
+    "title": "In Vitro Antiviral Effects of Green-Lipped Mussel Oil and Low-Molecular-Weight Fucoidan on HSV, RSV, and SARS-CoV-2 Pseudovirus",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "5",
+    "quote_pre": "cells were cultured in DMEM containing 10% heat-inactivated fetal bovine serum",
+    "quote_post": "infection medium (Opti-mem supplemented with 5% heat inactivated FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      "cose, 1 mM sodium pyruvate, and 1500 mg/L sodium bicarbonate, supplemented with 10% fetal bovine serum (FBS; Moregate Biotech, Auckland, New Zealand), 50 I.U./mL penicillin and",
+      "iluted 1:20 in infection medium (Opti-mem supplemented with 5% heat inactivated FBS; 1% sodium pyruvate). In parallel, test extracts were serially diluted in infection"
+    ]
+  },
+  {
+    "pmid": "42477070",
+    "doi": "10.1038/s41564-026-02416-1",
+    "pmcid": "PMC13423814",
+    "title": "Mapping in-cell protein contact sites reveals hijacking of paraspeckles during influenza A virus infection.",
+    "year": "2026",
+    "journal": null,
+    "pre": "10",
+    "post": "0",
+    "quote_pre": "cells were cultured in DMEM (11960044; Gibco) supplemented with 10% FBS",
+    "quote_post": "infection medium consisting of serum-free",
+    "method": "grown_SF",
+    "sample_windows": [
+      "CRL-3216; ATCC) cells were cultured in DMEM (11960044; Gibco) supplemented with 10% FBS (0270106; Gibco), GlutaMAX (35050038; Gibco), sodium pyruvate (11360039; Gibco)",
+      " Bartenschlager, Heidelberg University) were maintained in the same medium with 20% FBS. MDCK (84121903; ECACC), MDCK.II (00062107; ECACC), MDCK-SIAT1 (05071502-1VL; S",
+      " School of Pathology Cell Bank stock) cells were grown in MEM supplemented with 10% FBS, GlutaMAX, sodium pyruvate and penicillin\u2013streptomycin. MEFs (no catalogue numb",
+      "ded by Prof. Dr. Michael Bader, Max Delbr\u00fcck Center) were cultured in DMEM with 10% FBS, GlutaMAX, sodium pyruvate, penicillin\u2013streptomycin and non-essential amino aci",
+      "thentication testing) were cultured in DMEM (11960044; Gibco) supplemented with 10% FBS (0270106; Gibco), GlutaMAX (35050038; Gibco), sodium pyruvate (11360039; Gibco)",
+      "cells infected at a multiplicity of infection (MOI) of 0.001 in DMEM containing 0.5% FBS. After 36 hours incubation at 37 \u00b0C and 5% CO 2 , when full cytopathic effect w"
+    ]
+  },
+  {
+    "pmid": "38132636",
+    "doi": "10.1128/mbio.02495-23",
+    "pmcid": "PMC10865983",
+    "title": "Antiviral &lt;i&gt;Wolbachia&lt;/i&gt; strains associate with &lt;i&gt;Aedes aegypti&lt;/i&gt; endoplasmic reticulum membranes and induce lipid droplet formation to restrict dengue virus replication.",
+    "year": "2024",
+    "journal": null,
+    "pre": "10",
+    "post": "2",
+    "quote_pre": "cells were maintained in Aag2 cell culture medium with 10% FBS",
+    "quote_post": "maintenance medium (RPMI-1640, 2% FBS",
+    "method": "grown_maint",
+    "sample_windows": [
+      "n hydrolysate 6.5 g/L, and NaHCO 3 0.12 g/L at pH 6.9] medium supplemented with 10% fetal bovine serum (FBS\u2014Gibco). C6/36 cell lines of Aedes albopictus origin were supplied by",
+      "\u00b0C with 5% CO 2 in RPMI 1640 medium (Gibco) with GlutaMAX Supplement containing 10% FBS. Wolbachia density Wolbachia density was routinely monitored in each cell line.",
+      "ved, and the cells were washed once with warm PBS. Maintenance media containing 2% FBS were added, and cells were then incubated at 26\u00b0C for the indicated time. Quant",
+      "l lines in flat-bottom 96 well plates containing maintenance medium (RPMI-1640, 2% FBS) and incubated for 13\u201314 days at 28\u00b0C. After the incubation period, media were ",
+      "removed, and cells were washed once with warm PBS. Maintenance media containing 2% FBS were added, and cells were incubated at 26\u00b0C for 2 days. For C75 treatment, cel",
+      "ol/vol) ( 62 , 86 ). All cells were maintained in Aag2 cell culture medium with 10% FBS. Twenty-four hours post-DENV-2-infection, mock-infected and infected cells were"
+    ]
+  }
+]

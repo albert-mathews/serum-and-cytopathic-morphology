@@ -1,0 +1,88 @@
+﻿# Private author notes
+_private/
+
+# Local literature PDFs / reference corpora (copyright; keep offline).
+# Bibliographies and citation CSVs stay tracked so readers can find the same sources.
+**/refs/
+**/*.pdf
+**/*.PDF
+
+# Microscopy / image binaries
+**/*.tif
+**/*.tiff
+**/*.png
+**/*.jpg
+**/*.jpeg
+
+# Keep research plotting code trackable (never ignore *.py plot scripts)
+!**/plot_*.py
+
+# Allow R1 speaking-figure PNG exports (research findings; not microscopy/paper PDFs)
+!r1_isolation_standards_and_practice/expansion/fbs_distribution_plots/
+!r1_isolation_standards_and_practice/expansion/fbs_distribution_plots/**
+
+# R3 expert-annotation project workspaces and outreach identity
+r3_image_labeling/kolabtree_project/
+r3_image_labeling/kolabtree_priming_pilot/
+r3_image_labeling/university_outreach.md
+r3_image_labeling/images/
+r3_image_labeling/images_rater_blinded/
+r3_image_labeling/refs/
+
+# Session / agent handoff notes (not paper text)
+grok.md
+
+# FOIA personal email export
+p1_history/Gmail - Regarding your FOIA Request*.pdf
+**/Gmail - *.pdf
+
+# FOIA request drafts / personal correspondence templates
+r1_isolation_standards_and_practice/APHIS FOIA/
+
+# Archived chat/handoff dumps (not paper text; may contain speculative asides)
+**/p1_HANDOFF.md
+**/p2_HANDOFF.md
+**/*_HANDOFF.md
+
+
+
+# Editor / agent backups and sync tarballs (never commit)
+*.bak
+*.bak_*
+**/*.bak
+**/*.bak_*
+*.tar
+*.tar.gz
+**/*.tar
+**/*.tar.gz
+
+# Operational session / sync / run artifacts (never commit)
+*SYNC_MANIFEST*
+**/P2_SYNC_MANIFEST*
+**/*sync_manifest*
+**/*_sync_manifest*
+**/processed_pdfs_manifest*
+**/run_console.txt
+**/run_log.txt
+**/run_*.txt
+**/_pdf_extract_tmp/
+**/_pdf_extract_tmp/**
+
+# Python / tooling environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.cache/
+packages/
+node_modules/
+
+# Filename-midfix ops manifests
+*processed_pdfs_manifest*
+**/_scrub_*.py
+**/_fix_*.py
+**/_show.py
+**/_upd_*.py
+

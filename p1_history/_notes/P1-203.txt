@@ -1,0 +1,203 @@
+
+===== PAGE 1 =====
+UNCLASSIFIED
+AD NUMBER
+AD437967
+NEW LIMITATION CHANGE
+TO
+Approved for public release, distribution
+unlimited
+FROM
+Distribution authorized to U.S. Gov't.
+agencies and their contractors;
+Administrative/Operational Use; APR 1964.
+Other requests shall be referred to Army
+Biological Laboratories, Fort Detrick,
+Frederick, MD 21701.
+AUTHORITY
+BDRL, D/A ltr, 27 Sep 1981
+THIS PAGE IS UNCLASSIFIED
+
+===== PAGE 2 =====
+UNCLASSIFIED
+,'AD, 437967,
+DEFENSE DOCUMENTATION CENTER
+FOR
+SCIENTIFIC AND TECHNICAL INFORMATION
+CAMERON STATION, ALEXANDRIA, VIRGINIA
+UNCLASSIFIED
+
+===== PAGE 3 =====
+NOTICE: 'When goverment or other drawings, speci-
+fications or other data are used for any purpose
+other than in connection with a definitely related
+government procurement operation, the U. S.
+Government thereby incurs no responsibility, nor any
+obligation whatsoever; and the fact that the Govern-
+ment may have formulated., furnished, or in any way
+supplied the said drawings, specifications, or other
+data is not to be regarded by implication or other-
+wise as in any manner licensing the holder or any
+other person or corporation, or conveying any rights
+or permission to manufacture, use or sell any
+patented invention that may in any way be related
+thereto.
+
+===== PAGE 4 =====
+'",.437967
+TECHNICAL MANUSCRIPT 132.....................
+IRV RIFT VALLEY FEVER VIRUS ASSAY
+o...e...e.,o..o....... '"'"'"""""'IN SERUM-FREE
+..................
+HAMSTER KIDNEY MONOLAYERS
+:i swiui :~ .fH::::!ii'ill m -m -
+uff!!:!.!-L.APRIL 1964
+1115| M:
+Mi.
+2*** ilt[
+"UNITED STATES ARMY
+BIOLOGICAL LABORATORIES=::!Ni FORT DETRICK*.... I'O .:1.
+i:212th . ill
+::::|NO OTSllll
+
+===== PAGE 5 =====
+U.S. ARMY BIOLOGICAL LABORATORIES
+Port Detrick, Frederick, Maryland
+TECHNICAL MANUSCRIPT 132
+RIFT VALLEY FEVER VIRUS ASSAY IN SERUM-FREE HAMSTER KIDNEY M[NOLAYERS
+John J. Boyle
+Virus and Rickettsia Division
+DIRECTOR OF BIOLOGICAL RESEARCH
+Project IC522301A05905 April 1964
+1
+
+===== PAGE 6 =====
+2
+The information in this document has not been cleared for
+release to the public.
+DDC AVAILABILITY NOTICE
+Qualified requestors may obtain copies of this document
+from DDC.
+Foreign announcement and dissemination of this document
+by DDC is limited.
+
+===== PAGE 7 =====
+3
+ABSTRACT
+High titers of some arboviruses, including Rift Valley
+fever (RVF) virus, are obtained in cell cultures without any
+observable cytopathogenic changes. In the absence of serum,
+however, a rapid destruction of tissue-culture cells occurred
+with RVF virus. Preparation of virus dilutions in a serum-
+free maintenance medium and observation of infected tube mono-
+layers has been found to be an effective method for achieving
+reproducible titrations of RVF virus. It is possible to
+calculate a median cytopathogenic effect dose (CPEDSO) com-
+parable to titers determined by a plaque technique but more
+sensitive than in vivo titration. The tube monolayer titra-
+tion is more economical, more rapid, and simpler to p.rform
+than previously used methods.
+
+===== PAGE 8 =====
+THIS
+PAGE
+IS
+MISSING
+IN
+ORIGINAL
+DOCUMEN1
+
+===== PAGE 9 =====
+5
+TITRATION OF RIFT VALLEY FEVER VIRUS IN HAMSTER
+KIDNEY CELLS IN THE ABSENCE OF SERUM
+Multiplication of certain arboviruses in cell cultures may not be
+accompanied by cytopathogenic changes (cpe) even though high titers may
+be obtained in extracellular fluids. 1 High titers of Rift Valley fever
+(RVF) virus also are obtained in various tissue-culture systems in the
+absence of any cellular changes. Experiments in this laboratory have
+shown, however, that a rapid destruction of tissue-culture cells by RVF
+virus occurred when serum was omitted from the medium. This observation
+suggested a more economical method for the titration of RVF virus than
+the plaque technique or the mouse titrations presently employed.
+The data reported he're were obtained with a third tissue-culture
+passage of a seed of infected-lamb serum of the van Wyk strain of RVF
+virus. The hamster kidney (HIK) cells used in these studies were propa-
+gated in a growth medium consisting of medium 1993 plus 10% calf serum.
+Culture tubes (16 by 150 mm) were inoculated with one milliliter of cell
+suspension (500,000 cells per milliliter) and after a 24-hour incubation
+at 370C, a confluent sheet of cells was obtained and the growth medium
+was removed. The cells were inoculated with virus suspended in serum-
+free maintenance medium and absorption was allowed to proceed for one hour.
+After the absorption period, fresh maintenance medium (serum-free) was
+added and the cultures were incubated at 37*C during the observation
+period.
+The maintenance medium was prepared from a concentrated (lOX) stock
+medium 199 diluted to IX with distilled, demineralized'water. The IX
+solution was further diluted with one volume of balanced salts solution
+(BSS) to make a final dilution of 1:2. Virus dilutions were prepared in
+this serum-free maintenance medium and 0.1 ml of each dilution was inocu-
+lated into each of four tube cultures. Although the dilutions of virus
+for the tube titrations were made in the maintenance medium, the growth
+medium containing calf serum had to be employed for the corresponding
+plaque titrations, because comparable titers of virus were not obtained
+when calf serum was deleted from the agar overlay. Futhermore, the use
+of serum-free maintenance medium in the plaque technique resulted in a
+decrease in the number and size of the plaques.
+The endpoints of the titrations, based on the cpe, were calculated
+by the method of Reed and Muench4 and expressed as a median cytopathogenic
+effect dose (CPEDso). Observations for cpe were made daily for ten days;
+however, final endpoints were usually achieved by the fourth or fifth
+days. For routine titrations, daily examination of tubes would not be
+necessary.
+
+===== PAGE 10 =====
+6
+CPED5O titers of RVF virus were dirctly compared with titers obtained
+by three other methodr of titration: a plaque technique* and mouse inocu-
+lation by either intracerebral or intraperitoneal routes (Table I). The
+CPEDS0 endpoints of the serum-free tube tests compare favorably with results
+obtained with the plaque technique. This method of titration appears to be
+as reproducible as the latter but more sensitive than the in vivo titrations.
+Examinations of the extracellular fluids were negative for virus even in
+cultures showing extensive cell damage. This may be partially due to the
+thermal lability of RVF virus in the absence of serum. Although further
+experiments are required to determine the underlying cause of cell destruc-
+tion in the absence of serum, it is presently known that the effect is not
+seen with UV- or heat-inactivated virus, and the cpe can be prevented by
+specific immune serum.
+This method of titration has many advantages over the plaque and in
+vivo techniques. It is considerably more economical of materials, simpler
+to perform,_and more rapid. These results warrant additional investigations
+on tube titration in a serum-free medium with other arboviruses that can
+multiply in cell cultures without producing obvious cell changes.
+TABLE I. TITERS OF RIFT VALLEY FEVER VIRUS
+DETERMINED BY VARIOUS TITRATION PROCEDURES
+Median Plaque-
+Virus Cytopathogenic Forming Intra- Intra-
+Sample Effect Dose, Units, cerebral peritoneal
+No. CPEDso PFU
+1 8.32J 8.5 7.1 6.9
+2 7.7 7.8 6.g. 6.3
+3 8.3 8.0
+4 8.0 8.6 -
+5 8.0 8.0 7.0 6.0
+6 8.5 8.2 7.5 7.0
+a. Logio per milliliter.
+b. Not titrated.
+* J. L. Runnels, unpublished data.
+
+===== PAGE 11 =====
+7
+LITERATURE CITED
+1. McAllister, R.M. "Viral encephalitidto," Annual Rev
+1962. .-bed. 13:389-410,
+2. Kashula, V.R. "The propagation and modification of
+Valley fever viruses in embryonated tggs and their hdtrains of Rift
+agents for domestic ruminants," Univ. of Pretoria !rI~e as immunizing
+481is, 1953.
+3. Morgan, J.F.; Morton, H.J.; and Parkor, R.C. "Nutri.
+cells in tissue culture. I. Studies on synthetic hian of animal
+Soc. Exptl. Biol. Med. 73:1-8, 1950. ýH1.-iim," Proc.
+4. Reed, L.J., and Muench, H. "A simple method of estt
+cent endpoints," Amer. Jour. Hyg. 27:493-497, 1 9 3 8 .Mtiug fifty per

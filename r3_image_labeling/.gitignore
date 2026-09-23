@@ -1,0 +1,18 @@
+*.tif
+*.tiff
+*.png
+*.jpeg
+*.jpg
+
+# Freelancer identity / outreach
+university_outreach.md
+/kolabtree_project/
+/kolabtree_priming_pilot/
+
+# Large local packages (Zenodo / offline)
+/images/
+/images_rater_blinded/
+/refs/
+
+# Full CRO narrative PDF (Zenodo deposit)
+CRO Reporting - Light Microscope Image Descriptions.pdf

@@ -1,0 +1,822 @@
+{
+  "pilot_date": "2026-09-19",
+  "tool": "serum-cpe-p3-mining",
+  "email": "albert.mathews.research+ncbi@gmail.com",
+  "base_query": "Viruses[Organism] AND srcdb_refseq[PROP] AND \"complete genome\"[Title]",
+  "M0_base_count": 11073,
+  "esearch_counts": {
+    "base": 11073,
+    "culture_cell": 2003,
+    "cpe": 6,
+    "passage": 148,
+    "clinical": 609,
+    "culture_and_clinical": 9,
+    "clinical_not_culture": 600
+  },
+  "esearch_pct_of_base": {
+    "culture_cell": 18.089,
+    "cpe": 0.054,
+    "passage": 1.337,
+    "clinical": 5.5,
+    "culture_and_clinical": 0.081,
+    "clinical_not_culture": 5.419
+  },
+  "sample": {
+    "n": 2000,
+    "note": "first 2000 of 11073 (NCBI default order; not random). For large N, pilot uses first-N systematic slice.",
+    "target": 2000,
+    "parse_errors_batches": 0,
+    "stats": {
+      "n": 2000,
+      "culture_cell": 225,
+      "cpe": 0,
+      "passage": 16,
+      "clinical": 355,
+      "clinical_no_culture": 354,
+      "culture_cell_pct": 11.25,
+      "cpe_pct": 0.0,
+      "passage_pct": 0.8,
+      "clinical_pct": 17.75,
+      "clinical_no_culture_pct": 17.7
+    }
+  },
+  "M1": {
+    "esearch_culture_pct": 18.089,
+    "sample_culture_pct": 11.25
+  },
+  "M2": {
+    "esearch_cpe_pct": 0.054,
+    "sample_cpe_pct": 0.0
+  },
+  "M3_by_year": {
+    "2023": {
+      "n": 1260,
+      "culture_pct": 13.57,
+      "cpe_pct": 0.0
+    },
+    "2024": {
+      "n": 5,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "2025": {
+      "n": 261,
+      "culture_pct": 11.88,
+      "cpe_pct": 0.0
+    },
+    "2026": {
+      "n": 474,
+      "culture_pct": 4.85,
+      "cpe_pct": 0.0
+    }
+  },
+  "M4_top_organisms": {
+    "Genomoviridae sp.": {
+      "n": 45,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Anelloviridae sp.": {
+      "n": 22,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Adult diarrheal rotavirus strain J19": {
+      "n": 11,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Giant panda anellovirus": {
+      "n": 11,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Enterobacteria phage f1": {
+      "n": 10,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Porcine associated porprismacovirus": {
+      "n": 10,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Giant panda associated gemycircularvirus": {
+      "n": 9,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "TTV-like mini virus": {
+      "n": 6,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Bacteriophage sp.": {
+      "n": 5,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Bat associated densovirus": {
+      "n": 5,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Paguma larvata torque teno virus": {
+      "n": 5,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Yangshan Harbor Nitrososphaeria virus": {
+      "n": 4,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Parvoviridae sp.": {
+      "n": 4,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Bat paramyxovirus": {
+      "n": 3,
+      "culture_pct": 66.67,
+      "cpe_pct": 0.0
+    },
+    "Fushun phasmavirus 2": {
+      "n": 3,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Fushun phasmavirus 1": {
+      "n": 3,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Alphacoronavirus sp.": {
+      "n": 3,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Gemycircularvirus sp.": {
+      "n": 3,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Chlorocebus cynosuros associated smacovirus": {
+      "n": 3,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Rodent stool-associated circular genome virus": {
+      "n": 3,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Orthohantavirus hantanense": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Sida micrantha mosaic virus": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Army ant associated cyclovirus 9": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Mongoose-associated cyclovirus": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Bat associated cyclovirus": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Giardia-associated CRESS DNA virus 2": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Entamoeba-associated CRESS DNA virus 1": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Smacoviridae sp.": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Ambidensovirus sp.": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    },
+    "Cressdnaviricota sp.": {
+      "n": 2,
+      "culture_pct": 0.0,
+      "cpe_pct": 0.0
+    }
+  },
+  "M5": {
+    "esearch_clinical_pct": 5.5,
+    "esearch_clinical_not_culture_pct": 5.419,
+    "esearch_culture_and_clinical_pct": 0.081,
+    "sample_clinical_no_culture_pct": 17.7
+  },
+  "M6_high_risk_audit": {
+    "n_high": 26,
+    "fetched": 22,
+    "in_sample": 0,
+    "culture_keyword_hits": 4,
+    "cpe_keyword_hits": 0,
+    "detail": [
+      {
+        "audit_id": "P3T001",
+        "virus": "Poliovirus 1 Mahoney (Enterovirus C)",
+        "risk_path": "high",
+        "accessions_queried": [
+          "V01149"
+        ],
+        "matched_accession": "V01149",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T002",
+        "virus": "Measles morbillivirus Edmonston",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_001498",
+          "K01711"
+        ],
+        "matched_accession": "NC_001498",
+        "in_sample": false,
+        "culture_cell": 1,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 1,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T003",
+        "virus": "Human alphaherpesvirus 1 strain 17 (HSV-1)",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_001806.2",
+          "NC_001806",
+          "JN555585"
+        ],
+        "matched_accession": "NC_001806",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T004",
+        "virus": "Human mastadenovirus C / Human adenovirus 5",
+        "risk_path": "high",
+        "accessions_queried": [
+          "AC_000008.1",
+          "AC_000008"
+        ],
+        "matched_accession": "AC_000008",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T005",
+        "virus": "Influenza A virus A/Puerto Rico/8/1934 (H1N1) PR8",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_002016"
+        ],
+        "matched_accession": "NC_002016",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T006",
+        "virus": "Vaccinia virus Western Reserve (WR)",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_006998.1",
+          "NC_006998"
+        ],
+        "matched_accession": "NC_006998",
+        "in_sample": false,
+        "culture_cell": 1,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T007",
+        "virus": "Vesicular stomatitis Indiana virus",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_001560.1",
+          "NC_001560"
+        ],
+        "matched_accession": "NC_001560",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T008",
+        "virus": "Human orthopneumovirus (RSV) A Long",
+        "risk_path": "high",
+        "accessions_queried": [
+          "AY911262"
+        ],
+        "matched_accession": "AY911262",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T009",
+        "virus": "Human cytomegalovirus AD169",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_006273"
+        ],
+        "matched_accession": "NC_006273",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 1,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T010",
+        "virus": "Epstein-Barr virus B95-8",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_007605"
+        ],
+        "matched_accession": "NC_007605",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T011",
+        "virus": "Varicella-zoster virus Oka (parental/vaccine lineage)",
+        "risk_path": "high",
+        "accessions_queried": [],
+        "matched_accession": null,
+        "in_sample": false,
+        "culture_cell": null,
+        "cpe": null,
+        "passage": null,
+        "clinical": null,
+        "fetch_ok": false
+      },
+      {
+        "audit_id": "P3T012",
+        "virus": "MERS-CoV EMC/2012",
+        "risk_path": "high",
+        "accessions_queried": [
+          "JX869059",
+          "NC_019843"
+        ],
+        "matched_accession": "JX869059",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T013",
+        "virus": "Ebola virus Mayinga",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_002549"
+        ],
+        "matched_accession": "NC_002549",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T014",
+        "virus": "Nipah virus (Malaysia)",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_002728.1",
+          "NC_002728"
+        ],
+        "matched_accession": "NC_002728",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T015",
+        "virus": "Lassa virus Josiah",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_004296",
+          "NC_004297"
+        ],
+        "matched_accession": "NC_004296",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T016",
+        "virus": "Rubella virus (e.g. Therien / vaccine RA 27/3 lineage context)",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_001545"
+        ],
+        "matched_accession": "NC_001545",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T017",
+        "virus": "Yellow fever virus 17D",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_002031",
+          "X03700"
+        ],
+        "matched_accession": "NC_002031",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T018",
+        "virus": "Rabies virus PV / SAD laboratory lineages (representative)",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_001542"
+        ],
+        "matched_accession": "NC_001542",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T019",
+        "virus": "Foot-and-mouth disease virus (prototype serotype refs, e.g. O1Kaufbeuren context)",
+        "risk_path": "high",
+        "accessions_queried": [],
+        "matched_accession": null,
+        "in_sample": false,
+        "culture_cell": null,
+        "cpe": null,
+        "passage": null,
+        "clinical": null,
+        "fetch_ok": false
+      },
+      {
+        "audit_id": "P3T020",
+        "virus": "Simian virus 40 (SV40) reference strains",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_001669"
+        ],
+        "matched_accession": "NC_001669",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T021",
+        "virus": "Human immunodeficiency virus 1 (HXB2 / LAI laboratory references)",
+        "risk_path": "high",
+        "accessions_queried": [
+          "K03455",
+          "NC_001802"
+        ],
+        "matched_accession": "K03455",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T022",
+        "virus": "SARS-CoV Urbani / Tor2 laboratory Isolates",
+        "risk_path": "high",
+        "accessions_queried": [
+          "AY278741",
+          "NC_004718"
+        ],
+        "matched_accession": "AY278741",
+        "in_sample": false,
+        "culture_cell": 1,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T041",
+        "virus": "Dengue virus type 2 NGC / 16681 laboratory strains",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_001474"
+        ],
+        "matched_accession": "NC_001474",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T042",
+        "virus": "Chikungunya virus S27 / La Reunion laboratory Isolates",
+        "risk_path": "high",
+        "accessions_queried": [
+          "NC_004162"
+        ],
+        "matched_accession": "NC_004162",
+        "in_sample": false,
+        "culture_cell": 1,
+        "cpe": 0,
+        "passage": 1,
+        "clinical": 1,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T043",
+        "virus": "Human adenovirus 7 (prototype vaccine/lab strains)",
+        "risk_path": "high",
+        "accessions_queried": [],
+        "matched_accession": null,
+        "in_sample": false,
+        "culture_cell": null,
+        "cpe": null,
+        "passage": null,
+        "clinical": null,
+        "fetch_ok": false
+      },
+      {
+        "audit_id": "P3T045",
+        "virus": "Rotavirus A (Wa / SA11 reference strains)",
+        "risk_path": "high",
+        "accessions_queried": [],
+        "matched_accession": null,
+        "in_sample": false,
+        "culture_cell": null,
+        "cpe": null,
+        "passage": null,
+        "clinical": null,
+        "fetch_ok": false
+      }
+    ]
+  },
+  "M7_low_risk_audit": {
+    "n_low": 10,
+    "fetched": 6,
+    "culture_keyword_hits": 0,
+    "detail": [
+      {
+        "audit_id": "P3T031",
+        "virus": "SARS-CoV-2 Wuhan-Hu-1 (clinical BALF genome accession)",
+        "risk_path": "low",
+        "accessions_queried": [
+          "NC_045512",
+          "MN908947"
+        ],
+        "matched_accession": "NC_045512",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T032",
+        "virus": "2019-nCoV clinical BALF genomes MN988668/MN988669",
+        "risk_path": "low",
+        "accessions_queried": [
+          "MN988668",
+          "MN988669"
+        ],
+        "matched_accession": "MN988668",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 1,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T033",
+        "virus": "Human bocavirus (discovery sequences)",
+        "risk_path": "low",
+        "accessions_queried": [
+          "DQ000495",
+          "DQ000496"
+        ],
+        "matched_accession": "DQ000495",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T034",
+        "virus": "Norwalk virus (norovirus GI.1 prototype molecular)",
+        "risk_path": "low",
+        "accessions_queried": [
+          "M87661"
+        ],
+        "matched_accession": "M87661",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T035",
+        "virus": "Human sapovirus (clinical genomes; ICTV notes non-cultivable)",
+        "risk_path": "low",
+        "accessions_queried": [],
+        "matched_accession": null,
+        "in_sample": false,
+        "culture_cell": null,
+        "cpe": null,
+        "passage": null,
+        "clinical": null,
+        "fetch_ok": false
+      },
+      {
+        "audit_id": "P3T036",
+        "virus": "Rift Valley fever virus clinical metagenome (Marigat Kenya case)",
+        "risk_path": "low",
+        "accessions_queried": [
+          "OR972326",
+          "OR972328",
+          "NC_014395"
+        ],
+        "matched_accession": "OR972326",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T037",
+        "virus": "Hepatitis E virus clinical/molecular references (genotype exemplars)",
+        "risk_path": "low",
+        "accessions_queried": [],
+        "matched_accession": null,
+        "in_sample": false,
+        "culture_cell": null,
+        "cpe": null,
+        "passage": null,
+        "clinical": null,
+        "fetch_ok": false
+      },
+      {
+        "audit_id": "P3T038",
+        "virus": "Torque teno virus / Anelloviridae clinical molecular references",
+        "risk_path": "low",
+        "accessions_queried": [],
+        "matched_accession": null,
+        "in_sample": false,
+        "culture_cell": null,
+        "cpe": null,
+        "passage": null,
+        "clinical": null,
+        "fetch_ok": false
+      },
+      {
+        "audit_id": "P3T039",
+        "virus": "BK polyomavirus clinical molecular references",
+        "risk_path": "low",
+        "accessions_queried": [
+          "NC_001538"
+        ],
+        "matched_accession": "NC_001538",
+        "in_sample": false,
+        "culture_cell": 0,
+        "cpe": 0,
+        "passage": 0,
+        "clinical": 0,
+        "fetch_ok": true
+      },
+      {
+        "audit_id": "P3T040",
+        "virus": "Human astrovirus clinical stool genomes (classical HAstV refs molecular)",
+        "risk_path": "low",
+        "accessions_queried": [],
+        "matched_accession": null,
+        "in_sample": false,
+        "culture_cell": null,
+        "cpe": null,
+        "passage": null,
+        "clinical": null,
+        "fetch_ok": false
+      }
+    ]
+  },
+  "guardrails": [
+    "Metrics phrase as mention of culture/CPE in metadata, NOT culture artifacts.",
+    "Under-annotation: absence of keywords \u2260 absence of culture.",
+    "No claim that entire GenBank/RefSeq viral corpus is non-viral."
+  ],
+  "sample_extras": {
+    "sample_composition": {
+      "n": 2000,
+      "phage_organism_n": 694,
+      "phage_organism_pct": 34.7,
+      "nonphage_n": 1306,
+      "year_counts": {
+        "2026": 474,
+        "2025": 261,
+        "2024": 5,
+        "2023": 1260
+      }
+    },
+    "sample_nonphage_stats": {
+      "n": 1306,
+      "culture_cell_pct": 1.302,
+      "cpe_pct": 0.0,
+      "passage_pct": 0.995,
+      "clinical_pct": 26.34,
+      "clinical_no_culture_pct": 26.263,
+      "culture_n": 17
+    },
+    "sample_caveats": [
+      "First-2000 slice is NCBI default order \u2014 heavily recent (2023\u20132026) and phage-rich (~35% organism contains \"phage\").",
+      "Many phage RefSeq records carry /lab_host= bacterial host, which hits the culture_cell keyword list; sample M1 is inflated vs vertebrate cell-culture intent.",
+      "Prefer esearch M1/M2 on full base Count for prevalence; sample parse is for M3/M4 exploratory breakdowns.",
+      "CPE language is rare in RefSeq flatfile text (esearch 0.05%; sample 0%)."
+    ]
+  }
+}

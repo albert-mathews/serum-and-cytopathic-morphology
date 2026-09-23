@@ -1,0 +1,32 @@
+ID, year, virus, cells*, Base Medium, FBS% pre-inoculation, FBS% post-inculcation, penicillin (IU/ml),streptomycin (mg/ml), amphotericin (mg/ml),link,Accuracy Assessment: FBS post-inoculation
+VI2,2013,SL-CoV-WIV1,Vero E6,DMEM,10,2,200,0.2,0.5,https://pubmed.ncbi.nlm.nih.gov/24172901/,Clear
+VI4,1983,HFRS+,Vero E6,EMEM,5-10,1-2,-,-,-,https://pubmed.ncbi.nlm.nih.gov/6134854/,Needs Review: Ambiguous/Missing FBS% post-inoculation
+VI8,2020,SARS-CoV-2,Vero E6,DMEM,10,2,100,-,15,https://pubmed.ncbi.nlm.nih.gov/6134854/,Clear
+VI13,2020,SARS-CoV-2,Vero CCL-81,DMEM,5-10,10,200***,0.2***,0.0005***,https://wwwnc.cdc.gov/eid/article/26/6/20-0516_article,Clear
+VI14,2019,HRSV,HEP-2,DMEM,10**,2,100,-,100,https://doi.org/10.1016/j.bjid.2019.10.007,Clear
+VI15,2019,DENV-2,C6/36,MEM,10**,2,^^,^^,^^,https://pmc.ncbi.nlm.nih.gov/articles/PMC6823047/,Clear
+VI16,2002,HSV-1,Vero,MEM.5,1,-,-,-,,https://pubmed.ncbi.nlm.nih.gov/11983023/,Needs Review: Ambiguous/Missing FBS% post-inoculation
+VI18,2015,influenza,Vero,DMEM,10,0.2,-,-,-,https://pubmed.ncbi.nlm.nih.gov/25448099/,Clear
+SPT10,2022,ZIKV,Vero,DMEM,10,2,100--,0.1--,0,https://pubmed.ncbi.nlm.nih.gov/25448099/,Clear
+VI23,2024,SARS-CoV-2,Vero E6 / Vero E6 TMPRSS2 / Vero E6 ACE2 TMPRSS2,DMEM,10,2,100,0.1,0,https://pmc.ncbi.nlm.nih.gov/articles/PMC12870042/,Clear
+VI24,2011,Influenza A and B,Vero (CCL81),OptiPRO SFM (serum-free) or EMEM,0,0,-,-,0.25 (added for enhanced isolation),https://pmc.ncbi.nlm.nih.gov/articles/PMC3194987/,Clear
+VI25,2019,EBOV (Makona-C05 and Yambuko-Mayinga),Vero E6; Huh-7; monocyte-derived macrophages (MDM),DMEM (or MEM-α for some passages),10,2-10,100,0.1,0.25,https://www.mdpi.com/1999-4915/11/2/161 (or PMC6410085),Needs Review: Ambiguous/Missing FBS% post-inoculation
+VI28,2024 (or recent),SARS-CoV-2,Vero E6 / VeroE6/TMPRSS2 / Vero E6-TMPRSS2-T2A-ACE2,DMEM,10,2,100,0.1,0.25 (via 1% Antibiotic-Antimycotic in isolation medium),https://www.nature.com/articles/s41598-024-75038-4,Clear
+VI29,2014,Rabies virus (PV strain),BSR (Baby Hamster Kidney clone),DMEM,10,10,not specified (none detailed),not specified (none detailed),not specified (none detailed),https://pmc.ncbi.nlm.nih.gov/articles/PMC4255371/,Clear
+VI30,~2020-2023,Influenza A (IAV clinical/swine isolates),MDCK (various lines),EMEM or DMEM/MEM-α,5-10,0-2 (often serum-free + TPCK-trypsin),100,0.1,0 (or variable; some use gentamicin/nystatin),https://pmc.ncbi.nlm.nih.gov/articles/PMC12964720/,Needs Review: Ambiguous/Missing FBS% post-inoculation
+VI32,2020,FHV-1 (feline herpesvirus-1),CRFK (primary; also tested Vero/MDCK/BHK-21 etc.),DMEM,10,3,standard (not numerically specified; typical 100/0.1/0.00025),standard (not numerically specified),standard (not numerically specified),https://journal-jbv.apub.kr/articles/xml/eALz/
+VI33,2023,MERS-CoV,Vero E6,DMEM,10,not explicitly reduced (fresh DMEM added post-wash; typical maintenance 2%),100 (from 1× Gibco Antibiotic-Antimycotic),0.1 (from 1× Gibco Antibiotic-Antimycotic),0.00025 (from 1× Gibco Antibiotic-Antimycotic),https://pmc.ncbi.nlm.nih.gov/articles/PMC10500840/,Needs Review: Ambiguous/Missing FBS% post-inoculation
+VI34,2024,CAV-2 (canine adenovirus type 2 variant),MDCK,DMEM,10,not explicitly detailed (maintenance implied post-1 h adsorption),standard (pen/strep/ampho included),standard,standard,https://www.kjvr.org/journal/view.php?number=3970,Needs Review: Ambiguous/Missing FBS% post-inoculation
+VI35,~2006-2010 (protocol representative),MERS-CoV,Vero (also LLC-MK2 or Huh-7 possible),DMEM,10 (assumed ATCC/standard growth),2,100 (1% Pen/Strep),0.1 (1% Pen/Strep),not used (or variable),https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.05.02_MERS-CoV.pdf,Clear
+VI36,2023,CHIKV (chikungunya virus),Vero (ATCC CCL-81),DMEM,10,2 (typical post-inoculation maintenance),100 (from 1% antibiotics/antimycotics),0.1 (from 1% antibiotics/antimycotics),0.00025 (from 1% antibiotics/antimycotics),https://www.sciencedirect.com/science/article/pii/S1931524422002808,Needs Review: Ambiguous/Missing FBS% post-inoculation
+VI38,2022,SARS-CoV-2,Vero E6,DMEM (high-glucose),10,0 (FBS-free + trypsin),100 (from 100× stock),0.1 (from 100× stock),not provided,https://link.springer.com/article/10.1007/s00705-021-05343-0,Clear
+VI39,~2025,Oita virus (rhabdovirus),Vero / Vero-RcACE2 / VeroE6/TMPRSS2 / A549 / BHK,DMEM,10,2,10000 U/ml (stock; standard final ~100 IU/ml),10 mg/ml (stock; standard final ~0.1 mg/ml),not provided,https://journals.asm.org/doi/10.1128/spectrum.03158-25,Clear
+VI40,2022,RSV (respiratory syncytial virus),HEp-2,MEM,10**,2,100 (1% of 10000 U/ml stock),0.1 (1% of 10000 U/ml stock),0.00025 (25 μg/ml stock),https://pmc.ncbi.nlm.nih.gov/articles/PMC9006923/,Clear
+VI41,2007,West Nile virus (small plaque variant),Vero,MEM,10,2,not provided,not provided,not provided,https://www.sciencedirect.com/science/article/pii/S0042682207004151,Clear
+NEW1 VI42,2006,Varicella-Zoster Virus (VZV),MeWo,DMEM / EMEM,10,2,100,0.1,-,https://journals.asm.org/doi/10.1128/jvi.80.3.1497-1512.2006,Clear (Searched)
+NEW2 VI43,2006,SARS-CoV (Frankfurt 1),Vero E6,DMEM,5,2,100,0.1,-,https://mhlw-grants.niph.go.jp/system/files/2007/073111/200728004A/200728004A0011.pdf,Clear (Searched)
+NEW3 VI44,2020,Dengue Virus (DENV1-4),Vero,DMEM,10,10,100,0.1,-,https://pmc.ncbi.nlm.nih.gov/articles/PMC7599882/,Clear (Searched)
+
+
+VI26,~2020,PRRSV (porcine reproductive and respiratory syndrome virus),MARC-145 (or similar porcine kidney lines),DMEM,8,2,100,0.1,- (high conc wash step with pen/strep),https://rr-asia.woah.org/app/uploads/2020/11/8-virus-isolation-li-shuo.pdf (this is a presentation, not published paper)
+VI37,2020,FHV-1 (feline herpesvirus-1),CRFK,DMEM,10,3,not provided,not provided,not provided,https://journal-jbv.apub.kr/articles/xml/eALz/ (same as VI32)

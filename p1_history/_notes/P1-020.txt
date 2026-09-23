@@ -1,0 +1,325 @@
+
+===== PAGE 1 =====
+- REVIEW ARTICLE -
+Traditional and Modern Cell Culture in Virus
+Diagnosis
+Ali Hematian a, Nourkhoda Sadeghifard a, Reza Mohebi a,
+Morovat Taherikalani b, Abbas Nasrolahi a, Mansour Amraei a,
+Sobhan Ghafourian a,*
+aClinical Microbiology Research Center, Ilam University of Medical Sciences, Ilam, Iran.
+bRazi Herbal Medicines Research Center and Department of Microbiology, School of Medicine, Lorestan
+University of Medical Sciences, Khorramabad, Iran.
+Received: November
+17, 2015
+Revised: November 29,
+2015
+Accepted: November
+30, 2015
+KEYWORDS:
+cell culture,
+gold standard,
+traditional culture,
+viruses
+Abstract
+Cell cultures are developed from tissue samples and then disaggregated by me-
+chanical, chemical, and enzymatic methods to extract cells suitable for isolation
+of viruses. With the recent advances in technology, cell culture is considered a gold
+standard for virus isolation. This paper reviews the evolution of cell culture
+methods and demonstrates why cell culture is a preferred method for identiﬁca-
+tion of viruses. In addition, the advantages and disadvantages of both traditional
+and modern cell culture methods for diagnosis of each type of virus are discussed.
+Detection of viruses by the novel cell culture methods is considered more accurate
+and sensitive. However, there is a need to include some more accurate methods
+such as molecular methods in cell culture for precise identiﬁcation of viruses.
+1. Introduction
+In the 1900s, embryonated eggs and laboratory ani-
+mals were used for isolation of viruses. Typically, cell
+cultures are developed from tissue samples and then
+disaggregated by mechanical, chemical, and enzymatic
+methods to extract cells suitable for isolation of viruses.
+With the utilization of cell culture technique, use of
+laboratory animals in experiments has decreased
+signiﬁcantly [1]. In addition, by selection of suitable cell
+lines, the number of viruses indexed has increased
+dramatically. Isolation of viral pathogens in cell cultures
+commenced in the 1960s; however, at this point, some
+limitations existed, including very limited services
+available for diagnosis of viral infections. In 1970,
+commercial development of puriﬁed reagents and cell
+lines opened a new window for diagnosis of viral in-
+fections [2]. With the discovery of cell culture, many
+human viruses were grown in vitro . In comparison with
+eggs and animals, cell culture is more convenient and
+cost effective. This method is considered gold standard
+for virus isolation and identiﬁcation [2].
+The aims of the current review are to explain the
+current role of cell culture in viral diagnosis and the
+*Corresponding author.
+E-mail: Sobhan.ghafurian@gmail.com (S. Ghafourian).
+Osong Public Health Res Perspect 2016 7(2), 77 e82
+http://dx.doi.org/10.1016/j.phrp.2015.11.011
+pISSN 2210-9099 eISSN 2233-6052
+Copyright ª 2016 Korea Centers for Disease Control and Prevention. Published by Elsevier Korea LLC. This is an open access article
+under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/).
+===== PAGE 2 =====
+advantages (e.g., cost, culture time) of the new
+methods of culture over traditional cell culture
+methods.
+2. Traditional cell culture for virus
+diagnosis
+In 1913, for the ﬁrst time ever, a virus (vaccinia)
+was grown in cell culture, and then in the 1930s,
+yellow fever and small pox viruses were grown in cell
+culture that aimed for vaccine production [3e5].
+However, it was only in 1950 that the ﬁrst virus
+(poliovirus) was isolated [6]. Cell culture was devel-
+oped by adjustment of antibiotic for prevention of
+contamination with bacteria and use of some chemical
+to media, which provided the cell culture media [7].
+Although culture media and cell lines can be pur-
+chased commercially, some laboratories still prepare
+culture media in-house. Cell culture can be accom-
+plished in any container, however, the standard
+container is a screw-cap tube glass (16 mm /C2125 mm;
+Figure 1 ) in which monolayer cells can grow on one
+side of the glass. For accurate identiﬁcation of viruses,
+different types of cell lines should be prepared to
+inoculate the suspected sample. The most important
+cell lines widely used for viral diagnosis are primary
+rhesus monkey kidney cells (RhMK), primary rabbit
+kidney cells, MRC-5, human foreskin ﬁbroblasts,
+HEp-2, and A549.
+The type of specimens to be used are determined
+based on the number and cell types needed for virus
+diagnosis. The cost of cell culture ranges from US $1.5/
+tube to US $6.50/tube. The success of virus isolation
+depends on the best selection, collection, and trans-
+portation of clinical samples.
+Figure 1. Standard screw-cap tubes (16 mm /C2125 mm) used
+for cell culture.
+Table 1. CPE formation and conﬁrmation test in different viruses.
+Viruses
+CPE in
+Final identiﬁcation of isolatesFibroblasts A549 cells RhMK cells
+Adenovirus Some produce clusters Grape-like clusters
+or “lacy” pattern; 5 e8d
+Some produce clusters IF for group and neutralization for type
+Cytomegalovirus Foci of contiguous
+rounded cells; 10 e30 d
+dd CPE
+Herpes simplex
+virus
+Rounded large cells; 2 e6 d Rounded large cells; 1 e4 d Some produce CPE IF for group and neutralization for type
+Inﬂuenza virus dd Undifferentiated CPE,
+cellular granulation; 4 e8d
+IF for group and neutralization for type
+Rhinovirus Degeneration, rounding; 7 e10 d dd CPE
+CPE Z cytopathic effect; IF Z immunoﬂuorescence; RhMK Z rhesus monkey kidney cells.
+78 A. Hematian, et al
+===== PAGE 3 =====
+2.1. Sample collection
+The specimen processing protocol varies between
+laboratories, but the main steps followed are as
+follows:
+First, the medium containing the sample is vortexed
+and the swap is discarded. The liquid medium is then
+centrifuged. The supernatant obtained is used in cell
+culture. In this method, fungi, cells, bacteria, and blood
+remain at the bottom of tube (pellet form), whereas vi-
+ruses remain dispersed in the liquid.
+Then, 0.2 e0.3 mL of the liquid is added to the cell
+culture medium for absorption of the virus (inoculation).
+The cell culture tube containing the virus for absorption
+is then incubated at 35
+/C14C and 5% CO 2 for 90 minutes,
+following which the inoculum is discarded and
+substituted with fresh medium. The cell culture tube is
+incubated until the virus begins to grow. This process
+may take 1 day to several weeks depending on the type
+of virus. The cell culture tube is examined everyday
+using an inverted microscope [8,9].
+The standard protocol applied for estimating the
+proliferation of the virus on monolayer cells involves
+examination of unstained cells on monolayer cells.
+Changes in monolayer cells (e.g., swelling, shrinking,
+syncytium formation) indicate the presence of viruses.
+These changes in cell culture are deﬁned as the cyto-
+pathic effect (CPE), which is due to the presence of the
+virus [10].
+In most cases, the CPE appears after 5 e10 days of
+incubation; however, an exception is herpes simplex
+virus (HSV) in which the CPE is observed after just 24
+hours. In some viruses, including cytomegalovirus
+(CMV), 10e30 days are needed after ﬁrst incubation for
+CPE observation. According to the type of cell line used
+for cell culture, type of specimen, the incubation period,
+and form of the CPE, the type of virus can be predicted;
+however, conﬁrmatory testing such as immunoﬂuores-
+cence (IF) assay is needed for better diagnosis. This
+assay is based on the reaction between the antibody and
+viral antigen. Table 1 shows the CPE of some viruses in
+different cell lines. Figure 2 shows the CPE formation
+by different types of viruses.
+However, it is not possible to detect all viruses by IF
+staining. Numerous serotypes are observed in the
+enterovirus family, and al l these are not identiﬁed by
+IF staining. Furthermore, m onoclonal antibody used
+for identiﬁcation of enterov irus lacks sensitivity and
+there are reports indicating crossreaction between
+monoclonal antibody and enteroviral serotypes
+[11e13].
+Using the traditional cell culture methods, a variety of
+viruses can be detected in different cell lines. However,
+the long time needed for incubation and observation of
+the CPE are signiﬁcant disadvantages; additionally, the
+high cost associated with the purchase and maintenance
+of different monolayer cells is another limitation.
+3. The new format of cell culture
+The traditional screw-cap cell culture tube
+(16 mm /C2125 mm) is now replaced by a 1-dram vial or
+a shell vial, which is smaller ( Figure 3). Using this vial,
+it is possible to grow monolayer cells at the bottom of
+the vial. In addition, this method also allows for easy
+centrifugation.
+Another type of new container used in recent times is
+the microwell plate, which is also called a “cluster
+plate.” This is available as a 24- or 96-well plate,
+however, 24 wells are more popular.
+3.1. Cryopreserved cell culture
+Some laboratories prepare their cell lines in-house,
+whereas some buy the commercial cell lines. With the
+introduction of cryopreservation, the maintenance of
+prepared cells became easier. Using this technique, the
+monolayer cells are grown in shell vials and then stored
+at /C0196
+/C14C. Prior to use, the shell vial is removed from
+liquid nitrogen and samples are incubated in a 37 /C14C
+water bath. Then, the cell culture is prepared according
+to the standardized protocol, and then clinical samples
+are applied on the cell culture. It was reported that
+cryopreserved monolayer cells are sensitive to chla-
+mydiae, CMV, HSV, and other pathogens in respiratory
+tract [14]. The various steps in cryopreserved cell cul-
+ture are as follows:
+3.2. Virus isolation in cocultured cells
+Using this method, different types of cells are grown
+as a monolayer in a vial and various monoclonal anti-
+bodies are applied on these cells for diagnosis of
+different viruses. Using this technique, different viruses
+can be detected in the same vial.
+Cell culture methods for virus identiﬁcation 79
+===== PAGE 4 =====
+MRC-5 and A549 cell lines were used as monolayer
+in a vial for diagnosis of CMV, HSV, and adenoviruses.
+Cocktail antibody was used for staining. A secondary
+antibody labeled with antispecies antibodies was then
+added. The labeled dyes are ﬂuorescein isothiocyanate
+(FITC), Cy3, and 7-amino-4-methylcoumarin-4-acetate.
+The stained cells were examined with FITC and then
+with UV ﬁlters. The sensitivity of current experiment
+was shown to be 93.8% for adenovirus, 88.9% for CMV,
+and 100% for HSV [15].
+Figure 2. Cell and virus culture.(A) Untreated A549 cells, (B) HSV2 inoculated with A549, (C) adenovirus inoculated with
+A549, (D) untreated MRC-5 ﬁbroblasts, (E) cytomegalovirus-inoculated MRC-5 ﬁbroblasts, (F) rhinovirus inoculated with MRC-5
+ﬁbroblasts, (G) untreated RhMK, (H) enterovirus inoculated with RhMk, (I) inﬂuenza A inoculated with RhMk, (J) untreated HEp-
+2, (K) respiratory syncytial virus inoculated with HEp-2, and (L) monkey virus inoculated with RhMk. HSV Z herpes simplex
+virus; RhMK Z rhesus monkey kidney cells.
+Figure 3. Shell vial that can be directly centrifuged.
+80 A. Hematian, et al
+===== PAGE 5 =====
+R-Mix cell is another cell line used for isolating a
+variety of viral respiratory pathogens. This cell line is a
+combination of A549 and mink lung cells in a shell vial.
+Three R-Mix cell lines are used for each sample. The
+vials were then centrifuged and incubated at 35
+/C14C/5%
+CO2. After 24 hours, R-Mix was treated with different
+types of ﬂuorescein-labeled monoclonal antibody
+against adenoviruses; parainﬂuenza virus Types 1, 2,
+and 3; inﬂuenza virus Type A; inﬂuenza virus Type B;
+and respiratory syncytial virus. Figure 4 shows IF
+diagnosis of viral respiratory pathogens inoculated with
+R-Mix cells.
+3.3. Virus identiﬁcation in transgenic cell lines
+This is a rapid and accurate technique that uses
+transgenic cell lines. Some genetic elements are
+included in the cells, using which particular virus can be
+detected. These elements can be derived from any or-
+ganism. In a previous study, for detection of human
+immunodeﬁciency virus (HIV), CD4-positive lymphoid
+cell line transformed into a retroviral vector containing
+long terminal repeat promoter in combination with
+chloramphenicol acetyltransferase gene and HeLa was
+used. Using this transgenic cell line, only HIV was
+detected; however, a limitation is that it cannot differ-
+entiate between HIV-1 and HIV-2 [16].
+4. Conclusion
+Since its discovery, many innovative methods for cell
+culture have been proposed (e.g., use of shell vial,
+cryopreservation). In addition, the time required for
+identiﬁcation of viruses showed a signiﬁcant decrease:
+from 5e10 days (traditional methods) to 24 hours (novel
+methods). Using different cells in one vial, the number
+of different cell lines used in laboratories for
+identiﬁcation of viruses was decreased. Furthermore,
+detection of viruses by the novel cell culture methods is
+more accurate and sensitive. However, there is a need to
+include some more accurate experiments such as mo-
+lecular methods in cell culture for precise identiﬁcation
+of viruses.
+Conﬂicts of interest
+The author declares no conﬂicts of interest.
+References
+1. Freshney RI. Culture of animal cells, a manual of basic technique.
+4th ed. New York (NY): Wiley-Liss; 2000. p. 200 e4.
+2. Hsiung GD. Diagnostic virology: from animals to automation.
+Yale J Biol Med 1984;57(5):727 e33.
+3. Stinehardt E, Israeli E, Lambert R. Studies on the cultivation of
+the virus of vaccinia. J Infect Dis 1913;13(2):204 e300.
+4. Lloyd W, Theiler M, Ricci NI. Modiﬁcation of the virulence of
+yellow fever virus by cultivation in tissues in vitro . Trans R Soc
+Trop Med Hyg 1936;29(5):481 e529.
+5. Rivers TM, Ward SM. Jennerian prophylaxis by means of intradermal
+injections of culture vaccine virus. J Exp Med 1935;62(4):549e60.
+6. Enders JF, Weller TH, Robbins FC. Cultivation of the Lansing
+strain of poliomyelitis virus in cultures of various human embry-
+onic tissues. Science 1949;109(2822):85 e7.
+7. Schmidt NJ. Tissue culture technics for diagnostic virology. In:
+Lennette EH, Schmidt NJ, editors. Diagnostic procedures for viral
+and rickettsial infections. 4th ed. New York (NY): American
+Public Health Association; 1969. p. 81 e178 [chapter 2] .
+8. Mavromoustakis CT, Witiak DT, Hughes HJ. Effect of high-speed
+rolling on herpes simplex virus detection and replication. J Clin
+Microbiol 1989;26(11):2328 e31.
+9. Landry ML, Hsiung GD. Primary isolation of viruses. In:
+Specter S, Hodinka RL, Young SA, editors. Clinical virology
+manual. 3rd ed. Washington, DC: ASM Press; 2000. p. 27 e42
+[chapter 1] .
+10. Limaye AP, Corey L, Koelle DM, et al. Emergence of ganciclovir-
+resistant cytomegalovirus disease among recipients of solid-organ
+transplants. Lancet 2000;356(9230):645 e9.
+Figure 4. Immunoﬂuorescence diagnosis of viral respiratory pathogens inoculated with R-Mix cells. (A) Untreated R-Mix, (B)
+adenovirus, (C) inﬂuenza type A, (D) inﬂuenza type B, (E) parainﬂuenza virus type 1, (F) parainﬂuenza virus 2, (G) parainﬂuenza
+virus 3, and (H) respiratory syncytial virus.
+Cell culture methods for virus identiﬁcation 81
+===== PAGE 6 =====
+11. Klespies SL, Cebula DE, Kelley CL, et al. Detection of enteroviruses
+from clinical specimens by spin ampliﬁcation shell vial culture and
+monoclonal antibody assay. J Clin Microbiol 1996;34(6):1465e7.
+12. Rigonan AS, Mann L, Chonmaitree T. Use of monoclonal anti-
+bodies to identify serotypes of enterovirus isolates. J Clin
+Microbiol 1998;36(7):1877 e81.
+13. Van Doornum GJ, de Jong JC. Rapid shell vial culture technique
+for detection of enteroviruses and adenoviruses in fecal specimens:
+comparison with conventional virus isolation method. J Clin
+Microbiol 1998;36(10):2865 e8.
+14. Huang YT, Yan H, Sun Y, et al. Cryopreserved cell monolayers
+for rapid detection of herpes simplex virus and inﬂuenza virus. J
+Clin Microbiol 2002;40(11):4301 e3.
+15. Brumback BG, Wade CD. Simultaneous culture for adenovirus,
+cytomegalovirus, and herpes simplex virus in same shell vial
+by using three-color ﬂuorescence. J Clin Microbiol 1994;32(9):
+2289e90.
+16. Olivo PD. Transgenic cell lines for detection of animal viruses.
+Clin Microbiol Rev 1996;9(3):321 e34.
+82 A. Hematian, et al

@@ -1,0 +1,418 @@
+
+===== PAGE 1 =====
+ http://ebm.sagepub.com/
+Experimental Biology and Medicine
+ http://ebm.sagepub.com/content/85/2/202
+The online version of this article can be found at:
+ 
+DOI: 10.3181/00379727-85-20830
+ 1954 85: 202Exp Biol Med (Maywood)
+J. S. Youngner
+Trypsin-Dispersed Monkey Kidney Cells.
+Monolayer Tissue Cultures I. Preparation and Standardization of Suspensions of
+ 
+ 
+Published by:
+ http://www.sagepublications.com
+On behalf of:
+ 
+ 
+ Society for Experimental Biology and Medicine
+ can be found at:Experimental Biology and MedicineAdditional services and information for 
+ 
+ 
+ 
+ 
+ http://ebm.sagepub.com/cgi/alertsEmail Alerts: 
+ 
+ http://ebm.sagepub.com/subscriptionsSubscriptions:  
+ http://www.sagepub.com/journalsReprints.navReprints: 
+ 
+ http://www.sagepub.com/journalsPermissions.navPermissions: 
+ 
+ What is This?
+ 
+- Feb 1, 1954Version of Record >> 
+ at UNIV WASHINGTON LIBRARIES on October 26, 2014ebm.sagepub.comDownloaded from  at UNIV WASHINGTON LIBRARIES on October 26, 2014ebm.sagepub.comDownloaded from 
+===== PAGE 2 =====
+2 02 TRYPSIN-DISPERSED MONKEY KIDNEY CELLS 
+that heparin requires a co-factor for full ac- 
+t ivi ty . 
+We are not yet able to relate antithrombin 
+IV to the other antithrombins. It is possible 
+that this activity represents another separate 
+entity. It is also possible that more than 
+one substance is involved, and that these sub- 
+stances are known by other manifestations 
+in the complex interactions of the blood clot- 
+ting mechanisms. 
+Summary. The antithrombin capacity of 
+plasma can be differentiated into 4 main 
+effects. Antithrombin I is the adsorption of 
+thrombin on fibrin. Antithrombin I1 is the 
+co-factor of heparin. Antithrombin I11 neu- 
+tralizes thrombin activity even in the absence 
+of heparin, while antithrombin IV destroys 
+thrombin only while it is being formed from 
+prothrombin. Some of the properties of anti- 
+thrombins 11, I11 and IV have been investi- 
+gated, together with those of the factor which 
+acts with heparin to inhibit the activation of 
+prothrombin, and which is referred to as the 
+'39 factor. The 4 activities have the common 
+property of resistance to heating at 60°C for 
+three minutes, but are destroyed by heating at 
+70°C. They are not adsorbed on BaCOS. 
+They are water soluble. None of these ac- 
+tivities is found in a commercial crystalized 
+bovine plasma albumin. Antithrombin I11 
+activity is the only one removed by ether 
+treatment of plasma. In ammonium sulfate 
+fractionation antithrombin I1 is found pre- 
+dominantly in the 50-70F fraction, while 
+antithrombin I11 is found only in the O-SO% 
+fraction. It is believed that these 2 factors 
+are two distinct entities. The relation of anti- 
+thrombin IV to these 2 is not yet clear. It is 
+possible that the '39 factor and antithrombin 
+I1 are identical. 
+1. Seegers, W. H., Johnson, J. F.) and Fell, C., 
+Am. J. Physiol., in press. 
+2. Brinkhous, K. M., Smith, H. P., Warner, E. D., 
+and Seegers, W. H., ibid., 1939, ~125, 683. 
+3. Seegers, W. H., and Smith, H. P., ibid., 1942, 
+v137, 348. 
+4. Ware, A. G., Guest, M. M., and Seegers, W. H., 
+Arch. Biochem., 1947, v13, 231. 
+5. Seegers, W. H., McClaughry! R. I., and Fahey, 
+J. L., Blood, 1950, v5, 421. 
+6. Seegers, W. H., Miller, K. D.. -4ndrews) E. B., 
+and Murphy, R. C., Am. J. Physiol., 1952, v169, 700. 
+7, Seegers, W. H., Loomis, E. C., and Vandenbelt,. 
+J. M., Arch. Biochem., 1945, v6, 85. 
+8. Klein, P. D., and Seegers, W. H., Blood, 1950, 
+v5, 742. 
+9. Gorter, E., and Nanninga, L., Koninkl. Nederl. 
+Akademic van Wettenschappen, Amsterdam, Proc., 
+1952, Series C, v55, 341. 
+10. Jaques, L. B., Biochem. J., 1043, v37, 189. 
+~~~ ~ ~ 
+Received January 11, 1954. P.S.E.B.M., 1954, v85. 
+Monolayer Tissue Cultures I. Preparation and Standardization of 
+Suspensions of Trypsin-Dispersed Monkey Kidney Cells.*+ (20830) 
+J. S. YOUNGNER. (Introduced by Jonas E. Salk.) 
+From the Virus Research Laboratory, School of Medicine, University of Pittsburgh 
+Recent reports by Dulbecco( 1'2) on the 
+use of monolayer tissue cultures for the study 
+of certain animal viruses has made possible 
+the application, in studies of animal viruses, 
+of quantitative technics similar to those used 
+with bacterial viruses. Dulbecco has demon- 
+strated production of plaques of degenerated 
+* Aided by a grant from The Xational Foundation 
+t The assistance of Gloria Rosen, John P. Manos, 
+for Infantile Paralysis. 
+and S. Wayne Klein is gratefully acknowledged. 
+cells by Western equine encephalitis virus in 
+monolayer chicken-fibroblast cultures ( 1 ) and 
+similarly in monolayer monkey kidney cul- 
+tures, plaques have been produced by the 
+Brunhilde strain of Type 1 poliomyelitis 
+virus ( 2) .$ 
+Methods for treatment of kidney tissue 
+fragments with trypsin to reduce the time re- 
+quired for cell outgrowth in plasma clot cul- 
+$ Dr. Renato Dulbecco very kindly made available 
+full details of his report prior to its publication. 
+ at UNIV WASHINGTON LIBRARIES on October 26, 2014ebm.sagepub.comDownloaded from 
+===== PAGE 3 =====
+TRYPSIN-DISPERSED MONKEY KIDNEY CELLS 2 03 
+tures have been reported by Simms and Still- 
+man(3) as well as by Robbins, Weller, and 
+Enders (4). Dulbecco ( 2) has described a 
+technic for dispersing monkey kidney cells 
+with trypsin to obtain cell suspensions for 
+preparation of monolayer cultures. It is the 
+purpose of this report to describe certain modi- 
+fications in the methods used by Dulbecco for 
+preparing the trypsin-dispersed kidney cell 
+suspension. These modifications include a) 
+use of mechanical rather than manual agita- 
+tion for dispersing the cells, b) use of a dif- 
+ferent nutrient medium, and c) quantitative 
+adjustment of the dispersed cell suspension on 
+the basis of total cell count or optical density. 
+The procedures described are adaptable to 
+the production of relatively large amounts of 
+standardized dispersed cell suspension ; the 
+use of these suspensions for preparation of 
+different types of monolayer cultures will be 
+described. 
+Materials. All solutions used in this study 
+were sterilized by Seitz filtration under posi- 
+tive pressure. Phosphate buflered saline 
+(PBS), pH 7.5. was prepared according to the 
+formula used by Dulbecco (2 ) . Trypsin solu- 
+tion was prepared from Bacto-Trypsin 1:250 
+(Difco Corp., Detroit, Michigan) in a con- 
+centration of 0.25% by weight using PBS as 
+diluent. The horse serum used in these 
+studies was obtained from the blood of two 
+horses and was heated at 56OC for 30 min- 
+utes before use. iVutrient fluids-Synthetic 
+mixture 199 of Morgan, Morton, and Parker 
+(5) was used as the basic constituent of all 
+media and differed from that described in the 
+use of Hanks' balanced salt mixture in place 
+of Earle's salt mixture. Since Hanks sug- 
+gested separate addition of different quantities 
+of sodium bicarbonate, this was used to permit 
+adjustment of initial pH of the medium as 
+desired for different purposes. Medium D, 
+used for washing and suspending dispersed 
+cells. contained the following ingredients per 
+100 ml of medium: synthetic mixture 199, 
+2.8% NaHC03, horse serum, 95, 3 and 2 ml, 
+respectively . Penicillin and streptomycin 
+were added to a concentration per ml of 100 
+units and 0.1 mg, respectively. The pH of 
+this medium was 7.2-7.4 and upon incubation 
+rose to 7.8-8.0. 
+Methods. Preparation of trypsin-dispersed 
+cell suspensions. Kidneys were removed from 
+healthy 5-7 Ib rhesus or cynomolgus monkeys, 
+exsanguinated under sodium pentobarbital 
+anesthesia. The cortical area was dissected 
+as free as possible from medulla, and minced 
+with scissors into pieces about 4-5 mm in 
+diameter. Minced cortical tissue was trans- 
+ferred to a 250 ml centrifuge tube, washed 
+several times with PBS to remove red blood 
+cells, and suspended in about 20 ml of trypsin 
+solution per kidney. After 10 minutes at 
+37"C, the trypsin solution was discarded, re- 
+placed with about 20 ml of fresh trypsin solu- 
+tion per kidney and the suspension transferred 
+to a Waring blendor the motor of which was 
+controlled by means of a rheostat at a speed 
+that produced agitation of the tissue without 
+cutting or foaming. Mixing was allowed to 
+proceed for 10 minutes. The supernatant 
+fluid was saved after decanting through 3 
+layers of sterile cheesecloth to eliminate float- 
+ing tissue particles and connective tissue 
+fibers; the retained portion contained mainly 
+clusters of cells, but also some single cells and 
+cell debris. Fresh trypsin solution was added 
+to the tissue remaining in the blendor and 
+agitation repeated. After 8-10 such extrac- 
+tions, the tissue was near exhaustion as far 
+as yielding additional cell clusters. Further 
+extraction yielded increasing amounts of con- 
+nective tissue fibers which were too fine to 
+be retained by the cheesecloth filter and could 
+not be separated easily from cellular com- 
+ponents. The turbid trypsinized cell sus- 
+pension was centrifugated at 1000 RPM for 5 
+minutes ; the sediment was resuspended in 
+approximately 20 volumes of medium D and 
+centrifugated at 600 RPM for 2 minutes. 
+Resuspension and washing was repeated 3 
+times at the slow speed. Final centrifugation 
+of the pooled cell sediment was performed in 
+graduated 15 ml centrifuge tubes. A yield of 
+1.0 to 1.5 ml of packed cellular material was 
+usually obtained from the cortex of each 
+kidney, the weight of which was approximate- 
+Standardization of cell suspensions. Packed 
+cell sediment was diluted with medium D to 
+make a 1 : 50 dilution based upon packed cell 
+volume. An aliquot of this suspension was 
+ly 4-5 g. 
+ at UNIV WASHINGTON LIBRARIES on October 26, 2014ebm.sagepub.comDownloaded from 
+===== PAGE 4 =====
+204 TRYPSIN-DISPERSED MONKEY KIDNEY CELLS 
+further diluted to 1:200 for purposes of 
+standardization. Since the work was done 
+upon which this report is based, it has been 
+found desirable to pass the 1:50 dilution 
+through 3 layers of cheesecloth to remove 
+aggregates of connective tissue fibers which 
+appear to form as the result of packing of 
+sediment during centrifugation. The optical 
+density (O.D.) of the 1:200 cell suspension 
+was determined in the following manner. Four 
+ml of the cell suspension was acidified with 
+0.3 ml of 0.2 N HCl; acidification minimized 
+variations in light absorption by phenol red 
+in the medium. Optical density (neg. log 
+of transmittance) was determined in a Cole- 
+man Junior Spectrophotometer using a wave- 
+length of 590 mp where light absorption by 
+acidified phenol red was least. Four ml of 
+similarly acidified medium was used as a 
+blank. Total cell count was determined by 
+enumeration of nuclei using an adaptation of 
+the method suggested by Sanford and her 
+associates(6). To 2.0 ml of the 1:200 cell 
+suspension, in a graduated 15 ml centrifuge 
+tube, was added 10 ml of 0.1 M citric acid. 
+After one hour of incubation at 36”C, the 
+tube was shaken vigorously and centrifugated 
+at 1800 RPM for 15 minutes. The super- 
+natant fluid was discarded and 1.0 ml of 
+0.1% crystal violet dissolved in 0.1 hl citric 
+acid added. The pellet was resuspended by 
+mixing vigorously with a 1.0 ml pipette and 
+the resulting suspension allowed to stand at 
+room temperature for 5-10 minutes. At this 
+time, 10 ml of 0.1 M citric acid was added, the 
+tube thoroughly shaken and the contents 
+centrifugated at 2000 RPM for 15 minutes. 
+All but 1.0 ml of supernatant fluid was dis- 
+carded,, the volume brought to 2.0 ml with 
+0.5% Methocel4 (viscosity 4000 CPS) and the 
+pellet containing nuclei resuspended in this 
+solution. Nuclear counts were made without 
+further dilution in a haemocytometer using the 
+white blood cell counting squares; counts were 
+expressed as the number of nuclei per ml of 
+1 : 200 cell suspension.ll 
+The relationship between O.D. and the 
+5 .Lz methylcellulose product which acts as a suspend- 
+ing agent, kindly furnished by Dow Chemical 
+Company, Midland, Mich. 
+----------- 
+NUCLEI PER ML. 
+(x 106) 
+FIG. 1. Relation betiveen optical density and 
+nuclei/ml in 1 : 200 dilution of tipsin-dispersed 
+cells. 
+nuclei count of the 1 : 200 dilutions of trypsin- 
+dispersed cells, is illustrated in Fig. 1. Points 
+are based on data derived from 16 successive 
+batches of kidney, each utilizing tissue from 
+1 to 6 monkeys. 
+On the assumption that there is a direct 
+proportionality between O.D. and cell count, 
+it is possible to envisage a straight line rela- 
+tionship if one were dealing with uniform sus- 
+pensions of single cells. This theoretical rela- 
+tionship is illustrated graphically by the solid 
+line in Fig. 1. Experimental points, plotted 
+from data obtained with 16 preparations, all 
+fall below the theoretical line. The most 
+likely explanation for this observation is that 
+cell suspensions are not composed of single 
+cells but are made up of cell clusters of dif- 
+ferent sizes. The greater the number of cells 
+in each cluster, the higher the total cell count 
+in relation to the observed O.D. In addition, 
+scattering of experimental points in Fig. 1 
+most likely is produced by variations in dis- 
+tribution of cell cluster sizes in different 
+preparations. Data in Fig. 1 permit estima- 
+tion of cell count by measuring the O.D. 
+\I The following formula was used to calculate 
+number of nuclei/ml: 
+Total nuclei in 
+4 white blood cell squares 
+4 x loo00 = nuclei/mI 
+ at UNIV WASHINGTON LIBRARIES on October 26, 2014ebm.sagepub.comDownloaded from 
+===== PAGE 5 =====
+TRYPSIN-DISPERSED MONKEY KIDNEY CELLS 205 
+The 1 : 50 cell suspension stock is diluted with 
+medium D to adjust to the desired number of 
+cells per ml. Data in Fig. 1 indicate that 
+1 : 200 dilutions of trypsin-dispersed cells, ad- 
+justed on the basis of packed cell volume 
+alone? contained between 600,000 and 1,320,- 
+000 cells per ml. It is possible to utilize the 
+1 : 200 dilution for preparation of cultures 
+without additional standardization. However, 
+standardization of cell content by the methods 
+described permits utilization of more uniform 
+cell populations as well as more economical 
+use of cell suspension since it may contain 
+sufficient cells to permit dilution to 1:300 or 
+1 :400. 
+Maximum viability and reproducibility of 
+results are obtained when dispersed cell sus- 
+pensions contain 600,000 to 700,000 cells per 
+ml. Such cell suspensions have been used 
+to prepare several different kinds of cultures. 
+Preparation of cultures. Uniformity of sus- 
+pension is maintained during distribution by 
+the use of a magnetic stirring device together 
+with a Cornwall automatic pipetting unit. 
+Petri dish (60 mm) cultures are prepared with 
+4.0 ml of cell suspension containing 600,000- 
+700,000 cells per ml, and incubated at 36°C 
+in an atmosphere of 3% CO2 as described by 
+Dulbecco(2). Fluid is removed after 3 or 
+4 days of incubation and 4.0 ml of fresh 
+medium D are added. After 6 or 7 days of 
+incubation a confluent epithelial monolayer is 
+developed. 
+To prepare culture tubes, 0.5 ml of sus- 
+pension, containing approximately 300,000 
+cells, is added to screw-topped tubes (16 x 
+150 mm) with rubber inserts in the caps. 
+These are incubated at a slight tilt from the 
+horizontal at 36OC for 6 or 7 days without 
+rolling; in this interval, a zone of confluent 
+kidney epithelium covers the area of the tube 
+in contact with cell suspension and pH of 
+the medium has fallen to about 6.8. Between 
+800 and 1000 culture tubes can be prepared 
+from cortical tissue of a single monkey by this 
+method. Over 90% of tubes prepared in this 
+manner are suitable for virus assay or other 
+studies. For virus or antibody titrations 
+medium D, containing horse serum, is not 
+used. Instead, the medium employed is made 
+up of 97.5 ml of mixture 199 to which is 
+added 2.5 ml of 5% NaHC03. Cultures have 
+also been prepared in bottles used normally 
+for milk dilution tests. Each bottle receives 
+8.0 ml of standard cell suspension containing 
+600,QOO-700,000 cells per ml and is incubated 
+without motion in a horizontal position for 
+6 or 7 days. After this interval, a confluent 
+monolayer of kidney epithelium covers the 
+entire flat glass surface (40 x 110 mm). Cul- 
+tures can either be stoppered with rubber 
+stoppers or with cotton plugs. In the latter 
+case, incubation is carried out in an atmos- 
+phere of 3% COz. The application of this 
+type of culture for the propagation of polio- 
+myelitis viruses will be reported separately. 
+Viability of cell suspensions is retained at 
+a usable level for at least 2 days beyond the 
+day of preparation when kept at 4OC. For 
+convenience, suspensions are stored as 1 : 50 
+dilutions and brought to the desired concen- 
+tration with fresh medium D just before use. 
+Summary. An adaptation of the method of 
+Dulbecco for preparation of trypsin-dispersed 
+monkey kidney cell suspensions has been de- 
+scribed. Procedures employed yield quanti- 
+tatively standardized cell suspensions which 
+can be used in the preparation of large num- 
+bers of replicate cultures. 
+~ ~ ~ ~~~ 
+1. Dulbecco, R., Proc. hTat. Acad. Sci., 1952, v38, 
+747. 
+2. Dulkm, R., and Vogt, M., J. Exp. Med., 1954, 
+v99, 167. 
+3. Simms, H. S., and Stillman, N. P., J. Gen. 
+Physiol., 1937, v20, 603. 
+4. Robbins, F. C., Weller, T. H., and Enders, J. F., 
+J. Zmmund., 1952, v69, 673. 
+5. Morgan, J. F., Morton, H. 3., and Parker, R. C., 
+PROC. Soc. Em. BIOL. AND MED., 1950, v73, 1. 
+6. Sanford, K. K., Earle, W. R., Evans, V. J., 
+Waltz, H. K., and Shannon, J. E., J. Nut. Cancer 
+Znst., 1951, vll, 773. 
+Received December 11, 1953. P.S.E.B.M., 1954, v85. 
+ at UNIV WASHINGTON LIBRARIES on October 26, 2014ebm.sagepub.comDownloaded from 

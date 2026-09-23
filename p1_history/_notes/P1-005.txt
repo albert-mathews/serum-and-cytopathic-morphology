@@ -1,0 +1,699 @@
+
+===== PAGE 1 =====
+PLAQUE FORMATION AND ISOLATION OF PURE LINES WITH 
+POLIOMYELITIS VIRUSES* 
+BY R. DULBECCO, M.D., AND MARGUERITE VOGT, M.D. 
+(From the California Institute of Tecknology, Pasadena) 
+(Received for publication, June 1, 1953) 
+The production of plaques on a monolayer of chicken embryonic cells with 
+Western equine encephalomyelitis virus (1) has opened the possibility of 
+studying animal virus-host cell systems along lines similar to those followed 
+in bacteriophage work. In trying to extend the previous results to other animal 
+viruses, attention was directed to the viruses of the poliomyelitis group. These 
+viruses, besides their practicalimportance, have many advantageous properties: 
+great stability, good growth in tissue culture, and marked cytopathogenicity 
+(2). In addition they display a certain degree of genetic variability, as inferred 
+from their occurrence in various types and laboratory-adapted lines, so that 
+they may lend themselves to studies of genetic variation. 
+The present work concerns the production of plaques on monolayer cultures 
+of monkey tissue by poliomyelitis viruses. It will be shown that the plaques 
+can be efficiently used for titration purposes, and that pure lines of the viruses 
+can be isolated from single plaques. In addition, virus stocks of high titer have 
+been obtained during the development of this work. 
+Material and Methods 
+Solutions and Media 
+Phosphate-Buffered Saline (PBS).--(a) NaC1 8.0 gm., KC1 0.2 gm., Na~-IPO4 1.15 gin. 
+KH~PO4 0.2 gr., water 800 ml.; (b) CaC12 0.1 gin., water 100 ml.; (c) MgCI2.6H20 0.1 gm.. 
+water 100 ml. Autoclave (a), (b), and (c) separately; mix when cooled. Trypsin (Nutritiona; 
+Biochemical Co.) 0.25 per cent in PBS, sterilized by filtration. 
+Tissue Culture Fluid.--Earle's saline (ES) (3), 8 parts, horse serum, 6 parts, chicken em- 
+bryo extract (1:1 in ES), 3 parts; Earle's saline and horse serum were sterilized by pressure 
+filtration through a Selas falter of porosity 03; the embryo extract was prepared under sterile 
+conditions. An amount of 100/~g. of streptomycin and 100 units of penicillin per ml. were 
+added to the saline solutions. 
+Agar Overlay.---One pound of Difco agar was washed in twenty changes of tap water, and 
+two changes of distilled water (10 to 15 liters per change); after decanting the last water, the 
+agar was freed of excess water by squeezing it in a towel. 3 liters of acetone was then added to 
+the agar. After 1 hour, the acetone was replaced with the same volume of fresh acetone, and a 
+* Aided by a grant from The National Foundation for Infantile Paralysis, Inc. 
+167 
+
+===== PAGE 2 =====
+168 PLAQUE ]?ORMATION AND POLIOMYELITIS VIRUSES 
+similar change of acetone was repeated after a further hour. Finally, the acetone was eliminated 
+by suction in a Buchner funnel. The agar was then collected from the funnel and spread on a 
+sheet of aiumlnum foil. The agar was allowed to dry by the heat of three normal lamps and 
+was collected when completely dry. 
+(A) 2.7 per cent solution of washed agar in hot distilled water was distributed into a series of 
+test tubes which were then autoclaved and tightly closed with sterile rubber stoppers. Care 
+was taken not to autoclave them again, since on rcautoclaving toxic products arise from the 
+agar. 
+(B) A 1/10,000 solution of neutral red in distilled water, sterilized by autoclaving. 
+(C) Fourfold Earle's saline. The pH of this solution was brought to 7.4 by bubbling CO~ into 
+it immediately after solution of all the ingredients; it was sterilized by pressure filtration 
+through a Selas filter, porosity 03, and distributed into test tubes which were kept well stop- 
+pered in the refrigerator. 
+( D) Chicken embryo extract (1:1 in ES). 
+The agar overlay, used to Overlay the cultures after infection, consisted of 12 parts of 2.7 
+per cent agar (A), 12 parts of neutral red solution (B), 8 parts of fourfold Earle's saline (C), 
+and 5 parts of embryo extract (D). The agar tubes were first heated in boiling water until the 
+agar melted, and subsequently transferred to a 43°C. water bath; the ingredients (B), (C), 
+and (D) were prewarmed at 43°C., and added to the melted agar. The agar mixture was kept 
+at 43°C. until used. 
+Preparation of Tissue Cultures 
+In most of the experiments, the source of tissue was cynomo/gua monkey kidney, and in few 
+experiments the testis. Two kidneys (or testes) at a time were minced into small pieces (1 to 
+4 ram. 8 in size), washed several times in PBS, and transferred into a small flask containing 
+60 ml. of a prewarmed (37°C.) 0.25 per cent trypsin solution. After 10 minutes' incubation 
+at 37°C., the trypsin was decanted and substituted by approximately 20 ml. of fresh pre- 
+warmed trypsin. The tissue was then pipetted several (10 to 15) times back and forth with an 
+automatic pipette having a bore of about 3 ram. diameter. The pipetting was done fairly vig- 
+orously to break up the tissue fragments into clusters of cells and single cells. After having 
+allowed the large fragments to settle down, the turbid supematant containing single cells, 
+cell clusters, and cell debris, was poured into a centrifuge tube. About 20 ml. of fresh pre- 
+warmed trypsin was added to the fragments left in the flask; the tissue was again pipetted 
+back and forth, and the supernatant collected. The same procedure was repeated 15 to 20 
+times until the parenchymatous kidney tissue had been entirely converted into cell clusters or 
+single cells. This moment was recognizable by the fact that the original fragments had lost 
+their brownish color and were now mere whitish connective tissue masses that tended to stick 
+to each other. All superuatants were centrifuged at 600 I~.F.M. for 2 minutes, and the pellets 
+resuspended in PBS in one-half of the original volume. Two additional, similar centrifugations 
+in which the pellets were again resuspended in half of the previous volume of PBS were car- 
+ried out. The final pellets were resuspended in 20 to 40 times their volume of Earle's saline. 
+2 ml. of this suspension containing cell clusters and single cells, 1.5 ml. of horse serum, and 
+0.75 ml. of embryo extract were used to start a culture in a 60 ram. pyrex dish. From 15 to 
+30 cultures could be obtained from one kidney. The cultures were incubated at 38°C. in a 
+well humified incubator. To control the pH of the culture fluid in the unsealed Petri dishes, 
+the incubator received a continuous flow of air containing 3 per cent of CO~. The cultures were 
+incubated until the bottom of the Petri dishes was covered by a continuous cell layer. The 
+culture fluid was changed every 3 days. 
+
+===== PAGE 3 =====
+R. DULBECCO AND M. VOGT 169 
+Formation of a Monolayer 
+The first signs of the formation of a monolayer consisted of patches of polygonal epi- 
+thelial-like cells and were usually observed 48 hours after the preparation of the cultures. 
+These patches originated mainly from the cell clusters present in the original suspension. The 
+time required for the cell patches to fuse and to form a continuous cell layer, containing ap- 
+proximately 2 M l0 s cells, varied from 3 to 7 days. The monolayers of the kidney cultures were 
+always formed by polygonal cells, independently of the the time required for their formation. 
+In the case of testes however, only the fast developing cultures formed cellular sheets similar 
+to those of the kidneys; slow developing testis cultures contained mostly elongated cells of 
+fibroblastic appearance. 
+Plating of the Virus 
+Cultures showing a continuous cell layer were washed twice with 2 ml. of PBS. After re- 
+moving the last washing fluid, a volume of 0.3 ml. of virus suspension in PBS, at the appro- 
+priate dilution, was pipetted onto the cell layer. After 30 minutes' incubation at 37°C. to 
+permit adsorption of the virus onto the cells, the infected cultures were covered with 3 mI. of 
+melted (at 43°C.) agar mixture (agar overlay); the cultures were then kept at room tempera- 
+ture for about 10 minutes to allow the agar to solidify, and were finally placed in an incubator 
+supplied with the CO.e-air mixture. 
+Virus 
+Type 1, Brunhilde strain (SC-1949 pool), of poliomyelitis virus, kindly supplied by Dr. 
+C. F. Pait, was used in the majority of the experiments. The virus was supplied as a 20 per 
+cent suspension of spinal cord of rhesus monkey in distilled water (4). In a number of experi- 
+ments, Type 1 virus obtained from passage through the monolayer kidney cultures was used. 
+Type 2, Yale-SK strain, and Type 3, Leon strain, were kindly supplied by Dr. J. L. Melnick 
+in form of tissue culture supernatants. 
+Preparation of Virus Stocks 
+Cultures showing a continuous cell layer were washed and infected as described in the sec- 
+tion Plating of the Virus. Instead of the 3 ml. of agar overlay, 3 ml. of Earle's saline containing 
+20 per cent embryo extract was added to each Yetri dish, which was then incubated in an in- 
+cubator continuously supplied with the CO2-air mixture. The supernatants were collected 
+when the cells began to lose their attachment to the glass, usually 24 hours after infection. 
+Anlisera 
+Normal monkey serum and type-specific poliomyelitis antisera were kindly supplied by 
+Dr. C. F. Pait. The specific antisera used were: Type 1--Pool A-453, 1/23/50, and Type 2-- 
+Pool A-300, 6/20/49. (4) 
+RESULTS 
+Characteristics of Plaque Formation 
+In an infected culture, both the aspect and the number of plaques varied 
+with the time of incubation. The formation of plaques with poliomyelitis virus 
+Type 1 and Type 2 could be seen macroscopically 24 hours after infection. In 
+
+===== PAGE 4 =====
+170 PLAQUE FORMATION AND POLIOMYELITIS VIRUSES 
+oblique light, against a dark background, the plaques stand out as small, 
+brilliant areas. After 48 hours, they were best seen against a clear, green back- 
+ground; they appeared as round, uncolored areas contrasting with the red 
+color of the surrounding living cells, stained intravitally with neutral red 
+(Fig. 1). At this time, the diameter of the plaques varies from 1 to 3 mm. 
+During subsequent incubation, the plaques increased progressively in size 
+until they became confluent. On a given plate, the number of plaques approxi- 
+mately doubled between the 1st and 4th day, and remained constant thereafter. 
+FIG. 1. Plaques of poliomyelitis virus, Type 1, on monolayer monkey kidney cultures, 72 
+hours after infection. The plate to the right was infected with double the amount of virus. 
+Approximately natural size. 
+Plaques of Type 3 virus appeared only after 48 hours, and increased in number 
+up to the 5th day. Owing to their later appearance, plaques of Type 3 virus 
+were on corresponding days always smaller than those produced by the other 
+two types. 
+When comparing plaque formation on kidney and testis cultures, it was 
+observed that kidney cultures were all equally and highly susceptible to the 
+virus. In the case of testis cultures, however, the morphological differences 
+between fast and slow growing cultures (see section Formation of a Monolayer) 
+proved to be correlated with a difference in susceptibility of the two types of 
+cultures: fast growing testis cultures were almost as susceptible as kidney 
+cultures while slow growing testis cultures were much less susceptible to the 
+virus. For this reason, all quantitative experiments have been done with 
+kidney cultures, or fast growing testis cultures. 
+
+===== PAGE 5 =====
+R. DULBECCO AND M. VOGT 171 
+The number of plaques produced by a given virus sample was reproducible 
+(with the restriction just mentioned), and inversely proportional to the dilu- 
+tion of the virus, provided the number of plaques per plate was sufficiently 
+small (around 40 or less) to avoid an overlapping of plaques (Table I). The 
+amount of virus capable of producing one plaque will be called a plaque-form- 
+ing dose. 
+TABLE I 
+Proportionality between the Number of Plaques and the Concentration of Virus 
+Each culture was infected with 0.i ml. of the appropriate virus dilution. 
+No. of experi- 
+ment 
+Virus stock 
+Monkey spinal cord 
+suspension 
+Monkey spinal cord 
+suspension 
+Plaque stock 2 
+Plaque stock 2 
+Liquid stock 2-1 
+Rehfive 
+concen- 
+tration 
+of virus 
+1 
+1 
+No. of plaques on each plate 
+69; 104; 132 
+46; 62; 62;68 
+47 
+21; 25 
+29; 53 
+8; 12; 12; 17; 17; 18 
+10; 36 
+5; 5; 7; 11; 11; 22 
+0;1;1;2;2;5;5;5;6;9 
+18; 20; 31; 33 
+8; 9; 9; 12; 13; 15; 15; 18 
+I; 2; 3; 4; 4; 5; 5; 6; 6; 7; 7; 7; 
+7; 7; 9; 12 
+Aver- 
+age Nro. p~te 
+102 
+60 
+47 
+23 
+Calculated titer per ml, 
+8.1 )< 10 6 
+9.5 × l0 s 
+7.5 X 105 
+7.4 X 105 
+2.5 X 105 
+2.5 X 105 
+1.2 X 10 l 
+1.5 × 105 
+1.6 X l0 s 
+2.6 X 10 s 
+2.5 × 108 
+2.3 × 108 
+Plaque formation with Type 1 virus could be prevented by pretreatment of 
+the virus with specific Type 1 antiserum, whereas pretreatment with normal 
+monkey serum or specific Type 2 antiserum would not prevent plaque forma- 
+tion (Table II). This result shows that plaques are produced by a factor that 
+has the same antigenic properties as the virus. 
+The titer obtained by counting the plaque-forming doses was slightly higher 
+than the infectivity titer obtained by monkey titration. Thus, the 20 per cent 
+spinal cord suspension of Type 1 virus was found to have a plaque-forming 
+titer of 7.4 X 106 plaque-forming doses per ml. Its PD~0 titer per one-half 
+milliliter had been found to be 106.4 (4). Since a PDs0 corresponded to an aver- 
+age of 0.7 infectious doses (as shown in the discussion), a titer of 10 s.4 PDb0 
+corresponded to a titer of 1.75 X 105 infectious doses per 1/~ ml. (or 3.5 X 105 
+infectious doses per ml.). 
+
+===== PAGE 6 =====
+172 PLAQUE 1~ORMATION AND POLIOMYELITIS VIRUSES 
+The plaque titer was, therefore, slightly higher than the monkey infectivity 
+titer. It has also been found that the plaque titer was somewhat higher than 
+that obtained in roller tubes of monkey kidney (5). 
+TABLE II 
+Suppression of Plaque Formation by Type-Specific Antiserum 
+The virus was incubated for 1 hour at 37°C. in serum diluted 1:20 in PBS; aliquots of 
+0.I ml. of the mixtures were subsequently plated at the dilutions indicated. 
+NO. of 
+experi. meat Virus stock 
+Monkey spinal cord 
+suspension 
+Plaque stock 1 
+Plaque stock 2 
+Type of serum 
+Type 1 antiserum 
+Type 2 antiserum 
+Normal monkey se- 
+rum 
+Type 1 antiserum 
+Normal monkey se- 
+rum 
+Type 1 antiserum 
+Normal monkey se- 
+rum 
+Dilutit 
+of viru $ertttl 
+mixttu 
+1 
+10 
+100 
+10 
+100 
+10 
+100 
+1 
+10 
+5O 
+5O 
+2OO 
+1 
+10 
+5O 
+5O 
+2OO 
+No. of plaques on each plate 
+40 
+7 
+> 100 
+22 
+0* 
+6; 4~; 
+0; o 
+> 40; confluent 
+18; 7 
+0 
+0; 0 
+0; 0; 0 
+Confluent; confluent 
+68; confluent; confluent 
+* The absence of plaques in this undiluted sample, in contrast to the presence of plaques 
+in the 10 times more diluted sample, is due to the high concentration of antiserum carried 
+over to the plate. 
+~: In Experiments 7 and 8, aliquots of the higher dilutions were plated in duplicate or 
+triplicate. 
+Isolation of Virus from the Plaques and Determination of Its Characteristics 
+The virus was recovered from a plaque by picking up with a Pasteur pipette 
+an agar cylinder, 2 ram. in diameter, from the center of the plaque (6); the 
+agar cylinder was suspended in 1 ml. of Earle's saline containing 20 per cent 
+embryo extract and frozen; this preparation will be called "plaque suspension." 
+Twenty suspensions from different plaques were assayed and found to contain 
+from 10' to 106 plaque-forming doses. From each plaque suspension a "plaque 
+
+===== PAGE 7 =====
+R. DULBECC0 AND M. VOGT 173 
+stock" was prepared as described under Methods. Since each plaque stock 
+originated from a single virus particle (as proved in the Discussion), these 
+stocks constitute the purest lines of virus presently available. The question of 
+purity of these lines will be expanded further in the discussion. 
+The virus originating within a plaque diffuses out, and may, therefore, con- 
+taminate an adjacent plaque. An experiment was devised to determine the 
+distance covered by the virus in diffusing away from a plaque. Several plates 
+were infected with diluted Type 1 virus, so as to obtain very few plaques. 
+One plate developed a single plaque. After 4 days of incubation, the plaque 
+had a diameter of 5 ram. Agar cylinders were picked up from different regions 
+on the plate: (1), from the center of the plaque; (2), at 6 taro.; (3), at 13 ram.; 
+and (4), at 20 ram. from the center. All agar cylinders were suspended in 1 
+ml. volume. The various suspensions were then assayed for virus, suspension 
+(1) at a proper dilution, the others undiluted. The virus content of the sus- 
+pensions was found to be: (1), 1.8 X 104; (2), 10; (3), no plaques in 0.6 ml. 
+(the remaining 0.4 ml. was lost by contamination of a plate); (4), no plaques. 
+It appears, therefore, that virus from a plaque is still present at a distance 
+of 3 to 4 ram. from the rim of the plaque; its concentration decreases, however, 
+very rapidly with the distance, as expected from the laws of diffusion. At a 
+distance of 10 ram. or more from the rim, diffused virus is entirely absent. 
+It is interesting that after 3 days the plaque reached the position of cylinder 
+(3); two new agar cylinders were picked up at this time, contiguous to cylinders 
+(2) and (3), respectively. Both of them now contained virus (about 104 plaque- 
+forming doses). 
+Several characteristics of the virus contained in a number of different 
+plaque stocks were determined; i.e., the serological type of the virus, its patho- 
+genicity for monkeys, and the type of plaques produced on replating. 
+As can be seen from Experiments 7 and 8 in Table II, the plaque stocks 
+studied were of the same serological type as the source material. 
+The pathogenicity of the plaque stocks was determined by inoculating 
+intracerebrally into cynomolgus monkeys aliquots of 0.2 to 0.4 ml. of six plaque 
+stocks--two of which had been obtained after a second plaque passage. Two 
+monkeys were used for each stock. Each monkey showed characteristic signs 
+of poliomyelitis, with a flaccid paralysis between the 4th and 7th day. Since 
+the original Br~mhilde stock, containing 3.5 X 105 infectious doses per ml., 
+had been diluted before inoculation by a factor of 1.45 X 10 ~ in the case of 
+the first passage stocks and by a factor of 4.3 X 10161 in the case of the second 
+i These dilution factors arose in the following way: (a) first-passage stock: dilution of 
+Brunhilde stock into the agar overlay of the first plate: 1.6 X 104; ~oo of the agar overlay 
+picked and diluted 1:30 to make a stock; of this 0.2 ml. inoculated into the animal. (b) second 
+passage stock: similar to the first passage stock, but with an additional dilution 1/~o 0 in re- 
+plating the first plaque suspension, and 1/~0 o in the second picking; in addition the second 
+plaque suspension was diluted ~oo instead of ~o to make a stock. 
+
+===== PAGE 8 =====
+174 PLAQUE FO~ATION AND POLIOMYELITIS VIRUSES 
+passage stocks, the experiment proves that pathogenic virus was produced 
+inside the plaques. 
+To test whether the differences in plaque size that had been observed were 
+hereditary with the virus responsible for them, stocks from large and small 
+plaques were plated separately and scored for plaque size. The plaques pro- 
+duced by stocks of both types were indistinguishable and showed again the 
+same variability in plaque size. It was, therefore, concluded that differences 
+in plaque size are non-hereditary. 
+Part of the variability in plaque size can be attributed to differences in the 
+time of adsorption of individual particles onto the cells of the same culture, 
+as proved by the following experiment :- 
+Four cultures were washed and infected; after 30 minutes' adsorption, 
+two cultures were overlaid with agar while the remaining two cultures were 
+washed by two changes of 2 ml. of PBS, so as to eliminate the majority of the 
+free virus, and then overlaid with agar. All the plates were incubated. It was 
+found that the washed cultures showed only one-third of the number of plaques 
+present in the non-washed plates; this shows that two-thirds of the plaque- 
+forming doses were adsorbed during the incubation of the plates, that is after 
+the 30 minutes' adsorption period. 
+However, this is not the only cause that produces a variability in the size 
+of the plaques, since the plaques developing on the washed plates still showed 
+differences in size. The other causes are, so far, unknown. 
+Independent Infection of the Indi~yidual Cells in a Culture 
+To show that all cells of a culture can be infected independently, the follow- 
+ing experiment was performed. 
+Cultures were infected with virus inocula of increasing concentration, 
+overlayed after 30 minutes' adsorption with agar (from which the neutral 
+red had been omitted), and incubated for 10 hours. At the end of this period, 
+the cultures were stained with neutral red for 1 hour, and then observed 
+microscopically. 
+In cultures infected with high virus concentrations, most of the cells were 
+unstained, whereas in cultures with low virus concentrations only a few cells 
+had not taken up the stain. A count of the two classes of cells in several micro- 
+scopic fields of the different cultures showed that the fraction of unstained 
+cells increased proportionally to the concentration of the virus; they were 
+therefore, the cells infected by the inoculum. Stained and unstained cells were 
+randomly mixed. In cultures in which only few unstained cells were present, 
+these were always single; patches of unstained cells, suggestive of units of 
+infection containing many cells, were never found. 
+Thus, the findings that at low virus concentrations infected cells were dis- 
+tributed randomly and that at high concentrations (usually) all the cells 
+
+===== PAGE 9 =====
+R. DULBECCO AND M, VOGT 175 
+showed signs of infection are evidence that in a monolayer culture individual 
+cells can all be infected independently. 
+Produaion of High Titer Stocks 
+Monolayer kidney cultures lend themselves to the production of high titer 
+stocks. The highest titers, ranging between 2 and 7 X l0 s plaque-forming 
+doses per ml. supernatant, were obtained when the inocula were sufficiently 
+large to infect almost every cell of a culture; i.e., contained approximately 
+5 X 10 e plaque-forming doses. This was deduced from the following observa- 
+tion. By using inocula of increasing concentration, the virus titer in the super- 
+natant increased correspondingly, until a maximum was reached. The minimum 
+number of plaque-forming doses required in the inoculum to obtain this maxi- 
+mum virus titer was equivalent to two to three times the number of cells 
+present in the culture (as determined by direct cell count). When such an inocu- 
+lum was used, all the cells of a culture showed a complete degeneration ap- 
+proximately at the same time (around 18 hours), whereas with lower inocula, 
+many cells were at this time still apparently intact. Larger inocula did not 
+increase the titer further. 
+The highest concentration of the virus was obtained 24 hours after infection 
+when all cells had degenerated and virus production had ceased. This last fact 
+was shown by the following experiment:- 
+The supernatant culture fluid was removed from a culture 24 hours after inoculation with 
+an inoculum insuring infection of most of the cells; all the cells were degenerated but the 
+majority was still sticking onto the glass. 3 ml. of fresh fluid was added to the culture, which 
+was incubated for an additional period of 24 hours. At this time, a second supernatant was 
+coUected. Upon assay it was found that the second supernatant had only ~0 the titer of the 
+first, which could be entirely accounted for by the residual first supematant. 
+Since a fully grown culture contained approximately two millions of cells, 
+each cell in cultures giving high titer supernatants produced (on the average) 
+an amount of virus ranging between 300 and 1000 plaque-forming doses. 
+DISCUSSION 
+The present work shows that plaque formation by poliomyelitis viruses of 
+the three types has been obtained on monolayer cultures of monkey kidney 
+and, in the case of Type 1, of monkey testis. Kidney cultures, however, proved 
+preferable due to their uniform susceptibility. Other tissues might lend them- 
+selves equally well to plaque production. Among these the HeLa cells derived 
+from a human cancer, might be a material of choice for future work, since 
+these cells grow on glass, are perpetuated easily, and show necrosis under the 
+influence of the poliomyelitis viruses (7). 
+The production of plaques with poliomyelitis viruses offers two points of 
+interest: a theoretical and a practical one. 
+
+===== PAGE 10 =====
+50 
+40 
+r, 30 
+[2o 
+Z 
+PLAQUE FORMATION AND POLIOMYELITIS VIRUSES 
+From a theoretical standpoint, the formation of plaques affords the strongest 
+evidence that a single virus particle is sufficient to initiate the infection of a 
+cell. We will define later the characteristics of this particle. 
+The proof that a single virus particle is sufficient for infection is based on 
+the results of the dilution experiments reported in Table II and Fig. 2, which 
+show an accurately linear relationship between the number of plaques and the 
+virus concentration within each experiment:-- 
+176 
+I I I, ,! I I , I 
+I 2 3 4 5 6 7 i~t~tive virus concentration 
+Fro. 2. Linear relationship between the number of plaques and the virus concentration- 
+The points represent the data of Experiments 2, 3, 4 and 5 of Table L Similar symbols belong 
+to the same experiment. The points surrounded by circles represent the number of plaques at 
+the highest virus concentration within each of the four experiments; for convenience, the val- 
+ues for the corresponding relative virus concentrations were chosen arbitrarily, so as to bring 
+the four points onto the same llne. The relative virus concentrations of the other points within 
+each experiment correspond to the respective dilution factors as given in Table I. 
+Proof That a Linear Relationship Indicates a One-Partide Pkenomenon.--A mono- 
+layer culture of cells can be ideally subdivided into a large number, N, of cellular 
+units, which could be single cells or groups of cells. We now adsorb v virus particles 
+at random onto the cell-layer; the average number of virus particles per cellular unit is, 
+therefore, N" If the adsorption of one particle on a cellular unit is suflficient to produce 
+a plaque (one-partide hypothesis), the number of plaques (Pl) is given, according to 
+the Poisson distribution by: 
+Pl = N (1 - e -='/~') (1) 
+
+===== PAGE 11 =====
+R. DULBECCO AND M, VOGT 177 
+in which a is a constant defining the efficiency of the system. The number N, of cellular 
+units, is equal to the number of the cells in a culture; this is inferred from the fact 
+that all the cells of a culture can be infected at appropriate virus concentration and 
+infection of individual cells occurs independently, as shown under Results. N is, 
+therefore, of the order of 2 X 106. 
+Since we are interested in the case in which only a relatively small number (less 
+av 
+than 50) plaques is produced; i.e., in which ~ is very small, we can approximate 
+equation 1 to 
+PI =. av (1 a) 
+A linear relation between number of plaques and virus concentration is, therefore, 
+expected. 
+It has now to be shown that such linear relation cannot be obtained under other 
+conditions. Let us consider therefore as second hypothesis, the ease that more titan 
+one particle per cellular unit is required to form a plaque, for instance, at least t~o 
+particles. In this ease, according to the Poisson distribution, the number of plaques 
+is given by 
+which, for small ~, approximates to 
+(a~)2 
+et = ~ • (2 a) N 
+The number of plaques would now be proportional to the square of the virus con- 
+centration. As shown in Fig. 3, the curve drawn according to equation (2 a) does 
+not fit the experimental points. 
+If a higher number of virus particles per cellular unit were required, the number of 
+plaques would be proportional to a correspondingly higher power of the virus con- 
+centration; the respective curve would fit the experimental points even less well. 
+Let us turn to a third hypothesis. It has been concluded that for some virus-cell 
+systems the quantitatively different effects of different doses of viruses can be at- 
+tributed to a variation in the regional susceptibility of the hosts, and that the relation 
+between virus concentration and effect could be best explained by assuming that the 
+logarithm of the minimal effective concentration per cellular unit is normally dis- 
+tributed. Under this assumption, the dependence of the number of plaques on virus 
+concentration would be described by an integrated normal distribution (8, 9). This 
+assumption is rather vague as long as the three parameters of the normal distribution 
+are chosen at will; i.e., the number of cellular units, the concentration of virus at 
+which 50 per cent of the cellular units develop lesions, and the variance of the distri- 
+bution. By arbitrarily assuming appropriate values of the three parameters, the re- 
+lation between virus concentration and plaque number predicted by this theory be- 
+
+===== PAGE 12 =====
+178 PLAQUE FORMATION AND POLIOMYELITIS ¥IRUSES 
+comes nearly linear over certain ranges; these segments of the curve could not be 
+experimentally differentiated from a true straight line. To test the hypothesis prop- 
+erly, the three parameters must be determined on the basis of the experimental data. 
+In our case, this can be done since we know the number of the cellular units. We have 
+already shown that this number is of the order of 2 X 10 e. The other two parameters 
+are determined from any two experimental points of the curve. 
+The points used were the following: (1) the point at which the fraction of infected 
+cells per culture was 0.83 (measured by microscopic count in the experiment showing 
+50 
+40 
+3C 
+E 
+z 
+ll . I I 
+I 2 3 4 5 6 7 Relative virus concen~ra[ra~i0n 
+Fro. 3. Comparison of experimental data with hypothesis 2. The curve has been drawn ac- 
+cording to equation (2 a). The points surrounded by circles have been placed arbitrarily on 
+the curve. The relative virus concentrations of the other points correspond, as in Fig. 2, to 
+the respective dilution factors. Points of the same experiment are connected by lines. 
+the independent infection of the cells); (2) the point at which the fraction of infected 
+ceils per culture was 5 X 10 -r, corresponding to one infected cell in a culture (de- 
+termined by the development of one plaque per plate as average). On the normal 
+probability curve, these points lie at +0.95 and -4.9 standard units, respectively, 
+from the center of the curve. Since the virus concentrations used to obtain the two 
+points consisted of 4 X 106 plaque-forming doses and of one plaque-forming dose, 
+respectively, the ratio between the corresponding virus concentrations was 10 s'~. 
+Hence, 5.85 standard units corresponded to 6.6 logl0 units of virus concentration, and 
+the standard deviation of our curve was equal to 1.12 loglo units of virus concentra- 
+tion. The center of the curve corresponded to a virus concentration of 105"u. 
+All the parameters of the normal curve being thus determined, we can now predict 
+the dependence on the concentration of the virus of the number of plaques, for the 
+experimental case that the number of plaques is less than 50 (corresponding to a 
+distance of -3.4 and more standard units from the center of the curve). Fig. 4 shows 
+
+===== PAGE 13 =====
+R. DULBECCO AND M. VOGT 179 
+that there is a strong disagreement between the theoretical curve and the experi- 
+mental points; the third hypothesis can, therefore, be discarded. 
+Our data, thus, conclusively prove that a single virus particle is sufficient 
+to produce a plaque, and that the unit of cellular infection is a single cell. 
+50 
+40 
+30 
+~20 
+I0 
+,,D 
+Standard , units I I I 'I I 
+-490 "460 "4.40 -4.:~5 -4.10 
+2.0xlO "s- 
+I.OxlO - 
+2 4 6 8 I0 V~ru$ concentration, proque-forrning doses 
+Fio. 4. Comparison of experimental data with hypothesis 3, that the number of plaques 
+is proportional to an integrated error function of the logarithm of the virus concentration. 
+The center of this curve corresponds to 10 s.s4 plaque-forming doses of virus, the standard 
+deviation to 1.12 log10 ratio of virus concentrations. In the figure the concentration is repre- 
+scnted in a linear scale. The distances from the center of the curve in standard units are given 
+in the upper scale. The number of plaque-forming doses, given in the lower scale, is equal to 
+10s.s4+ =t~.a~ unit, × I.'~. For additional information, see text. The number of plaques 
+(left scale) is given by the product of the probability (right scale) times the number of cells 
+in the culture (2 X 109. The experimental points have been placed as in Fig. 3. 
+Having arrived at this point, it is now possible to define properly the char- 
+acteristics of the virus particle detected by a plaque. Owing to its all-or-none 
+effect, it has the character of a particle. It corresponds to a unit of the virus 
+which is not further subdivisible at high dilution. From the property by which 
+it is recognized, we call it a plaque-forming particle. We do not know its 
+morphological or genetic properties. It might be a single elementary body, or 
+a clump of them, provided that the clump persists indefinitely at high dilution. 
+
+===== PAGE 14 =====
+180 PLAQUE FORMATION AND POLIOMYELITIS VIRUSES 
+A plaque-forming dose contains at least one plaque-forming particle. It may 
+contain more than one if the coefficient a of equation (1) is less than unity. 
+The finding that the plaque-forming titer of a given virus stock is very 
+similar to its monkey-infectious titer (see under Results) is a strong indication 
+that also for the infection of the monkey one single virus particle is sufficient. 
+A PD60, which corresponds to a probability of infection of 0.5, can be, therefore, 
+expressed in "monkey-infectious doses," one PDl0 corresponding to 0.7 in- 
+fectious doses according to the Poisson distribution (e -~.~ = 0.5). 
+We want now to discuss briefly two conditions which apparently contradict 
+the general conclusion that a single virus particle is sufficient to produce 
+infection. 
+On one hand, a virus sample containing a single plaque-forming dose may 
+actually contain more than one physical virus particle. This may occur for a 
+variety of reasons, which do not invalidate the general conclusions: some of the 
+physical particles may be non-infectious, or they may give rise to non-infectious 
+progeny, or they may be infectious but have a small probability of coming 
+into contact with a cell under the conditions of the experiment. The last condi- 
+tion may explain the slight differences between plaque-forming dose and 
+monkey-infectious dose. 
+On the other hand, a cell may well be infected by more than one plaque- 
+forming particle. It will be shown in a subsequent article that this has been 
+accomplished with the virus of Western equine encephalomyelitis on a sus- 
+pension of susceptible cells (10). Under the conditions of plaque formation 
+however in which less than 100 virus particles come into contact with more 
+than a million ceils, the probability that a cell will be infected with more than 
+one particle is entirely negligible. Under the circumstances outlined a plaque 
+is, therefore, always initiated by a single plaque-forming particle. 
+The practical interest of the production of plaques is a consequence of their 
+properties, as defined in the preceding theoretical discussion, and consists in 
+the fact that they offer a new, sensitive, and reproducible method of titration, 
+and a reliable method for isolating pure lines of the poliomyelitis viruses. 
+Justification of using the plaque technique as a method of titration is based 
+on the following experimental results: (1) the plaques are due to the specific 
+action of the virus; (2) the number of plaques is closely reproducible and pro- 
+portional to the concentration of the virus, provided the plates are not too 
+crowded; (3) the method appears to be slightly more sensitive than the titra- 
+tion in monkeys or in roller tube tissue cultures. From a practical point of 
+view, there should not be more than 40 to 50 plaques per plate, so that the 
+loss by overlapping of plaques be less than 10 per cent. 
+The overlapping of plaques can be avoided by using an inoculum producing 
+a small number of plaques, as seen from the following calculation:-- 
+
+===== PAGE 15 =====
+R. DULBECCO AND M. VOGT 181 
+A distance of 3 mm. between the centers of the two neighboring plaques is approxi- 
+mately the minimum distance required to recognize the separate origin of two plaques. 
+The probability that two or more plaques originate within a circle of 3 mm. diameter 
+can be calculated from equation (2), in which, now v is the number of virus particles 
+on a plate and n the number of non-overlapping 3 ram. circles on the bottom of a 
+60 mm. Petri dish; i.e. ffi 270. The total number of plaques is given by equation (1). 
+Using these equations, it can be seen that 100 plaque-forming particles on a plate 
+produce 84 plaques, 15 of which are of multiple origin; 50 particles on a plate produce 
+46 plaques, 4 of which axe of multiple origin; and 10 paxtides on a plate produce 10 
+plaques, with practically none multiple (only one multiple plaque in 10 such plates). 
+Using as maximum 40 to 50 plaques per plate, the plaque technique com- 
+pares favorably with the roller tube technique as assay method.~-fifteen to 
+thirty cultures prepared from one monkey kidney allow an accurate count of 
+approximately 600 to 1200 plaques, which are statistically equivalent to about 
+1200 to 2400 roller tubes~ 
+The production of pure virus strains has been obtained by Burnet el a/. (1I) 
+and by Hirst and Gotlieb (12) in influenza virus by egg passages at limiting 
+dilutions, and by Downie and Haddock (13) in vaccinia by resuspending pocks 
+developing on the chorio-allantoic membrane of the chicken embryo. 
+The recovery of virus from single plaques provides another method for 
+virus purification. Purity of the plaque virus is assured if the following three 
+requirements are fulfilled: (1) absence of plaques of multiple origin due to 
+secondary overlapping; (2) no contamination of the plaque picked by virus 
+diffusing from an adjacent plaque, or (3) by residuat non-adsorbed seed virus. 
+The conditions fulfilling requirements (1) and (2) have already been dis- 
+cussed; they consist in the use of plates having less than 10 plaques, and in the 
+picking of plaques at a distance of at least 10 ram. from the margin of an ad- 
+jacent plaque. Requirement (3) can be fulfilled by washing the cell layer free 
+of unadsorbed virus at the end of the adsorption period. It should be noted, in 
+addition, that possibly contaminating virus particles could be eliminated by 
+using two or more serial plaque passages. After fulfilling these three require- 
+ments, the purity of the plaque virus is limited only by the possible existence 
+of heterogeneous components within the same plaque-forming virus particle. 
+SUMMARY 
+Plaques have been produced with the three types of poliomyelitis viruses on 
+monolaycr tissue cultures of monkey kidney and monkey testis. The number 
+of plaques was proportional to the concentration of the virus. Each plaque 
+originates, therefore, from a single virus particle, defined as the virus unit 
+that is unseparable by dilution. The plaques are due to the specific action of 
+the virus since they are suppressed by type-specific antiserum. 
+
+===== PAGE 16 =====
+182 PLAQU'E ~OILMATION AND POLIOMYELITIS VIRUSES 
+Pure virus lines were established by isolating the virus population produced 
+in single plaques. These derived virus lines had the same morphological, 
+serological, and pathogenic properties as the parent strain. 
+High titer virus stocks, with titers up to 7 X l0 s plaque-forming particles 
+per ml., were obtained. 
+Grateful acknowledgment is made to Dr. C. F. Pait for numerous discussions and for per- 
+forming the intmcerebral inoculation of the monkeys; to Mrs. Kathy Hayden and to Mrs. 
+Patrida Knuth for their valuable technical assistance. 
+BIBLIOGRAPHY 
+1. Dulbecco, R., Proc. Nat. Acad. Sc., 1952, 38, 747. 
+2. Robbins, F. C., Enders, J. F., and Weller, T. H., Proc. Soc. Exp. Biol. and Me~,, 
+1950, 75, 370. 
+3. Earle, W. R., J. Nat. Cancer Imt., 1943, 4, 165. 
+4. Committee on Typing, The National Foundation for Infantile Paralysis, Inc, 
+Am. J. Hyg., 1951, 54, 191. 
+5. ¥oungner, J, S. personal communication. 
+6. Anderson, T. F., J. Ba~t., 1948, 55, 651. 
+7. Scherer, W. F., Syverton, J. T., and Gey, G. 0., l. Exp. Med., 1953, 97, 695. 
+8. Bryan, W. R., and Beard, J. W., Y.: Infect. Dis., 1940, 6"/, 5. 
+9. Kleezkowski, A., J. Gen. Microbiol. 1950, 4, 53. 
+10. Dulbecco, R., and Vogt, M., J. Exp, Med., 1954, 99, 183. 
+11. Burnet, F. M., Fraser, P. E., and Lind, P. E., Nature, 1953, 171, 163. 
+12. Hirst, G. K., and Gotlieb, T., Y. Exp. Med. 1953, 98, 53. 
+13. Downie, A. W., and Haddock, D. W., Proc. 6th Internat. Cong. Microbiol., Rome, 
+September 7-11, 1953, 2, 32. 

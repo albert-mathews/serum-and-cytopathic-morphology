@@ -1,0 +1,30 @@
+papers n=169
+  pre:  mean=9.30 median=10.00
+  post: mean=2.24 median=2.00
+institutions n=8 (APHIS VIRPRO excluded)
+  pre:  [10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 7.5]  names=['ATCC Virology Culture Guide', 'CLSI M41-A (Viral Culture)', 'ASM Cytopathic Effects of Viruses Protocols', 'NEADL / CIRAD PPRV SOP (VI27)', 'WOAH Terrestrial Manual (MERS-CoV chapter)', 'WHO EPI', 'CDC Measles Lab Tools — Vero/hSLAM virus isolation', 'Health Canada / CCDR Measles Surveillance Lab Support (B95-a)']
+  post: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+
+Paper pre value counts:
+0.0       2
+1.0       1
+2.0       2
+4.0       1
+5.0      13
+7.5       3
+8.0       5
+10.0    139
+15.0      3
+
+Paper post value counts:
+0.0      17
+0.2       1
+1.0      11
+1.5       1
+2.0     113
+2.5       2
+3.0       5
+4.0       1
+5.0      12
+6.0       1
+10.0      5

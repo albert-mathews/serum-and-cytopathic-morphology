@@ -1,0 +1,547 @@
+
+===== PAGE 1 =====
+SectionofEpidemiologyandPreventive
+G.D.HSIUNG Medicine,YaleUniversitySchoolofMedicine
+APPLICATIONSOF PRIMARYCELLCULTURESIN THESTUDY
+OF ANIMALVIRUSES**
+Ill.BiologicalandGeneticStudiosofEntericViruses
+ofMan (Enteroviruses)t
+SincethediscoverybyEnders,Weller,andRobbinsin1949'thatpolio-
+viruscouldmultiplyinculturesofnon-nervoustissues,cellculturetech-
+niqueshavebeenusedextensivelyinthestudiesofenteroviruses'forthe
+lastdecade.Theaccumulatedliteraturerevealsthattheusefulnessofthese
+culturemethodsismany-foldandmayincludevirusisolation,virusmulti-
+plicationstudies,andserologicaldiagnosesofdisease,aswellasepidemio-
+logicalinvestigations.A reviewoftissueculturetechniquesinthestudy
+ofenteroviruseshasbeenpublishedindetailbyWeller'andbyMelnick."
+Thisdiscussionwilldealwithafewbiologicalcharacteristicsofcertain
+enterovirusesinprimarycellculturesandtheapplicationsoftheseculture
+techniquesingeneticstudiesofanimalviruses.
+BIOLOGICALCHARACTERISTICSOF ENTEROVIRUSES
+Hostcellspecificity
+Insearchingforauniformlysusceptiblehostsystemwhichcanbeeasily
+obtainedforthestudyoftheentirefamilyofenteroviruses,primarykidney
+cellculturesderivedfromavarietyofprimatesandnon-primateswere
+tested.Intheprimategroup,humankidneytissues,aswellaskidneycells
+fromOldWorldmonkeys,baboonsofAfricaandAsia,andNewWorld
+monkeysfromSouthAmericaweregrowninculture.Inthenon-primate
+series,kidneysofdomesticandlaboratoryanimalswereused.Theresults
+forthesubsequentdiscussiononhostcellspecificityareshowninFigure1.
+*ResearchAssociate,Epidemiology,YaleUniversitySchoolofMedicine.
+**PresentedatasymposiumsponsoredbytheLeoF.Rettger-ConnecticutValleyBranch,SocietyofAmericanBacteriologists,Amherst,Massachusetts,6November1959.Convener:Dr.G.D.Hsiung.
+tAidedbyagrantfromTheNationalFoundationandinpartbyagrantfromtheJamesHudsonBrownMemorialFundoftheYaleSchoolofMedicine.
+Receivedforpublication10May1960.
+359
+===== PAGE 2 =====
+YALEJOURNAL OF BIOLOGY AND MEDICINE
+Primatekidneycellcultures.Itisapparentthathumankidneyand
+rhesus(Macacamulatta)cellculturesweresensitivetoinfectionbyallthe
+entericvirusestested.Patas(Erythrocebuspatas)cellswerehighlysuscep-
+tibletothethreetypesofpoliovirus,groupB CoxsackieandgroupB of
+ECHO (types7,10,and12)virusesbutresistantorpartiallyresistant
+NAMSTER
+GUINEA
+PIG
+In RABBIT
+4
+Fr CALF
+z
+O PIGz
+CAT
+0 DOG
+CAPUCHIN
+(aIJI--49
+a-
+PATAS
+RHESUS
+HUMAN(8)
+PLRH
+TYPE
+VIRUS
+IijLLL I I I I I I IILISI I iI I 3 E
+1 2 3 A-B-12B-3HF 12 3 4 5 6 7 8 9 1011121314 A BC MOLL
+POLIOMYELITISCOXSACKIE ECHO ECMO ECBO
+CPE * POSITIVE * QUESTONABLEQ NEGATIVELEGEND ND NOTDONEPLAQUE[3LARGE[1SMALL Q NOPLAQUE
+FIG.1.Comparativesusceptibilityofkidneycellculturestoentericviruses.
+toCoxsackieA 9andgroupA ofECHO viruses."8"Capuchin(Cebus
+capucina,aNewWorldmonkey)kidneycultures,ontheotherhand,were
+foundsusceptibleonlytoECHO-10amongtheenterovirusestested,ashas
+beenobservedbyRamos-AlvarezandSabin."'"Inaddition,ECHO-10
+wastheonlyoneoftheenterovirusgroupwhichcausedcytopathicchanges
+inpatascellsbutwasunabletoproduceplaquesonrhesusoronpatas
+monolayers.'
+360
+Volume33,April1961
+===== PAGE 3 =====
+CellculturesandanimalvirusesI
+Non-primatekidneycultures.Ofthenon-primatekidneyculturesuti-
+lized,pigkidneycellsoriginallyshowedcytopathiceffects(CPE)when
+infectedwithCoxsackieB-1,2,and4,butuponrepeatedpassageofthese
+viruses,theseeffectsweregraduallylost.Incontrast,CoxsackieB-3pro-
+ducedconsistentCPEuponrepeatedsubculture.BarronandKarzon're-
+portedthatCoxsackieA 9andCoxsackieB 1-5producedCPEinham-
+sterkidneycultures,butwehavefoundthathamstercellsweresusceptible
+onlytothegroupB Coxsackieviruses.
+AmongtheECHO virusestestedinthislaboratory,ECHO-10caused
+typicalCPEinkidneyculturesderivedfromdog,cat,pig,rabbit,guinea
+pig,hamster,andtosomeextentcalf.'Similarchangeswiththisagent
+inpigkidneycultureshavebeennotedbyGuerinandGuerin.'ECHO-10
+virustitersobtainedfromnon-primatecultureswereessentiallythesame
+asthoseoftheprimateculturesasfoundinourpreviousstudiesandas
+reportedbyBarronandKarzonintheirstudiesusinghamsterkidney
+cultures.'
+TwostrainsofGroupA entericcytopathicmonkeyorphan(ECMO)
+viruses'"'werefoundtoproduceCPE inallprimateandnon-primate
+tissueculturestested,whilegroupB andgroupCofECMO virusesgrew
+onlyinprimatecultures.Theentericcytopathicbovineorphanvirus
+(ECBO)isolatedbyMollandFinlaysonTcausedcytopathicchangesonly
+insomeofthenon-primatecultures,andinallprimateculturestested.
+Fromthesedata,itisevidentthatECHO-10isdistinctinitshostcell
+rangeandhasbeendemonstratedtodifferfromthoseoftheothermembers
+ofenterovirusgroup.Itsabilityincommonwithcertainsimianviruses
+tomultiplyinnon-primatekidneyculturesaddssupporttothenotionthat
+itshouldberemovedfromtheECHO virusgroup,andrecentlythename
+"Reoviruses"wasproposedforECHO-10andtherelatedviruses.'
+Humankidneycellcultures.Humankidney(HK)culturessupported
+multiplicationofpoliovirustypes1,2,and3(bothvirulentandattenuated
+strains)withaccompanyingcellulardegenerativechangesinkidneycul-
+turesderivedfromadultandinfanttissuesobtainedatautopsy.There
+werenosignificantdifferencesinattenuatedandvirulentpoliovirusplaque
+titersorvirusyields,althoughstrainsofattenuatedpoliovirusproduced
+smallerplaquesthanvirulentstrainsonHK cultures.Humankidneycell
+culuresderivedfromprematurebabieswerehighlysensitivetoinfection
+byCoxsackieandECHO virusesanddisplayeddistinctcytopathicchanges
+similartothoseproducedbythepolioviruses.Culturespreparedfromcer-
+tainadultkidneytissues,however,didnotshowthesecytopathicresponses
+wheninoculatedwithCoxsackieA 9,CoxsackieB 1-5orECHO viruses
+(exceptECHO virustypes7and10).ManyoftheCoxsackieandECHO
+virusesmultipliedandpersistedintheculturesderivedfromadulttissues
+361
+HSIUNG
+===== PAGE 4 =====
+YALEJOURNAL OF BIOLOSYAND MEDICINE
+'$ 0e.rt.6
+N
+'l
+10+
++
+ io +
+1I00
++
+t1o+
+16 CDC
+10
+ lu t -
+Q 3.t
+4)4)
+coC
+co
+*)4. 4
+O
++1++++
++++++
+ -
+V-
+0+
++o +
+0+
++
++ +
+0 0
+0 0
+o> o
+0 0
+0 0
+0 +1
+* 0
+E)
+WCU
+U)
+0
+z
+V)
+0z
+0
+U)
+z
+x
+z
+z
+UX
+-4
+134
+0
+z0
+U)
+CU
+H3
+* U)U)4)
+U) U)
+00
+'-4 '-4
+4*. I- i..
+,.4)4)U '. '.
+U)4)4)
+,.' ,.*'
+bO4)
+0
+Un
+ qA
+362
+3
+U)
+Volume33,April1961
+===== PAGE 5 =====
+CellculturesandanimalvirusesI HSIUNG
+althoughcellulardegenerationwasincompleteandnotreadilyrecog-
+nizable.'
+Thesensitivityofrhesusandhumankidneyculturesfortheprimary
+isolationofECHO 2andECHO 11fromhumanstoolsisshowninTable1.
+Rhesusmonkeykidneyculturesandcellsderivedfromprematurebaby
+kidneyswereequallysatisfactoryfortheisolationofECHO virustype2
+fromstoolsuspensions;adulthumankidneytissueswerenotsatisfactory
+forthispurpose.HK culturesfrominfantswerehighlysensitiveforiso-
+latingECHO 11(WB)virusfromstoolsuspensions,whereasrhesuscells
+werelesssusceptibletoinfectionbythisparticularstrainofECHO virus.
+Figure2illustratestheCPEofECHO-il(WB)virusinrhesusand
+infantkidneycellcultures.Extensivecellulardestructionwasobserved
+intheHK culture(derivedfromprematurebabykidneytissue)eight
+hoursafterinfection,whereasonlysmallfociofdegenerationoccurred
+inrhesuscultures48hoursafterinoculation.Itisconcluded,therefore,
+thatinasearchforauniversallysensitivetissueculturesystemforthe
+isolationofunrecognizedetiologicalagentsofhumanviralinfections,human
+cellculturesappeartobethemostdesirable.
+Plaquecharacterization
+ThedevelopmentoftheplaquemethodbyDulbecco7enhancedthever-
+satilityoftissueculturetechniquesforstudyinganimalviruses.However,
+inordertodemonstrateplaquesofslow-growingviruses,itwasnecessary
+toadaptDulbecco'stechniquetostopperedprescriptionbottleculturesin
+whichkidneycellswerestableunderagarfortwotothreeweeksor
+longer.17Thus,theneedforthehumidifiedincubatorandC02-airmixture
+waseliminated.
+Asreportedinthetwoprecedingpapers,somedistinctivedifferencesin
+plaquepatternswerenotedwhenpropagatingbovineentericvirusesor
+arthropod-bornevirusesinprimarycellcultures.14'" " Paststudies"onthe
+enteroviruseshaveshownthatpoliovirustypes1,2,and3producedlarge,
+circularplaqueswithclearcentersandsharpboundariesonrhesusmono-
+layerswithinfourorfivedaysafterinoculation,withtheplaquesincreas-
+inginsizethereafterasshowninFigure3.Coxsackievirusplaqueswere
+alsoround,resemblingthoseofthepoliovirusesexceptfortheirdelayed
+appearance,usuallyaboutsixtosevendaysaftervirusinoculation,and
+healthycellsstainedwithneutralredcouldbeseenwithintheareaof
+Coxsackievirus-inducedcellulardegeneration.Thiswasespeciallymarked
+attheperipheryoftheplaquesofCoxsackieA 9(Fig.3).ECHO virus
+plaques,whichalsoareshowninFigure3,weresmallerandmoreirregu-
+363
+===== PAGE 6 =====
+YALE JOURNAL OF BIOLOGY AND MEDICINE
+larinshapethanpoliovirusplaques,andtheirboundarieswerediffuse.
+ExceptionsinthispatternwereECHO types7and12whichformed
+plaquesindistinguishablefromthoseofthepolioviruses(Fig.3).
+Mixedinfectionswereeasilyandquicklyrecognizedbytheuseofthe
+plaquetechnique.However,ifthismethodisusedforvirusisolation,
+fluidculturesshouldalsobeinoculatedinordertodetectECHO viruses
+whichdonotproduceplaques(ECHOvirustypes2,5,and6)butinduce
+CPEinfluidcultures.We havealsoobservedrecentlythatcertainECHO
+virusesproducedplaquesunderagaroverlaybutwereincapableofpro-
+ducingcytopathicchangesinparallelfluidcultures.'A similarphenom-
+enonwasoriginallydescribedintissueculturestudiesofthearthropod-
+bornevirusgroup.'
+FACTORSINFLUENCINGVIRUSMULTIPLICATION
+UNDER AGAR OVERLAY
+Componentsinagaroverlaymedium
+Concentrationofsodiumbicarbonate.InconfirmationofreportsbyVogt
+etal.'wehavefoundthatinbottleculturestheconcentrationofbicar-
+bonateintheagaroverlayaffectsplaqueformationofattenuatedstrains
+ofpoliovirus.'Thetwoconcentrationsofbicarbonate,namely0.075and
+0.45gmpercent,wereusedinthislaboratoryasmarkersforthediffer-
+entiationofvirulentandattenuatedpoliovirusstrains.
+Aminoacids,serum,andotherproteins.Dubes'foundthatdevelopment
+ofpolioplaquewasevidentincultureswhentheoverlaymediumwasen-
+richedwiththeadditionofL-cystine.Rappaport'showedthatinthe
+presenceofcertainconcentrationsofglycerine,usingaprotein-freesyn-
+theticoverlaymedium,poliovirusplaquenumberswerereduced,andthe
+rateofplaquedevelopmentwasretarded.Argininewasfoundtobere-
+quiredforadenovirusplaqueproduction.!
+TakemotoandHabel'1foundthat2percenthorseserumfromcertain
+horseswhenaddedtotheoverlaycausedinhibitionof90percentofthe
+plaquesproducedbypoliovirustype1.Thisserum"inhibitor"washeat
+stable,non-dialyzable,anddidnotneutralizethevirus.Plaqueformation
+bypoliovirustypes2and3andCoxsackieA 9viruswasapparentlyunaf-
+fectedbythe"inhibitor."Incontrast,plaqueformationofECHO virus
+types8and18wasacceleratedbytheadditionoflactalbuminhydrolysate
+intheoverlaymedium.'
+Neutralredandlighteffect.Photosensitizationoftissueculturesinthe
+presenceofneutralredwasnotedbyGreenandOptonuandbyKleinand
+364
+Volume33,April1961
+===== PAGE 7 =====
+CellculturesandanimalvirusesIHSIUNG
+Goodgall.'9Theformerauthorsfoundthatmonkeykidneyculturesinocu-
+latedwithpoliovirustype1producedsmallerandfewerplaqueswhenthe
+overlaidmediumcontainedneutralredandwereexposedtolight.This
+photodynamicactionofneutralredincellcultureswasalsonotedby
+GouchenourandBaron.10
+Temperatureofincubation
+Dubes'andDubesandWenner'havenotedthatwhenpoliovirusmulti-
+pliedat230C.,amarkedlydiminishedvirulenceinmonkeyswasevident.
+Recently,LwoffandLwoff`havefoundthatvirulentstrainsofpolio-
+virusgrewreadilyat39°-40°C.,whilemultiplicationofattenuatedstrains
+wasgreatlyreducedatthesetemperatures.Yoshiokaetal.'inourlabora-
+toryhaveconfirmedthisphenomenon,and,inaddition,Yoshiokahas
+shownthatplaquesproducedbyattenuatedpolioviruswereinhibitedat
+hightemperatures,namely39°-40°C.,butthevirulentstrainsproduced
+plaquesequallywellat350C.,37°C.,and390C.,althoughtheplaques
+producedat390C.weresmaller.
+Cellcultures
+ItwasnotedbyFrothingham9thatsusceptibilityoffluidculturesof
+humanamnioncellstoastrainofpoliovirustype2wasincreasedasthe
+culturesaged.Inourhandswehavefoundthatyoungercultureswith
+compactcellsheetsweremoresensitivetovirusinfectionunderanagar
+overlayeventhoughvariationinplaquesizeandnumberswasevident
+whendifferentlotsofcultureswereused.Inaddition,kidneycellsderived
+fromyoungindividuals,especiallyfromembryonictissues,seemedtobe
+farmoresensitivetoviralinfectionthankidneycellsderivedfromadults.'
+Furthermore,smallerplaqueswereobtainedinHK culturesinoculatedwith
+poliovirusofattenuatedstrainsthanthevirulentonesasshowninFigure4,
+althoughtheyieldsoftheviruswerenotverydifferent.
+GENETIC STUDIESOF COXSACKIEA 9 VIRUS27
+Plaquemorphologyandhostcellrangehavebeenusedasmarkersfor
+geneticstudieswithbacterialviruses,'0andapparentlytherearemanyad-
+vantagesinusingsuchmarkersforgeneticstudiesinanimalviruses.
+AdaptationandplaquesizevariationofCoxsackieA 9virus
+Itwasshowninthehostcellspecificitysectionofthispaperthatpatas
+monkeykidneycellswerefoundquiteresistanttoCoxsackieA 9virus
+365
+===== PAGE 8 =====
+YALE JOURNAL OF BIOLOGY AND MEDICINE
+infection.ThreeattemptstopropagateCoxsackieA 9virusseriallyin
+non-irradiatedpatascellswereunsuccessful(Table2).Incontrast,when
+serialpassagesweremadeinx-irradiatedpatascultures,virusyieldsin-
+creasedateachpassageandcytopathicchangesbecamemostprominent
+bythe5thpassage.'InTable3viruspopulationsinirradiatedpatasfluid
+culturesduringthecourseofserialpassagesareanalysedandvariations
+inplaquesizenotedduringtheprocessoftheseserialtransfersareilus-
+trated.Smallplaque-typevirus(9.3percent)emergedafterthesecond
+TABLE2.SERIALTRANSFERSOFCOXSACKIEA-9VIRusINPATASCULTURES
+VirustiterlogPFU (Rh)perml.
+ExperimentI ExperimentII ExperimentIII
+No.passagesNon-irrad.Irrad. Non-irrad.Irrad. Non-irrad.Irrad.
+0* 8.4 9.1 8.5 8.5 8.5 8.5
+1 7.4 8.1 7.4 7.0 7.4 7.4
+2 5.6 7.1 5.9 6.4 5.9 6.6
+3 4.7 7.5 4.4 5.5 4.4 5.7
+4 1.6 7.4 2.2 6.5 2.2 5.2
+5 0 7.8 1.7 7.2 2.0 4.8
+6 0 7.8 0 7.2 0 4.6
+7 0 7.3 0 5.2
+8 0 7.6 0 5.3
+*Originalinoculum.
+passageintheirradiatedpatascells,and100percentsmallplaqueswere
+producedbythesixthtissueculturepassage.Theidentityoftheadapted
+viruswasconfirmedbyneutralizationwithantiserumfromrabbitsim-
+munizedwithaprototypeCoxsackieA 9virusstrain.
+Plkquetypereversioninmice
+ReversionoftheadaptedA 9viruswasnotedafteronemousepassage.
+Brainsuspensionsfrominfantmiceinoculatedwiththeadaptedvirus
+showedtwodistinctkinds(largeandsmall)ofplaquesonrhesusmono-
+layers,butonlylargeplaquesappearedinculturesinoculatedwithamouse
+brainsuspensionoftheparentA9strain.Thelargeplaqueresemblingthat
+producedbytheparentvirusandthesmallplaquesresemblingthosepro-
+ducedbytheadaptedstrainwerefoundonlyinmousebrainafterinocula-
+366
+Volume33,April1961
+===== PAGE 9 =====
+FIG.2.CytopathiceffectofECHO-li(WB) virusinRh andHK-B cultures.1.A rhesuscontrolculture.
+2.A rhesuscultureinoculatedwithECHO-11(WB) virus48hrs.afterinfectionshowingsmallfociofdegeneration.3.Aninfantkidneyculturecontrol.4.An infantkidneycultureinoculatedwithECHO-11(WB) virus8 hrs.after
+infectionshowingextensivecellulardestruction.
+
+===== PAGE 10 =====
+.~~~~~~~~~~~~~~~~'l-o,
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~4-4
+ 2osi>J;J OX~~~~~~~~~~~~~c
+ _ .wb\4. .~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Cs_
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~..^.C;d KCMO;-]8Oet~~~~~~~~~~~~~~~~'
+_~~~ o - F^/ ~~~~~~~~C
+., ___ ~_ ....................................>
+I;
+.:: .:
+ ::.
+*::::
+.::.:::.
+....:.
+...
+:.
+.:
+......* :
+.....:.:. :::
+
+===== PAGE 11 =====
+bO~
+I-'-
+0*
+ V
+V V
+)dI
+a
+
+===== PAGE 12 =====
+CellculturesandanimalvirusesIHSIUNG
+tionwiththeadaptedvirus.Virusesrecoveredfrombothplaquetypes
+wereneutralizedbyCoxsackieA 9antiserum.
+Boththelargeandsmallplaqueswerepickedandgrowninrhesustube
+cultures.Theresultsoffurtherplatingoftheseplaquesindicatethat
+virusesfromlargeplaquesproducedmostlylargesizedplaques.However,
+largeplaquesemergedfromsmallplaqueviruses.Ingeneral,virustiters
+inpatascultureswerelowforlargeplaquesandhighforsmallplaques,
+resemblingthosemarkersfortheparentandtheadaptedstrains,respec-
+tively.
+TABLE3.CHANGEINPLAQUESIZEON SERIALPASSAGES
+INIRRADIATEDPATASCULTURES
+Plaquetype(percent)
+Large Medium Small
+No.pass.inirrad.patas (10mm.) (5-10mm.) (5mm.)
+0* 100 0 0
+1 100 0 0
+2 88.4 2.3 9.3
+3 26.6 33.3 40.0
+4 12.5 12.5 75.0
+5 0 25.0 75.0
+6 0 0 100.0
+10 0 0 100.0
+14 0 0 100.0
+*Originalparentvirus.
+Growthrateandplaquesizeoftheadaptedvirusinrhesusandpatascultures
+Setsofrhesusandpatascultureswereeachinoculatedwiththeadapted
+virusatlimitingdilutionsandharvestedattwo-hourintervals.Theresults
+areshowninTable4.Inrhesusculturesvirusfirstappearedinfourhours
+andincreasedintiteruptotenhours.Onlythelargeplaquetypevirus
+wasobservedduringthisperiod(firstgrowthcycle).However,small
+plaques(18percent)wereobtainedinthe24-hoursample,indicatinga
+delayedgrowthrateofthesmallplaque-typevirus.Inpatasculturesthe
+viruswasfirstdetectedaftereighthours,andthesizeoftheplaqueswas
+small.Approximatelyfourpercentoftheviruspopulationformedplaques
+ofmediumsizeinasampleharvestedat24hoursfrompatascultures.The
+growthrateofthesmallplaque-typevirusagainwasshowntobeslower
+thanthelargeplaquetype.
+367
+===== PAGE 13 =====
+YALE JOURNAL OF BIOLOGY AND MEDICINE
+TheoriginandfrequencyofthisreversionaresummarizedinFigure5.
+Thisdiagramaticschemeillustratesthenatureoftheexperimentscon-
+ductedtostudyplaquevariationwithCoxsackieA 9virus.Allplaques
+weremeasuredonrhesusmonolayerssevendaysafterseeding.Thenum-
+bersinthesmall,medium,andlargecirclesgivethepercentageofthe
+small,medium,andlargeplaquetypesinthepopulationstested.
+Thesedataindicategenerallythat:
+TABLE4.GROWTHRATEANDPLAQUESIZEOFADAPTEDVIRUS
+INRHESUSANDPATASCULTURES
+Cellculture
+Rhesus Patas
+Hoursafter
+infection 2 4 6 8 10 24 2 4 6 8 10 24
+Virustiter
+logPFU(Rh)/ml.0 2.03.63.51.04.1 0 0 0 2.22.94.0
+Plaquesize* L L L L L L&S S S S S S M&S
+*L Large(10mm.).M = Medium(5-10mm.).S Small(5mm.).
+(i)After14passagesofCoxsackieA 9virusinirradiatedpatascultures,theadaptedvirusproducedsmallerplaquesonrhesusmonolayersthanthe
+parentstrain.
+(ii)Whenalimitingdilution(10PFU)orasingleplaquewastransferred
+toarhesusculture,onlylargeplaqueswereevidentinharvestsateighthours,thatis,atasinglegrowthcycle.
+(iii)A shifttowardthelargeplaquesizeresultinginamixedpopulationwasnotedwhentheadaptedviruswaspassedthroughnewbornmice.Simi-larresultswerealsoobtainedinrhesusculturesaftermultiplegrowth
+cycleseitherinafluidmediumorunderanagaroverlay.
+(iv)Onefurtherpassageofthismixedpopulationinrhesuscultures
+yieldedatotalreversiontothelargeplaquetype.Incontrast,threepas-
+sagesinnon-irradiatedpatasculturesproducedthesamehighpercentage
+ofsmallplaquetypes,andonefurthermousepassageresultedinonlya
+partialincreaseintheproportionoftheparentplaquetype.
+Itisgenerallyrecognizedthatmostvariationinviruspropertiesisdue
+tomutationandselectiveoutgrowthofthevariantratherthantoanydirect
+influenceoftheenvironmentonthemultiplicationofviruspopulation.
+368
+Volume33,April1961
+===== PAGE 14 =====
+CellculturesandanimalvirusesIHSIUNG
+However,inourstudytheunusuallyhighrateofreversioninplaquetypes
+aswellasinhostcellrangeduringasinglepassageineitherrhesuscul-
+turesorinfantmiceandtheapparentlycompletereversionwhenthehar-
+vestwasmadeinrhesusculturesafterasinglegrowthcyclesuggested
+thatthehostcellmayexertadirectinfluenceonthevariationobserved
+inCoxsackieA 9virus.
+FIG.5.A summaryonplaquevariationofCoxsackieA 9virus.Thenumbersinthesmall,medium,andlargecirclesgivethepercentageofthesmall,medium,andlargeplaquesinthepopulationstested.
+CONCLUSION
+Inthissymposiumwehaveattemptedtoreviewsometrendsinthe
+applicationofprimarycellculturesinthestudyofavarietyofanimal
+viruses.Celllineculturesofcancerousoriginwerenotutilizedinthese
+studiesduetothelackoforchangeinspecificitytocertainviralinfections.
+Todemonstratesuchspecificity,resultsmaybeachievedonlywhenthe
+culturesarederiveddirectlyfromaspecifichost.Virologistsforthenext
+decadeatleastwillhavetocontinuetobeconcernedwithdeveloping
+newermethodsfortherecognitionandclassification,aswellasforthe
+biologicalandgeneticstudiesoftheseviruses.We believethatasthese
+techniquesbecomemorequantitative,theywillcontributesubstantiallyto
+369
+.,if
+.1
+===== PAGE 15 =====
+YALE JOURNAL OF BIOLOGY AND MEDICINE Volumze33,April1961
+thesolutionofthenatureandbehaviorofthesevirusesandtotheeffective
+andefficientcontrolofdisease.
+REFERENCES
+1.Barron,A.L.andKarzon,D.T.:Cultivationofenterovirusesinhamsterkidneytissueculture.Proc.Soc.exp.Biol.(N.Y.),1959,100,316-320.
+2.Bonifas,V.andSchlesinger,R.W.:Nutritionalrequirementsforplaqueproduc-tionbyadenovirus.Fed.Proc.,1959,18,2196(abstract).
+3.Committeeontheenteroviruses.NationalFoundationforInfantileParalysis.Amer.J.Pubi.Hlth,1957,47,1556-1566.
+4.Dubes,G.R.:Cystinerequirementfornormalpoliovirusactiononmonkeykidneytissuecultures.Proc.Soc.exp.Biol.(N.Y.),1956,93,129-132.
+5.Dubes,G.R.:Cold-adaptedgeneticvariantsofpolioviruses.Science,1956,124,586-588.
+6.Dubes,G.R.andWenner,H.A.:Virulenceofpoliovirusesinrelationtovariantcharacteristicsdistinguishableoncellsinvitro.Virology,1957,4,275-296.
+7.Dulbecco,R.:Productionofplaquesinmonolayertissueculturesbysingleparticlesofanimalvirus.Proc.nat.Acad.Sci.(Wash.),1952,38,747-752.
+8.Enders,J.E.,Weller,T.H.,andRobbins,F.C.:CultivationofLansingstrainofpoliomyelitisvirusinculturesofvarioushumanembryonictissue.Science,1949,109,85-87.
+9.Frothingham,T.E.:EffectofagingandrotationonhumanamnioncellresponsetopolioandSindbisviruses.Proc.Soc.exp.Biol.(N.Y.),1959,100,505-510.
+10.Gouchenour,A.M.andBaron,S.:Developmentofresistancebycellculturestophotodynamicaction.Proc.Soc.exp.Biol.(N.Y.),1959,102,732-735.
+11.Green,R.H.andOpton,E.M.:Photosensitizationoftissueculturecellsanditseffectonviralplaqueformation.Proc.Soc.exp.Biol.(N.Y.),1959,102,519-521.
+12.Guerin,L.F.andGuerin,M.M.:Susceptibilityofpigkidneytissueculturestocertainviruses.Proc.Soc.exp.Biol.(N.Y.),1957,96,322-323.
+13.Henderson,J.R.andTaylor,R.M.:Arthropod-bornevirusplaquesinagaroverlaidtubeculturesProc.Soc.exp.Biol.(N.Y.),1959,101,257-259.
+14.Henderson,J.R.andTaylor,R.M.:Propagationofcertainarthropod-bornevirusesinavianandprimatecellcultures.J.Immunol.,1960,84,590-598.
+15.Henderson,J.R.:Variationinhostresponsestoinfectionbycertainarthropod-borneviruses.YaleJ.Biol.Med.,1961,33,
+16.Hershey,A.D.:Spontaneousmutationsinbacterialviruses.ColdSpr.Harb.Symp.quant.Biol.,1946,11,67-76.
+17.Hsiung,G.D.andMelnick,J.L.:Plaqueformationwithpoliomyelitis,coxsackie,andorphan(ECHO)virusesinbottleculturesofmonkeyepithelialcells.Virology,1955,1,533-535.
+18.Hsiung,G.D.andMelnick,J.L.:Morphologiccharacteristicsofplaquespro-ducedonmonkeykidneymonolayerculturesbyentericviruses(poliomyelitis,coxsackie,andechogroups).J.Immunol.,1957,78,128-136.
+19.Hsiung,G.D.andMelnick,J.L.:Comparativesusceptibilityofkidneycellsfromdifferentmonkeyspeciestoentericviruses(poliomyelitis,coxsackieandechogroups).J.Immunol.,1957,78,137-146.
+20.Hsiung,G.D.andMelnick,J.L.:Adsorption,multiplication,andcytopatho-genicityofentericviruses(poliomyelitis,coxsackie,andechogroups)in
+susceptibleandresistantmonkeykidneycells.J.Immunol.,1958,80,45-52.
+21.Hsiung,G.D.andMelnick,J.L.:Effectofsodiumbicarbonteconcentrationonplaqueformationofvirulentandattenuatedpolioviruses.J.Immunol.,1958,80,282-293.
+370
+===== PAGE 16 =====
+CellculturesandanimalvirusesIHSIUNG
+22.Hsiung,G.D.andMelnick,J.L.:Orphanvirusesofmaniandanimal.AItn.N.Y.Acad.Sci.,1958,70,342-361.
+23.Hsiung,G.D.:SomedistinctivebiologicalcharacteristicsofECHO-10virus.
+Proc.Soc.exp.Biol.(N.Y.),1958,99,387-390.
+24.Hsiung,G.D.:Effectofx-irradiationonpatasmonkeykidneycellsusceptibilitytoenteroviruses.Virology,1959,7,140-149.
+25.Hsiung,G.D.:Theuseofagaroverlayculturesfordetectionofnewvirusisolates.
+Virology,1959,9,717-719.
+26.Hsiung,G.D.:Theuseofhumankidneyculturesinthestudyofenteroviruses.Proc.Soc.exp.Biol.(N.Y.),1959,102,612-616.
+27.Hsiung,G.D.:StudiesonvariationinCoxsackieA-9virus.J.Immunol.,1960,
+84,285-291.
+28.Hull,R.N.,Minner,J.R.,andSmith,J.W.:Newviralagentsrecoveredfromtissueculturesofmonkeykidneycells.Amer.J.Hyg.,1956,63,204-215.
+29.Klein,S.W.andGoodgal,S.H.:Photodynamicinactivationofmonkeykidney
+cellmonolayers.Science,1959,130,629.
+30.Luginbuhl,R.E.:Theisolationandgroupingofavianandbovineentericviruses.YaleJ.Biol.Med.,1961,33,339-349.
+31.Lwoff,A.:Factorsinfluencingtheevolutionofviraldiseasesatthecellularlevelandintheorganism.Bact.Rev.,1959,23,109-124.
+32.Lwoff,A.andLwoff,M.:Remarquessurlesfacteursaspecifiquesgouvernantl'evolutiondesinfectionsvirales.Lanotiond'etatcritique.Compt.rend.,1959,248,154-156.
+33.Melnick,J.L.,Hsiung,G.D.,Rappaport,C.,Howes,D.,andReissig,M.:
+Factorsinfluencingtheproliferationofviruses.Tex.Rep.Biol.Med.,1957,15,496-533.
+34.Melnick,J.L.:Tissueculturetechniquesandtheirapplicationtooriginalisolation,growthandassayofpoliomyelitisandorphanviruses.Annt.N.Y.
+Acad.Sci.,1955,61,754-772.
+35.Moll,T.andFinlayson,A.V.:Isolationofcytopathogenicviralagentsfrom
+fecesofcattle.Science,1957,126,401-402.
+36.Opton,E.M.:Unpublisheddata.
+37.Ramos-Alvarez,M.andSabin,A.B.:Intestinalviralfloraofhealthychildrendemonstrablebymonkeykidneytissueculture.Amer.J.publ.Hlth,1956,46,
+295-299.
+38.Ramos-Alvarez,M.andSabin,A.B.:CharacteristicsofpoliomyelitisandotherentericvirusesrecoveredintissueculturefromhealthyAmericanchildren.
+Proc.Soc.exp.Biol.(N.Y.),1954,87,655-661.
+39.Sabin,A.B.:Reoviruses.A newgroupofrespiratoryandentericvirusesformerlyclassifiedasECHO type10isdescribed.Science,1959,130,1387-1389.
+40.Takemoto,K.K.andHabel,K.:SensitivityandresistanceoftypeIpoliovirusestoaninhibitorincertainhorsesera.Virology,1959,9,228-243.
+41.Vogt,M.,Dulbecco,R.,andWenner,H.A.:Mutantsofpoliomyelitisviruseswithreducedefficiencyofplatinginacidmediumandreducedneuropatho-genicity.Virology,1957,4,141-155.
+42.Weller,T.:Theapplicationoftissueculturemethodstothestudyofpoliomyelitis.NewEngl.J.Med.,1953,249,186-195.
+43.Yoshioka,I.,Riordan,J.T.,andHorstmann,D.M.:Thermalsensitivityofpolio-virusesisolatedduringoralvaccinefieldtrial:comparisonwithmonkeyneurovirulence.Proc.Soc.exp.Biol.(N.Y.),1959,102,342-347.
+371

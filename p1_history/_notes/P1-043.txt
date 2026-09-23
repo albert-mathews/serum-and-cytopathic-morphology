@@ -1,0 +1,705 @@
+
+===== PAGE 1 =====
+Bull.Org.mond.Santi1
+Bull.WldHlthOrg. 1956,14,129-146
+ASSAYOFPOLIOMYELITISNEUTRALIZING
+ANTIBODYINDISPOSABLEPLASTICPANELS*
+JOSEPHL.MELNICK,Ph.D.
+ProfessorofEpidemiology,
+YaleUniversitySchoolofMedicine,**
+NewHaven,Conn.,USA
+EDWARDM.OPTON,Ph.D.
+ResearchAssistant,
+SectionofPreventiveMedicine,
+YaleUniversitySchoolofMedicine,**
+NewHaven,Conn.,USA
+ManuscriptreceivedinDecember1955
+SYNOPSIS
+A methodfortitrationofpoliomyelitisneutralizingantibodies
+indisposableplasticpanelsisdescribed.Thismethodisamodifica-
+tionofthosereportedfromthelaboratoriesofSalkandofMcLean,
+inwhichantibodyismeasuredbyprotectionofmonkey-kidneycell
+suspensionsfromthemetabolicinhibitoryinfluenceofthepolio-
+viruses.
+Whitepolystyrenepanels,inexpensiveandcommerciallyavail-
+able,aresterilizedbyalcoholorultravioletlight.Only20,000to
+30,000passagecellsareusedpercup.Thecellsuspensionisobtained
+bytreatmentofprimarykidneycultureswithachelatingagent,
+Versene.Suchpassagecellshaveamoreuniformmetabolicactivity
+thantrypsinizedcellsobtaineddirectlyfrommonkeykidney.
+Cellsuspensionsmaybestoredintherefrigeratorforuptothree
+weeksandstillproveusefulforthecolourtest.Theyarestandar-
+dizedforeachtestbyapriortitrationoftheirviability,theresults
+ofwhichareavailableinlessthan24hours.Bothfortheprimary
+outgrowthfromtrypsinizedmonkeykidneyandforthecolour
+testitself,thesimplelactalbuminhydrolysatemediumisused.
+Panelsaresealedwithaparaffinoilofhighviscosity.
+Itisourpurposetodescribeamethodofpoliomyelitisneutralizing
+antibodyassayinwhichoil-coveredcupsofawhiteplasticpanelare
+substitutedforthemoreconventionalarrangementsmakinguseoftube-
+*ThisworkwasaidedbyagrantfromtheNationalFoundationforInfantileParalysis.**Who RegionalPoliomyelitisCentrefortheAmericas
+462 - 129-
+===== PAGE 2 =====
+J.L.MELNICK& E.M.OPTON
+supports,culturetubes,andstoppers.Simplifiedtestsforantibodyhave
+beendevelopedbyanumberofinvestigatorsinthelastfewyears1-4,7-10
+andthepresentoneisamodificationofthosealreadydescribed.Ithas
+provedadvantageousinourlaboratorywhereseveralthousandhuman
+serahavebeentitratedbythetechniquereportedhere.
+Thebasisofthecolourtestforpoliovirusoritsantibodyisfoundin
+theobservationsofRobbins,Enders&Weller8onthedifferencebetween
+thepH ofvirus-infectedandnormalcultures.A uniformlydispersed
+suspensionofmonkey-kidneycellsenabledSalk,Youngner& Ward10
+tousephenolredinthiscellculturesystemasanindicatorintitrating
+poliovirusoritsantibody.ConditionsforemployingHeLacellsinthe
+testhavebeendescribedbyLipton& Steigmann4 andbyRobertson
+andco-authors.9Theadvantageofseriallycavitatedplasticforpolio-
+myelitisneutralizationtestswasfirstpointedoutbyBarski& Lepine,'
+whousedthemicroscopetofollowthecytopathogenicactionofthevirus
+onhumanembryonicfibroblasts.Inthisinstance,evaporationfromthe
+cultureswaspreventedbyadhesiveCellophanetape.Thetransferof
+themetabolicinhibitiontesttotransparentvinylpanelswasaccomplished
+byRightseletal.7
+Thesamebasicprinciplewhichunderliesanyvirusneutralization
+test-namely,thatantibodyspecificallyneutralizestheinfectivityofthe
+virus-alsoappliestothepHcolourantibodytest.Thecolourtestemploys
+knownquantitiesofcellsuspensionswhichareinoculatedintoplastic
+panelcupsonehourafterincubationoftheserum-virusmixture.The
+colourtestutilizesthefactthat,withcontinuedcellulargrowthinthe
+presenceofanimmuneserum-virusmixture,acidproductsofmetabolism
+lowerthepHofthemedium.Thiseffectisreadilyobservedbyincorpora-
+tingtheindicatordye,phenolred,intothemedium.Phenolredisredat
+pH7.4to7.8.ItbecomessalmonandfinallyyellowasthepHdropsto
+below7.0.Conversely,cellnecrosis,inducedbythevirus,leavesthe
+mediumred,forthedyingculturesfailtoreachthedegreeofacidity
+exhibitedbythecontrolcultures.Thetestcanthusbereadbycolour
+changealoneratherthanbythemicroscopicpresenceorabsenceofcellular
+degeneration.
+Themodificationsofthecolourtesttobedescribedhereincludethe
+introductionof(a)inexpensivedisposablewhitestyrenepanels;(b)the
+useof"stabilized"passagecellsuspensions,obtainedfrommonkey-
+kidneyculturesbytreatmentwitha chelatingagent(Versene);(c)the
+substitutionofthesimplelactalbuminhydrolysatemediumforthemore
+complexmedialikeConnaughtNo.199,and(d)the"sealing"ofthepanel
+cupswithaparaffinoilofhighviscosity,asrecommendedbySalkfor
+thetubetest.
+130
+===== PAGE 3 =====
+ASSAYOF POLIOMYELITISNEUTRALIZINGANTIBODY
+Materials
+1.Thediluentusedforserumandvirusispreparedfromthreestock
+solutions:
+(a)Lactalbuminsolution,5%
+Lactalbuminenzymatichydro-
+lysate 25.0g
+Water 500.0ml
+Autoclave10minutesat10poundspersquareinch
+(0.70kgpercm2).
+Thesolutionisstableintherefrigerator.Ifaprecipitateforms
+itcanberemovedbylightcentrifugation.
+(b)Hanks'solution,10xconcentrated
+NaCl
+KCI
+CaC12
+MgSO4,7H20
+MgCl2,6H20
+Na2HPO4
+KH2PO4
+Glucose
+Phenolredsolution,0.5%
+Water to
+Sterilizebyfiltration.
+(c)Phenolredsolution,0.5%
+Phenolred
+NaOH,0.1N
+Water to
+80.0g
+4.0g
+1.4g
+1.0g
+1.0g
+0.6g
+0.6g
+10.0g
+40.0ml
+make1litre
+5.0g
+150.0ml
+make1litre
+Thestocksolutionsandantibioticsarecombinedasfollows:
+Hanks',lOxconcentrated 500.0ml
+Lactalbuminsolution,5% 500.0ml
+Sterilewater 4000.0ml
+NaHCO3,sterile,7.5% 35.0ml
+Tetracyclinsolution,10mg/ml 12.5ml
+Penicillin,100,000units/ml 10.0ml
+Streptomycin,320mg/ml 2.5ml
+Nystatin,500,000units/ml 1.0ml
+2.Thenutrientmedium,usedforcellsuspensionsandcelltitrations,
+ispreparedbyadding2.0%calfserumtothediluentdescribedabove.
+131
+===== PAGE 4 =====
+132 J.L.MELNICK& E.M. OPTON
+3.Verseneasolution,foruseinobtainingsuspensionsofpassagecells,
+ispreparedbycombining:
+Versene 0.2g
+NaCl 8.0g
+KCI 0.2g
+Na2HPO4 1.15g
+KH2PO4 0.2g
+Water tomake1litre
+Sterilizebyautoclaving.
+4.Thedye-fixativemixtureusedforroutinecellcountsis0.1%crystal
+violetin0.1M aqueouscitricacid.Thismixturedoesnotdistinguish
+betweenlivinganddeadcells.Forvitalstaininga0.01%solutionofneutral
+redisused.Deadcellsareidentifiedwiththeaidof1.0%trypanblue
+solution.
+5.ParaffinoilbiSusedto"seal"thepanelcups.Whiletheoilmay
+besterileaspackaged,itshouldbeautoclavedat20poundsasamatter
+-ofroutine.
+6.TheCornwallcontinuouspipettingunitcservestodistributediluent,
+virussuspensions,cellsuspensions,andoilinallreplicateoperations
+(seeFig.1).A 4-inch,No.13(102mmx2.40mm),hypodermicneedle,
+whosepointhasbeencutoff,makesasuitablecannula,especiallywhen
+benttoaslightcurvature.Foroil,aspeciallylargecannulaisrecom-
+mended.!
+7.Acelldispensermaybemadebymakingfoursymmetricallyplaced
+indentationsaboutthebottomofa1-litreErlenmeyerflaskandadding
+twoportsthroughwhichthecellsuspensionistopasstotwoCornwall
+unitsforsimultaneousadditionofcellstotwopanels.Theindentations,
+whichincreasemixingefficiency,arelikethoseoftheautomatictrypsiniza-
+tionassemblydevisedbyRappaport.eTheportsareintroducedattheside
+oftheflaskasneartothebottomasispracticablesothatthecellsuspen-
+sionmaybedrainedwithoutwaste.Adequatemixingofcellsuspensions,
+thepreparationofwhichisexplainedindetaillater,isensuredbyusing
+amagneticmixingassembly.
+8.Nine-inch(about23cm)lengthsofhouseholdaluminiumfoilfromrolls
+12inches(about30cm)wideareautoclaved.Thesesterilefoil"covers"
+a Di-sodiumsaltofethylenediamine-tetra-aceticacid.ObtainablefromVersenes,Inc.,Framingham,Mass.,USA.
+bDrakeol,No.35,PennsylvaniaRefiningCo.,Butler,Pa,USA.
+cNo.1251,Becton,Dickinson& Co.,Rutherford,N.J.,USA.
+dLuer-lokportionofthepipettingunit'svalvecanbemodifiedasanoilcannulaforCornwallunit.RathgeberLaboratories,226CountySt.,New Haven,Conn.,USA.
+e SeethearticlebyC.Rappaportonpage147ofthisnumberoftheBulletin.
+===== PAGE 5 =====
+ASSAYOF POLIOMYELITISNEUTRALIZINGANTIBODY
+areusedtoprotectfilledcupsagainstairbornecontaminants.Further-
+more,whenpanelsarecovered,itispossibletostackthemwithoutwetting
+thebottomofonewiththecontentofthepanelbelow.
+FIG.1.REPLICATINGASSEMBLY
+ThisconvenientassemblyemployingtheCornwallcontinuouspipettingunit,isusedfordis-tributingreplicateamountsofdiluent,virus,andoil.A modifiedflaskdescribedInthetextIsusedIndispensingcells.
+133
+'W ....6.1.--11:4..`
+
+===== PAGE 6 =====
+134 J.L.MELNICK& E.M.OPTON
+9.Panels'aremouldedfromwhitestyrenesheets,0.5mm inthickness
+(seeFig.2).Theycontain96cupsin12rowsof8each;eachcupholds
+avolumeofabout2.7ml.Allreadingsaremadebycolour.Transparent
+panelsofvinylplastichavealsobeenused,butthewhitebackground
+ofthestyrenepanelhasfacilitatedreadingthecolourchanges.Thestyrene
+plasticissufficientlyrigidsothatthepanelsmaybestackedinasmall
+incubatorwithoutadditionalholdingracksbeingrequired.
+FIG.2.STYRENE PANELS
+PanelsarFepreparedforusebysuccessiverinsingsintapwater,dis
+.1 l... ... ... !|||
+ .. E=...
+ *.t.......s.a.-..
+ ... ..............
+ *...... ..... ...... ..B ..........'::
+ ~~~~~~~~~~~~~..... e.. ,,ijSS:............
+tilledwater,and70%/alcohol.Ifnotusedimmediatelywhendry,they
+arestoredinsterilepaperbags,ortheyarenestedandplacedinacabinet
+equippedwitha30W coldcathodeultravioletsterilamp!'Sincere-use
+isnoteconomicallypracticable,thepanelsaresteam-sterilizedbefore
+beingdiscarded.
+aLmnbroChemicalCo.681DixwellAve.NewHaven,Conn.,USA.
+bIrradiationat18inches(45cm)for60hoursproducednocell-inhibitorychangesinpanelsmanufactured
+byLinbroChemicalCo.fromDowChemicalCo.No.475Hi-impactstyrene,orfromBakeliteCo.VU 1310clearvinylplastic.
+
+===== PAGE 7 =====
+ASSAYOF POLIOMYELITISNEUTRALIZINGANTIBODY 135
+Methods
+Cellsuspensions:preparationandhandling
+Eightymlofprimarytrypsinizedcellsacontaining200000cellsperml
+ofnutrientmediumareplacedina 1-litreRouxbottleandmaintained
+for5to9daysat370C.Bythistimealuxuriantepithelialcellsheetshould
+formandthepHofthemediumdropto7.0orbelow.Toharvestthecells
+thenutrientisfirstthoroughlydrainedfromthebottle.Then25mlof
+Versenesolutionat370Careadded,andthebottleisre-stopperedand
+returnedtotheincubator.Ifthebottlehasnotcooledappreciably,in
+20minutesthecellsmaybeloosenedfromtheglassbytwoquickshakes
+ofthebottleinahorizontalplane,andpouredintoastoragebottle.The
+timenecessaryfortheactionoftheVersenesolutionmayextendto
+40minutesifthetemperatureisallowedtofall.
+Theharvestedcells,numberingapproximately20millionperbottle,
+arepreparedforstorageat40Cbyadding75mlofthenutrientperharvested
+bottle.Theadditionofnutrientbindsanyexcessofchelatingagent,and
+centrifugationisunnecessary.b
+Calculationforfurtherdilutionofthecellsuspensionisbasedon
+thefollowingrapidcountingprocedure:1mlofthecellsuspensionis
+addedtoandgentlymixedwith2mlofthecrystalvioletsolution.The
+haemocytometerchamberischargedwiththismixtureandthenumberof
+cellspermlcomputed.Versene-treatedcellsdonotclumptothesame
+degreeasthosefromprimarytrypsinizedcultures.
+Forspecialpurposes,neutralredortrypanblueisusedinconjunction
+withcellcounts.
+Neutralred:To1mlofcellsuspension,0.05mloftheneutralred
+solutionisaddedandthemixtureisplacedat370Cfor20minutes.An
+aliquotisthentransferredtothehaemocytometerchamber.Themeta-
+bolicallyactivecellisreflectedinwhatappearstobeanaccumulation
+ofthereddyeinthenucleus.Theexaminationrequiresgoodillumination,
+andagreenfilterofpropertransmissionishelpful.
+Trypanblue:To1mlofcellsuspensionismixed0.05mlofthetrypan
+bluesolution,andthecountisdoneimmediately.Owingtothetoxicityof
+thedyeitself,delayinchargingthehaemocytometerchamberandin
+countingresultsininflatedtotals.
+Ifthecellsuspensionisnotimmediatelyused,thecountingisdeferred
+tosome24hourspriortoitsanticipateduseorisrepeatedatthistime.The
+a SeethearticlebyC.Rappaportonpage147ofthisnumberoftheBulletin.
+bForcertainpurposes(storageinsmallvolumes,shippingofcells,etc.),theVerseneharvestsofseveral
+bottlesmaybepooled.Thepooledharvestsarespunat600revolutionsperminutefor10minutes,thesuper-
+natesarediscarded,andthecellsarere-suspendedinnutrientataconcentrationof1-2x10'cellsperml.
+===== PAGE 8 =====
+136 J.L.MELNICK & E.M. OPTON
+celltitrationandsterilitytestnowtobedescribedshouldalsobeperformed.
+Foreknowledgeofthesterilityofthecellsuspensionisdesirable,and
+advanceincubationofasampleofthesuspensionat370Cservesasa
+safeguardagainstthehazardofmasscontaminationoriginatinginthecell
+suspension.Acelltitrationinadvanceofthetestmeasuresthephysiological
+activityofthecells.Itisperformedatseveraltwofolddilutions(likethe
+celltitrationcontrol,seebelow)using4stopperedtubes,13mm x100mm,
+forreplicateincubationof1.0mlofeachdilution.Anindextothecondition
+ofthecellsisprovidedbythreesortsofobservations;(a)thecolourofthe
+tubecultures(notstrictlycomparabletoacelltitrationcontrolperformed
+inapanelbecauseinthisinstancethestoppertrapsalltheCO2produced);
+(b)themorphologyofthecellsa(especiallyusinggranulationasanindex
+ofmorbidity);and(c)theconditionofthecultureasawhole,particularly
+whetheratruesheetorisletsofcellsarepresent.Afterfreshly-harvested
+cellsareincubated16hoursat370C,microscopicexaminationshouldshow
+completesheetswithaseedingconcentrationof135000-180000cellsperml,
+almostcontinuoussheetsatconcentrationsof115000-150000cellsperml,
+andlargeisletsdowntoconcentrationsaslowas95000cellsperml.
+Concentrationsabove135000cellspermlwillcauseenoughacidtoform
+tobringaboutashiftfromredtoyellow.Thelesserconcentrationsmen-
+tionedwillbringaboutachangetoshadesofsalmonwithinthesame
+period.Ingeneral20000cellspercupareusedwithin3daysoftheir
+harvest,andupto30000ifthesuspensionisstoredfrom7to10days.
+Testsequence
+A convenientvolume,about2.0ml,ofthelowestserumdilutiontobe
+testedisheatedfor30minutesat560C.Thisvolume,usuallyofa1:4dilu-
+tion,providesenoughmaterialfortestatthisdilutionandalsoforthe
+preparationoffurtherserialdilutionsofheat-inactivatedstock.Inthe
+correspondinglylocatedcupsof4panelsareplaced2/10-mlaliquotsof
+eachserumdilution,accordingtoaplannedprotocol.Fourequivalent
+panelsaresoobtained,oneofwhichservesasacontrolofserumtoxicity,
+whiletheotherthreearetobeusedforchallengeoftheserawithpoliovirus.
+oftypes1,2,and3.Toindicatesubsequenttreatment,thelabelsattached
+totheindividualpanelsbearthesymbols,C,1,2,or3,asprefixestofurther
+identificationnumbering."C"indicatesacontrolpanel,whileanumbered
+prefixreferstothevirustypetobeaddedlater.
+Twoserumdilutionscheduleshaveprovedespeciallyuseful.Thefirst,.
+forscreening,usesduplicatecupsforthetestingofseraat3dilutions,to
+wit,1:10,1:50,and1:250.Thesecond,greaterinrange,usesasinglecup.
+totestseraat1:4,1:8,1:16,1:64,1:256,and1:1024dilutions.Boththese
+a On incubation,thecellssettleandadheretothecurvedbottomofthetest-tube.Byloweringthe-
+condenseronsomemodelsofmicroscopes,asatisfactoryexaminationoftheconditionofthecellsmaybemadebycentringthebottomoftheinvertedculturetubeintheholeofthestage.
+===== PAGE 9 =====
+ASSAYOF POLIOMYELITISNEUTRALIZINGANTIBODY
+arrangementsrequireatotalof24cups(6perpanel)fortheexamination
+ofeachserum.Eachgroupof4panelsprovidesfacilitiesfortesting16sera.
+Whentheserumdilutionshavebeendistributedtoaquartetofpanels,
+0.8mloftheparaffinoilisaddedtoeachcup,andafoilcoverisplacedon
+each.Ifdesired,theserum-filledpanelsmaybestoredforaweekinthe
+refrigerator,orevenlongerinthefreezer.Refrigeratedpanelsmustbe
+broughttoroomtemperaturetodecreasetheviscosityoftheoilbefore
+additionofmaterialsisattempted.Ifthetestiscompletedonthedaythe
+serumdilutionsaremade,theoilmaybeplacedineachcupafterthevirus
+orcellshavebeenadded.
+Theviruschallenges,0.2mlpercup,areaddedtotheserumdilutions
+inthepanelsinaccordancewiththeprefixnotationoftheirlabels,i.e.,
+type1virusisaddedtopanelswhoseidentitylabelbearstheprefixnumber1,
+etc.Eachcupshouldreceive100TCD60.Thepanelsreservedforserum
+toxicitycontrolreceiveablankof0.2mldiluentpercup.Theseadditions
+arefollowedbyanincubationperiodof1houratroomtemperature.All
+arecoveredwithfoilduringtheperiodofincubation.
+Whenthehourispast,0.2mlofcellsuspensionisadded,andthe
+panelsarere-coveredwithfoilandplacedinanincubatorfor5or6days
+at370C.
+Inadditiontothetestsforpossibletoxicityofindividualsera,three
+additionaltypesofcontrolsareneeded:
+1.Thepreparationofvirussuspensionscontainingthedesirednumber
+oftissue-culturedosespresupposesaknowledgeofthevirustitres.Even
+so,eachtestincludesatitrationofthevirussuspensionusedforchallenge
+ofthesera,toprovidethespecificinformationastohownearlythetest
+challengecorrespondstothe100TCD50intended.Ifanylotofvirus
+showsaconsistentfallintitreonrepeatedtitrations,itisdiscarded,for
+theaccumulationofnon-infectiousvirustendstobindantibody,thus
+loweringserumtitresasmeasuredinthistest.
+Eachvirustitrationisdonetoincludearangeofdilutionssufficient
+todemonstratetheend-points,fromadilutionatwhichallculturesbecome-
+infectedtooneatwhichnoneisinfected.Thus,if100TCD50areanticipated
+in0.2mlofthevirussuspensionwhenat104dilution,thetitrationis
+extended,stepbystep,toincludethe10Idilution,whichistentimesgreater
+thanthatinwhichthe50%end-pointisexpected.Forlog10intervals,8cupsareusedateachdilution;for0.5log1ointervals,4cupssufficeat
+eachdilution.
+Virusstockspreparedintissueculturearestoredfrozenat-200Cin
+aliquotsof1.0mlinstoppered13mm x 100mm culturetubes.Foreach
+test,aseparatealiquotisthawed.Stocksarenotre-frozen.
+2.Tocompareneutralizingantibodytitresachievedinonetestwith
+thoseobtainedinanother,eachtestmustincludeareferenceserumfor
+137
+===== PAGE 10 =====
+J.L.MELNICK& E.M.OPTON
+eachantibodytype.Humanserumpools,type-specificmonkeyhyper-
+immunesera,andcommercialgamma-globulinhavebeenuseful.Reference
+seraaretestedattwofolddilutionsusing4cupsperdilution,and50%
+end-pointtitresarecalculatedforeachtype.
+Thestorageofaliquottubesofreferenceseraisrecommended.Human
+serakeepsatisfactorilyat-200Cat1:4and1:8dilutionsformorethan
+6months.Reconstituted,lyophilizedmonkeyhyperimmuneserumcan
+similarlybestoredat1:100dilution.
+3.Titrationofthecellsuspensiondemonstratesthatthecellsasused
+areatproperconcentrationandpossesssufficientviabilitytoproduce
+enoughacidtochangetheindicatorfromredtoyellowduringtheperiod
+ofincubation.Thecelltitrationisrepeatedatthebeginningandatthe
+endofthetest.Ateachtime2mlofthesuspensionaredilutedwith4ml
+ofnutrient.These1:3dilutions,equivalenttothefinalcellconcentration
+usedinvirus-serummixture,arethendeliveredin0.6mlportionstoarow
+ofseveralcups.A secondandthirdrowaresimilarlyarrangedtocontain
+furthertwofoldandfourfolddilutions,respectively,ofthese1:3dilutions.
+Thecupsarecoveredwithparaffinoilandfoilandthepanelisplacedin
+theincubatorwiththeothers.Atthetimeofreading,about5dayslater,
+thefirstrowshouldbeabrightyellow,thesecondrowayelloworyellow-
+salmon,andthethirdrowred.
+Readingandinterpretation
+Theresultsarerecordedonprotocolsheetsbearingtheimprintof
+fourruledlatticepatterns,eachrepresentingthearrangementofcupsin
+apanel(seeFig.3).A marginalnotationononeofthefourpatternsof
+aprotocolpagerecordsboththeidentityanddilutionscheduleofthe
+serawhosetestresultsarerecordedonthatpage.
+Theshiftincolourinthecupsinwhichvirusisabsentorneutralized
+isexpectedonthe5thday,butwithcellsoflessenedviability,afewmore
+daysmaybeneeded.Whileend-pointswillnotchangewithextended
+incubation,whenapanelisrepeatedlyinspectedduringtheincubation
+perioditcansometimesbeobservedthatacupwhichgivesahintofchange
+-say,toasalmontint-will,adaylater,haverevertedtored.Thisseem-
+inglyfalsestarttowardsyellowandsubsequentreturntoashadeclose
+totheoriginalredisprobablyareflectionofthecarbondioxidepassage
+throughtheoil.Thegradual,andtardy,releaseoftrappedcarbondioxide
+fromculturesoccurswhentheamountofvirusisinsufficienttodestroy
+thecellsuntilafterthevirushasmultipliedappreciably.Thusthereis
+sufficienttimeinsuchculturesforcellstometabolizesufficientlytoproduce
+acolourshift.
+Iftheamountofcellsusedisexcessive,enoughnon-volatileacidmay
+accumulatetoshiftthecolourfromredtoyellowbeforethevirushas
+138
+===== PAGE 11 =====
+ASSAYOF POLIOMYELrTISNEUTRALIZINGANTIBODY
+FIG.3.SAMPLE PANELAT TIMEOF READING
+ ......................................
+O08
+P.OR .*e't:fC:0,0' f
+ ,, X 6 l l
+Thispanelillustratesacelltitration,avirustitration,andtitrationsofacuteandconvalescentserafromapoliomyelitispatient.Yellowcups,whichphotographlight,indicatethepresenceoflive,metabolizingcells;redcups,whichphotographdark,inthecelltitrationindicatethattoofewcellswereaddedtoIncreasetheacidityofthemediumsignlflcantly.Whereviruswasadded,redcupsIndicatethatthecellshavebeenkilled.
+P%Bottomrlght.Thecelltitrationwascarriedoutusing4cupsperdilution,startingwith25000cellspercupInrow9,andwithfallingtwofolddilutionsinrows10,11,and12.Row9,yellow;row10,yellow;row11,salmon-red;row12,red.AllcupsusedInthevirusandserumtitrationscontained25000cells.
+Bottomleff.ThetypeIvirustitrationwascarriedoutuslng4cupsperdilutionstartingwithaconcentrationoftissue-culturefluidof10-3-5Inrow1,andwithfalling0.5logdilutionsthroughrow8.RowsIto5,red;row6,tworedcups,twoyellowcups;rows7and8,yellow.The50%end-pointisat10-'°.Virusataconcentrationof10'-4(100TCD,.)wasaddedtoallcupsIntheserumtitrations.
+Tophalf.ThetitrationsoftheserafortypeIantibodieswerecarriedoutusingtwofolddilu-tions,startinginrowIwithadilutionof1:4.Twocupswereusedforeachdilution.Acuteserum:Row1,yellow;row2,yellow;row3,oneyellow,onered;rows4to12,red.Titreis1:16.Conva--lescentserum:RowsIto7,yellow;row8,oneyellow,onesalmon;rows9to12,red.TitreIs1:512.
+multipliedsufficientlytokillthecells,andafalseinterpretationmight
+ensue.Whenthisissuspected(asitmightbewhenanentirevirus-challenged
+panelturnsyellow),itispossibletocheckonthehypothesisbyadding
+basetoeachcupinordertochangethecolourfromaclearyellowtolight
+salmon.Thepanelsarethenreturnedtotheincubatorforanother1to
+2days,whenthosecupswithlivingcellswillhaveagainturnedyellow,
+whilethelightsalmoncolourwillberetainedbythosecupswhosecells
+werealreadydeadwhenthebasewasadded.Onedropof0.05N NaOH
+fromanon-bevelled19-gauge(1.10mm)needleissufficienttoachievea
+propercolourdifference;moremaykillcells.
+Coloursintermediatebetweenredandyellowaresometimesencountered
+incultureswhichhavereachedtheirend-pointreactions.Thatthesera
+themselvescaninfluencetheshadesofcolourattainedisillustratedin
+serumtoxicitycontrolpanels.Thedilutionofatoxicfactoriseasily
+recognizablewhenaseriesofcolourchangesfromredtoyellowisobserved
+10
+139
+
+===== PAGE 12 =====
+J.L.MELNICK & E. M. OPTON
+asoneprogressestothehigherdilutionsofserum.Thecorresponding
+phenomena,inavirus-challengedpanel,maybeillustratedbythefollowing
+observations:
+Sixcupscontainingserumdilutionsof1:4,1:8,1:16,1:64,1:256,and
+1:1024showthecoloursrespectively,red,red,salmon,yellow,yellow,
+andred.Thisseriesindicatesthattheneutralizingpoweroftheserum
+ismaskedatthelowerdilutionsbysometoxicmaterial,whoselessening
+concentrationwithfurtherdilutionpermitscellgrowth.Therenewalof
+cellinhibitiononreachingthe1:1024dilutionisattributedtotheinsuffi-
+ciencyofneutralizingantibodyatthatdilution.Theend-pointisrecorded
+asthehighestdilutionofserumwhichneutralizesthechallengedose:
+inthisexampleitisthatcontainedintheyellow-colouredculture(at
+1:256)andthisisregardedastheend-point.
+Thefactthatdefinitiveend-pointsdonotchangeonfurtherincubation
+makesitpossibletosetasidepanelsforlaterinterpretation.Sincethe
+incubatorencouragesevaporation,panelstobesetasideforreadingat
+alatertimeshouldbeplacedatroomtemperatureorintherefrigerator.
+Results
+Viabilityofstoredpassagecells
+Dataonthesurvivalofpassagecellsstoredat40CareshowninTableI
+forthreereplicatesuspensionsoveraperiodof30days.Atweeklyintervals,
+TABLE I.DIFFERENTIALCOUNTS OF 3REPLICATEPASSAGE CELL
+SUSPENSIONSSTORED AT 4°C(CELLCOUNTS GIVENAS 1000CELLSPER ML)
+SuspensionMethodof DaysofstorageNo. count* - 0 J 7 14 21 30
+NR 89 98 76 70 18
+1 TB 18 36 58 73 73
+NR+TB 107 134 134 143 91
+CV 137 165 157 139 133
+NR 86 70 61 26 4
+2 TB 23 42 68 105 96
+NR+ TB 109 112 129 131 100
+CV 128 135 110 109 67
+NR 90 79 79 63 17
+3 TB 18 40 58 51 88
+NR+ TB 108 119 137 114 105
+C 1 114 165 150 140 94
+*NR= neutralredTB= trypanblue;CV=crystalviolet.NRplusTBcountswereobtainedbyaddingtheseparatecountsforeachstain.
+140
+===== PAGE 13 =====
+ASSAYOF POLIOMYELITISNEUTRALIZINGANTIBODY 141
+threeseparatecountsofthesesuspensionsweremade,using,respectively,
+neutralredsolution,trypanbluesolution,andthecrystalvioletmixture,
+toidentifytheliving,thedead,andthetotalnumberofcells.Whilethe
+countofviablecells(neutralredstaining)fallsoffonstorage,itdoesso
+onlyslowlyoveraperiodof21days.Cellsshouldbeusedfortestpurposes
+duringthisperiodbutnotthereafter.
+Protocolofasampletest
+TableIIpresentsresultsofatestwhichdemonstratethecontrolsthat
+mustbesetupineachtesttomakepossibleitsproperevaluation.Readings
+weremadeonthe5thdayaftertheadditionofcells.Part1ofthetable
+demonstratesthatcupscontaining20000cellsmetabolizedstrongly,for
+theyturnedyellow;thosecontaining10000cellsstillshoweddemonstrable
+metabolism,turningsalmon.(Ifacellconcentrationwhichmetabolizestoa
+degreejustsufficienttoturnsalmoninapanelcupisplacedinastoppered
+tubeinwhichnoCO2islost,thentheCO2accumulationisenoughto
+turntheindicatoryellow.)Thenumberofcellsplacedinallothercups
+inthetest,showninParts2to5,was20000.
+Part2demonstratesthevirustitration;50%end-pointsaredetermined
+bythewidelyusedmethodsofReed& MuenchandofKaerber.aVirus
+titrationsarecarriedoutatthetimeofeachtest.Theamountusedina
+particulartest,however,isbasedontheaccumulatedvaluesofanumber
+ofprevioustitrations,recentlyperformed.
+Part3illustratesthetitrationofaserumcontrol.Ineachtest,aserum
+ofknownantibodytitreagainsteachofthethreetypesmustbeincluded.
+A singleserumcontainingthethreetypesofantibody-orseveralsera,
+eachcontainingonlyoneortwoantibodytypes-maybeused.The50%
+end-pointofeachserumisdetermined,asillustrated,usingtwofold
+dilutionsofserumand4cupsperdilution.
+Part4illustratestheresultsobtainedinthistestwithacuteandconva-
+lescentseraofapatientfromwhomtype1polioviruswasisolated.The
+interpretationoftheserumtitrationsisshowninPart5.A riseoftype1-
+antibodiesisobvious;antibodieswerepresentfortype2,butdidnot
+rise;antibodieswerebelowthedemonstrablelevelfortype3inboth
+samples.Itshouldbepointedoutthatinmanypoliomyelitispatients,
+perhaps50%,antibodiesagainsttheinfectingtypeofvirusarepresentat
+highlevelsonadmissiontoahospital,andtheseantibodiesmaynotchange
+significantlyduringtheremainingcourseoftheillness.Insuchinstances,
+laboratoryconfirmationofdiagnosisisdependentuponisolationof!
+virusfromfaecalspecimensandcomplement-fixingantibodydetermi-
+nations.
+a Detailedexamplesoftheapplicationofboththesemethodsfordetermining50%end-pointstopoliomyelitisvirusandantibodytitrationsmaybefoundinPaul& Melnick.'
+===== PAGE 14 =====
+142 J.L.MELNICK& E.M. OPTON
+TABLEII.PROTOCOLOFCOLOURTESTUSINGVERSENATEDCELLSUSPENSIONS
+Part1.CellTitration
+Colour*incupno.
+Cellconcentrations 1 2 3 4
+1 2 3 4
+4cupscontaining20000cells Y Y Y Y
+4cupscontaining10000cells S S S S
+4cupscontaining5000cells R R R R
+*Y= yellow;S= salmon;R=red
+Part2.VirusTitration
+Virusdilutions j Type1 Type2 Type3
+10-° 4/4* 4/4 4/4
+10-4.5 4/4 4/4 4/4
+ 0-5-° 4/4 4/4 4/4
+1-s. 4/4 4/4 4/4
+10-6.0 3/4 3/4 4/4
+10-6.5 1/4 0/4 1/4
+1o-7.0 0/4 0/4 0/4
+,4/4 Numberofcupsshowingviruseffect(red)Numberofcupsused
+Part3.StandardImmuneSeraControlwithKnown-TypeMonkeyImmuneSerum
+plusTestDoseofVirusofSameTypeplusCells.*
+Colourincupno.
+Serumdilutions
+1 2 3 4
+0.2mlof1:25 serum+0.2mldiluent+0.2mlcells(control)Y Y Y Y
+0.2mlof1:25 serum+0.2mlvirus+0.2mlcells Y Y Y Y
+0.2mlof1:100serum+0.2mlvirus+0.2mlcells Y Y Y Y
+0.2mlof1:200serum+0.2mlvirus+0.2mlcells Y Y Y Y
+0.2mlof1:400serum+0.2mlvirus+0.2mlcells Y Y Y Y
+0.2mlof1:800serum+0.2mlvirus+0.2mlcells Y S R R
+0.2mlof1:1600serum+0.2mlvirus+0.2mlcells R R R R
+*Onlydatafortype1areillustratedinthispart.
+===== PAGE 15 =====
+ASSAYOF POLIOMYELITISNEUTRALIZINGANTIBODY
+TABLEII.PROTOCOLOFCOLOURTESTUSINGVERSENATEDCELLSUSPENSIONS
+(continued)
+Part4.pHNeutralizationTestwithSeraofPatientInfectedwithTypeIPoliomyelifis
+Virus
+Type1virus* Type2virus* Type3virus*
+Serumdilutions aue conva- aue conva- aue conva-acute |lescent acute lescent acute lescent
+1:4 Y Y Y Y R R
+1:8 Y Y Y Y R R
+1:16 R Y Y Y R R
+1:32 R Y Y Y R R
+1:64 R Y R R R R
+1:128 R Y R R R R
+1:256 R S R R R R
+1:512 R R R R R R
+1:1024 R R R R R R
+100TCD5,ofeachvirususedintest.Controlcupscontainingserumdilutionswithoutviruswereallyellow.
+Part5.ResultsofSerumTitres
+Type1specificmonkeyserum 1:800
+Patient'sserum,type1,acute 1:8
+convalescent 1:256
+type2,acute 1:32
+convalescent 1:32
+type3,acute <1:4
+convalescent <1:4
+Comparativeefficiencyofprimaryandpassagecellsintubesandinpanels
+Thedifferenceinpotencyofpassagecellsandprimarycellsinthis
+systemisemphasizedinTableIII,whichalsofurnishesdatatoshowthe
+correspondenceofvirusandantibodyresultsobtainedwhenmaterialsare
+testedsimultaneouslybythetube10andpanelmethods.
+Consistencyofresultsobtainedbythepanelneutralizationtest
+Inadditiontothecomparativeresultsoftestscarriedoutinpanels
+andtubes,theresultsofaseriesofconsecutivedeterminationsinpanels
+143
+===== PAGE 16 =====
+144 J.L.MELNICK & E.M. OPTON
+* Q) 0)LO 0 C -Q CC4 ( 0otC)oW Lo
+-i 0L OC - cq q co co 14 (D LOZ It00
+E a>) bo- cocou LOo)co)ot)2 OL ru-, C14CO c'i o,Itcoococo
+A
+c
+U) co
+a Eo * (0D N0)D OCaJ0 cO)co 0) 0)0 ODLOLO
+CY)
+.i~~~~~) C\l(J.O q Q004I cmO co'm '-) )00)1-
+ Z~~~~~~lI U- = cou) r- D 00 o OD r-- z r-
+.L 0
+ a \
+E (Da) o o cO LO c oo) o C0 Za co CY C\j) N ) C\ 00 N a r- 0 z OavNC r
+m~~~~~~~> C\ _ C\DS>* CO
+E LO co U Cr ) (O LO L1)lS) O OCO 0 Z3 CO - C\ °- N ) C1) CN U-) U) I_ cD - - - 0)
+a)* Q O O ° ° ° ° NO Z o Ct)t O O z a 010NNa)N) 10- 1CYq N - r o Cooo *
+OQ IOCU)O (DCo)#\ C0(0 0 c
+ 0 S ~~£nN C\t N NC CnCO \F a 0
+ c x a 8~ 000000°F° O nO
+0 010 ) C) C 10 C) 0 NC)
+ > (D Q tr~~~~~~~~)Cz OI) U')co CD0D"O LO) C\O 0 l 1 LO
+E 0O CY) L 0N N o Co00000
+z E IOZco(D "t CiC\ oCj c
+= ~ ~ ~ a O -CXS 1))10( (NC) 0I)0 0104l)I) 0)0tI)0l0)l00
+ ECa) a) o , C ) CO - 0)<o , U) co)
+_ 1O(DL O C)1 ' 1o) 1co ))1oc )r
+ ..<,,
+E ' -
+o >~~~~c
+ 10(n0 (66 ( \(66 (6 (6( (6cn (6( \6(6- a) a) a')a) a U)aD (Oau ) ) a') a) aTU)ao )a ) a')
+ a)
+U C D CY D LO LODt C\ Dcl C\ 0 C\ V) OC
+C) C))CULU L L LO UL U L LO
+0~~~~~~~~~~~~~~~~~~~(
+ALOFm F Fm OFm F L 0
+ a)0)0-CY)0) 'ItCY)(C) C) 0 00 ce)CY)0) LO 0)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LO- n
+80
+C"
+.0
+<0a
+:Oa
+4-
+ - CL
+CD
+ 0o 0)
+3s 0
+000
+ .»
+0-U
+C) Q
+20
+>W 0
+oE0
+ 0O._
+.20
+n5C0
+0 o=~
+c_ co
+0o 0
+0.-
+0L.
+C_U)
+C:0
+0t-
+0 0 0D
+ 0 M C0
+CAC , 0
+0 .C : N)
+ co=Q
+c 0
+to+a C--co1-
+0 O
+I-0 o.
+C0
+ *+-Cn:
+===== PAGE 17 =====
+ASSAYOF POLIOMYELITISNEUTRALIZINGANTIBODY 145
+arealsolistedinTableIII.Thedegreeofvariationisnogreaterthan
+thatfoundintubetests.Asistobeexpected,thedegreeofaccuracyand
+reproducibilityisincreasedwiththenumberofpanelcupsusedateach
+serumdilution.ThedatainTableIIIwereobtainedusingtwofolddilu-
+tionsofserumwith4cupsforeachtypeateachdilution.
+ACKNOWLEDGEMENT
+TheauthorwishestothankArthurTyrolandFredAnlyanfortheirvaluableassis-
+tanceinthiswork.
+RESUMI2
+Lesauteursdecriventunevariantedelamethodedetitrationcolorim6triquedes
+anticorpsantipoliomyelitiquesneutralisants,danslaquelleonemploieunplateaude
+plastiquecreusedecupules,rempla9anteprouvettes,bouchonsetporte-tubes.Cette
+techniqueadejafaitsespreuvesdansletitragedeplusieursmilliersdeserums.
+Desquantitesconnuesdesuspensionscellulairessontdeposeesdanslescupules
+deplastiqueapresuneheured'incubationdumelangeimmunserum-virus.Leprincipe
+dutestestlechangementdepH,misenevidenceparunindicateur,enl'occurrence
+lerougedephenol,qui,rougeapH7,4-7,8devientsaumon,puisjauneapH7,0.La
+croissancecellulairequisepoursuitenpresencedumelangeimmunserum-virus,meten
+libert6desacidesquiabaissentlepHdumilieuetfontvirerlerougedephenolaujaune.
+Lanecrosecellulaireprovoqueeparlevirusnonneutralise,aucontraire,maintient
+l'indicateuraurouge,lacultureenvoiededestructionneproduisantpasledegr6d'acidite
+delaculturetemoin.
+Lamodificationdutestcolorimetriquequepreconisentlesauteurscomprend:a)l'utili-
+sationdeplateauxdepolystenepeucofiteux;b)celledesuspensionscellulaires<(stabili-
+sees)>,provenantdeculturesdecellulesrenalesdesingetraiteesparunagentassurant
+lamiseensuspensiondescellules(telleVersene);c)celled'unmilieuabased'hydrolysat
+delactalbumineremplacantlemilieuNo199;d)celled'huiledeparaffineahauteviscosite
+pourrecouvrirlescupules.
+Apresavoirdecritendetaillematerielnecessaireetlatechniquedelamethode,
+lesauteurslacomparentaveclamethodeusuelledeneutralisationentubes.Lesresultats
+indiquentqueledegredevariationn'estpaspluseleveaveclamethodedescupuleset
+que,commeonpouvaits'yattendre,ledegredeprecisionetdereproductibiliteaugmente
+aveclenombredecupulesutiliseespourunememedilutiondeserum.
+REFERENCES
+1.Barski,G.& LUpine,P.(1954)Ann.Inst.Pasteur,86,693
+2.Enders,J.F.(1954)Ann.N.Y.Acad.Sci.58,1072
+3.Ledinko,N.& Melnick,J.L.(1953)Amer.J.Hyg.58,223
+4.Lipton,M.M.& Steigman,A.J.(1955)Proc.Soc.exp.Biol.(N.Y.),88,114
+5.Melnick,J.L.(1955)Ann.N.Y.Acad.Sci.61,754
+6.Paul,J.R.& Melnick,J.L.(1956)Poliomyelitis.In:AmericanPublicHealth
+Association,Diagnosticproceduresforvirusandrickettsialdiseases,NewYork
+===== PAGE 18 =====
+146 J.L.MELNICK& E.M. OPTON
+7.Rightsel,W.A.etal.(1955)Bact.Proc.p.65
+8.Robbins,F.C.,Enders,J.F.&Weller,T.H.(1950)Proc.Soc.exp.Biol.(N.Y.),
+75,370
+9.Robertson,H.E.,Brunner,K.T.& Syverton,J.T.(1955)Proc.Soc.exp.Biol.
+(N.Y.),88,119
+10.Salk,J.E.,Youngner,J.S.& Ward,E.N.(1954)Amer.J.Hyg.60,214

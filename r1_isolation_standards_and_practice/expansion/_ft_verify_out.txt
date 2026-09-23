@@ -1,0 +1,268 @@
+﻿
+==== PMC13224474 2026 10 -> 2 | A new lineage of Ranavirus micropterus1 infects ornamental w
+QUOTES:
+  Q: lates at ~1 ├ù 10 5 cells per well using growth medium (10% FBS/L15) and incubated at 25 ┬░C for 2 days until 90% confluent. Before inoculation, the growth medium was replaced with maintenance medium (L
+  Q: on, the growth medium was replaced with maintenance medium (L15 + 2% FBS 1X Anti-anti, Gibco). In one plate (Plate A), two replicate wells were inoculated with 10 ╬╝L each of neat (clarified tissue hom
+  Q:  culture media were replaced with fresh maintenance medium to maintain nutrient availability. A first passage (P1) was performed by transferring supernatant from an initial well (P0) inoculated with d
+ISOL:
+  I:  choati stored in RNAlater at ΓêÆ80 ┬░C was used for virus isolation. Each sample was placed in a bashing tube containing 0.1 mm and 2.0 mm lysis beads and homogenised in 1 mL of homogenising medium (L15
+  I: Sydney Microscopy & Microanalysis (2022 edition). Virus isolation was performed following the procedures described in the WOAH Aquatic Manual for Infection with Ranavirus species ( 43 ). BF-2 cells we
+  I:  In one plate (Plate A), two replicate wells were inoculated with 10 ╬╝L each of neat (clarified tissue homogenate supernatant) while two wells in a second plate (Plate B) were inoculated with 200 ╬╝L e
+
+==== PMC13017990 2026 10 -> 2 | Diagnosis of Betanodavirus Infection in the Gonad of Greater
+QUOTES:
+  Q: (Nunc, ThermoFisher) at 20 ┬░C using RTG-growth medium which consisted on Leibovitz (L-15) medium (Gibco) supplemented with 10% foetal bovine serum (FBS, Lonza), 4 mM L-glutamine (Gibco), and 100 units
+  Q: ell) in 24-well culture plates with RTG-growth medium, and 24 h later inoculated with 250 ┬╡L of each diluted sample. After 1-h of adsorption, 750 ┬╡L of maintenance medium (2% FBS) were added to each w
+  Q: ple. After 1-h of adsorption, 750 ┬╡L of maintenance medium (2% FBS) were added to each well, and cells were incubated at 25 ┬░C for 24 h. At this time point, luciferase activity was measured, and induc
+  Q: Cells were cultured in 25 cm┬▓ flasks (Nunc, ThermoFisher) at 20 ┬░C using RTG-growth medium which consisted on Leibovitz (L-15) medium (Gibco) supplemented with 10% foetal bovine serum (FBS, Lonza), 4 
+  Q: supplemented with 10% foetal bovine serum (FBS, Lonza), 4 mM L-glutamine (Gibco), and 100 units/mL penicillin, 10 mg/mL strept
+  Q: supplemented with 5% FBS, 100 units/mL penicillin, and 10 mg/mL streptomycin and used for NNV (SpDl_IAus
+ISOL:
+  I: or NNV (SpDl_IAusc965.09 isolate, RGNNV genotype, isolated from European seabass [ 42 ]) production and titration using the 50% tissue culture infective dose (TCID 50 ) method [ 43 ] as elsewhere. Gon
+  I: ure plates with RTG-growth medium, and 24 h later inoculated with 250 ┬╡L of each diluted sample. After 1-h of adsorption, 750 ┬╡L of maintenance medium (2% FBS) were added to each well, and cells were 
+
+==== PMC8493110 2021 10 -> 2 | Immunogenicity and Efficacy Evaluation of Vero Cell-Adapted 
+QUOTES:
+  Q: s, following 36 hrs of sub-culturing in growth medium, infected with IBDV LC-75 remained fully intact in passage 1 (P1) up to six days post-infection. The infected cells of the first passage was blind
+  Q: m (FCS; Gibco) was used as a growth and maintenance medium for Vero cell culture, respectively. Media and solutions used for the growth of cells were Trypsin versene solution, phosphate buffered salin
+  Q: supplemented with 10% FCS (Gibco) at a seeding density of 2.1├ù10 6 cells. The cells were incubated and gr
+ISOL:
+  I: s negative control. At 18 days of age chicks were inoculated using ocular route with 1^10 5.4 50% Tissue Culture Infectivity Dose (TCID 50 /mL) antigen from passage 5, 10 and from CEF cell based IBDV 
+  I: quences of the present LC-75 vaccine strain virus isolated from the different culture passages were analysed and cleaned sequences were deposited in the GenBank with accession numbers of IBDV/LC-75/pa
+  I:  of very virulent infectious bursal disease virus isolated from naturally infected Turkey poults in Egypt. Trop Anim Health Prod . 2020;52(6):3819ΓÇô3831. doi: 10.1007/s11250-020-02420-5 19. Office of I
+
+==== PMC12474081 2025 10 -> 2 | Susceptibility and Transmission Dynamics of Peste des Petits
+QUOTES:
+  Q: onolayers, following the removal of the growth medium. For the negative control, 100 ╬╝L of HanksΓÇÖ solution devoid of virus was introduced to the control wells that housed uninfected cell monolayers. F
+  Q: 6 times with HanksΓÇÖ solution, and fresh maintenance medium (DMEM with 2% FBS and antibiotics) was added. Cultures were observed daily for cytopathic effect (CPE). If no CPE developed after 7ΓÇô10 days, 
+  Q: e cells were subsequently overlaid with maintenance medium, followed by incubation of the plates at 37 ┬░C in a humidified 5% CO 2 environment. The maintenance medium underwent replacement every 2 to 3
+  Q: supplemented with 5% fetal bovine serum (FBS; Gibco, Thermo Fisher Scientific, Waltham, MA, USA), penicillin (100 IU/mL), an
+ISOL:
+  I: s and Primary Cultures The cell cultures used for virus isolation, titration, and neutralization assays included primary lamb kidney (LK) cells, primary goat kidney (GK) cells, primary saiga kidney (S
+  I: vening during the entire observation period. 2.7. Virus Isolation 2.7.1. In Vivo Virus Isolation For in vivo virus isolation, blood and tissue samples were used to assess viral infectivity via animal 
+  I: ate successful virus replication. 2.7.2. In Vitro Virus Isolation For in vitro virus isolation, the same sample types (whole blood, tissue homogenates, nasal and ocular discharges, saliva, and feces) 
+
+==== PMC10913406 2024 10 -> 10 | Genetic characterization and pathogenicity in a mouse model 
+QUOTES:
+  Q: d twice with PBS 1├ù and cultured in the growth medium or maintenance medium for 24 h. Cells were fixed with 4% formaldehyde, permeabilized with 0.1% Triton-X100 in PBS, and blocked with 5% skim milk. 
+  Q:  cells. After 2-h absorption, the fresh maintenance medium was added (DMEM supplemented with 0.3% TBP, 0.02% YE, and 4 ┬╡g/ml trypsin). The inoculated cells were observed daily for CPE for a 5-day peri
+  Q: 640 medium plus 10% FBS (growth media). Maintenance medium was applie for these cells using the same basal media supplemented with 0.3% TBP, 0.02% YE, and 1 ┬╡g/ml trypsin, except the SH-SY5Y were used
+  Q: 1├ù and cultured in the growth medium or maintenance medium for 24 h. Cells were fixed with 4% formaldehyde, permeabilized with 0.1% Triton-X100 in PBS, and blocked with 5% skim milk. Viral amplificati
+  Q: ere infected with the virus at MOI=1 in maintenance medium (DMEM plus trypto-phosphate broth, yeast extract, and trypsin) or growth media (DMEM supplemented with 10% FBS). (A) Immunofluorescence assay
+  Q: ere infected with the virus at MOI=1 in maintenance medium (DMEM plus trypto-phosphate broth, yeast extract, and trypsin) or growth media (DMEM supplemented with 10% FBS). (A) Immunofluorescence assay
+ISOL:
+  I: NU1/Korea/2021, a reassortment of MRV serotype 2, isolated from bats with broad tissue tropism, including the neurological system. In addition, it has been shown to cause respiratory syndrome in mouse
+  I: erstand their effects on human and animal health. Virus isolation has previously been used to study viral circulation in bats in Korea. In the last decade of the 20th century, two hantavirus strains w
+  I: n 2016 ( 36 ). Recently, an MRV type 3 strain was isolated from bats; however, its biological features and pathology are not clear ( 37 ). Here, we report the isolation of a novel bat mammalian orthor
+
+==== PMC11089916 2024 10 -> 2 | Development and evaluation of a chicken embryo fibroblast ce
+QUOTES:
+  Q: ells suspension (10 6 cells/mL) in DMEM growth medium were dispensed in a 12-well tissue culture plate (1 mL/well) and co-infected with CEF passaged virus at P35 (50 ┬╡L/well, titre 10 7.2 TCID 50 /mL)
+  Q: re plate (100 ╬╝L/well). Then, RPMI-1640 growth medium (100 ╬╝L) with DEV (10 4 TCID 50 ) was added to the wells in triplicates for assessment of antigen-specific proliferative response (Apinda et al. 2
+  Q: -1640 as the positive control and plain growth medium (without antigen or Con-A) as negative control were also taken in triplicate wells. After 48 h incubation at 37 ┬░C with 5% CO 2 , 20 ╬╝L of 5 mg/mL
+  Q: ice with plain DMEM, replaced with DMEM maintenance medium containing 2% FBS and further incubated. Cells were routinely observed for cytopathic effects (CPE) and the culture was harvested, when the o
+  Q: irus was removed and replaced with DMEM maintenance medium containing 2% FBS. Cell culture was harvested at different time intervals, i.e. 12, 24, 36, 48, 72 and 96 h post infection (hpi) and stored a
+  Q: supplemented with 10% fetal bovine serum (FBS, Gibco, USA) and antibiotics. After 24 h of incubation, when the CEF monolayer 
+ISOL:
+  I: ritis virus (DEV) The DEV/India/IVRI-2016 strain, isolated from the field samples collected during an outbreak in Kerala, India, was characterized as described in our previous study (Panickan et al. 2
+  I: 10 3.5 TCID 50 vaccine dose. On the 7 th day post inoculation, ducklings were sacrificed and their liver tissue was collected, homogenized and 10% suspension was prepared. The liver homogenate was cla
+  I:  birds served as unvaccinated control, which were inoculated with 1 mL of culture medium. Serum samples were collected from all the groups at 7 th , 14 th and 21 st dpi to determine the protective ant
+
+==== PMC10907662 2024 10 -> 1 | Preparation and evaluation of the immune efficacy of an inac
+QUOTES:
+  Q: ubated for an hour. After that, 5 mL of maintenance medium containing 1% fetal bovine serum (FBS) was added, and the cytopathic effect was monitored daily. The CY21 strain was passaged continuously fo
+  Q: supplemented with 10% fetal bovine serum (FBS) (PAN, Germany) and 1% penicillin-streptomycin. The cells were maintained at 37
+ISOL:
+  I: in the present study using FAdV-8a. The virus was isolated from the livers of FAdV-infected chickens. Test results showed that the vaccine elicited a robust immune response in SPF chickens after immun
+  I: curve. Also, generations with high virulence were inoculated into LMH cells, and samples were taken at 6, 12, 18, 24, 36, 48, 60, 72, 84, and 96 h after injection to produce a growth curve. 2.3 Prepar
+  I: molecular characterization of a fowl adenovirus 4 isolated from chicken associated with IBH and HPS in China BMC Vet. Res. 14 2018 400 30547794 10.1186/s12917-018-1733-4 PMC6295067 13 Sabarudin N.S. T
+
+==== PMC13556978 2026 10 -> 2 | A conserved E1 stem motif functions as a virulence switch in
+QUOTES:
+  Q: noculum was replaced with an overlay of maintenance medium (DMEM with 2% FBS) containing 1% lowΓÇæmeltingΓÇæpoint agarose (Cat: A8350, Solarbio, China). After 4 days of incubation under the same condition
+  Q: stΓÇæadsorption, cells were overlaid with maintenance medium containing 1% methylcellulose (Cat: 9004ΓÇæ67ΓÇæ5, Sigma, USA). Following a 4ΓÇæday incubation, cells were fixed with 4% paraformaldehyde (Cat: P11
+  Q: cells were maintained in DulbeccoΓÇÖs Modified Eagle Medium (DMEM; Cat: 12,491,015, Gibco, USA) supplemented with 10% fetal bovine serum (FBS; Cat: 16,140,071, Gibco, USA) and 1% penicillinΓÇæstreptomycin
+  Q: supplemented with 10% fetal bovine serum (FBS; Cat: 16,140,071, Gibco, USA) and 1% penicillinΓÇæstreptomycin (Cat: 15,140,122, 
+  Q: supplemented with 2% FBS. Plaque assay Viral plaque assays were performed to purify clonal isolates and 
+  Q: supplemented with 2% FBS. For plaque purification, confluent Vero cell monolayers in 6ΓÇæwell plates were 
+ISOL:
+  I: he first identification of a natural GETV variant isolated from the brain of diseased piglets. This variant harbors a 9-nucleotide deletion in the E1 glycoprotein stem region, resulting in the deletio
+  I: co-circulating, genetically distinct GETV strains isolated from diseased piglets Using Vero CCL81 cells, we successfully isolated two GETV strains from the brain tissue of piglets exhibiting neurologi
+  I: co-circulating, genetically distinct GETV strains isolated from diseased piglets. (a). Schematic comparing mutation sites between wild-type (WT) and mutant GETV strains. Nucleotide and amino acid sequ
+
+==== PMC13184637 2026 10 -> 2 | Genetic Diversity, Recombination, and Pathogenicity of Porci
+QUOTES:
+  Q:  washed twice with serumΓÇÉfree DMEM, and maintenance medium containing 5 ╬╝g/mL trypsin was added. Cells were incubated at 37┬░C with 5% CO 2 and monitored daily for CPE. Virus stocks were blindΓÇÉpassaged
+  Q: cells were maintained in DulbeccoΓÇÖs modified EagleΓÇÖs medium (DMEM; Biochannel, China) supplemented with 10% fetal bovine serum (FBS; Biochannel, China) and 1% penicillinΓÇôstreptomycin at 37┬░C in
+  Q: After adsorption at 37┬░C for 1 h, the inoculum was removed and cells were overlaid with DMEM containing 2% FBS and 0.7% agarose. Plates were incubated at 37┬░C with 5% CO 2 for 3 days, follow
+  Q: supplemented with 10% fetal bovine serum (FBS; Biochannel, China) and 1% penicillinΓÇôstreptomycin at 37┬░C in a humidified incu
+ISOL:
+  I: ation of distinct lineages. Two PEDV strains were isolated from PEDVΓÇÉpositive intestinal tissues and designated PEDVΓÇÉHeiHoΓÇÉ2024 (GIIb) and PEDVΓÇÉNJZUΓÇÉ2024 (GIa). Recombination analysis identified PEDVΓÇÉ
+  I: gsu provinces. Two PEDV strains were successfully isolated from PEDVΓÇÉpositive intestinal tissues and were classified into distinct genetic subgroups, designated PEDVΓÇÉHeiHoΓÇÉ2024 (GIIb) and PEDVΓÇÉNJZUΓÇÉ20
+  I: EDVΓÇÉpositive intestinal samples were subjected to virus isolation in Vero cells. After serial passage, infected cells developed characteristic cytopathic effects (CPE), including cell rounding, fusion
+
+==== PMC13431588 2026 5 -> 5 | Detection of Infectious Hepatitis E Virus in Retail Pork P├ót
+QUOTES:
+  Q: ny) [ 23 , 24 ]. Cells were cultured in maintenance medium: Minimal Essential Medium (MEM, Thermo Fisher, #31095-029), supplemented with 5% fetal bovine serum (FBS, Sigma-Aldrich, #F7524), 1 mM sodium
+  Q: -well plates and cultured for 3 days in maintenance medium (as described above) at 37 ┬░C and 5% CO 2 . Cells were then inoculated with 100 ┬╡L of virus extract or medium (negative control) in duplicate
+  Q:  medium (maintenance medium supplemented with 2% dimethyl sulfoxide (DMSO) and 5% FBS). After five days, supernatants were collected, and cells were fixed and stained for HEV ORF2 capsid protein (Merc
+  Q: Cells were cultured in maintenance medium: Minimal Essential Medium (MEM, Thermo Fisher, #31095-029), supplemented with 5% fetal bovine serum (FBS, Sigma-Aldrich, #F7524), 1 mM sodium pyruvate (Sigma-
+  Q: infection medium (maintenance medium supplemented with 2% dimethyl sulfoxide (DMSO) and 5% FBS). After five days, supernatants were collected, and cells were fixed and staine
+  Q: supplemented with 5% fetal bovine serum (FBS, Sigma-Aldrich, #F7524), 1 mM sodium pyruvate (Sigma-Aldrich, #S8636), 100 U/mL
+ISOL:
+
+==== PMC5133602 2016 10 -> 2 | The Disinfection Characteristics of Ebola Virus Outbreak Var
+QUOTES:
+  Q: irus maintenance medium was the same as growth medium with FBS reduced to 2%. Viruses Ebola virus variant stocks of 1976 Mayinga, 1995 Kikwit and 2014 Makona (C05) were cultivated in VeroE6 cells with
+  Q: 7 ┬░C/5% CO 2 . For virus culture, virus maintenance medium was the same as growth medium with FBS reduced to 2%. Viruses Ebola virus variant stocks of 1976 Mayinga, 1995 Kikwit and 2014 Makona (C05) w
+  Q: Virus pellets were resuspended in virus maintenance medium and stored at ΓêÆ80 ┬░C. Chemicals Sodium hypochlorite (NaOCl) from 10.8% stock concentration (Imperial Soap and Supplies Limited) or ethanol (E
+  Q: s adsorption for 1 hour at 37 ┬░C, virus maintenance medium was added making a final volume of 30 mL, flasks were incubated at 37 ┬░C. Monolayers were visually analyzed for signs of CPE and cytotoxicity
+  Q: dium was the same as growth medium with FBS reduced to 2%. Viruses Ebola virus variant stocks of 1976 Mayinga, 1995 Kikwit and 2014 Makona (C05) were cultivated in VeroE6 cel
+ISOL:
+  I: h immuno-therapeutics. Spengler et al ., describe virus isolation by culturing was not possible in patients after 12 days of symptom onset or with Ct > 35.5, although this was also the case in some pa
+  I: se Chain Reaction-Based Threshold Cycle Value and Virus Isolation From Human Plasma . J. Infect. Dis. 212 Suppl, S346 ΓÇô 9 ( 2015 ). 25941333 10.1093/infdis/jiv187 PMC4675930 Ojeh C. K. , Cusack T. M. 
+
+==== PMC11266174 2024 10 -> 2 | Inhibition of porcine reproductive and respiratory syndrome 
+QUOTES:
+  Q: cells were cultured in DulbeccoΓÇÖ s modified EagleΓÇÖ s medium (DMEM) (Corning, United States) with 10% FBS at 37┬░C in 5% CO2. Two PRRSV strains, GDBY1 (PRRSV-2), and JXA-1 (PRRSV-2), wer
+  Q: supplemented with 10% fetal bovine serum (FBS) and 2% PenicillinΓÇôStreptomycin Solution (Fdbio Science, China). Marc-145 cells
+  Q: supplemented with 2% FBS was added. To determine the titer in the culture supernatant, the supernatant w
+ISOL:
+  I: 5930-100 mg) was purchased from Abmole. PAMs were isolated from one-month-old specific-pathogen-free piglets and were cultured at 37┬░C in 5% CO2 in RPMI-1640 medium supplemented with 10% fetal bovine 
+
+==== PMC13517838 2026 10 -> 2 | Development of Cell Culture-Derived Hemagglutination Antigen
+QUOTES:
+  Q: rum (FBS). Following the removal of the growth medium, 100 ┬╡L of each viral dilution was inoculated into eight replicate wells. The plates were incubated for 5 to 7 days to allow the development of vi
+  Q: ently, the inoculum was replaced with a maintenance medium containing 2% fetal bovine serum, and the cultures were maintained at 37 ┬░C. The infected cell cultures were monitored daily for the developm
+  Q: d serially diluted (10 ΓêÆ1 to 10 ΓêÆ8 ) in maintenance medium supplemented with 2% fetal bovine serum (FBS). Following the removal of the growth medium, 100 ┬╡L of each viral dilution was inoculated into 
+  Q: g 10 TCID 50 /mL. Wells inoculated with maintenance medium served as negative controls to ensure the validity of the CPE observations. To ensure the reproducibility of the results, all experiments wer
+  Q: supplemented with 2% fetal bovine serum (FBS). Following the removal of the growth medium, 100 ┬╡L of each viral dilution was
+ISOL:
+  I: panese encephalitis virus (JEV), was subsequently isolated from a human patient in 1935 [ 2 ]. JEV, a member of the Flaviviridae family and Orthoflavivirus genus, is a leading cause of viral encephali
+  I: dy. The K95 strain (NCCP No. 41320) is a GI virus isolated from Culex tritaeniorhynchus in Republic of Korea in 1995. The KV1899 strain (GenBank AY316157 ), also classified as GI, was isolated from th
+  I: ank AY585242 ) isolated from Culex tritaeniorhynchus in Wando, Jeonnam Province, Republic of Korea, in 1987, and the Nakayama strain (GenBank EF571853 ), a prototype GIII virus originally isolated fro
+
+==== PMC12581222 2025 10 -> 2 | Characterization of two novel Negevirus strains and analysis
+QUOTES:
+  Q:  inoculum was removed and replaced with maintenance medium (RPMI 1640 for C6/36 and DMEM for mammalian cells) containing 2% FBS. Cells were observed daily for 7 days to examine cytopathic effect (CPE)
+  Q: cells were maintained in COΓéé incubator at 28 ┬░C in Roswell Park Memorial Institute (RPMI) 1640 medium containing 10% fetal bovine serum (FBS) and 1% penicillin-streptomycin (PS). BHK-21, VeroE6, SW13,
+  Q: cells were cultured in COΓéé incubator at 37 ┬░C in DulbeccoΓÇÖs minimal essential medium (DMEM) containing 10% FBS and 1% PS. Mosquito collection and preparation From June 2020 to July 2023, mos
+ISOL:
+  I: tion of MBVs. For example, Nhumirim virus (NHUV), isolated from mosquitoes in Brazil, significantly suppresses the amplification of West Nile virus (WNV), Japanese encephalitis virus (JEV), and St. Lo
+  I: in at 15,000 g for 10 min to get the supernatant. Virus isolation and purification Cells were seeded into 24-well plates (C6/36: 2 ├ù 10 5 cells/well; VeroE6 and BHK-21: 1.6 ├ù 10 5 cells/well). The sup
+  I: alyses were generated using Origin 2024b. Results Virus isolation and morphology Following the inoculation of C6/36 cells, three wells containing Aedes vexans homogenate and thirteen containing Culex 
+
+==== PMC13119600 2026 4 -> 4 | Prevalence, Clinical Signs, Diagnosis and Treatment of Post-
+QUOTES:
+  Q: d for cell culture and 5% was added for maintenance medium. Viruses were propagated in a 24 h monolayer culture with DMEM maintenance medium (with 4% FBS). For primary isolation, the infected cell cul
+  Q: cells were maintained in DulbeccoΓÇÖs Modified Eagle Medium (DMEM) (Sigma-Aldrich, Burlington, MA, USA, Merck, Darmstadt, Germany) low-glucose medium, 20 mM Hepes buffer (Sigma-Aldrich, Merck, Germany).
+ISOL:
+  I: nt to stimulate the immune system. SARS-CoV-2 was isolated from the four cats, which were not carriers of the other pathogens studied. Successful cultivation shows that the virus was infectious and it
+  I: ut change in the general condition. The virus was isolated from these samples. These four cats and their owners were positive for antibodies to the virus, and the owners were PCR-negative. The treatme
+  I: y. The cats that met the eligibility criteria for virus isolation underwent a physical examinationΓÇömeasurement of body temperature, pulse and respiration. Blood samples were taken for a complete blood
+
+==== PMC11346336 2024 5 -> 10 | Gene editing of pigs to control influenza A virus infections
+QUOTES:
+  Q: ed in 2 mL of bronchial epithelial cell growth medium (BEGM) (Lonza cat# CC-3170) supplemented with Primocin (InvivoGen, San Diego, CA). Live cells were seeded at 1 ├ù 10 5 cells/cm 2 into collagen-coa
+  Q:  sample and BALF were prepared in virus maintenance medium (DMEM supplemented with 0.3% bovine albumin serum, 1% MEM vitamin, 1% antibiotic-antimycotic, and 1 ╬╝g/mL TPCK-treated trypsin). The 10% tiss
+  Q: homogenates were also prepared in virus maintenance medium. MDCK cells were washed with phosphate buffered saline once, and virus inoculum was transferred onto the cells. For tissue homogenates, the i
+  Q: rus maintenance medium after 2 h absorption at 37┬░C. At 48 h post-inoculation, the cells were fixed with 100% cold methanol and incubated in ΓêÆ20┬░C for 10 min. The cells were incubated with mouse monoc
+  Q: cells were maintained in DulbeccoΓÇÖs Modified Eagle Medium (DMEM; Corning, Manassas, VA, USA) supplemented with 5% fetal bovine serum (FBS; R&D systems, Flower Branch, GA, USA) and 1% antibiotic-antim
+  Q: isolation medium with 1.4 mg/mL Pronase (SigmaΓÇôAldrich, St. Louis, MO) and 100 ╬╝g/ml DNase I (SigmaΓÇôAldrich, St. Louis, MO) for 24 h at 4┬░C with continuous gentle agitation. After incubation, FBS was 
+ISOL:
+  I: e at 3 or 5 dpc; in contrast, H1N1 CA04 virus was isolated from one out of three of the WT pigs at 3 dpc and two out of the three WT pigs at 5 dpc ( Figure 3 (B)). In addition, the H1N1 CA04 virus tit
+  I: . To further elucidate the viral evolution of the inoculated IAVs in the lower respiratory tract, BALF samples were subjected to next generation sequencing (NGS). The results revealed that the HA clea
+  I: ed in viruses isolated from both KO and WT pigs at all time points analysed post infection ( Figure 4 ). In addition, there was no amino acid (AA) substitution in the key residue ΓÇ£asparagine (N)ΓÇ¥ at A
+
+==== PMC12411486 2025 10 -> 2 | The role of glycerophospholipid metabolism in feline parvovi
+QUOTES:
+  Q:  supernatant was removed, and 200 ╬╝L of maintenance medium (DMEM + 2% FBS + 1% penicillinΓÇôstreptomycin) was added to each well, followed by further static culture in the incubator. The cytopathic effe
+  Q: ard passaging protocols, resuspended in maintenance medium (DMEM + 2% FBS + 1% penicillinΓÇôstreptomycin), and counted using a cell counter. CRFK cells were seeded into 6-well plates at 1.6 ├ù 10 6 cells
+  Q: ll passage protocol, resuspend cells in maintenance medium (DMEM + 2% FBS + 1% penicillinΓÇôstreptomycin), and perform cell counting using a cell counter. Seed CRFK cells into 6-well plates at a density
+  Q: ll passaging procedures, resuspended in maintenance medium (DMEM + 2% FBS + 1% penicillinΓÇôstreptomycin), and counted using a cell counter. CRFK cells were then seeded into 6-well plates at a density o
+  Q: supplemented with 10% fetal bovine serum (FBS) (ZETA, San Francisco, USA) and 1% penicillin/streptomycin at 37 ┬░C and 5% CO 2
+ISOL:
+  I:  and 5% CO 2 . The feline parvovirus (FPV013) was isolated from the anal swab of a cat with feline panleukopenia in the laboratory. Feline Parvovirus (FPV013) was maintained as the median tissue cultu
+
+==== PMC12172445 2025 10 -> 2 | The A487 residue in the E protein of duck Tembusu virus sign
+QUOTES:
+  Q: , the cells were washed with PBS, and a maintenance medium was added. At 24 h post-infection, the cells were washed once with PBS and lysed with Glo Lysis Buffer (Promega, WI, USA) at room temperature
+ISOL:
+  I: Asia, as the prototypical TMUV MM_1775 strain was isolated from C. tritaeniorhynchus in 1955 ( 13 ). A retrospective study also indicated the presence of TMUV in Thai ducks since 2007, prior to the ou
+  I: nly been isolated from the Southeast Asia region and showed less pathogenicity than cluster 2 TMUV ( 15 ). Currently, circulating duck TMUVs belong to Cluster 2, subdivided into Clusters 2.1 and 2.2. 
+  I:  revealing similar results. Notably, no virus was isolated from any of the sampled tissues after i.p. injection ( Fig. 2E and F ) using the TCID 50 method, indicating that TMUV could not establish eff
+
+==== PMC5081539 2016 10 -> 0 | Identification of different respiratory viruses, after a cel
+QUOTES:
+  Q: noculum was removed and replaced with a maintenance medium (E-MEM without serum) and infected cells were incubated at 37 ┬░C. Infected and uninfected control cells and the respective culture media were
+ISOL:
+  I: aluated using cell cultures infected with viruses isolated from respiratory samples collected and analysed by routine diagnostic methods at the Unit of Virology of the University Hospital of Parma (It
+  I: onics database in order to blind identify viruses isolated from biological samples after a cell culture step. Figure 1 Representative MALDI-TOF mass spectra showing peaks in Linear Positive mode acqui
+  I: indicated on peak tops. Identification of viruses isolated from respiratory tract samples after a cell culture step by the newly created respiratory viruses library Based on these preliminary results,
+
+==== PMC10044120 2023 5 -> 2 | Potent and selective covalent inhibition of the papain-like 
+QUOTES:
+  Q: ssays the same medium was used but with FBS reduced to 2% and supplemented with 50 ┬╡g/ml gentamicin. Compounds were dissolved in DMSO, saline, or the diluent requested by the
+  Q: Cells were maintained in Modified Eagle Medium (MEM) supplemented with 5% fetal bovine serum (FBS). For antiviral assays the same medium was used but with FBS 
+  Q: Cells were maintained in MEM supplemented with 5% FBS. The test compounds were prepared at a serial dilution of concentrations. The a
+  Q: supplemented with 5% fetal bovine serum (FBS). For antiviral assays the same medium was used but with FBS reduced to 2% and 
+  Q: supplemented with 5% FBS. The test compounds were prepared at a serial dilution of concentrations. The a
+ISOL:
+
+==== PMC8983140 2022 10 -> 2.5 | Adaptive immune responses in vaccinated patients with sympto
+QUOTES:
+  Q: , which is identical to CM but with the FBS reduced to 2.5%, and 150 ╬╝L of the viral transport media containing a swab from a patient confirmed to be SARS-CoV-2 positive adde
+  Q: infection medium (IM), which is identical to CM but with the FBS reduced to 2.5%, and 150 ╬╝L of the viral transport media containing a swab from
+ISOL:
+
+
+===== EXTRAS =====
+NOFT extra 4663707
+
+EXTRA PMC7512137 2020 dual=None->None | Establishment and characterization of fantail goldfish fin (FtGF) cell
+  Q: ignation of cell line Tissue Morphology Growth medium Passage level Chromosome Revival rate Viral susceptibility Country Reference 1. ΓÇô Whole fish ΓÇô At 25 ┬░C TC medium 199 with 20%
+  Q: r (45 rpm) at 28 ┬░C. In control flasks, maintenance medium was used in place of tissue homogenate. After 1 h adsorption, 6.5 mL of the maintenance medium (L-15 medium with 2% FBS) 
+  Q: issue homogenate. Thereafter, 0.2 mL of maintenance medium was added to each well and the plate was incubated at 28 ┬░C. The wells were examined daily for the appearance of CPE up t
+  Q: control group were injected with 0.5 mL maintenance medium. The water temperature was maintained at 28 ┬░C during the experiment and fish were observed daily for clinical signs and 
+  Q: ed in the control cells inoculated with maintenance medium. The TCID 50 of the culture suspension harvested from infected FtGF was found to be 10 7.8 ┬▒ 0.26 TCID 50 /mL ( Fig. 5A )
+  I: viral titer of 10 7.8┬▒0.26 TCID 50 /mL. Following inoculation of CyHV-2 positive tissue homogenate, FtGF cells showed cytopathic effect by 2 nd day post-inoculation (dpi) and compl
+  I: harvested FtGF cells were centrifuged and DNA was isolated from cell pellet using DNeasy blood and tissue kit (Qiagen, Hilden, Germany). Concentration and purity of the extracted D
+NOFT extra 8106717
+
+EXTRA PMC3866114 2013 dual=None->None | The V Protein of Canine Distemper Virus Is Required for Virus Replicat
+  Q: cells were maintained in RPMI medium supplemented with 10% FBS and 1 mg/ml geneticin (G418; Invitrogen Life Technologies, Carlsbad, CA). Vero.
+  Q: supplemented with 10% fetal bovine serum (FBS). The cDNAs encoding the V-Cys 267 and V-Tyr 267 proteins were inserted into th
+  Q: supplemented with 10% FBS and 1 mg/ml geneticin (G418; Invitrogen Life Technologies, Carlsbad, CA). Vero.
+  Q: supplemented with 5% FBS and 1 mg/ml geneticin. 007Lm-VDS was isolated from lymph node tissue obtained f
+  I: ent study showed that CDV strain 007Lm, which was isolated from lymph node tissue of a dog with distemper, failed to replicate in H358 cells, although it possessed an intact C prot
+  I:  with 5% FBS and 1 mg/ml geneticin. 007Lm-VDS was isolated from lymph node tissue obtained from a dog with distemper using Vero.DogSLAMtag cells [18] and passaged 5ΓÇô10 times in the
+
+EXTRA PMC7907832 2021 dual=None->None | Assessment of SARS-CoV-2 infectivity of upper respiratory specimens fr
+  Q: supplemented with 10% fetal bovine serum (FBS). Specimens Upper respiratory samples (nasopharyngeal/nasal swabs or saliva) su
+  Q: supplemented with 5% FBS. At 1-day post-inoculation (dpi), culture supernatants were replaced with fresh
+  I: r respiratory specimens from COVID-19 patients by virus isolation using VeroE6/TMPRSS2 cells Yamada Souichi 1 http://orcid.org/0000-0003-2718-6813 Fukushi Shuetsu 1 Kinoshita Hitom
+  I: olation protocol did not require blind passage of inoculated cells and yielded the results of viral isolation within 7 days after inoculation. Specimens with cycle threshold (Ct) v
+NOFT extra 105078
+
+EXTRA PMC12784899 2026 dual=None->None | Molecular Characteristics and Pathogenicity Analysis of Bovine Viral D
+  Q: ee times with PBS. Next, 2.5 mL of cell maintenance medium was added to each well, and the cells were incubated further. This time point was designated as 0 h. Virus supernatant wa
+  Q: ulum was removed and replaced with DMEM maintenance medium supplemented with 2% FBS. Viral copy numbers were quantified at 24 h post-infection. 2.11. Neutralization Assay The HB241
+  Q: cells were cultured in DMEM containing 10% FBS. The samples were obtained from a dairy farm in Hebei, where cows showed clinic
+  Q: cells were maintained with DMEM (gibco, 11965092) containing 2% FBS (gibco, A5256701). The culture was then continued in the incubator, and cytopat
+  Q: supplemented with 2% FBS. Viral copy numbers were quantified at 24 h post-infection. 2.11. Neutralizatio
+  I: ty Analysis of Bovine Viral Diarrhea Virus Strain Isolated from Persistently Infected Cattle Zhong Jiaxing Investigation, Methodology, Data curation, Software, Writing ΓÇô original d
+  I: tion, and pathogenicity analysis of a BVDV strain isolated from persistently infected cattle ear tissue samples are reported in this study. This newly isolated strain is a noncytop
+
+EXTRA PMC4593780 2015 dual=None->None | Epidemiological Survey of Severe Fever with Thrombocytopenia Syndrome 
+  Q: cells were maintained in EagleΓÇÖs Minimal Essential Medium (EMEM; Nissui Pharmaceutical Co.) containing 10% fetal bovine serum (FBS). All experiments using live SFTSV were performed
+  Q: cells cultured in 12- or 24-well plates, in 1 ml or 0.5 ml of 2% FBS EMEM, respectively. After seven days, 100 ul of supernatant was transferred to 
+  I: s of SFTSV gene detection by real-time RT-PCR and virus isolation in cultured cells and mice. These methods could detect SFTSV in the samples containing more than 4 ├ù 10 0 ffu. Nex
+  I: neither virus isolation nor viral gene detection were confirmed in the tick pools. SFTSV positivity rates are considered to be very low in ticks, and viral loads are also very limi
+
+EXTRA PMC7040968 2019 dual=None->None | Comparison of suspension MDCK cells, adherent MDCK cells, and LLCΓÇÉMK2 
+  Q: supplemented with 10% fetal bovine serum (FBS) in a 75ΓÇÉcm 2 culture flask at 37┬░C under 5% CO 2 . All adventitious virusΓÇÉposi
+  I:  inoculated into the cultures of these cells. For virus isolation using MDCKΓÇÉS, the infection medium was prepared with 37.5 ┬╡g/mL of neomycin (Gibco, Carlsbad, CA, USA) to prevent 
+  I: was distributed to 50ΓÇÉmL filterΓÇÉcapped tubes. For virus isolation with MDCKΓÇÉA and LLCΓÇÉMK2D, 1.5 ├ù 10 6 cells of MDCKΓÇÉA and 3 ├ù 10 5 cells of LLCΓÇÉMK2D were seeded in dishes of 60ΓÇÉmm
+NOFT extra 10659126
+
+saved verified 21
