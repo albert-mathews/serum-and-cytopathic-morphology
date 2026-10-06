@@ -1,0 +1,11 @@
+item,descriptor_set,descriptor,IR1_A_strict_inc,IR1_A_mean_score,IR1_B_strict_inc,IR1_B_mean_score,IR1_BminusA_inc,IR1_BminusA_mean_score,IR2_A_strict_inc,IR2_A_mean_score,IR2_B_strict_inc,IR2_B_mean_score,IR2_BminusA_inc,IR2_BminusA_mean_score
+1,CRO_Healthy,H_Look_Healthy,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.58,0.29,-0.42,-0.71
+2,CRO_Healthy,H_well_defined_nuclei,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.72,0.0,-0.28
+3,CRO_Healthy,H_Cytoplasmic_extensions,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.82,0.98,0.78,-0.02,-0.04
+4,CPE,CPE_Vacuolation_V,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.634,1.0,0.629,0.0,-0.005
+5,CPE,CPE_Granularity_G,1.0,0.522,1.0,0.5,0.0,-0.022,1.0,0.627,1.0,0.92,0.0,0.293
+6,CPE,CPE_Ballooned_Enlarged_BE,0.38,0.19,1.0,0.5,0.62,0.31,0.0,0.0,0.78,0.569,0.78,0.569
+7,CPE,CPE_Syncytia_Sy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.56,0.436,0.56,0.436
+8,CPE,CPE_Cytoplasmic_strands_CS,0.14,0.07,0.96,0.66,0.82,0.59,1.0,0.641,1.0,0.641,0.0,0.0
+9,CPE,CPE_Cell_death_Dy,0.06,0.057,0.0,0.0,-0.06,-0.057,0.78,0.505,1.0,0.99,0.22,0.485
+10,CPE,CPE_Nonspecific_degeneration_ND,0.0,0.03,0.0,0.0,0.0,-0.03,0.0,0.0,1.0,0.729,1.0,0.729

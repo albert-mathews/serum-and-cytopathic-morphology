@@ -1,0 +1,3491 @@
+{
+  "EXP_path1_passage4_101.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A low-density, non-confluent field, roughly 20% coverage, made up of well-attached, well-spread cells showing spindle and stellate profiles with thin phase-bright processes. A few small loose aggregates are starting to form (upper-left, upper-right, and center), though nothing that could be called a defined colony yet. Small bright, phase-refractile round bodies are scattered across the field; given the timing, these look like rounded or still-settling cells shortly after passage rather than true debris. Otherwise the background is clean, with no focus or contrast artifacts to note.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_01",
+    "path": 1,
+    "id": 101,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_102.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "detached",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "detached",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "This is a higher-magnification view of an equally sparse field, around 15% coverage, where individual cell processes and cytoplasmic granularity come through clearly. Cells are mostly thin bipolar and multipolar spindles, with one small loose island of about 8-10 cells right-of-center. A handful of isolated bright, round refractile cells are present, and one of these has a faint halo around it that suggests partial detachment. No debris or artifacts otherwise.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_02",
+    "path": 1,
+    "id": 102,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_103.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A wide, low-density field (~20% coverage) with spindle and stellate cells scattered loosely and two small clusters sitting near the upper-left and upper-right margins. Cell borders are crisp, showing the typical phase-bright edge. Nothing in the way of debris, vacuolization, or optical artifacts here.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_03",
+    "path": 1,
+    "id": 103,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_104.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "The sparsest frame seen so far for day 1, at roughly 10-15% coverage - mostly isolated bipolar and triangular cells, with one small loose cluster right-of-center. A few bright round refractile bodies are scattered through the field, including an adjacent pair center-right. At this density, monolayer integrity hasn't been established yet.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_04",
+    "path": 1,
+    "id": 104,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_105.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Faint, fine parallel striations run across the background of this frame - most likely an optical or plasticware artifact rather than anything biological, and they don't interfere with cell detail. Cell distribution otherwise matches the rest of day 1: scattered spindle cells with a few small clusters, roughly 20% coverage.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_05",
+    "path": 1,
+    "id": 105,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_106.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Density here is a bit higher for day 1, around 20-25% coverage, with several small clusters of 3-6 cells toward the center and right, and individual elongated cells filling in the gaps between them. A few bright round bodies are present, one of which - near center-left - has an unusually granular, darker internal appearance that may point to a rounding or stressed cell rather than ordinary background debris.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_06",
+    "path": 1,
+    "id": 106,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_107.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Cell distribution is comparable to the first frame of this day: small clusters sit at the top, right, and bottom margins, with single spindle cells occupying the space between. Small bright round bodies are scattered around but not in unusual numbers. Coverage is estimated at ~20%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_07",
+    "path": 1,
+    "id": 107,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_108.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparser field, roughly 12-15% coverage, with a small cluster left-of-center and otherwise isolated triangular or spindle-shaped cells. A clear, rounded, cell-free gap sits in the lower-center of the frame; given how low the overall density is at this timepoint, it more likely reflects open substrate than any kind of focal lesion. A few bright round refractile bodies are present as well.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Partial",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_08",
+    "path": 1,
+    "id": 108,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_109.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Cells are fairly evenly scattered across this field, with small clusters at upper-left, upper-right, and lower-right. Bright round refractile bodies appear here and there but not in numbers that stand out from earlier frames of this day. Coverage is around 20%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_09",
+    "path": 1,
+    "id": 109,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_110.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Density is comparable to frame 6 of this day, around 20% coverage, with clusters at left and right bridged by individual spindle cells running through the center. Morphology is unremarkable for this early timepoint - no debris or artifacts noted.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day1_10",
+    "path": 1,
+    "id": 110,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_201.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Confluency has increased substantially since day 1, to roughly 40% coverage. Numerous well-formed polygonal colonies with tight cobblestone packing are spread across the field, the largest sitting in the upper-right and left-center, with individual spindle cells bridging the space between them. Colony margins are crisp and there's no debris or vacuolization to report.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_01",
+    "path": 1,
+    "id": 201,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_202.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A higher-magnification look at two adjoining large cobblestone islands, one on each side of the frame, showing tight polygonal packing with nuclei visible as darker central puncta in individual cells. A few isolated spindle and bright round cells sit in the open space between them. Local coverage is around 45%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_02",
+    "path": 1,
+    "id": 202,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_203.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Several mid-sized colonies are scattered across the field, with more open substrate visible between them than in frame 1, and single cells still fairly numerous in the gaps. Estimated coverage is around 35%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_03",
+    "path": 1,
+    "id": 203,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_204.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Two large, adjacent colonies with well-defined cobblestone architecture dominate the left half of this frame, while scattered single cells and a few bright round bodies occupy the right side. Coverage sits around 40%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_04",
+    "path": 1,
+    "id": 204,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_205.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Colony distribution is similar to frame 1 - evenly spread, with several mid-sized islands across the field and individual elongated cells filling the remaining open space. Coverage is estimated at 35-40%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_05",
+    "path": 1,
+    "id": 205,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_206.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A very large, dense colony takes up much of the lower-left of this frame, with tight, uniform internal packing; smaller islands sit adjacent to the right. One bright round refractile cell sits right at the colony margin. Local coverage looks to be around 45-50%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_06",
+    "path": 1,
+    "id": 206,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_207.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Colonies of varying size are fairly evenly distributed here, with overall density similar to frames 1 and 5; in places there's very little open substrate left between clusters. Coverage is around 40%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_07",
+    "path": 1,
+    "id": 207,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_208.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Densely packed colonies fill most of this frame, with only narrow channels of clear substrate left between them. Several bright round refractile cells are visible, including an adjacent pair near the center. Coverage looks to be around 45%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_08",
+    "path": 1,
+    "id": 208,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_209.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Colony distribution and density here are consistent with the rest of day 2 - evenly scattered mid-to-large cobblestone islands with individual cells filling the gaps. Coverage is estimated at 35-40%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_09",
+    "path": 1,
+    "id": 209,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_210.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Large, well-spread colonies with tight cobblestone packing dominate this frame. A small cluster of three closely apposed bright round cells sits near the upper-right, which could reflect a local mitotic cluster. Coverage is estimated at 40-45%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Partial",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day2_10",
+    "path": 1,
+    "id": 210,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_301.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Confluency has picked up further, to roughly 55% coverage. Colonies have enlarged and are beginning to coalesce at their margins, forming broader continuous sheets with narrower channels of open substrate than were visible on day 2. The internal texture within the sheets is a uniform cobblestone.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_01",
+    "path": 1,
+    "id": 301,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_302.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A single large, densely packed sheet takes up most of the frame, apparently formed from the fusion of several smaller day-2 colonies; the margins show the typical scalloped, lobed colony edge. Local coverage is around 65%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_02",
+    "path": 1,
+    "id": 302,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_303.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Several large colonies show partial coalescence where they touch, with open substrate and a few isolated elongated cells still visible between the islands. Coverage is estimated at ~50%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_03",
+    "path": 1,
+    "id": 303,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_304.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Several mid-to-large colonies are present here, one of which contains a small oval clear zone, roughly 30-50um, with a smooth, round margin - most consistent with a focal cell-free clearing in an actively remodeling colony rather than anything pathological. Packing is otherwise uniform. Coverage is around 55%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_04",
+    "path": 1,
+    "id": 304,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_305.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Broad coverage, with large fused colonies across most of the frame; density is comparable to frame 1 of this day. Estimated coverage: 55-60%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_05",
+    "path": 1,
+    "id": 305,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_306.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A large central colony here shows a dense, whorled cobblestone texture. A bright round refractile cell and a small elongated, debris-like fragment are visible near the middle of the frame. Local coverage is around 60%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_06",
+    "path": 1,
+    "id": 306,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_307.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Colony distribution is comparable to frames 3 and 5 - colonies enlarging, gaps narrowing, with only minimal loose single-cell debris left in the open areas. Coverage is estimated at ~55%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_07",
+    "path": 1,
+    "id": 307,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_308.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Colonies continue coalescing across this frame; a small round clear zone is visible inside the largest colony, right-of-center, and two bright round refractile cells sit in the adjacent open substrate. Coverage is around 55-60%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_08",
+    "path": 1,
+    "id": 308,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_309.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Coverage and colony architecture are consistent with the rest of day 3, around 50-55%. Faint, fine diagonal background lines appear in the lower half of the frame, most likely a plate or optical artifact rather than anything cellular.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_09",
+    "path": 1,
+    "id": 309,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_310.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A large, dense colony dominates the center-right of this frame, containing several small round clear zones (2-3 visible, roughly 20-40um) embedded in its cobblestone texture, along with a compact circular sub-colony at upper right that has a more granular, piled-up look suggestive of local multilayering. Local coverage is around 65%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day3_10",
+    "path": 1,
+    "id": 310,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_401.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Confluency has advanced markedly here - a near-confluent monolayer, roughly 65-70% coverage. Colonies have merged into one broad, continuous sheet with small irregular gaps scattered through it; the texture is a uniform whorled cobblestone with very few loose single cells left.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_01",
+    "path": 1,
+    "id": 401,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_402.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Phase contrast is a little softer overall in this frame than in the surrounding ones, possibly reflecting minor focus drift, but the sheet architecture is otherwise typical for this density - large, densely packed islands merging at multiple points. Coverage is estimated at ~70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_02",
+    "path": 1,
+    "id": 402,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_403.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Sheet coverage here with numerous small gaps of open substrate remaining between merged islands; a single bright round refractile cell sits near the center. Estimated coverage is ~65%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_03",
+    "path": 1,
+    "id": 403,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_404.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A large, near-continuous sheet occupies the lower two-thirds of the frame with a uniform texture; two elongated spindle cells at left remain unattached to it. Coverage is estimated at 70-75%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_04",
+    "path": 1,
+    "id": 404,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_405.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A broad, confluent-trending sheet with residual gaps of varying size; overall density is comparable to frames 1 and 3 of this day. Estimated coverage: 65-70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_05",
+    "path": 1,
+    "id": 405,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_406.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Contrast and focus are both a little softer through this frame (a brighter, lower-detail background) compared with neighboring images, but the sheet itself is densely packed and continuous with very little open space. Coverage is estimated at 70-75%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "No",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_06",
+    "path": 1,
+    "id": 406,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_407.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "An extensive confluent sheet with small residual gaps; texture and density here are consistent with frame 1 of this day. Coverage is around 70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_07",
+    "path": 1,
+    "id": 407,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_408.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A dense, whorled sheet occupies nearly the entire frame. Two small rounded, cell-free lacunae (smooth-edged, roughly 60-100um) are visible within the sheet at right and lower-right. Coverage is around 75%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_08",
+    "path": 1,
+    "id": 408,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_409.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A broadly confluent field with the typical whorled texture and very little open substrate remaining. Coverage is estimated at 70-75%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Mild",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_09",
+    "path": 1,
+    "id": 409,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_410.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "detached",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "detached",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A dense sheet with several rounded, cell-free lacunae scattered through it (3-4 visible, roughly 50-150um, smooth-edged) - a recurring feature at this density that most likely reflects normal local detachment or retraction within an actively remodeling near-confluent monolayer rather than a discrete lesion. Texture is otherwise unremarkable. Coverage is estimated at ~75%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day4_10",
+    "path": 1,
+    "id": 410,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_501.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Confluency appears to plateau here at roughly the same level as day 4 (~65-70% coverage) rather than continuing to climb. A broad sheet with numerous small-to-medium gaps remains; the texture is uniform and a few scattered small round cells sit within the open areas.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_01",
+    "path": 1,
+    "id": 501,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_502.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Overall image contrast is a bit flatter than the equivalent day-4 frames. A dense, closely packed sheet contains a smooth-edged clear gap left-of-center, with a single bright round refractile cell inside it. Coverage is estimated at ~70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_02",
+    "path": 1,
+    "id": 502,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_503.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Extensive sheet coverage with residual gaps of variable size scattered throughout; density and texture are consistent with frame 1 of this day. Estimated coverage: 65-70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_03",
+    "path": 1,
+    "id": 503,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_504.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A dense sheet occupies most of this frame with unremarkable cobblestone morphology; a faint diagonal linear artifact crosses the upper-center, consistent with the fine background striations noted on other days. Coverage is around 70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_04",
+    "path": 1,
+    "id": 504,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_505.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A broad, confluent-trending sheet with multiple gaps, including a fairly large one at right that contains a small rounded colony fragment and a single round cell. Overall coverage is comparable to other day-5 frames, around 65%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_05",
+    "path": 1,
+    "id": 505,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_506.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Sheet architecture is typical for this day; a well-defined, smooth, round clear gap (roughly 150um) sits center-left, and the largest colony fragment shows fine radiating cell orientation along its margin. Coverage is estimated at ~70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_06",
+    "path": 1,
+    "id": 506,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_507.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Coverage and morphology here are consistent with the rest of day 5 - discrete colony fragments coalescing, gaps narrowing, with a few small isolated cells still persisting between islands. Estimated coverage: 60-65%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_07",
+    "path": 1,
+    "id": 507,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_508.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A single elongated, streaming colony bridges the upper half of the frame, with several smaller, discrete islands below it; a fine parallel cell alignment - a streaming pattern - is visible within the connecting colony. Coverage is around 65%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_08",
+    "path": 1,
+    "id": 508,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_509.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "Broad sheet coverage with residual gaps scattered fairly evenly; morphology is consistent with the rest of day 5. Estimated coverage: 65-70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Mild",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_09",
+    "path": 1,
+    "id": 509,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_510.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "confluency": null,
+    "full_response_text": "A dense sheet with two small bright round refractile cells at right, possibly a mitotic pair, and the typical whorled cobblestone texture elsewhere. Coverage and overall appearance are consistent with the culture's day-5 plateau, around 65-70%.",
+    "pass2_checklist": {
+      "look_healthy": "Yes",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Partial",
+      "nonspecific_degeneration": "No"
+    },
+    "image_id": "CultureA_day5_10",
+    "path": 1,
+    "id": 510,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_101.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A very sparse field here, roughly 8-10% coverage, made up mostly of isolated, well-spread bipolar and tripolar spindle cells with long, thin processes and minimal clustering. Numerous small bright, phase-refractile round bodies are scattered across the field.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_01",
+    "path": 2,
+    "id": 101,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_102.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A higher-magnification sparse field with well-resolved individual spindle and small stellate cells; one small loose cluster of about 6 cells sits at lower-right. Several bright round refractile cells are present, including two closely apposed pairs. Coverage is estimated at ~10%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_02",
+    "path": 2,
+    "id": 102,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_103.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Distribution is sparse, similar to frame 1 of this day - predominantly single elongated cells with minimal aggregation, and bright round refractile bodies scattered fairly evenly across the field. Coverage is around 8%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_03",
+    "path": 2,
+    "id": 103,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_104.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse field with a small loose cluster of roughly 10 cells center-bottom; individual bipolar and tripolar cells fill the rest of the space. Several bright round cells are present. Coverage is estimated at ~10%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Partial",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_04",
+    "path": 2,
+    "id": 104,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_105.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Density is comparable to frames 1 and 3 of this day; isolated spindle cells dominate with minimal clustering, and there's a modest scatter of bright round refractile bodies. Coverage is around 8%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_05",
+    "path": 2,
+    "id": 105,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_106.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "detached",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "detached",
+      "granular",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse field with notably elongated, well-spread bipolar cells and a small loose cluster at lower-left. Bright round cells are scattered throughout, including some with unusually large, dense halos that suggest recent detachment. Coverage is estimated at 8-10%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_06",
+    "path": 2,
+    "id": 106,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_107.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Distribution and density here are consistent with the rest of day 1 - predominantly single cells, with occasional small clusters near the center. Coverage is around 8%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day1_07",
+    "path": 2,
+    "id": 107,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_108.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A very sparse field, mostly isolated cells with long thin processes and minimal clustering. Scattered bright round refractile bodies are present, several concentrated toward the upper-right. Coverage is estimated at 6-8%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_08",
+    "path": 2,
+    "id": 108,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_109.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Sparse, similar to earlier frames of this day - single elongated and stellate cells scattered with minimal aggregation. Several bright round cells are present; otherwise unremarkable. Coverage is around 8%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_09",
+    "path": 2,
+    "id": 109,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_110.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse distribution with a couple of small loose clusters, 3-5 cells each; scattered bright round refractile bodies are present throughout. Overall composition is consistent with the rest of day 1. Coverage is estimated at 8-10%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Mild",
+      "granularity": "Partial",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Mild"
+    },
+    "image_id": "CultureB_day1_10",
+    "path": 2,
+    "id": 110,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_201.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Coverage has increased only modestly since day 1, to roughly 12-15%. This is a sparse-to-moderate field with scattered single cells and two very small clusters; numerous small bright round refractile bodies are distributed fairly evenly.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "No",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_01",
+    "path": 2,
+    "id": 201,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_202.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "One small, dense cluster of roughly 10 cells sits at the far left, with mostly isolated spindle cells elsewhere. Several bright round refractile cells are scattered around, including a pair near the center with unusual loop- or ring-shaped processes. Coverage is estimated at ~12%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_02",
+    "path": 2,
+    "id": 202,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_203.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse field with a couple of very small colonies starting to form (upper-right, lower-left); predominantly single elongated cells otherwise, with bright round refractile bodies scattered throughout. Coverage is around 12-15%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_03",
+    "path": 2,
+    "id": 203,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_204.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Small clusters are interspersed with isolated cells here; overall density is modestly higher than the equivalent day-1 frames. Several bright round cells are present. Coverage is estimated at ~15%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_04",
+    "path": 2,
+    "id": 204,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_205.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Distribution is consistent with frames 1 and 3 of this day - still no large colonies, mostly single cells and very small aggregates, with scattered bright round refractile bodies. Coverage is around 12%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_05",
+    "path": 2,
+    "id": 205,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_206.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse field with elongated, well-spread cells and a couple of loose small clusters. Numerous bright round refractile bodies are present, notably concentrated in the lower-right quadrant. Coverage is estimated at 10-12%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_06",
+    "path": 2,
+    "id": 206,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_207.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Density and distribution here are consistent with the rest of day 2; minimal clustering. Coverage is around 12%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_07",
+    "path": 2,
+    "id": 207,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_208.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse-to-very-sparse field with isolated cells predominating. A small, dark, particulate speck (non-cellular debris) sits near left-center, clearly distinct from the surrounding cells and the phase-bright refractile round bodies. Coverage is estimated at ~10%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_08",
+    "path": 2,
+    "id": 208,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_209.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse field similar to other day-2 frames. A small orange/brown particulate fragment, likely non-cellular debris, is visible left-of-center; the cells themselves are otherwise unremarkable. Coverage is around 10-12%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_09",
+    "path": 2,
+    "id": 209,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_210.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse distribution with a small loose cluster at upper-left and scattered isolated cells elsewhere. Several bright round refractile bodies are present. Coverage is estimated at 10-12%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day2_10",
+    "path": 2,
+    "id": 210,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_301a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Coverage has increased modestly, to roughly 15-18%. This is a sparse-to-moderate field with a couple of small colonies forming (center, right) amid predominantly isolated cells; bright round refractile bodies are scattered throughout.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Mild",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_01",
+    "path": 2,
+    "id": 301,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_302a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A well-formed small-to-medium colony with tight cobblestone packing occupies the upper-right; isolated spindle cells and bright round refractile bodies are present elsewhere. Local coverage is around 20%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_02",
+    "path": 2,
+    "id": 302,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_303.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Similar to frame 1 of this day - small colonies interspersed with numerous single cells. A small, dark particulate speck (debris) is visible left-of-center. Coverage is estimated at 15-18%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Mild",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_03",
+    "path": 2,
+    "id": 303,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_304a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A small, rounded colony with a granular, punctate internal texture sits center-frame; scattered single cells and bright round refractile bodies are present elsewhere. Coverage is around 18%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Mild",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_04",
+    "path": 2,
+    "id": 304,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_305a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Several small-to-medium colonies are distributed across the frame with isolated cells filling the gaps; density is modestly higher than frames 1 and 3. Coverage is estimated at 18-20%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Mild",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_05",
+    "path": 2,
+    "id": 305,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_306a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A denser cluster of small colonies occupies the left half of this frame; scattered single cells and bright round refractile bodies are present at right. Coverage is around 20%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_06",
+    "path": 2,
+    "id": 306,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_307.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse-to-moderate field with small colonies scattered fairly evenly; overall density is comparable to the rest of day 3. Coverage is estimated at 15-18%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_07",
+    "path": 2,
+    "id": 307,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_308.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Small colonies and isolated cells are distributed fairly evenly across this frame; a couple of bright round refractile cells near the center form a loose cluster. Coverage is around 18%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Mild",
+      "syncytia": "No",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_08",
+    "path": 2,
+    "id": 308,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_309a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse field with predominantly isolated cells and minimal colony formation. A small, reddish, elongated particulate fragment (likely debris or a fiber) is visible left-of-center. Coverage is estimated at 12-15%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Mild",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_09",
+    "path": 2,
+    "id": 309,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_310a.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Distinct fine parallel diagonal lines cross this frame - a background or optical artifact, likely a dish scratch or focus-plane streak - overlying a sparse-to-moderate field of isolated cells and one small loose cluster center-frame. Coverage is around 15%.",
+    "pass2_checklist": {
+      "look_healthy": "Partial",
+      "nuclei": "Yes",
+      "cytoplasmic_extensions": "Yes",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Partial"
+    },
+    "image_id": "CultureB_day3_10",
+    "path": 2,
+    "id": 310,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_401.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Confluency increases more clearly on this day, to roughly 30% coverage, with numerous small-to-medium colonies scattered across the field but considerable open substrate still persisting between them. Isolated cells fill the gaps.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_01",
+    "path": 2,
+    "id": 401,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_402.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Several well-formed colonies of varying size occupy the left-to-center of this frame with tight cobblestone packing; scattered single cells and bright round refractile bodies are present at right. Coverage is estimated at ~35%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_02",
+    "path": 2,
+    "id": 402,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_403.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Numerous small-to-medium colonies are distributed fairly evenly, with considerable open substrate remaining between them; isolated cells and bright round refractile bodies are scattered throughout. Coverage is around 28-30%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_03",
+    "path": 2,
+    "id": 403,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_404.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A dense, triangular colony center-right contains multiple small bright refractile puncta within its cytoplasm, suggesting somewhat greater vacuolization or granularity than the neighboring colonies in this frame, which otherwise look uniform. Coverage is estimated at ~30%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_04",
+    "path": 2,
+    "id": 404,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_405.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse-to-moderate field with several small colonies and predominantly isolated cells; density is modestly lower than frames 1 and 3. Coverage is around 25%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_05",
+    "path": 2,
+    "id": 405,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_406.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Discrete colonies of variable size are scattered here with wide gaps of open substrate between them; isolated cells and bright round refractile bodies fill the spaces. Coverage is estimated at ~28%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_06",
+    "path": 2,
+    "id": 406,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_407.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Colony distribution and density here are consistent with the rest of day 4; open substrate remains prominent between islands. Coverage is around 30%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_07",
+    "path": 2,
+    "id": 407,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_408.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Well-formed colonies sit at the left and right margins, with a looser, more diffuse arrangement of individual cells across the center; scattered bright round refractile bodies are present. Coverage is estimated at 30-32%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_08",
+    "path": 2,
+    "id": 408,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_409.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Numerous colonies are distributed across this frame. A small, dark particulate cluster (debris) is visible at lower-left, clearly distinct from cellular material. Coverage is around 30%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_09",
+    "path": 2,
+    "id": 409,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_410.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Several colonies of varying size and a scatter of isolated cells are present; overall density and morphology are consistent with the rest of day 4. Coverage is estimated at ~30%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day4_10",
+    "path": 2,
+    "id": 410,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_501.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Confluency reaches roughly 38% here, the highest density observed for this culture across the whole series, though still well short of full confluence. Numerous small-to-medium colonies are distributed across the field, with moderate open substrate remaining.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_01",
+    "path": 2,
+    "id": 501,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_502.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Two large, adjacent colonies with dense cobblestone packing dominate the center of this frame; smaller islands and isolated cells surround them. Local coverage is around 45%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "No",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_02",
+    "path": 2,
+    "id": 502,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_503.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Numerous small colonies are scattered fairly evenly, with clear substrate still making up roughly half the field. Faint diagonal background lines are visible, similar to those noted in earlier day-3 frames. Coverage is estimated at ~35%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_03",
+    "path": 2,
+    "id": 503,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_504.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Several well-formed colonies of varying size are present, with isolated cells and bright round refractile bodies filling the gaps between them; no debris or focus artifacts noted. Coverage is around 35-40%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Partial",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_04",
+    "path": 2,
+    "id": 504,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_505.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Colony distribution and density are consistent with the rest of day 5. A small dark speck (debris) is visible near lower-center. Coverage is estimated at ~35%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_05",
+    "path": 2,
+    "id": 505,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_506.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Discrete colonies are scattered here with substantial open substrate remaining; isolated spindle cells and a few bright round refractile bodies fill the gaps. One small, elongated, debris-like fragment is present near upper-left. Coverage is around 35%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_06",
+    "path": 2,
+    "id": 506,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_507.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A sparse-to-moderate colony distribution comparable to frames 1 and 3; isolated single cells remain common between islands. Coverage is estimated at 30-35%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_07",
+    "path": 2,
+    "id": 507,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_508.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Moderate density, with several colonies of varying size and isolated cells scattered between them; morphology is unremarkable and consistent with the rest of day 5. Coverage is around 35%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Partial",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Partial",
+      "syncytia": "Partial",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_08",
+    "path": 2,
+    "id": 508,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_509.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "Fine diagonal background lines cross this frame. Colony distribution and density are otherwise consistent with the rest of day 5, with numerous small-to-medium islands and considerable open substrate remaining. Coverage is estimated at 35-38%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_09",
+    "path": 2,
+    "id": 509,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_510.png": {
+    "cpe_detected": true,
+    "cpe_quadrant": null,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "confluency": null,
+    "full_response_text": "A moderate-density field with several colonies and scattered isolated cells; overall composition is consistent with the culture's day-5 plateau. Coverage is estimated at 35-40%.",
+    "pass2_checklist": {
+      "look_healthy": "No",
+      "nuclei": "Partial",
+      "cytoplasmic_extensions": "Partial",
+      "vacuolation": "Yes",
+      "granularity": "Yes",
+      "ballooned_enlarged": "Yes",
+      "syncytia": "Yes",
+      "cytoplasmic_strands": "Mild",
+      "cell_death": "Yes",
+      "nonspecific_degeneration": "Yes"
+    },
+    "image_id": "CultureB_day5_10",
+    "path": 2,
+    "id": 510,
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  }
+}

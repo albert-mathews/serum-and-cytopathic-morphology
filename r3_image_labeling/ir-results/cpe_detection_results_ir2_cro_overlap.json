@@ -1,0 +1,378 @@
+{
+  "EXP_path1_passage4_101.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_103.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_104.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_201.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_202.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_305.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_401.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_406.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path1_passage4_501.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "cytoplasmic strands"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_101.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_201.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_202.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_303.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_307.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_308.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_402.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_405.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_406.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_503.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_504.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "refractile",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_507.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  },
+  "EXP_path2_passage4_508.png": {
+    "cpe_detected": true,
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "granular"
+    ],
+    "cpe_types_extended": [
+      "dying cells",
+      "vacuoles",
+      "granular",
+      "ballooned/enlarged",
+      "syncytia",
+      "cytoplasmic strands",
+      "nonspecific degeneration"
+    ],
+    "source": "ir2_pass1_lexical+pass2_checklist"
+  }
+}
