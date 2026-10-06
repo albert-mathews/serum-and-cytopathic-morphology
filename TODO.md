@@ -1,4 +1,4 @@
-# TODO - research roadmap
+﻿# TODO - research roadmap
 
 Shared, living checklist for this repository. Maintained jointly by the author and the research assistant.
 
@@ -32,6 +32,9 @@ Items that need Albert to read, comment, or decide.
 - [ ] **R3 - choose the rater-morphology figure set**
   - **Discussion:** [`r3_image_labeling/wrk/viz_figures_review.md`](r3_image_labeling/wrk/viz_figures_review.md). 15 draft figures, each with a `**@Albert:**` line for comments. Recommended headline set: c0, c2, g2, h, j.
   - Waiting on Albert's comments and selection. Then (assistant) regenerate with the requested changes and move the finals into `r3_image_labeling/ir-results/`.
+- [ ] **R3 - resolve CRO label coding ambiguities**
+  - **Discussion:** [r3_image_labeling/cro-results/cro_labels_consolidation.md](r3_image_labeling/cro-results/cro_labels_consolidation.md). Leave `@Albert:` answers on each open coding question (Rounded vs "round cells"; Vacuolation vs "bright vesicles"; Refractile vs "bright reflective points"; hedged mentions; shared two-frame descriptions; path1 202 "101" typo; whether group-level notes get a secondary analysis; rename of `cro_cpe_detections.csv`; CRO briefing-condition assignment).
+  - Waiting on Albert. Then (assistant) apply the decisions in `build_cro_labels.py`, regenerate the canonical CSV / figures / side-by-side, and tick this item.
 
 ---
 

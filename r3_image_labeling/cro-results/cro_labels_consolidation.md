@@ -97,3 +97,19 @@ The spreadsheet's footer counts (filled cells per path, "ok"/"bad" blocks) summa
 - Shared single descriptions (307 and 308; 405, 406; 503 & 504; 507, 508) applied to each named frame.
 - The report's path1 202 text reads "Magnification of the center of 101 image" (probably 201); coded as written (Mitotic).
 - No single-frame description says "healthy", so Look healthy is 0 on all 22 frames; healthy-type terms are mostly stated in the group descriptions, which the single-frame rule does not use.
+
+## Note on healthy-type direction (added 2026-10-06)
+
+Earlier wrap-ups wrongly said the single-frame coding "no longer claims an A-healthier direction" because they fixated on the empty **Look healthy** column (0/22). The other healthy-type terms are not empty:
+
+| Term | Culture A (9) | Culture B (13) |
+|---|---|---|
+| Look healthy | 0/9 | 0/13 |
+| Mitotic | 5/9 | 3/13 |
+| Bright | 3/9 (Albert table 4/9) | 0/13 (Albert table 3/13) |
+| Adherent | 5/9 | 0/13 |
+| Cytoplasmic extensions | 0/9 | 6/13 |
+| Any healthy term | 8/9 | 9/13 |
+
+Albert's original spreadsheet (single-frame rows only) and the canonical file agree on every healthy cell except four **Bright** marks (path1 406; path2 202, 503, 504) — the same ambiguity already listed above. Mitotic / Bright / Adherent favor Culture A in both files; Cytoplasmic extensions favor Culture B. The side-by-side and figure c0 captions should be revised to report that pattern instead of "too sparse to call a direction."
+
