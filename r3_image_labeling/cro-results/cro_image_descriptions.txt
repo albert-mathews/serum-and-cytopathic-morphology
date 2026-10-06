@@ -1,0 +1,127 @@
+Imaging of Vero Cell Cultures with an Inverted Microscope
+
+Images are obtained using an EVOS FL microscope using Bright Field or Phase and 10x (400 µm scale) or 20x objective (200 µm scale)
+
+P1 Day 0:
+PREP_path1_passage 1_01 to 06
+Images of Vero cells taken on day 0 (approximately 1 h after thawing). Individual cells or small clumps consisting of few cells, still in suspension (not attached) are evenly spread out in the images. Cells are bright and rounded, indicating that they are viable. No other morphological features are visible at this point. Bright field. The scale bar is indicative of the objective used.
+
+P1 Day 1:
+PREP_path1_passage1_10-19
+Images of Vero cells taken 1 day after thawing. Most cells are adherent and display a cobblestone-like morphology, characteristic of epithelial cells. They appear well-spread and evenly distributed, but with noticeable gaps between clusters of cells. Individual cells are oval to polygonal in shape, with distinct nuclei visible and nucleoli (20x). There are a few clumps of cells that are still rounded. The cell borders are clearly defined, and no signs of clumping, detachment, or contamination are present, suggesting healthy growth conditions. Brightfield microscopy.
+PREP_path1_passage1_10: low confluency area
+PREP_path1_passage1_17: high confluency area
+
+P1 Day 2:
+PREP_path1_passage1_201-219
+Images of Vero cells taken 2 days after thawing. Most cells are adherent and display a cobblestone-like morphology, characteristic of epithelial cells. They appear well-spread and evenly distributed, but with noticeable gaps between clusters of cells. Individual cells are oval to polygonal in shape, with distinct nuclei visible and nucleoli (20x). Bright rounded dividing cells present throughout the culture. The cell borders are clearly defined, and no signs of clumping, detachment, or contamination are present, suggesting healthy growth conditions. Brightfield and phase microscopy.
+PREP_path1_passage1_215: Multiple bright dividing cells throughout the field of view. A clump of bright rounded cells is present in the center of the image. Relatively even distribution of cells thought the image, either as small cell clusters or individual cells. Image PREP_path1_passage1_216 is a magnification (20x) of the center area of this field. Phase microscopy.
+
+P1 Day 3:
+PREP_path1_passage1_301-319: 
+Images of Vero cells taken on day 3 after thawing. The cells are growing in clusters or sheets, with radiating patterns typical of adherent monolayers. Culture is 50-60% confluent with most cells in large cellular islands with large intercellular gaps visible, indicating that the monolayer is not yet complete. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. Bright field and phase.
+PREP_path1_passage1_303: There are few rounded dividing cells and some bright reflective points, probably small debris, but no clear evidence of contamination (e.g., bacterial or fungal bodies).  
+PREP_path1_passage1_317 and 318: High confluency area (~ 80-90%)
+PREP_path1_passage1_319: Low confluency area (~ 40%). One dark spot present at 1 o’clock is most likely debris. Dividing bright cells at 7 o’clock.
+
+P1 Day 4:
+PREP_path1_passage1_401-413: 
+Images of Vero cells taken on day 4 after thawing. The cells are growing in sheets that cover most of the surface with few dividing cells present. The cells exhibit a classic polygonal shape, with well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. Bright field and phase.
+PREP_path1_passage1_401 and 413: High confluency area (more than 90%) with dividing bright cells and small gaps still visible indicating that this culture needs to be subcultured.
+PREP_path1_passage1_411: Lower confluency area
+PREP_path1_passage1_412: Large reddish debris in the center of image that is in a different field than the cells. 
+
+P2 Day 1:
+PREP_path1_passage2_101-113: 
+Images of Vero cells taken on day 5. The cells are growing in small clusters, with radiating patterns typical of adherent monolayers. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Bright field and phase.
+PREP_path1_passage2_102: Small adherent cluster of cells with some mitotic figures in the lower part of the image. Some small bright reflective spot, probably cell debris, present at 12 o’clock.
+
+P2 Day 2:
+PREP_path1_passage2_201-216: 
+Images of Vero cells taken on day 6. The cells are growing in big clusters, with radiating patterns typical of adherent monolayers and large cell-free gaps indicative of a sub-confluent culture. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+PREP_path1_passage2_207: Lower confluency area. Multiple bright dividing cells. PREP_path1_passage2_208: magnified image of the center part of image 207. Center top: cells that underwent karyokinesis (nuclear division) but have not finished cytoplasmic division.
+PREP_path1_passage2_208: high confluency area with larger cell clusters
+PREP_path1_passage2_213: center- A pair of bright cells observed in mitosis
+
+P2 Day 3:
+PREP_path1_passage2_301-312: 
+Images of Vero cells taken on day 7. The cells are growing in big clusters, with radiating patterns typical of adherent monolayers and large cell-free gaps indicative of a sub-confluent culture. The cells exhibit a classic polygonal or elongated shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or contamination. The scale bar is indicative of the objective used. Phase microscopy.
+PREP_path1_passage2_303: center left - A pair of bright cells observed in mitosis
+PREP_path1_passage2_305: Some of the cells have cytoplasm with distinct large, round, clear vesicle-like structures. Few bright mitotic figures are present at 2 and 5 o’clock.
+
+P2 Day 4:
+PREP_path1_passage2_401-410: 
+Images of Vero cells taken on day 8. The cells are growing in big clusters covering most of the cell culture surface, with radiating patterns. The cells exhibit a classic polygonal or elongated shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or contamination. The scale bar is indicative of the objective used. Phase microscopy.
+PREP_path1_passage2_403 and 409: High confluency areas (~90% confluence). PREP_path1_passage2_404 and 410: magnified image of the 403 and 409 respectively showing little to no space between the cells.
+PREP_path1_passage2_405: Low confluency area (~60% confluence).
+
+P3 Day 1:
+PREP_path1_passage3_101-110: 
+Images of Vero cells taken on day 9. The cells are growing in small clusters, with radiating patterns typical of adherent monolayers. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+PREP_path1_passage3_101: Small adherent cluster of cells with some mitotic figures (1 and 11 o’clock).
+PREP_path1_passage3_106: Small clusters of cells with radiating patterns. With multiple bright cells (probably undergoing division) and a clear mitotic figure at 4 o’clock (two distinct nuclei, indicating that nuclear division has occurred, but the cytoplasm has not fully divided — this suggests cytokinesis is not complete).
+
+P3 Day 2:
+PREP_path1_passage3_201-210: 
+Images of Vero cells taken on day 10. The cells are growing in clusters, with radiating patterns typical of adherent monolayers. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+PREP_path1_passage3_201: conjoining clusters of cells with some mitotic figures (11 o’clock). PREP_path1_passage3_202: magnification of previous image (top left) showing multiple dividing cells.
+PREP_path1_passage3_209: Low confluence area with smaller cluster of cells surrounded by cell free areas.
+
+P3 Day 3:
+PREP_path1_passage3_301-310: 
+Images of Vero cells taken on day 11. The cells are growing in big clusters, with radiating patterns typical of adherent monolayers. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+PREP_path1_passage3_301: conjoining clusters of cells with cell free areas indicating that the culture is not confluent.
+PREP_path1_passage3_302: Large cluster of cells covering the surface with some dividing (bright cells) at 1 and 7
+PREP_path1_passage3_303 and 304: High confluency area. Cells growing in sheets covering most of the surface area.
+PREP_path1_passage3_307: Low confluency area. 
+
+P3 Day 4:
+PREP_path1_passage3_401-410: 
+Images of Vero cells taken on day 12. The cells are growing in big clusters, with radiating patterns typical of adherent monolayers covering most of the surface indicating that the culture is ready for sub-culture. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+PREP_path1_passage3_401: cells are growing in large sheets or clusters of cells. Cell-free areas are still present indicating that the culture is not confluent. Very few bright (dividing) cells are present. PREP_path1_passage3_402: magnification of bottom left part of 401 image.
+
+EXPERIMENT P4 Day 1:
+EXP_path1_passage4_101-110: 
+Images of Vero cells taken on day 13. The cells are in small clusters, with radiating patterns. Multiple individual cells and rounded cells dividing cells. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path1_passage4_101: most cells are adherent and are growing in small clusters. Multiple bright cells throughout the field.
+EXP_path1_passage4_103: Lower confluency area with clusters consisting of less than 10 cells evenly covering the area and multiple bright cells with some mitotic figures in the top left part of the image. EXP_path1_passage4_104: magnification of 103 with a mitotic figure at 3 o’clock.
+EXP_path2_passage4_101-110: 
+Images of Vero cells taken on day 13. The cells display a variety of morphologies, but most appear elongated or spindle-shaped with some degree of spreading, characteristic of fibroblast-like or mesenchymal cells. A few cells appear rounded, which might indicate mitotic activity, poor adhesion, or early signs of stress. The overall confluency is low—likely around 20–30%, meaning the culture is still in early growth phase and has significant space to expand. The cells are distributed evenly across the field, with occasional small clusters. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path2_passage4_101: Few small clusters present. Most cells appear elongated or spindle-shaped with some degree of spreading. Multiple cells appear rounded, with some undergoing mitosis (center).
+
+EXPERIMENT P4 Day 2:
+EXP_path1_passage4_201-210: 
+Images of Vero cells taken on day 14. The cells are in small clusters, with radiating patterns. Multiple individual cells and rounded cells dividing cells. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path1_passage4_201: Most cells are adherent and are growing in small clusters. Cells undergoing division: image center and 12 o’clock. EXP_path1_passage4_202: Magnification of the center of 101 image with cells undergoing division in the center of the field.
+EXP_path2_passage4_201-210: 
+Images of Vero cells taken on day 14. The cells display a variety of morphologies, but most appear elongated or spindle-shaped with some degree of spreading, characteristic of fibroblast-like or mesenchymal cells. A few cells appear rounded, which might indicate mitotic activity, poor adhesion, or early signs of stress. The overall confluency is low. The cells are distributed evenly across the field, with occasional small clusters. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path2_passage4_201: Few small clusters present (less than 10 cells). Multiple single cells with some degree of spreading. EXP_path2_passage4_202: Magnification of the center of 201 image. Small cluster of cells present. Cells appear smaller in size with dense cytoplasm. Multiple cells appear rounded. Some cells have bright reflective points. 
+
+EXPERIMENT P4 Day 3:
+EXP_path1_passage4_301-310: 
+Images of Vero cells taken on day 15. The cells are in clusters, with radiating patterns. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path1_passage4_305: Cells are adherent and are growing in clusters that are beginning to merge. 
+EXP_path2_passage4_301-310, 301a-310a: 
+Images of Vero cells taken on day 15. The cells display a variety of morphologies. Few cells are rounded, some with extensions denoting that they are still attached. The overall confluency is low with multiple small clusters and numerous single cells. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment. Cytoplasm appears dense/granular. There are some bright reflective points: some look like large vacuoles whereas some are cellular debris. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path2_passage4_303: Few small clusters present with some bright spots (vacuoles). There is a pair of dividing cells at 7 o’clock. Multiple single cells with some degree of spreading. Multiple cells appear rounded. 
+EXP_path2_passage4_307 and 308: Low confluency area and very small clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions.
+
+EXPERIMENT P4 Day 4:
+EXP_path1_passage4_401-410: 
+Images of Vero cells taken on day 16. The cells are in large coalescent clusters, with radiating patterns. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path1_passage4_401: Cells are adherent and are growing in clusters that are beginning to merge. Very few bright dividing cells. A mitotic figure close to the bottom left corner of the field.
+EXP_path1_passage4_406: Large clusters of cells that begin to merge covering ~ 50% of the surface. Some cells have clear bright vesicles.
+
+EXP_path2_passage4_401-410: 
+Images of Vero cells taken on day 16. The cells display a variety of morphologies. Few cells are rounded, some with extensions denoting that they are still attached. The overall confluency is low with multiple small clusters and numerous single cells. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment. Cytoplasm appears dense/granular. There are some bright reflective points: some look like large vacuoles whereas some are cellular debris. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path2_passage4_402: Few small clusters present with some bright spots (vacuoles). There is a pair of dividing cells at 7 o’clock. Multiple single cells with some degree of spreading. Multiple rounded cells. Some cells appear rounded and refractile, which could indicate potentially dying cells (6 o’clock).
+EXP_path2_passage4_405, 406: Low confluency area few very small cell clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions. Some round cells have granular and irregular shape, most likely dying cells or debris.
+
+EXPERIMENT P4 Day 5:
+EXP_path1_passage4_501-510: 
+Images of Vero cells taken on day 17. Large coalescent clusters or cells with radiating patterns and few bright dividing cells. The cells exhibit a classic polygonal or elongated, fibroblast-like shape, with visible cytoplasmic extensions and well-defined nuclei. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment or cytoplasmic granulation. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path1_passage4_501: Cells are adherent and are growing in large coalescing clusters. There are cell free areas throughout the field denoting that culture did not reached confluency.
+EXP_path2_passage4_501-510: 
+Images of Vero cells taken on day 17. The cells display a variety of morphologies. Few cells are rounded, some with extensions denoting that they are still attached. The overall confluency is low with multiple small clusters and numerous single cells. The cells look healthy, with intact membranes, good attachment to the substrate, and no obvious signs of detachment. Cytoplasm appears dense/granular. There are some bright reflective points: some look like large vacuoles whereas some are cellular debris. The scale bar is indicative of the objective used. No clear evidence of contamination. Phase microscopy.
+EXP_path2_passage4_503 & 504: Cell with varying shapes, covering evenly the growth surface, from single cells to clusters of different sizes. Some bright reflective points that might be vacuoles are present. The culture shows some sign of stress with granular cytoplasm, floating bright cells that might be dying/cell debris (center image) and an irregular shaped cell at 3 o’clock. 
+EXP_path2_passage4_507, 508: Low confluency area few very small cell clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions. Some round cells have granular and irregular shape, most likely dying cells or debris.

@@ -19,8 +19,10 @@ Analogous to ../cro-results/, built from independent-researcher Pass 1 free-text
 | IR1_IR2_pass1_descriptor_comparison.csv / IR1_IR2_pass1_side_by_side.md | — | Pass 1 lexical descriptor incidence, IR1 vs IR2 |
 | IR1_IR2_pass2_checklist_comparison.csv | — | Pass 2 strict incidence + mean graded score per item, rater, arm |
 | IR1_IR2_pass2_item_agreement.csv | — | Pass 2 per-item IR1–IR2 agreement (% and κ; all / per arm) |
-| IR1_IR2_CRO_overlap_agreement.csv | — | 22 CRO frames: CRO vs IR1 vs IR2 on the six CRO-comparable columns |
-| IR1_IR2_pass2_side_by_side.md | — | Pass 2 narrative comparison, caveats, bottom line |
+| IR1_IR2_CRO_overlap_agreement.csv | — | 22 CRO frames: CRO vs IR1 vs IR2 on the six CRO-comparable columns and the three checklist healthy items |
+| IR1_IR2_pass2_side_by_side.md | — | Pass 2 narrative comparison, caveats, bottom line (CRO healthy-type columns included) |
+| ../cro-results/cro_cpe_detections.csv | — | Canonical CRO per-frame labels: CPE-type six (CRO_Dy…CRO_Re) and 8 healthy-type terms (CRO_H_*), binary, for the 22 frames with their own CRO description; built from `../cro-results/cro_image_descriptions.txt` by `../cro-results/build_cro_labels.py` |
+| ../cro-results/cro_group_level_notes.csv | — | CRO 10-frame group descriptions, same coding; lower specificity, not used per frame or in figures |
 
 ## Coding (identical for IR1 and IR2)
 
@@ -30,6 +32,7 @@ Analogous to ../cro-results/, built from independent-researcher Pass 1 free-text
 - **CultureA = path1 (10% FBS), CultureB = path2 (2% FBS).**
 - Pass 2 graded scores (comparison files): Yes 1.0; Mild 0.66; Partial 0.5; Minimal 0.25; No/minimal 0.15; No / Not apparent 0 (healthy items: Yes 1.0, Partial/Mild 0.5, else 0).
 - κ is reported only when both raters vary on an item; otherwise "n/a (constant)".
+- **CRO healthy-type (comparison files):** binary; a term counts for a frame only when that frame's own CRO description names it (22 frames: 9 CultureA, 13 CultureB). Group descriptions are not applied to member frames. CRO columns are filled for the three healthy items only (Look healthy, well-defined nuclei, cytoplasmic extensions); CRO "mean score" = incidence.
 
 ir = independent researcher (not CRO).
 

@@ -30,8 +30,8 @@
   "EXP_path1_passage4_406.png": {
     "cpe_detected": true,
     "cpe_types": [
-            "vacuoles"
-        ]
+      "vacuoles"
+    ]
   },
   "EXP_path1_passage4_501.png": {
     "cpe_detected": false,
@@ -39,10 +39,9 @@
   },
   "EXP_path2_passage4_101.png": {
     "cpe_detected": true,
-
     "cpe_types": [
-            "rounded"
-        ]
+      "rounded"
+    ]
   },
   "EXP_path2_passage4_201.png": {
     "cpe_detected": false,
@@ -50,18 +49,16 @@
   },
   "EXP_path2_passage4_202.png": {
     "cpe_detected": true,
-
     "cpe_types": [
-            "rounded",
-			"refractile"
-        ]
+      "rounded"
+    ]
   },
   "EXP_path2_passage4_303.png": {
     "cpe_detected": true,
     "cpe_types": [
-			"rounded",
-            "vacuoles"
-        ]
+      "rounded",
+      "vacuoles"
+    ]
   },
   "EXP_path2_passage4_307.png": {
     "cpe_detected": false,
@@ -73,64 +70,61 @@
   },
   "EXP_path2_passage4_402.png": {
     "cpe_detected": true,
-
     "cpe_types": [
-			"dying cells",
-			"rounded",
-            "vacuoles",
-			"refractile"
-        ]
+      "dying cells",
+      "rounded",
+      "vacuoles",
+      "refractile"
+    ]
   },
   "EXP_path2_passage4_405.png": {
     "cpe_detected": true,
     "cpe_types": [
-			"dying cells",
-			"rounded",
-            "granular"
-        ]
+      "dying cells",
+      "rounded",
+      "granular"
+    ]
   },
   "EXP_path2_passage4_406.png": {
     "cpe_detected": true,
     "cpe_types": [
-			"dying cells",
-			"rounded",
-            "granular"
-        ]
+      "dying cells",
+      "rounded",
+      "granular"
+    ]
   },
   "EXP_path2_passage4_503.png": {
     "cpe_detected": true,
-	"cpe_types": [
-			"dying cells",
-			"vacuoles",
-			"detached",
-            "granular",
-			"refractile"
-        ]
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "detached",
+      "granular"
+    ]
   },
   "EXP_path2_passage4_504.png": {
     "cpe_detected": true,
-	"cpe_types": [
-			"dying cells",
-			"vacuoles",
-			"detached",
-            "granular",
-			"refractile"
-        ]
+    "cpe_types": [
+      "dying cells",
+      "vacuoles",
+      "detached",
+      "granular"
+    ]
   },
   "EXP_path2_passage4_507.png": {
     "cpe_detected": true,
-	"cpe_types": [
-			"dying cells",
-			"rounded",
-            "granular"
-        ]
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "granular"
+    ]
   },
   "EXP_path2_passage4_508.png": {
     "cpe_detected": true,
-	"cpe_types": [
-			"dying cells",
-			"rounded",
-            "granular"
-        ]
+    "cpe_types": [
+      "dying cells",
+      "rounded",
+      "granular"
+    ]
   }
 }

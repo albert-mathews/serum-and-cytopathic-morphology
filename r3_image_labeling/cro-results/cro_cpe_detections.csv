@@ -1,23 +1,23 @@
-path,id,CRO_Dy,CRO_Ro,CRO_V,CRO_D,CRO_G,CRO_Re
-1,101,0,0,0,0,0,0
-1,103,0,0,0,0,0,0
-1,104,0,0,0,0,0,0
-1,201,0,0,0,0,0,0
-1,202,0,0,0,0,0,0
-1,305,0,0,0,0,0,0
-1,401,0,0,0,0,0,0
-1,406,0,0,1,0,0,0
-1,501,0,0,0,0,0,0
-2,101,0,1,0,0,0,0
-2,201,0,0,0,0,0,0
-2,202,0,1,0,0,0,1
-2,303,0,1,1,0,0,0
-2,307,0,0,0,0,0,0
-2,308,0,0,0,0,0,0
-2,402,1,1,1,0,0,1
-2,405,1,1,0,0,1,0
-2,406,1,1,0,0,1,0
-2,503,1,0,1,1,1,1
-2,504,1,0,1,1,1,1
-2,507,1,1,0,0,1,0
-2,508,1,1,0,0,1,0
+path,id,CRO_Dy,CRO_Ro,CRO_V,CRO_D,CRO_G,CRO_Re,CRO_H_Look_Healthy,CRO_H_Mitotic,CRO_H_Bright,CRO_H_Adherent,CRO_H_Elongated,CRO_H_Polygonal,CRO_H_Cytoplasmic_extensions,CRO_H_well_defined_nuclei,blinded_id,culture,day,described_as,hedged_terms,description
+1,101,0,0,0,0,0,0,0,0,1,1,0,0,0,0,CultureA_day1_01,CultureA,1,101,,most cells are adherent and are growing in small clusters. Multiple bright cells throughout the field.
+1,103,0,0,0,0,0,0,0,1,1,0,0,0,0,0,CultureA_day1_03,CultureA,1,103,,Lower confluency area with clusters consisting of less than 10 cells evenly covering the area and multiple bright cells with some mitotic figures in the top left part of the image.
+1,104,0,0,0,0,0,0,0,1,0,0,0,0,0,0,CultureA_day1_04,CultureA,1,104,,magnification of 103 with a mitotic figure at 3 o’clock.
+1,201,0,0,0,0,0,0,0,1,0,1,0,0,0,0,CultureA_day2_01,CultureA,2,201,,Most cells are adherent and are growing in small clusters. Cells undergoing division: image center and 12 o’clock.
+1,202,0,0,0,0,0,0,0,1,0,0,0,0,0,0,CultureA_day2_02,CultureA,2,202,,Magnification of the center of 101 image with cells undergoing division in the center of the field.
+1,305,0,0,0,0,0,0,0,0,0,1,0,0,0,0,CultureA_day3_05,CultureA,3,305,,Cells are adherent and are growing in clusters that are beginning to merge.
+1,401,0,0,0,0,0,0,0,1,1,1,0,0,0,0,CultureA_day4_01,CultureA,4,401,,Cells are adherent and are growing in clusters that are beginning to merge. Very few bright dividing cells. A mitotic figure close to the bottom left corner of the field.
+1,406,0,0,1,0,0,0,0,0,0,0,0,0,0,0,CultureA_day4_06,CultureA,4,406,,Large clusters of cells that begin to merge covering ~ 50% of the surface. Some cells have clear bright vesicles.
+1,501,0,0,0,0,0,0,0,0,0,1,0,0,0,0,CultureA_day5_01,CultureA,5,501,,Cells are adherent and are growing in large coalescing clusters. There are cell free areas throughout the field denoting that culture did not reached confluency.
+2,101,0,1,0,0,0,0,0,1,0,0,1,0,0,0,CultureB_day1_01,CultureB,1,101,,"Few small clusters present. Most cells appear elongated or spindle-shaped with some degree of spreading. Multiple cells appear rounded, with some undergoing mitosis (center)."
+2,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CultureB_day2_01,CultureB,2,201,,Few small clusters present (less than 10 cells). Multiple single cells with some degree of spreading.
+2,202,0,1,0,0,0,0,0,0,0,0,0,0,0,0,CultureB_day2_02,CultureB,2,202,,Magnification of the center of 201 image. Small cluster of cells present. Cells appear smaller in size with dense cytoplasm. Multiple cells appear rounded. Some cells have bright reflective points.
+2,303,0,1,1,0,0,0,0,1,0,0,0,0,0,0,CultureB_day3_03,CultureB,3,303,,Few small clusters present with some bright spots (vacuoles). There is a pair of dividing cells at 7 o’clock. Multiple single cells with some degree of spreading. Multiple cells appear rounded.
+2,307,0,0,0,0,0,0,0,0,0,0,0,0,1,0,CultureB_day3_07,CultureB,3,307 and 308,,"Low confluency area and very small clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions."
+2,308,0,0,0,0,0,0,0,0,0,0,0,0,1,0,CultureB_day3_08,CultureB,3,307 and 308,,"Low confluency area and very small clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions."
+2,402,1,1,1,0,0,1,0,1,0,0,0,0,0,0,CultureB_day4_02,CultureB,4,402,Dy,"Few small clusters present with some bright spots (vacuoles). There is a pair of dividing cells at 7 o’clock. Multiple single cells with some degree of spreading. Multiple rounded cells. Some cells appear rounded and refractile, which could indicate potentially dying cells (6 o’clock)."
+2,405,1,1,0,0,1,0,0,0,0,0,0,0,1,0,CultureB_day4_05,CultureB,4,"405, 406",Dy,"Low confluency area few very small cell clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions. Some round cells have granular and irregular shape, most likely dying cells or debris."
+2,406,1,1,0,0,1,0,0,0,0,0,0,0,1,0,CultureB_day4_06,CultureB,4,"405, 406",Dy,"Low confluency area few very small cell clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions. Some round cells have granular and irregular shape, most likely dying cells or debris."
+2,503,1,0,1,1,1,0,0,0,0,0,0,0,0,0,CultureB_day5_03,CultureB,5,503 & 504,Dy;V,"Cell with varying shapes, covering evenly the growth surface, from single cells to clusters of different sizes. Some bright reflective points that might be vacuoles are present. The culture shows some sign of stress with granular cytoplasm, floating bright cells that might be dying/cell debris (center image) and an irregular shaped cell at 3 o’clock."
+2,504,1,0,1,1,1,0,0,0,0,0,0,0,0,0,CultureB_day5_04,CultureB,5,503 & 504,Dy;V,"Cell with varying shapes, covering evenly the growth surface, from single cells to clusters of different sizes. Some bright reflective points that might be vacuoles are present. The culture shows some sign of stress with granular cytoplasm, floating bright cells that might be dying/cell debris (center image) and an irregular shaped cell at 3 o’clock."
+2,507,1,1,0,0,1,0,0,0,0,0,0,0,1,0,CultureB_day5_07,CultureB,5,"507, 508",Dy,"Low confluency area few very small cell clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions. Some round cells have granular and irregular shape, most likely dying cells or debris."
+2,508,1,1,0,0,1,0,0,0,0,0,0,0,1,0,CultureB_day5_08,CultureB,5,"507, 508",Dy,"Low confluency area few very small cell clusters. Multiple single cells evenly spread out in the field, some with cytoplasmic extensions. Some round cells have granular and irregular shape, most likely dying cells or debris."
