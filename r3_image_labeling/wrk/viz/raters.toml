@@ -1,0 +1,81 @@
+# R3 visualization config — the ONLY file to edit when a rater or dataset is added.
+# Public role codes only (CRO, IR1, IR2, ...). Never put a real name in a code, label, or file name.
+# Paths are relative to this file and point at the repo's tracked data deposits, so a fresh checkout
+# reproduces every figure. Missing/commented files => that rater shows as "pending" where relevant.
+
+[settings]
+out_dir    = "."                                        # figures/, metrics/, index.html land next to this file (all gitignored)
+tables_dir = "."                                        # j_styled_summary_table.html
+dpi        = 220
+image_map  = "../../images_rater_blinded_mapping.csv"  # blinded image name <-> path,id (joins CRO coding)
+bootstrap_iters = 2000
+seed       = 7
+show_pending_raters = true          # draw an empty "pending" panel for configured raters lacking a dataset
+partial_threshold   = 0.9           # a rater/pass with < 90% of the 100 frames is flagged "partial"
+expected_frames     = 100
+# Optional untracked config with additional raters/conditions (same format, paths relative to it).
+# Skipped silently when absent; `make_figures.py --no-overlay` ignores it. GALLERY.md is only
+# rewritten from the tracked config alone.
+local_overlay = "local/raters_local.toml"   # gitignored folder next to this file
+
+# Briefing conditions, in the order they should appear on the briefing-condition figure (h).
+[[condition]]
+key   = "blind"
+label = "Blind"
+description = "not told the culture conditions"
+[[condition]]
+key   = "knows_protocol"
+label = "Knows protocol"
+description = "knows the actual design (serum difference only)"
+
+# ---------------------------------------------------------------- raters
+# pass1  = open free-text descriptions (CSV / XLSX / *_gk.json). Text column auto-detected
+#          (description / Morphology_Description / text / last column; full_response_text in *_gk.json).
+#          Image id from image_name / Filename / Image_ID / image_id, or Culture + Day + Image(_No) columns.
+#          Scored with the shared Pass-1 lexicon.
+# pass2  = 10-item checklist marks. raw_<ITEM> columns, the instrument layout with headers
+#          "1. Healthy overall" ... "10. Degenerative (nonspecific)", or pass2_checklist in *_gk.json.
+#          Vocabulary normalized to the shared graded 0-1 scheme (see r3viz/items.py).
+# cro_comparable = optional per-image binary coding on the CRO six (Dy,Ro,V,D,G,Re), keyed by
+#          path,id or blinded_id/image_name; `prefix` = column prefix in that file.
+# cro_healthy = optional per-image binary CRO healthy-type coding (CRO_H_* columns; cro-results/cro_cpe_detections.csv,
+#          single-frame descriptions only); fills the healthy-type rows/columns of a, b1, c0, c1, c2, d and j.
+
+[[rater]]
+code      = "CRO"
+label     = "CRO"
+condition = "knows_protocol"
+note      = "briefing status to confirm"   # shown as * on figures; edit/remove once confirmed
+color     = "#6E6E6E"
+expected_frames = 22             # the CRO described 22 frames individually (not a partial delivery)
+# canonical per-frame CRO labels (CPE-type CRO_Dy..CRO_Re + healthy-type CRO_H_*), built from the CRO
+# image-description report by cro-results/build_cro_labels.py; group/range descriptions are not used.
+cro_comparable = { file = "../../cro-results/cro_cpe_detections.csv", prefix = "CRO_" }
+cro_healthy    = { file = "../../cro-results/cro_cpe_detections.csv" }
+
+[[rater]]
+code      = "IR1"
+label     = "IR1"
+condition = "blind"
+color     = "#009E73"
+pass1     = { file = "../../ir-results/cpe_detection_results_ir_gk.json" }
+pass2     = { file = "../../ir-results/cpe_detection_results_ir_gk.json" }
+cro_comparable = { file = "../../ir-results/ir_cpe_detections.csv", prefix = "IR_" }
+
+[[rater]]
+code      = "IR2"
+label     = "IR2"
+condition = "blind"
+color     = "#CC79A7"
+pass1     = { file = "../../ir-results/cpe_detection_results_ir2_gk.json" }
+pass2     = { file = "../../ir-results/cpe_detection_results_ir2_gk.json" }
+cro_comparable = { file = "../../ir-results/ir2_cpe_detections.csv", prefix = "IR2_" }
+
+# Example future rater (uncomment + point at its tracked deposit):
+# [[rater]]
+# code      = "IR4"
+# label     = "IR4"
+# condition = "blind"
+# color     = "#56B4E9"
+# pass1     = { file = "../../ir-results/cpe_detection_results_ir4_gk.json" }
+# pass2     = { file = "../../ir-results/cpe_detection_results_ir4_gk.json" }

@@ -16,3 +16,9 @@ university_outreach.md
 
 # Full CRO narrative PDF (Zenodo deposit)
 CRO Reporting - Light Microscope Image Descriptions.pdf
+
+# Figure toolkit outputs (regenerate with wrk/viz/make_figures.py) and local-only config
+/wrk/viz/figures/
+/wrk/viz/metrics/
+/wrk/viz/*.html
+/wrk/viz/local/
