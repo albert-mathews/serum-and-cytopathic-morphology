@@ -15,7 +15,7 @@ Leave comments as `@Albert:` lines under the relevant row; replies as `@CPE:`.
 | Author summary | stub | - |
 | Introduction | drafted | `tex/DRAFT.md`, `r1.md` snippets |
 | Methods R1 (corpus, guidelines) | drafted | `R1_for_paper_2026-09-19.md` |
-| Methods R1 (FOIA) | drafted, agency/scope missing | `wrk/foia_status.md` |
+| Methods R1 (FOIA) | drafted, agency/scope missing | `r4_non-isolation_standards_and_practice/wrk/foia_status.md` |
 | Methods R2 | drafted | `r2.md`, `control-cultures.md` |
 | Methods R3 (experiment, descriptors, CRO, raters) | drafted; CRO culture details missing | `r3.md`, `cro_labels_consolidation.md`, `ir-results/README.md` |
 | Methods R3 (IR3v) | drafted with briefing condition withheld; Pass 2 pending | gitignored pilot review |
@@ -36,7 +36,7 @@ Leave comments as `@Albert:` lines under the relevant row; replies as `@CPE:`.
 
 All assumed text is wrapped in `\assumed{...}` (orange, "[ASSUMED -- pending FOIA]") or `\prov{...}` (blue, "[PROVISIONAL -- IR3v]") in `main.tex`, so it can be found by searching for those macros.
 
-**A1 - FOIA outcome (R1).** Assumed by Albert 2026-10-14: most released protocols show a serum shift from 10% to a mean of about 15% at or after inoculation; distribution with many 10->10 and 10->20, few or zero 10->5. Appears in: Abstract (one sentence), Results R1 (paragraph after corpus numbers), Fig 1 caption, Discussion "Relation to practice", Limitations item 7. Replace with coded records when they arrive (`r1_isolation_standards_and_practice/wrk/foia_status.md`).
+**A1 - FOIA outcome (R1).** Assumed by Albert 2026-10-14: most released protocols show a serum shift from 10% to a mean of about 15% at or after inoculation; distribution with many 10->10 and 10->20, few or zero 10->5. Appears in: Abstract (one sentence), Results R1 (paragraph after corpus numbers), Fig 1 caption, Discussion "Relation to practice", Limitations item 7. Replace with coded records when they arrive (`r4_non-isolation_standards_and_practice/wrk/foia_status.md`).
 
 **A2 - IR3v Pass 1 coding (R3). Resolved 2026-10-14** by the rater's answers (private log in the gitignored pilot folder; public coding rules in `r3_image_labeling/ir-results/IR3v_pass1_side_by_side.md`). Shrinking -> rounded/shrinking (Ro); "vaculation" -> vacuolation, with the rater's single large vacuole coded separately (not V); refraction/refractive -> refractile (Re, not when describing the vacuole); projections: rule thin+late = stressed, thick+early = healthy-type, but no description states thickness, so all uncoded. Clarified counts (99 unique frames, duplicate excluded): any CRO-six A 36/50, B 40/49; V 31/30; Ro 8/12; Re 17/21; D 0/2; single vacuole 14/24; projections mentioned 10/32. Still wrapped in `\prov{...}` because Pass 2 is in progress.
 

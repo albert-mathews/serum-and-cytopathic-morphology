@@ -1,6 +1,6 @@
 # TODO - research roadmap
 
-Shared checklist for this repository. **Last updated:** 2026-10-14
+Shared checklist for this repository. **Last updated:** 2026-10-15
 
 Each item has an assignee (**Albert** or **CPE**, the research assistant) and links to the file where its input is waiting. Discussion happens in that file, not here.
 
@@ -9,7 +9,8 @@ Each item has an assignee (**Albert** or **CPE**, the research assistant) and li
 ## Not started
 
 - [ ] **Albert - P4-P7: start now / schedule later / reshape each stream.** Record the decision in the *Status* column of [`P4_P7_index.md`](P4_P7_index.md); comments go in the stream notes ([`p4.md`](p4_serology_antigen/p4.md), [`p5.md`](p5_cryoEM_structure/p5.md), [`p6.md`](p6_vaccine_seed_identity/p6.md), [`p7.md`](p7_cross_lab_repeatability/p7.md)).
-- [ ] **Albert (optional) - fetch R2 Tier-D PDFs** when convenient: 7 rows in [`r2_negative_controls/R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md) (the mislabelled VI44 file noted there was deleted 2026-10-14). Not blocking the paper.
+- [ ] **Albert - fetch R2 full texts to bring papers back into the analysis.** 10 papers are excluded because only abstracts were available: VI44, VI239, VI240 (= VI241, VI242, same paper), VI243, VI249, VI251, VI266, VI267, VI270, VI271. List and links: [`r2_negative_controls/R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md).
+- [ ] **CPE - R4: expand the non-isolation protocol search** (protocols outside virus isolation, then reports of practice under them). Plan: [`r4_non-isolation_standards_and_practice/r4.md`](r4_non-isolation_standards_and_practice/r4.md).
 
 ## In progress
 

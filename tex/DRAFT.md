@@ -1,5 +1,73 @@
 # Draft paper
 
+## Review comments
+
+paper review items:
+intro::
+
+1. " citing slower monolayer
+   34 overgrowth, maintained viability and reduced interference of serum with viral attachment (verbatim guideline
+   35 text is compiled in tex/DRAFT.md, section “introduction” and “rationale”)", this rationale here doesn't really do the findings justice. we want to keep the rationale found in each protocol guide for later when we show that they propose the SAME protocol, but for DIFFERENT rationale. the different rationale is a core finding that points to the fact that the whole institution of virology doesn't actually know why they are reducing the FBS at inoculation. our findings indicate that we know why they are doing it, and it is because it produces the outcome (CPE) that they have associated with virus presence. it is very important that we expose this massive discrepancy in rationale for a protocol which is un-scientific, and unanimously applied.
+2. "By Isolation we mean virology’s operational product of culture, cytopathic readout and passage (an Iso42 late), not chemical purity of a particle preparation (r1 isolation standards and practice/r1.md, snippet
+   43 R1-S2).", we might get in trouble for that one. i agree it is important to point out, and most important of us to retain mentally when operating this research project, but maybe not say it in THIS paper
+
+
+Materials and methods::
+
+1. "The working table is r1 isolation standards and practice/expans59 (n = 170 rows; search logs in expansion/)", why do we have this sentence? is it a working note or what?
+2. "Eight guidelines with parseable dual percentages form the plotted overlay.", why 'parseable' here?
+3. "USDA APHIS VIRPRO1013 is
+   64 retained in the table but excluded from plots because it addresses master-seed extraneous-agent testing
+   65 rather than diagnostic Isolation. ", sentence doesn't belong here. i think we rope the APHIS content in by saying that we then researched non-isolation cell culture protocols to see if the dual serum was ubiquitous. we found APHIS (and others we may find now that we want to search for them, i just thought of searching this way), so we want to say "we search for isolation protocols, isolation paper, and then we searched for non-isolation protocols to see if dual serum exists outside isolation, and then we searched for papers or other reporting documents that capture what was done following the non-isolation protocols". we need to add item to our TODO to expand the non-isolation protocol research path. this feecback should also clear out the paragraph that follows the sentence.
+4. "plus three Isolation papers scored from the earlier
+   73 unfiltered overview", that doesn't come across as through research. why say it like that? cant we just say how many isolation papers we looked at for negative controls?
+5. " or
+   78 full text unavailable.", that is not an acceptable reason to classify a paper. either we get the full text, or we exclude the item from our research
+6. " three scoring passes
+   80 are logged", no we dont say how many times we iterated. we just say that we researched the topic across some corpus, and cataloged findings as blah blah blah
+7. "[TODO-ALBERT] Medium base,
+   88 seeding density, feeding schedule and TEM sampling days from the CRO report.", the zenodo record has the protocol details and culture progress details. we do not need to repeat them here. just high level. two cultures, same stock, one 10 and one 2 % FBS for 5 days, then TEM. 
+8. " One Culture B day-4
+   111 field appears twice in the set: the CRO originals for path 2 frames 407 and 408 are the same file (identical
+   112 checksum), so every rater described that field twice", that and its follow on, we dont need to say this here. 
+9. "[TODO-ALBERT] Describe the brief119 ing condition only after the IR3v rater has completed Pass 2 and been debriefed (anonymity and debrief
+   120 guardrail).", the paper at this point can say the rater was told the path B was inoculated with a virus
+10. "IR3v Pass 1 text was scored with the unchanged shared lexicon and, separately, with a clarified
+    121 coding that applies the rater’s own answers to five clarification questions", i think if we expand the lexicon to include what we needed from andres clarifications, and re-scroe daniel and abdolreza, daniel and abdolreza's scores wont change, so we can just do that, and then we can say we used the same lexicon for all three. i dont want to expose in methods sections thta we had to deal some some minor language barriers, that is distracting to the reader. 
+11. "[ASSUMED – pending FOIA]", we dont need this here. we'll have a seperate results section for non-isolation protocols and the 'practice' reported by following those protocols. essetially we'll have the duals in this paper: isolation protocols and their practice, non-isolation protocols and their practice. we'll have two methods sections, and two results sections, bringing it together in the discussion
+12. i want the figures in the pdf. have the python scripts produce the fig pngs, jpegs or whatever meets figure insertion in PLOS bio paper, place those files in the tex\figures\, and then have them appear in the PDF. i want to be reviewing how they look. i think we cannot use color, so we need to iterate how we show the data
+13. "Matched-medium negative controls are rarely reported", we want to tabulate the results, or bar/pie chart. we also want to indicate here which teir A controls exhibited CPE, i/e/ the negative control falsified the test culture CPE specificity.
+14. "Lowering FBS alone produces CPE-classified morphology in uninoculated Vero
+    163 E6 cells", same, lets show this information as illustration. table, plot, graph, infographic. the text is impossible for a human to parse, we'll provide the raw results data if they want to see it. 
+15. this repeating of the 100 vs 99 frames needs to stop. we just say when we describe the zenodo record, that there are 50 path A and 49 path B images. and then we say blinded rater process all 99. that's it. 
+16. "[TODO-ALBERT] Add κ table summary", thats your job
+17. "Historical context (P1)", the paragraph does at all capture the intent of this prediction arm. the prediction is that "when cell culture became the tool for virus isolation, dual medium protocols developed quick afterwards so that the protocol would produce the positive outcome, PCE observed, virus present. and thta is what we found is it not?
+18. "Particle-level context (P2)", the paragraph does at all capture the intent of this prediction arm.  the prediction is that if CPE is not specific to viral presence, then many culture CPE experiments that did not have any virus would have inadvertently characterized non-viral particles as viral. parallel work on non-inoculated culture characterizing particles would characterize the same particles, but assign different object class. therefore we should find in the literature a well documented distinguishability problem, in that viral particles are indistinguishable from some class of non-viral particles. and this is exactly what we find
+19. "The literature corpora describe reported methods; reporting omissions (R2) cannot distinguish controls
+    239 not run from controls not described.", i dont understand this. 
+20. the references section should be like 300 items long or more. you mentioned >170 R1 papers, where are the citations?
+
+### Status
+Grok bot failed to address all review comments because prompts were getting blocked by safety checks. it's last useful response was:
+"""
+The isolation vs non-isolation restructure is now in the paper, and `main.pdf` rebuilt cleanly.
+- **Methods:** a new "Search structure" paragraph sets out the four parts: isolation protocols, isolation papers, non-isolation protocols, and practice under non-isolation protocols. The old APHIS exclusion sentence is gone. A new R4 subsection describes the non-isolation search and now holds the FOIA request paragraph.
+- **Results:** a new "Non-isolation protocols and practice" subsection opens with VIRPRO1013. It prescribes 5–10% serum for growth and 5–20% later, so serum is held or raised rather than lowered. The FOIA assumption block moved here from the isolation results.
+- **TODO:**
+  - Your R2 item now lists the 10 papers excluded for lacking full text, so you can fetch them and bring them back into the analysis.
+  - A new CPE item covers expanding the R4 search.
+
+Still to do:
+- the rationale comparison table;
+- rewriting the P1 and P2 discussion;
+- the expanded lexicon and rescore;
+- grayscale figures in the PDF;
+- the full bibliography.
+
+Next up is the rationale table.
+"""
+
+
 ## introduction
 This article identifies virology cell culture methods for virus isolation—particularly the reliance on cytopathic effects (CPE) as a primary indicator of viral presence amid changes in fetal bovine serum (FBS) concentration—as a methods question that needs controlled evidence. These methods are widely used in infectious-disease research; medium composition is a plausible confounder of CPE interpretation.
 Standard guidelines in virology recommend reducing FBS concentration in cell culture media from approximately 10% during cell growth to 2% during virus propagation phases. These same guidelines position the observance of CPE in inoculated cell cultures as the primary indication of viral presence.
