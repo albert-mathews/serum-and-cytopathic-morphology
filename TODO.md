@@ -15,7 +15,7 @@ Each item has an assignee (**Albert** or **CPE**, the research assistant) and li
 
 - [ ] **CPE - P3: reply in-doc to Albert's `@Albert:` comments and revise `p3.md`** into a self-contained P3 summary; then Albert chooses which extension threads (A1-A4) to open. Discussion: [`p3_genetics/p3.md`](p3_genetics/p3.md).
 - [ ] **IR3v (rater) then CPE - R3: IR3v Pass 2 in progress.** Checklist sent by Albert 2026-10-14; the rater has started. Waiting on the rater; then CPE processes Pass 2 (99 unique frames, duplicate excluded) and replaces the provisional IR3v numbers in the paper. Discussion: [`r3_image_labeling/r3.md`](r3_image_labeling/r3.md).
-- [ ] **CPE - R1: code the public-records response when it arrives** and replace the `[ASSUMED -- pending FOIA]` text in the paper. Status: [`r1_isolation_standards_and_practice/wrk/foia_status.md`](r1_isolation_standards_and_practice/wrk/foia_status.md).
+- [ ] **CPE - R4: code the public-records response when it arrives** and replace the `[ASSUMED -- pending FOIA]` text in the paper. Status: [`r4_non-isolation_standards_and_practice/wrk/foia_status.md`](r4_non-isolation_standards_and_practice/wrk/foia_status.md).
 - [ ] **CPE - paper: extend the draft** as Albert's review comments and pending data come in. Notes: [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
 
 ## In review (waiting on Albert)

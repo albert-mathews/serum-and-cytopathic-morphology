@@ -95,3 +95,5 @@ tex/*.bbl
 tex/*.blg
 tex/*.out
 tex/*.synctex.gz
+tex/*.fdb_latexmk
+tex/*.fls

@@ -7,7 +7,7 @@
 **Output dir (MSI):**  
 `C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\expansion\`
 
-Companion files: `adversarial_X_leq_Y_candidates.csv`, `VIRPRO1013_exclusion_note.md`
+Companion files: `adversarial_X_leq_Y_candidates.csv`, `../../r4_non-isolation_standards_and_practice/wrk/VIRPRO1013_exclusion_note.md`
 
 ---
 
@@ -82,7 +82,7 @@ WebFetch used for: protocols.io WNV PDF, protocols.io SARS Opti-MEM page, CDC EI
 
 ### Excluded (mentioned only)
 
-- **ADV011 USDA VIRPRO1013**: growth ~5–10% → maintenance **5–20%** (can be increase). **User rule: NOT isolation** (master-seed extraneous-agent). Tagged `EXCLUDED_not_isolation`. See `VIRPRO1013_exclusion_note.md`.
+- **ADV011 USDA VIRPRO1013**: growth ~5–10% → maintenance **5–20%** (can be increase). **User rule: NOT isolation** (master-seed extraneous-agent). Tagged `EXCLUDED_not_isolation`. See `../../r4_non-isolation_standards_and_practice/wrk/VIRPRO1013_exclusion_note.md`.
 
 ---
 
@@ -145,6 +145,6 @@ Classic reductions seen repeatedly this pass (do not merge into HOLD CSV): 10→
 
 1. `adversarial_X_leq_Y_search_2026-09-18.md` (this file)  
 2. `adversarial_X_leq_Y_candidates.csv` (HOLD001–HOLD009 + EXCL row for VIRPRO)  
-3. `VIRPRO1013_exclusion_note.md`
+3. `../../r4_non-isolation_standards_and_practice/wrk/VIRPRO1013_exclusion_note.md`
 
 No git commit. No paywalled PDFs stored.
