@@ -2,7 +2,7 @@
 
 **Status:** Agreed framing for Prediction B work. No phage. No HIV (for now). Nucleic acids assumed real. Paper posture: sow inquiry, do not claim viral genetics overturned.
 
-**Supersedes / extends:** `P3_prediction_B_research_angle_2026-09-20.md`
+**Supersedes / extends:** `../archive/03_prediction_B_angle_2026-09-20/P3_prediction_B_research_angle_2026-09-20.md`
 
 ---
 

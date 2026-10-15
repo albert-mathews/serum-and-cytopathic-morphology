@@ -2,7 +2,7 @@
 
 Regenerate with `python make_figures.py --no-overlay` from `r3_image_labeling/wrk/viz/` (reads `raters.toml`; see README.md for setup). Figures are written to `figures/` (gitignored). Public role codes only. Key messages: **1** global trend · **2** rater deltas · **3** Pass 1 vs Pass 2 · **4** briefing condition.
 
-**Coverage now:** CRO: CPE-type six n = 9 A / 13 B, healthy-type (binary) n = 9 A / 13 B; IR1: Pass 1 n = 50 A / 50 B, Pass 2 n = 50 A / 50 B, CPE-type six n = 50 A / 50 B; IR2: Pass 1 n = 50 A / 50 B, Pass 2 n = 50 A / 50 B, CPE-type six n = 50 A / 50 B
+**Coverage now:** CRO: CPE-type six n = 9 A / 13 B, healthy-type (binary) n = 9 A / 13 B; IR1: Pass 1 n = 50 A / 49 B, Pass 2 n = 50 A / 49 B, CPE-type six n = 50 A / 49 B; IR2: Pass 1 n = 50 A / 49 B, Pass 2 n = 50 A / 49 B, CPE-type six n = 50 A / 49 B; IR3v: Pass 1 n = 50 A / 49 B, CPE-type six n = 50 A / 49 B
 
 ## c0_global_direction_by_rater
 *Serves:* 1 Global trend · 4 Briefing condition

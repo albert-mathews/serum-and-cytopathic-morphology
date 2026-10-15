@@ -1,5 +1,8 @@
 # Paywall wishlist — combined (R1 expansion 2026-09-14)
 
+**Status (checked against `refs/` 2026-10-14):** this is the single R1 wishlist; it already contains batch 1 and batch 2 (the separate `paywall_wishlist_batch1.md` / `paywall_wishlist_batch2.md` files were removed as duplicates). Batch 1: 25 IDs, **18 on disk** and screened (see `paywall_extraction_status_2026-09-18.md`), **7 still missing**: VI97, VI103, VI104, VI108, VI114, VI119, VI120. Batch 2 rows are citation leads without VI IDs; none are blocking. The R1 paper numbers (dual-FBS n = 170) do not depend on any missing item, so this list is optional.
+
+
 Download these into `refs/isolation_practice/` using the suggested filenames when possible.
 After drop-off, ask the assistant to extract FBS pre/post into the expanded CSV.
 

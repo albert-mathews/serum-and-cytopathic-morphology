@@ -1,5 +1,8 @@
 # R2 PDF wishlist (buy list only)
 
+**Status (checked against `r1_isolation_standards_and_practice/refs/` 2026-10-14):** 7 requested, **0 confirmed on disk**. A mislabelled file `refs/excluded_pdfs/VI44 - Releasing Intracellular NS1 from Mosquito Cells...pdf` (Viruses 2020, doi:10.3390/v12101105, PMC7599882; the "NEW3 VI44" dengue row of the superseded `updated_isolation-refs-overview.csv`, an ID collision) matched no current R1/R2 ID and was deleted 2026-10-14. The enterovirus 2003 VI44 PDF is still wanted. Used/bibliography for R2 = the scored corpus in `control-cultures-overview.csv` (173 rows) with justifications in `control-cultures-justification-notes.md`.
+
+
 **Drop folder:** `r1_isolation_standards_and_practice/refs/` (shared with R1; gitignored)
 
 **Updated:** 2026-09-22

@@ -1,0 +1,9 @@
+% preamble.tex -- journal-neutral packages and marker macros.
+% Journal-specific layout (PLOS template geometry, caption style, bst) goes in main.tex only.
+\usepackage[table]{xcolor}
+\usepackage{amsmath,booktabs,array,graphicx,rotating,lineno}
+\usepackage[hidelinks]{hyperref}
+\newcommand{\assumed}[1]{\textcolor{orange}{\textbf{[ASSUMED -- pending FOIA]} #1}}
+\newcommand{\prov}[1]{\textcolor{blue}{\textbf{[PROVISIONAL -- IR3v]} #1}}
+\newcommand{\pending}[1]{\textcolor{red}{\textbf{[PENDING]} #1}}
+\newcommand{\todoA}[1]{\textcolor{magenta}{\textbf{[TODO-ALBERT]} #1}}

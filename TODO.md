@@ -1,85 +1,60 @@
-﻿# TODO - research roadmap
+# TODO - research roadmap
 
-Shared, living checklist for this repository. Maintained jointly by the author and the research assistant.
+Shared checklist for this repository. **Last updated:** 2026-10-14
 
-**Last updated:** 2026-10-06
-
-Every item links to the markdown file where its discussion or pending input lives. This file only tracks what is open, who it is waiting on, and where to go; the detail and the conversation stay in the linked file.
+Each item has an assignee (**Albert** or **CPE**, the research assistant) and links to the file where its input is waiting. Discussion happens in that file, not here.
 
 ---
 
-## 1. Active - on Albert
+## Not started
 
-Items that need Albert to read, comment, or decide.
+- [ ] **Albert - P4-P7: start now / schedule later / reshape each stream.** Record the decision in the *Status* column of [`P4_P7_index.md`](P4_P7_index.md); comments go in the stream notes ([`p4.md`](p4_serology_antigen/p4.md), [`p5.md`](p5_cryoEM_structure/p5.md), [`p6.md`](p6_vaccine_seed_identity/p6.md), [`p7.md`](p7_cross_lab_repeatability/p7.md)).
+- [ ] **Albert (optional) - fetch R2 Tier-D PDFs** when convenient: 7 rows in [`r2_negative_controls/R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md) (the mislabelled VI44 file noted there was deleted 2026-10-14). Not blocking the paper.
 
-- [ ] **P3 - genetics / sequence origins: review and decide next step**
-  - **Discussion:** [`p3_genetics/p3.md`](p3_genetics/p3.md). Albert has left seven `@Albert:` comments (as of 2026-10-06). **Next (assistant):** reply in-doc with `@CPE:` and revise `p3.md` so it reads as a self-contained summary of the P3 section (question, rationale, research angles, findings, adversarial checks, conclusions).
-  - Then Albert decides which of the threads in *Genetics beyond current P3 (open extensions)* to open as active work:
-    - A1. inoculum / mock sequencing (Step 4)
-    - A2. FBS contig audits
-    - A3. same stock, different assemblies
-    - A4. adversarial clinical-direct + particle + infectivity cases
-  - Supporting material: [`p3_genetics/sequence_origins/`](p3_genetics/sequence_origins/). Start with [`P3_step1_progress_summary.md`](p3_genetics/sequence_origins/P3_step1_progress_summary.md), [`P3_step1_protocol.md`](p3_genetics/sequence_origins/P3_step1_protocol.md), [`P3_stock_origin_hops_2026-09-21.md`](p3_genetics/sequence_origins/P3_stock_origin_hops_2026-09-21.md), [`P3_step1_results_draft_2026-09-21.md`](p3_genetics/sequence_origins/P3_step1_results_draft_2026-09-21.md).
+## In progress
 
-- [ ] **P4-P7 - formalized extensions: start now / schedule later / reshape**
-  - **Discussion:** [`P4_P7_index.md`](P4_P7_index.md) (record each decision in its *Status* column), plus each stream note. Leave `@Albert:` comments in the stream note:
-    - [`p4_serology_antigen/p4.md`](p4_serology_antigen/p4.md) (short form: [`P4_prediction.md`](p4_serology_antigen/P4_prediction.md))
-    - [`p5_cryoEM_structure/p5.md`](p5_cryoEM_structure/p5.md) (short form: [`P5_prediction.md`](p5_cryoEM_structure/P5_prediction.md))
-    - [`p6_vaccine_seed_identity/p6.md`](p6_vaccine_seed_identity/p6.md) (short form: [`P6_prediction.md`](p6_vaccine_seed_identity/P6_prediction.md))
-    - [`p7_cross_lab_repeatability/p7.md`](p7_cross_lab_repeatability/p7.md) (short form: [`P7_prediction.md`](p7_cross_lab_repeatability/P7_prediction.md))
-  - Started streams move into their own item below.
+- [ ] **CPE - P3: reply in-doc to Albert's `@Albert:` comments and revise `p3.md`** into a self-contained P3 summary; then Albert chooses which extension threads (A1-A4) to open. Discussion: [`p3_genetics/p3.md`](p3_genetics/p3.md).
+- [ ] **IR3v (rater) then CPE - R3: IR3v Pass 2 in progress.** Checklist sent by Albert 2026-10-14; the rater has started. Waiting on the rater; then CPE processes Pass 2 (99 unique frames, duplicate excluded) and replaces the provisional IR3v numbers in the paper. Discussion: [`r3_image_labeling/r3.md`](r3_image_labeling/r3.md).
+- [ ] **CPE - R1: code the public-records response when it arrives** and replace the `[ASSUMED -- pending FOIA]` text in the paper. Status: [`r1_isolation_standards_and_practice/wrk/foia_status.md`](r1_isolation_standards_and_practice/wrk/foia_status.md).
+- [ ] **CPE - paper: extend the draft** as Albert's review comments and pending data come in. Notes: [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
 
-- [ ] **R3 - choose the rater-morphology figure set**
-  - **Discussion:** [`r3_image_labeling/wrk/viz_figures_review.md`](r3_image_labeling/wrk/viz_figures_review.md). 15 draft figures, each with a `**@Albert:**` line for comments. Recommended headline set: c0, c2, g2, h, j.
-  - Waiting on Albert's comments and selection. Then (assistant) regenerate with the requested changes and move the finals into `r3_image_labeling/ir-results/`.
-- [ ] **R3 - resolve CRO label coding ambiguities**
-  - **Discussion:** [r3_image_labeling/cro-results/cro_labels_consolidation.md](r3_image_labeling/cro-results/cro_labels_consolidation.md). Leave `@Albert:` answers on each open coding question (Rounded vs "round cells"; Vacuolation vs "bright vesicles"; Refractile vs "bright reflective points"; hedged mentions; shared two-frame descriptions; path1 202 "101" typo; whether group-level notes get a secondary analysis; rename of `cro_cpe_detections.csv`; CRO briefing-condition assignment).
-  - Waiting on Albert. Then (assistant) apply the decisions in `build_cro_labels.py`, regenerate the canonical CSV / figures / side-by-side, and tick this item.
+## In review (waiting on Albert)
 
----
-
-## 2. Waiting elsewhere
-
-Not blocking the items in section 1.
-
-- [ ] **R1 - records-request follow-up.** Waiting on an external response; nothing to do until it arrives.
-  - **Discussion:** [`r1_isolation_standards_and_practice/wrk/foia_status.md`](r1_isolation_standards_and_practice/wrk/foia_status.md)
-- [ ] **R3 - morphology labeling: remaining IR3v rounds.** Round 1 (Pass 1, 10 frames) was received and processed on 2026-10-06. Later rounds will go through the same pipeline and into the figure set when they arrive. IR1 and IR2 Pass-2 results are processed (anonymized tables in [`r3_image_labeling/ir-results/`](r3_image_labeling/ir-results/)).
-  - **Discussion:** [`r3_image_labeling/r3.md`](r3_image_labeling/r3.md), section *Status - independent rater results (2026-10-06)*.
-
----
-
-## 3. Paper wishlists
-
-Drop PDFs into the named **gitignored** `refs/` folders (never commit PDFs). Each wishlist file is the authoritative buy list for its stream and is where to comment on it; this table is a summary.
-
-| Stream | Wishlist (discussion) | Open items | Drop folder |
-|--------|----------|------------|-------------|
-| **P2** | [`p2_virus_EV_indistinguishable_refs/P2_pdf_wishlist.md`](p2_virus_EV_indistinguishable_refs/P2_pdf_wishlist.md) | Tier A-C closed **except**: re-fetch Chen et al. 2015 *Cell* (`10.1016/j.cell.2015.01.032`). The on-disk P2-044 file is a misfile. | `p2_virus_EV_indistinguishable_refs/refs/` |
-| **P3** | [`p3_genetics/sequence_origins/P3_step1_pdf_wishlist.md`](p3_genetics/sequence_origins/P3_step1_pdf_wishlist.md) | None right now. (Duplicate copy at `p3_genetics/P3_step1_pdf_wishlist.md` carries the same list.) | `p3_genetics/refs/sequence_origins/` |
-| **R2** | [`r2_negative_controls/R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md) | Tier-D upgrades: VI44, VI249, VI251, VI266, VI267, VI270, VI271 (VI270 may be a free direct download; VI271 is a web page and optional). | `r1_isolation_standards_and_practice/refs/` (shared with R1) |
-| **R1** | [`r1_isolation_standards_and_practice/expansion/paywall_wishlist_combined.md`](r1_isolation_standards_and_practice/expansion/paywall_wishlist_combined.md) | Older paywall expansion list; only if still filling R1 gaps. | `r1_isolation_standards_and_practice/refs/` |
-| **P4-P7** | none yet | No buy list until streams are picked (section 1). | `refs/` inside each stream folder |
-
-Notes:
-
-- Ignore `p2_virus_EV_indistinguishable_refs/P2_pdf_request.md` for buying; it is superseded by the lean `P2_pdf_wishlist.md`.
-- **Priority if only one pull:** Chen 2015 for P2, then the R2 Tier-D set when convenient. P3 needs no fetch right now.
-
----
-
-## 4. How we maintain this
-
-- This file is the shared source of truth for open work. Linked files hold the detail and the discussion; this file holds the status.
-- **Every item links to its discussion file.** Albert leaves input in that file as inline comments starting with `@Albert:`. Replies from the assistant go directly below, on their own line or blockquote, starting with `@CPE:`. Prefer an existing stream file over a new one; only add a new file when there is no natural home for the discussion.
-- **Working notes go in `wrk/`.** Intermediate notes and draft figures live in `wrk/` subfolders inside each stream (e.g. `r3_image_labeling/wrk/`). These folders are tracked, not gitignored, but are kept out of the main reading path. Finished material moves out of `wrk/` into the stream's main files or results folder.
-- Items move between sections as they progress (Active -> Waiting -> Done). Tick the box when finished, then move the item to *Done* with a date and a one-line outcome or pointer to where the result is recorded.
-- Add new items with an owner (Albert / assistant / external) and a link to the discussion file.
-- Keep it public-safe: neutral research-planning language, file paths and role codes only (CRO, IR1, IR2, IR2v, IR3v), no participant names, no private correspondence.
-- Update the *Last updated* date on every edit.
-
----
+- [ ] **Albert - review the paper draft** [`tex/main.tex`](tex/main.tex): read the drafted sections, check the two assumption blocks (FOIA, IR3v coding) and answer the 7 open decisions. Leave `@Albert:` lines in [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
+- [ ] **Albert - R3: choose the rater-morphology figure set** (15 drafts; suggested c0, c2, g2, h, j). Comment on each `@Albert:` line in [`r3_image_labeling/wrk/viz_figures_review.md`](r3_image_labeling/wrk/viz_figures_review.md). CPE then regenerates finals into `ir-results/`.
+- [ ] **Albert - R3: resolve CRO label coding questions** (rounded vs "round cells", vacuolation vs "bright vesicles", refractile vs "bright reflective points", hedged mentions, shared two-frame descriptions, path1 202 "101" typo, group-level notes, CSV rename, CRO briefing-condition assignment). Answer inline in [`r3_image_labeling/cro-results/cro_labels_consolidation.md`](r3_image_labeling/cro-results/cro_labels_consolidation.md). CPE then applies them in `build_cro_labels.py`.
 
 ## Done
 
-- [x] 2026-10-06 - R3 Pass-2 checklist results processed into `r3_image_labeling/ir-results/`.
+- [x] 2026-10-14 - Albert/CPE - R3 duplicate frame decision: `CultureB_day4_08` (= `CultureB_day4_07`) excluded for all raters via [`frames_excluded_from_analysis.csv`](r3_image_labeling/frames_excluded_from_analysis.csv); results, figures and paper recomputed on 99 unique frames (50 A / 49 B). Note: [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
+- [x] 2026-10-14 - CPE - R1/R2: VI47 merged into VI29 (same article; row and duplicate PDF removed); R2 now 173 rows (A/B/C/D 11/38/14/110). Mislabelled VI44 dengue PDF deleted. See [`r2.md`](r2_negative_controls/r2.md).
+- [x] 2026-10-14 - CPE - IR3v Pass 1 recorded in `r3_image_labeling/ir-results/` (`ir3v_*`, `IR3v_pass1_side_by_side.md`) with the rater's clarifications applied; figures regenerated; paper numbers updated.
+- [x] 2026-10-14 - CPE - `tex/` split into `sections/` and `tables/` (driver `main.tex`; compiles).
+- [x] 2026-10-14 - CPE - P3 superseded attempts moved to [`p3_genetics/archive/`](p3_genetics/archive/README.md) with an index.
+- [x] 2026-10-14 - CPE - R2 174 vs 170 rows explained in [`r2.md`](r2_negative_controls/r2.md); VI44 PDF identified as an old ID collision (not renamed).
+- [x] 2026-10-14 - CPE - Paper skeleton started in `tex/main.tex` (PLOS Biology structure); notes in `tex/wrk/paper_notes.md`.
+- [x] 2026-10-14 - CPE - One literature catalogue per stream; redundant wishlists removed (see table below).
+- [x] 2026-10-14 - CPE - `cro_labels_consolidation.md` re-encoded as clean UTF-8 (one Windows-1252 byte fixed).
+- [x] 2026-10-06 - CPE - R3 Pass-2 checklist results processed into `r3_image_labeling/ir-results/`.
+
+---
+
+## Literature catalogues (one per stream)
+
+PDFs go in the gitignored `refs/` folder named below; never commit PDFs.
+
+| Stream | Catalogue / wishlist | Have / used / still needed | Drop folder |
+|---|---|---|---|
+| P2 | [`P2_pdf_catalogue.md`](p2_virus_EV_indistinguishable_refs/P2_pdf_catalogue.md) | 32 IDs on disk / 23 used (quoted) / 0 needed | `p2_virus_EV_indistinguishable_refs/refs/` |
+| P3 | [`P3_pdf_catalogue.md`](p3_genetics/sequence_origins/P3_pdf_catalogue.md) | 171 files / 181 bibliography entries / 0 required (2 optional) | `p3_genetics/refs/sequence_origins/` |
+| R2 | [`R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md) | 173 scored rows / 7 Tier-D upgrades wanted (optional) | `r1_isolation_standards_and_practice/refs/` |
+| R1 | [`paywall_wishlist_combined.md`](r1_isolation_standards_and_practice/expansion/paywall_wishlist_combined.md) | 18 of 25 on disk / 7 missing (optional) | `r1_isolation_standards_and_practice/refs/` |
+| P1 | [`P1_BIBLIOGRAPHY.md`](p1_history/P1_BIBLIOGRAPHY.md) | closed for drafting | `p1_history/refs/` |
+
+---
+
+## Conventions
+
+- Every item names an assignee and links to its discussion file. Albert comments there as `@Albert:`; CPE replies below as `@CPE:`.
+- Items move Not started -> In progress -> In review -> Done; Done entries get a date and a one-line outcome.
+- Working notes go in tracked `wrk/` folders. Public-safe language and role codes only (CRO, IR1, IR2, IR2v, IR3v).

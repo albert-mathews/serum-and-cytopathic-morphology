@@ -24,6 +24,10 @@ key   = "blind"
 label = "Blind"
 description = "not told the culture conditions"
 [[condition]]
+key   = "pilot_briefing"
+label = "Briefing pilot"
+description = "briefing-condition pilot arm; condition disclosed after debrief"
+[[condition]]
 key   = "knows_protocol"
 label = "Knows protocol"
 description = "knows the actual design (serum difference only)"
@@ -70,6 +74,16 @@ color     = "#CC79A7"
 pass1     = { file = "../../ir-results/cpe_detection_results_ir2_gk.json" }
 pass2     = { file = "../../ir-results/cpe_detection_results_ir2_gk.json" }
 cro_comparable = { file = "../../ir-results/ir2_cpe_detections.csv", prefix = "IR2_" }
+
+[[rater]]
+code      = "IR3v"
+label     = "IR3v"
+condition = "pilot_briefing"
+color     = "#E69F00"
+pass1     = { file = "../../ir-results/ir3v_pass1_text.csv" }      # verbatim Pass-1 text, scored with the shared lexicon
+# pass2   = { file = "../../ir-results/ir3v_pass2_checklist.csv" }  # pending
+cro_comparable = { file = "../../ir-results/ir3v_cpe_detections.csv", prefix = "IR3v_" }  # clarified coding (Pass 1)
+figure_note = "Pass 1 only (Pass 2 pending). CRO-comparable columns use the rater's clarifications (shrinking = rounded; refraction = refractile; single large vacuole kept separate from vacuolation); see ir-results/IR3v_pass1_side_by_side.md"
 
 # Example future rater (uncomment + point at its tracked deposit):
 # [[rater]]

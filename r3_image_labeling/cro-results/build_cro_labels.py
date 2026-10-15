@@ -35,6 +35,8 @@ potentially, possibly) earlier in the same sentence. Hedged mentions still count
 Frame ids: path1 = Culture A (10% FBS), path2 = Culture B (2% FBS); id = <day><field 01-10>; the
 blinded id follows ../images_rater_blinded_mapping.csv (path2 day-3 ids 303/307/308 refer to the
 original captures, as described by the CRO).
+Frames in ../frames_excluded_from_analysis.csv (CultureB_day4_08 = path2 408, byte-duplicate of 407)
+are dropped from per-frame outputs; 408 has no single-frame CRO description, so the 22 frames are unchanged.
 Confluence is recorded in the text but is never used as a healthy/stressed label.
 
 Run: python build_cro_labels.py
@@ -52,6 +54,12 @@ TXT = HERE / "cro_image_descriptions.txt"
 OUT_FRAMES = HERE / "cro_cpe_detections.csv"
 OUT_GROUPS = HERE / "cro_group_level_notes.csv"
 OUT_JSON = HERE / "cpe_detection_results_cro.json"
+
+# --- frame exclusion (documented list, tracked): r3_image_labeling/frames_excluded_from_analysis.csv
+# Frames listed there (byte-duplicate images) are dropped from every processed output; raw files stay untouched.
+import csv as _excsv
+from pathlib import Path as _ExPath
+EXCLUDED = {r["blinded_id"] for r in _excsv.DictReader(open(_ExPath(__file__).resolve().parents[1] / "frames_excluded_from_analysis.csv", encoding="utf-8"))}
 
 CPE = [("CRO_Dy", r"\bdying\b|\bcell death\b|\bdead cells?\b"),
        ("CRO_Ro", r"\brounded\b|\bround cells?\b"),
@@ -149,7 +157,7 @@ def build():
                                scope="group/range description (lower specificity)",
                                used_in_per_frame_analysis=0, **marks, hedged_terms=";".join(hedged),
                                description=desc))
-    rows = [frames[k] for k in sorted(frames)]
+    rows = [frames[k] for k in sorted(frames) if frames[k]["blinded_id"] not in EXCLUDED]
     return rows, groups
 
 

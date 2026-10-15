@@ -2,7 +2,7 @@
 
 **Framework:** `control-cultures.md` v0.1  
 **Results table:** `control-cultures-overview.csv`  
-**Corpus:** 28 PDFs in `wrk/isolation_practice/`  
+**Corpus:** 27 PDFs (28 originally; duplicate VI47 merged into VI29 2026-10-14) in `wrk/isolation_practice/`  
 **Scorer:** grok-primary  
 **Date:** 2026-07-20  
 
@@ -19,7 +19,7 @@ Quotes are taken from text extraction (`wrk/isolation_practice/_txt/`) or, for i
 | **A** | 4 | VI16, VI33, VI38, VI43 |
 | **B** | 6 | VI8, VI13, VI14, VI36, VI40, VI42 |
 | **C** | 1 | VI25 |
-| **D** | 17 | VI2, VI4, VI15, VI18, VI23, VI24, VI28, VI29, VI30, VI32, VI34, VI39, VI41, VI45, VI46, VI47, SPT10 |
+| **D** | 16 | VI2, VI4, VI15, VI18, VI23, VI24, VI28, VI29, VI30, VI32, VI34, VI39, VI41, VI45, VI46, SPT10 |
 
 **Total: 28.**
 
@@ -27,7 +27,7 @@ Quotes are taken from text extraction (`wrk/isolation_practice/_txt/`) or, for i
 1. **VI25** A→**C** (`C-stage`): TCID50/toxicity NCs are wrong-stage for primary Isolation plates (agent2).
 2. **VI40** A→**B**: mock medium not stated; 2% FBS/MEM language applies to infected arm only (agent3).
 3. **VI8** justification: corrected Isolation medium quotes (agent1 notes fix; tier remains B).
-4. **VI29/VI47**: same article content; both retained as separate corpus IDs (both D).
+4. **VI29**: a second ID for the same article (and a byte-identical PDF) was merged into VI29 on 2026-10-14; only VI29 is kept (D).
 
 ---
 
@@ -273,7 +273,7 @@ No mock/uninfected culture NC → **D**.
 
 ### Decision
 No mock/uninfected culture NC → **D**.  
-**Note:** Same article content as **VI47**.
+**Note:** A duplicate row/PDF of this article was removed 2026-10-14; VI29 is the kept ID.
 
 ---
 
@@ -506,13 +506,6 @@ No mock/uninfected culture NC in extracted text → **D**.
 
 ---
 
-## VI47 — Tier **D**
-
-**Primary experiment:** Same as VI29 (rabies NP from BSR).  
-**Decision:** Duplicate methods; no culture NC → **D**.
-
----
-
 ## SPT10 — Tier **D**
 
 **Primary experiment:** TC-tagged ZIKV propagation and imaging.  
@@ -533,8 +526,8 @@ Uninfected cells used to validate labeling reagent → not Isolation-stage morph
 
 | Check | Result |
 |-------|--------|
-| All 28 PDF filenames have a row | Yes (agent3 corpus audit) |
-| VI29/VI47 both scored (duplicate content) | Both D; same article |
+| All 27 PDF filenames have a row | Yes (agent3 corpus audit) |
+| VI29 duplicate ID (same article) | Merged into VI29 2026-10-14 (D) |
 | VI43 image-PDF scored via page render | A; agent3 verified quotes on rendered PDF |
 | C tiers | VI25 only (`C-stage`) after remediation |
 | Ambiguous cases flagged | VI8, VI13, VI25, VI36, VI40, VI42 |

@@ -86,7 +86,7 @@ Literature **does not by itself prove**: “virions were never observationally g
 
 ## 6. Gaps / next rounds
 
-1. Full-text extract Tier A–C PDFs (`P2_pdf_request.md`).  
+1. Full-text extract Tier A–C PDFs (`P2_pdf_catalogue.md`).  
 2. Pre-1997 purification manuals / DI / HSV L-particles with quotes.  
 3. Non-retrovirus density tables (flavivirus, herpes, influenza) primary papers.  
 4. Named critiques of Trojan hypothesis (adversarial).  

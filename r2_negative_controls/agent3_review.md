@@ -1,5 +1,7 @@
 # Agent 3 review
 
+> **Resolved 2026-10-14:** VI47 was the same article (byte-identical PDF) as VI29. The VI47 row and PDF were removed; VI29 is the kept ID. References to VI47 below are this review's original audit record (D count 17 -> 16, n = 27 unique articles).
+
 **Role:** Independent adversarial reviewer of Isolation-stage negative-control (NC) tier scoring.  
 **Framework:** `control-cultures.md` v0.1 (decision tree §5; M1–M6; allowed inference §4; prefer worse tier when ambiguous).  
 **Sources checked:** `control-cultures-overview.csv`, `control-cultures-justification-notes.md`, extracts under `wrk/isolation_practice/_txt/`, full text where needed, and for **VI43** the image PDF via `read_file` (Materials and methods / Fig. 1 pages).  

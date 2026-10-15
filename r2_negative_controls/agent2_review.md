@@ -90,7 +90,7 @@ Even if TCID50 diluent rows were re-scored as their own experiment, serum/enrich
 
 **NC search:** PBS used only as wash reagent. No mock/uninfected culture NC for propagation, FAT titration, or SDS-PAGE.  
 **Decision:** `nc_any=no` → **D**.  
-**Note:** Same article family as VI47; consistent D is correct.
+**Note:** Duplicate ID of this article merged into VI29 (2026-10-14); D is correct.
 
 ---
 

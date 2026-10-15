@@ -6,16 +6,19 @@ Analogous to ../cro-results/, built from independent-researcher Pass 1 free-text
 
 | File | Analog of | Contents |
 |------|-----------|----------|
-| ir_cpe_detections.csv | cro_cpe_detections.csv | IR1, all 100 images; IR_Dy/Ro/V/D/G/Re plus Pass-2 extras IR_BE/Sy/CS/ND |
+| ir_cpe_detections.csv | cro_cpe_detections.csv | IR1, 99 unique frames (duplicate `CultureB_day4_08` excluded); IR_Dy/Ro/V/D/G/Re plus Pass-2 extras IR_BE/Sy/CS/ND |
 | ir_cpe_detections_cro_overlap.csv | (subset) | IR1, same six columns for the 22 CRO-labeled frames only |
 | cpe_detection_results_ir.json | cpe_detection_results_cro.json | IR1 per-image cpe_detected + cpe_types (CRO six) and cpe_types_extended |
 | cpe_detection_results_ir_cro_overlap.json | (subset) | IR1 overlap-only compact JSON |
 | cpe_detection_results_ir_gk.json | cpe_detection_results_cro_gk.json | IR1 full text (Pass 1), checklist (Pass 2); confluency is null |
-| ir2_cpe_detections.csv | cro_cpe_detections.csv | IR2, all 100 images; IR2_Dy/Ro/V/D/G/Re plus IR2_BE/Sy/CS/ND |
+| ir2_cpe_detections.csv | cro_cpe_detections.csv | IR2, 99 unique frames (duplicate excluded); IR2_Dy/Ro/V/D/G/Re plus IR2_BE/Sy/CS/ND |
 | ir2_cpe_detections_cro_overlap.csv | (subset) | IR2, six columns for the 22 CRO-labeled frames |
 | cpe_detection_results_ir2.json | cpe_detection_results_cro.json | IR2 per-image compact JSON |
 | cpe_detection_results_ir2_cro_overlap.json | (subset) | IR2 overlap-only compact JSON |
 | cpe_detection_results_ir2_gk.json | cpe_detection_results_cro_gk.json | IR2 full text (Pass 1), checklist (Pass 2); confluency is null |
+| ir3v_pass1_text.csv | — | IR3v Pass-1 verbatim text, 99 unique frames (Pass 2 in progress) |
+| ir3v_cpe_detections.csv | ir2_cpe_detections.csv | IR3v clarified Pass-1 coding: IR3v_Dy/Ro/V/D/G/Re/BE/Sy/CS/ND + Vsingle, Proj_mentioned, Proj_coded (blank) |
+| IR3v_pass1_descriptor_comparison.csv / IR3v_pass1_side_by_side.md | — | IR3v Pass 1: shared-lexicon vs clarified incidence by arm; comparison with IR1/IR2/CRO; coding rules |
 | IR1_IR2_pass1_descriptor_comparison.csv / IR1_IR2_pass1_side_by_side.md | — | Pass 1 lexical descriptor incidence, IR1 vs IR2 |
 | IR1_IR2_pass2_checklist_comparison.csv | — | Pass 2 strict incidence + mean graded score per item, rater, arm |
 | IR1_IR2_pass2_item_agreement.csv | — | Pass 2 per-item IR1–IR2 agreement (% and κ; all / per arm) |
@@ -38,10 +41,14 @@ ir = independent researcher (not CRO).
 
 ## Important caveat on cpe_detected
 
-cpe_detected is **true for all 100 images for both IR1 and IR2**. For IR1 this comes from near-saturated **Ro** and **Re** (Pass 1 lexical) and **G** (Pass 2 Partial on all); for IR2 from **V** and **G** (Pass 2 present on all). That mirrors the raw coding, not a claim that every frame shows classic CPE. For arm contrast prefer non-saturated columns (IR1: D, BE, CS; IR2: BE, Sy, ND, Dy, Re) or cpe_types_extended. Do **not** use confluence as a health or stress marker.
+cpe_detected is **true for all 99 analysed frames for both IR1 and IR2**. For IR1 this comes from near-saturated **Ro** and **Re** (Pass 1 lexical) and **G** (Pass 2 Partial on all); for IR2 from **V** and **G** (Pass 2 present on all). That mirrors the raw coding, not a claim that every frame shows classic CPE. For arm contrast prefer non-saturated columns (IR1: D, BE, CS; IR2: BE, Sy, ND, Dy, Re) or cpe_types_extended. Do **not** use confluence as a health or stress marker.
 
 Overlap files *_cro_overlap* restrict to the 22 frames CRO labeled, for side-by-side comparison.
 
 ## Confluence policy
 
 Confluence / surface coverage is **not** an indicator of culture health or stress (confounded by growth stage). IR metrics and summaries must not use confluence—including day-matched A vs B coverage gaps—to judge healthy vs stressed. Morphology descriptors only. The confluency field in the *_gk.json files is intentionally null.
+
+## Excluded frames
+
+`../frames_excluded_from_analysis.csv` lists frames dropped from every processed file here and in `../cro-results/` (all raters: IR1, IR2, IR3v, CRO). Currently one: `CultureB_day4_08` (CRO original path2 408), a byte-identical duplicate of `CultureB_day4_07` (path2 407). Raw rater deliverables are kept unchanged; the scoring/build scripts read the list and skip the frame. Analysis set: 99 unique frames (50 CultureA / 49 CultureB). The frame has no single-frame CRO description, so the 22 CRO-labeled frames are unaffected.

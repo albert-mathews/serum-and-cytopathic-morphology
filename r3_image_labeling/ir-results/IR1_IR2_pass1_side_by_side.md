@@ -1,6 +1,6 @@
 # IR1 vs IR2 — Pass 1 open-ended morphology (lexical descriptor incidence)
 
-**Scope:** Blinded Pass-1 free-text descriptions of the same 100 CultureA/CultureB phase-contrast images.
+**Scope:** Blinded Pass-1 free-text descriptions of the same CultureA/CultureB phase-contrast images (100 rated; 99 unique frames analysed: `CultureB_day4_08`, a byte-identical duplicate of `CultureB_day4_07`, is excluded via `../frames_excluded_from_analysis.csv`).
 **Labels:** IR1 and IR2 only (independent researchers).
 **Method:** Lexical/synonym hits against shared CRO Healthy and CPE descriptor regex sets. Pass 1 was **not** a checklist — incidences are approximate.
 **Arms (analysis only):** CultureA = path1 (10% FBS), CultureB = path2 (2% FBS).
@@ -14,9 +14,9 @@
 
 | | IR1 | IR2 |
 |--|------:|------:|
-| Images scored | 100 | 100 |
-| Shared image IDs (`CultureX_dayY_ZZ`) | 100 | (same scheme) |
-| CultureA / CultureB | 50 / 50 | 50 / 50 |
+| Images scored (unique frames analysed) | 99 | 99 |
+| Shared image IDs (`CultureX_dayY_ZZ`) | 99 | (same scheme) |
+| CultureA / CultureB | 50 / 49 | 50 / 49 |
 
 Image ID schemes match after normalizing IR2 Filename stems (`CultureA_day1_01.tif` → `CultureA_day1_01`). No blinded-mapping remapping required for this Pass-1 collation.
 
@@ -29,7 +29,7 @@ Image ID schemes match after normalizing IR2 Filename stems (`CultureA_day1_01.t
 | Writing style | Long template-like paragraphs; heavy reuse of healthy-shape language (elongated/polygonal/adherent/phase-bright). | Shorter observational notes; more optical-artifact callouts; less checklist-echo phrasing. |
 | Healthy-term density | Very high / near-saturated on several CRO Healthy terms. | Sparse — rarely says healthy/well-spread/adherent. |
 | Classic CPE lexicon (V, G, Dy, Sy, ND) | Essentially **absent** in free text (0 lexical hits). | **Rare but non-zero** vacuolization / granularity; still no cell-death / syncytia / ND. |
-| Main B−A morphology signal | **Detachment / non-adherent** (A 0.58 → B 1.00). | **Refractile** (A 0.26 → B 0.50); Detachment near-floor both arms. |
+| Main B−A morphology signal | **Detachment / non-adherent** (A 0.58 → B 1.00). | **Refractile** (A 0.26 → B 0.49); Detachment near-floor both arms. |
 | Saturation risk | Rounded + Refractile hit **100% both arms** → not discriminative. | Rounded uncommon; Refractile moderate and arm-skewed — less saturated, still template-prone. |
 | Blinding | No virus/CPE/FBS language. | No virus/CPE/FBS language; Notes state no A↔B comparisons. |
 
@@ -39,7 +39,7 @@ Image ID schemes match after normalizing IR2 Filename stems (`CultureA_day1_01.t
 
 **Disagree on the primary B>A discriminator:**
 - IR1: **Detachment** is the clear CPE-set arm contrast (+0.42).
-- IR2: **Detachment** is not discriminative (−0.02); **Refractile** is the largest positive B−A (+0.24).
+- IR2: **Detachment** is not discriminative (−0.02); **Refractile** is the largest positive B−A (+0.23).
 
 **Disagree on saturation:** IR1 saturates Rounded/Refractile at 1.0 both arms; IR2 does not — so IR2’s Refractile B−A is interpretable as a wording-frequency difference, but still not equivalent to CRO classic CPE narrative.
 
@@ -49,16 +49,16 @@ Image ID schemes match after normalizing IR2 Filename stems (`CultureA_day1_01.t
 
 ## Descriptor incidence tables
 
-Incidence = fraction of images (n=50 per arm) with ≥1 lexical match.
+Incidence = fraction of images (n = 50 A / 49 B) with ≥1 lexical match.
 
 ### Aggregate
 
 | Metric | IR1 A | IR1 B | IR1 B−A | IR2 A | IR2 B | IR2 B−A |
 |--------|------:|------:|--------:|------:|------:|--------:|
-| Mean healthy-term hits / image | 4.9 | 4.86 | -0.04 | 0.68 | 0.44 | -0.24 |
-| Mean CPE-term hits / image | 2.58 | 3.0 | 0.42 | 0.5 | 0.6 | 0.1 |
-| Any healthy-term hit | 1.0 | 1.0 | 0.0 | 0.44 | 0.3 | -0.14 |
-| Any CPE-term hit | 1.0 | 1.0 | 0.0 | 0.38 | 0.52 | 0.14 |
+| Mean healthy-term hits / image | 4.9 | 4.86 | -0.04 | 0.68 | 0.45 | -0.23 |
+| Mean CPE-term hits / image | 2.58 | 3.0 | 0.42 | 0.5 | 0.59 | 0.09 |
+| Any healthy-term hit | 1.0 | 1.0 | 0.0 | 0.44 | 0.31 | -0.13 |
+| Any CPE-term hit | 1.0 | 1.0 | 0.0 | 0.38 | 0.51 | 0.13 |
 
 ### CRO Healthy set
 
@@ -83,7 +83,7 @@ Incidence = fraction of images (n=50 per arm) with ≥1 lexical match.
 | CPE_Vacuolation_V | 0.0 | 0.0 | 0.0 | 0.04 | 0.02 | -0.02 |
 | CPE_Detachment_D | 0.58 | 1.0 | 0.42 | 0.04 | 0.02 | -0.02 |
 | CPE_Granularity_G | 0.0 | 0.0 | 0.0 | 0.06 | 0.04 | -0.02 |
-| CPE_Refractile_Re | 1.0 | 1.0 | 0.0 | 0.26 | 0.5 | 0.24 |
+| CPE_Refractile_Re | 1.0 | 1.0 | 0.0 | 0.26 | 0.49 | 0.23 |
 | CPE_Cytoplasmic_strands_CS | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | CPE_Nonspecific_degeneration_ND | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 

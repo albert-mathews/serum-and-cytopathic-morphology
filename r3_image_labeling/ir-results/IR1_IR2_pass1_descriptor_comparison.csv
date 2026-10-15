@@ -13,10 +13,10 @@ CPE,CPE_Syncytia_Sy,0.0,0.0,0.0,0.0,0.0,0.0
 CPE,CPE_Vacuolation_V,0.0,0.0,0.0,0.04,0.02,-0.02
 CPE,CPE_Detachment_D,0.58,1.0,0.42,0.04,0.02,-0.02
 CPE,CPE_Granularity_G,0.0,0.0,0.0,0.06,0.04,-0.02
-CPE,CPE_Refractile_Re,1.0,1.0,0.0,0.26,0.5,0.24
+CPE,CPE_Refractile_Re,1.0,1.0,0.0,0.26,0.49,0.23
 CPE,CPE_Cytoplasmic_strands_CS,0.0,0.0,0.0,0.0,0.0,0.0
 CPE,CPE_Nonspecific_degeneration_ND,0.0,0.0,0.0,0.0,0.0,0.0
-AGG,mean_healthy_hit_count,4.9,4.86,-0.04,0.68,0.44,-0.24
-AGG,mean_cpe_hit_count,2.58,3.0,0.42,0.5,0.6,0.1
-AGG,any_healthy_term,1.0,1.0,0.0,0.44,0.3,-0.14
-AGG,any_cpe_term,1.0,1.0,0.0,0.38,0.52,0.14
+AGG,mean_healthy_hit_count,4.9,4.86,-0.04,0.68,0.45,-0.23
+AGG,mean_cpe_hit_count,2.58,3.0,0.42,0.5,0.59,0.09
+AGG,any_healthy_term,1.0,1.0,0.0,0.44,0.31,-0.13
+AGG,any_cpe_term,1.0,1.0,0.0,0.38,0.51,0.13

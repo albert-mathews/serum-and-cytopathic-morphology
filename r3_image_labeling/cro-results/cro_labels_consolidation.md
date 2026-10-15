@@ -111,5 +111,4 @@ Earlier wrap-ups wrongly said the single-frame coding "no longer claims an A-hea
 | Cytoplasmic extensions | 0/9 | 6/13 |
 | Any healthy term | 8/9 | 9/13 |
 
-Albert's original spreadsheet (single-frame rows only) and the canonical file agree on every healthy cell except four **Bright** marks (path1 406; path2 202, 503, 504) — the same ambiguity already listed above. Mitotic / Bright / Adherent favor Culture A in both files; Cytoplasmic extensions favor Culture B. The side-by-side and figure c0 captions should be revised to report that pattern instead of "too sparse to call a direction."
-
+Albert's original spreadsheet (single-frame rows only) and the canonical file agree on every healthy cell except four **Bright** marks (path1 406; path2 202, 503, 504) â€” the same ambiguity already listed above. Mitotic / Bright / Adherent favor Culture A in both files; Cytoplasmic extensions favor Culture B. The side-by-side and figure c0 captions should be revised to report that pattern instead of "too sparse to call a direction."

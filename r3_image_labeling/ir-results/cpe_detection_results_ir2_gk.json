@@ -3014,44 +3014,6 @@
     "id": 407,
     "source": "ir2_pass1_lexical+pass2_checklist"
   },
-  "EXP_path2_passage4_408.png": {
-    "cpe_detected": true,
-    "cpe_quadrant": null,
-    "cpe_types": [
-      "dying cells",
-      "vacuoles",
-      "granular",
-      "refractile"
-    ],
-    "cpe_types_extended": [
-      "dying cells",
-      "vacuoles",
-      "granular",
-      "refractile",
-      "ballooned/enlarged",
-      "syncytia",
-      "cytoplasmic strands",
-      "nonspecific degeneration"
-    ],
-    "confluency": null,
-    "full_response_text": "Well-formed colonies sit at the left and right margins, with a looser, more diffuse arrangement of individual cells across the center; scattered bright round refractile bodies are present. Coverage is estimated at 30-32%.",
-    "pass2_checklist": {
-      "look_healthy": "No",
-      "nuclei": "Partial",
-      "cytoplasmic_extensions": "Partial",
-      "vacuolation": "Partial",
-      "granularity": "Yes",
-      "ballooned_enlarged": "Partial",
-      "syncytia": "Partial",
-      "cytoplasmic_strands": "Mild",
-      "cell_death": "Yes",
-      "nonspecific_degeneration": "Yes"
-    },
-    "image_id": "CultureB_day4_08",
-    "path": 2,
-    "id": 408,
-    "source": "ir2_pass1_lexical+pass2_checklist"
-  },
   "EXP_path2_passage4_409.png": {
     "cpe_detected": true,
     "cpe_quadrant": null,

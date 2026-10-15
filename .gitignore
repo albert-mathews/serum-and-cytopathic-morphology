@@ -87,3 +87,11 @@ node_modules/
 **/_show.py
 **/_upd_*.py
 
+
+# LaTeX build outputs
+tex/*.aux
+tex/*.log
+tex/*.bbl
+tex/*.blg
+tex/*.out
+tex/*.synctex.gz

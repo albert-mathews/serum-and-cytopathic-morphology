@@ -1448,26 +1448,6 @@
     ],
     "source": "ir2_pass1_lexical+pass2_checklist"
   },
-  "EXP_path2_passage4_408.png": {
-    "cpe_detected": true,
-    "cpe_types": [
-      "dying cells",
-      "vacuoles",
-      "granular",
-      "refractile"
-    ],
-    "cpe_types_extended": [
-      "dying cells",
-      "vacuoles",
-      "granular",
-      "refractile",
-      "ballooned/enlarged",
-      "syncytia",
-      "cytoplasmic strands",
-      "nonspecific degeneration"
-    ],
-    "source": "ir2_pass1_lexical+pass2_checklist"
-  },
   "EXP_path2_passage4_409.png": {
     "cpe_detected": true,
     "cpe_types": [

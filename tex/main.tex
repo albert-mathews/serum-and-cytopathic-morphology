@@ -1,0 +1,29 @@
+% main.tex -- manuscript driver. Contains no prose: every section and large table is its own file.
+% Journal-template-agnostic layout (modelled on the VeroCellCultureImageProcessing paper repo):
+%   preamble.tex          packages + marker macros (\assumed, \prov, \pending, \todoA)
+%   sections/*.tex        frontmatter, abstract, author-summary, introduction, methods, results,
+%                         discussion, backmatter
+%   tables/*.tex          large tables
+% To target a journal: swap the \documentclass / geometry / \bibliographystyle lines below for the journal
+% template (PLOS Biology now: plos2025.bst, caption style, line numbers), keep the \input lines.
+% PLOS wants a single .tex at submission: flatten with `latexpand main.tex > main_flat.tex`.
+% Notes, assumption register, section status: tex/wrk/paper_notes.md. Quote source: tex/DRAFT.md.
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry} % journal layout
+\input{preamble}
+\linenumbers
+\bibliographystyle{plain} % PLOS: plos2025
+
+\begin{document}
+\input{sections/frontmatter}
+\input{sections/abstract}
+\input{sections/author-summary}
+\input{sections/introduction}
+\input{sections/methods}
+\input{sections/results}
+\input{sections/discussion}
+\input{sections/backmatter}
+
+\nocite{clsiM41,atccguide,mathews2025zenodo,mathews2026aibench,bess1997,gluschankof1997,noltethoen2016,thery2018misev}
+\bibliography{references}
+\end{document}

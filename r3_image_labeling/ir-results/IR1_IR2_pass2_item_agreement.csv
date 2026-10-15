@@ -1,31 +1,31 @@
 item,descriptor,scope,n,binary_pct_agree,binary_kappa,level3_pct_exact,level3_linear_weighted_kappa,IR1_binary_pos,IR2_binary_pos
-1,H_Look_Healthy,all,100,79.0,n/a (constant),50.0,n/a (constant),100,79
+1,H_Look_Healthy,all,99,79.8,n/a (constant),50.5,n/a (constant),99,79
 1,H_Look_Healthy,A_path1,50,100.0,n/a (constant),100.0,n/a (constant),50,50
-1,H_Look_Healthy,B_path2,50,58.0,n/a (constant),0.0,n/a (constant),50,29
-2,H_well_defined_nuclei,all,100,100.0,n/a (constant),72.0,n/a (constant),100,100
+1,H_Look_Healthy,B_path2,49,59.2,n/a (constant),0.0,n/a (constant),49,29
+2,H_well_defined_nuclei,all,99,100.0,n/a (constant),72.7,n/a (constant),99,99
 2,H_well_defined_nuclei,A_path1,50,100.0,n/a (constant),100.0,n/a (constant),50,50
-2,H_well_defined_nuclei,B_path2,50,100.0,n/a (constant),44.0,n/a (constant),50,50
-3,H_Cytoplasmic_extensions,all,100,99.0,n/a (constant),61.0,n/a (constant),100,99
+2,H_well_defined_nuclei,B_path2,49,100.0,n/a (constant),44.9,n/a (constant),49,49
+3,H_Cytoplasmic_extensions,all,99,99.0,n/a (constant),61.6,n/a (constant),99,98
 3,H_Cytoplasmic_extensions,A_path1,50,100.0,n/a (constant),64.0,n/a (constant),50,50
-3,H_Cytoplasmic_extensions,B_path2,50,98.0,n/a (constant),58.0,n/a (constant),50,49
-4,CPE_Vacuolation_V,all,100,0.0,n/a (constant),0.0,n/a (constant),0,100
+3,H_Cytoplasmic_extensions,B_path2,49,98.0,n/a (constant),59.2,n/a (constant),49,48
+4,CPE_Vacuolation_V,all,99,0.0,n/a (constant),0.0,n/a (constant),0,99
 4,CPE_Vacuolation_V,A_path1,50,0.0,n/a (constant),0.0,n/a (constant),0,50
-4,CPE_Vacuolation_V,B_path2,50,0.0,n/a (constant),0.0,n/a (constant),0,50
-5,CPE_Granularity_G,all,100,100.0,n/a (constant),52.0,n/a (constant),100,100
+4,CPE_Vacuolation_V,B_path2,49,0.0,n/a (constant),0.0,n/a (constant),0,49
+5,CPE_Granularity_G,all,99,100.0,n/a (constant),52.5,n/a (constant),99,99
 5,CPE_Granularity_G,A_path1,50,100.0,n/a (constant),88.0,n/a (constant),50,50
-5,CPE_Granularity_G,B_path2,50,100.0,n/a (constant),16.0,n/a (constant),50,50
-6,CPE_Ballooned_Enlarged_BE,all,100,70.0,0.446,55.0,0.35,69,39
+5,CPE_Granularity_G,B_path2,49,100.0,n/a (constant),16.3,n/a (constant),49,49
+6,CPE_Ballooned_Enlarged_BE,all,99,69.7,0.442,54.5,0.346,68,38
 6,CPE_Ballooned_Enlarged_BE,A_path1,50,62.0,n/a (constant),62.0,n/a (constant),19,0
-6,CPE_Ballooned_Enlarged_BE,B_path2,50,78.0,n/a (constant),48.0,n/a (constant),50,39
-7,CPE_Syncytia_Sy,all,100,72.0,n/a (constant),72.0,n/a (constant),0,28
+6,CPE_Ballooned_Enlarged_BE,B_path2,49,77.6,n/a (constant),46.9,n/a (constant),49,38
+7,CPE_Syncytia_Sy,all,99,72.7,n/a (constant),72.7,n/a (constant),0,27
 7,CPE_Syncytia_Sy,A_path1,50,100.0,n/a (constant),100.0,n/a (constant),0,0
-7,CPE_Syncytia_Sy,B_path2,50,44.0,n/a (constant),44.0,n/a (constant),0,28
-8,CPE_Cytoplasmic_strands_CS,all,100,55.0,n/a (constant),37.0,n/a (constant),55,100
+7,CPE_Syncytia_Sy,B_path2,49,44.9,n/a (constant),44.9,n/a (constant),0,27
+8,CPE_Cytoplasmic_strands_CS,all,99,54.5,n/a (constant),37.4,n/a (constant),54,99
 8,CPE_Cytoplasmic_strands_CS,A_path1,50,14.0,n/a (constant),14.0,n/a (constant),7,50
-8,CPE_Cytoplasmic_strands_CS,B_path2,50,96.0,n/a (constant),60.0,n/a (constant),48,50
-9,CPE_Cell_death_Dy,all,100,14.0,0.008,14.0,0.005,3,89
+8,CPE_Cytoplasmic_strands_CS,B_path2,49,95.9,n/a (constant),61.2,n/a (constant),47,49
+9,CPE_Cell_death_Dy,all,99,14.1,0.008,14.1,0.005,3,88
 9,CPE_Cell_death_Dy,A_path1,50,28.0,0.035,28.0,0.035,3,39
-9,CPE_Cell_death_Dy,B_path2,50,0.0,n/a (constant),0.0,n/a (constant),0,50
-10,CPE_Nonspecific_degeneration_ND,all,100,50.0,n/a (constant),50.0,n/a (constant),0,50
+9,CPE_Cell_death_Dy,B_path2,49,0.0,n/a (constant),0.0,n/a (constant),0,49
+10,CPE_Nonspecific_degeneration_ND,all,99,50.5,n/a (constant),50.5,n/a (constant),0,49
 10,CPE_Nonspecific_degeneration_ND,A_path1,50,100.0,n/a (constant),100.0,n/a (constant),0,0
-10,CPE_Nonspecific_degeneration_ND,B_path2,50,0.0,n/a (constant),0.0,n/a (constant),0,50
+10,CPE_Nonspecific_degeneration_ND,B_path2,49,0.0,n/a (constant),0.0,n/a (constant),0,49

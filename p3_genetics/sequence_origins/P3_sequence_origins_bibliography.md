@@ -22,7 +22,7 @@
    - Use: ADE-O1 culture_cpe: culture±CPE path coding
 
 4. **ADE-O2** — Gingeras et al. 1982. Nucleotide sequences from the adenovirus-2 genome. J Biol Chem.
-   - PMID: 6334081 · DOI: 10.1016/S0021-9258(18)33473-2
+   - PMID: 7142161 (corrected 2026-10-14; 6334081 is a different paper) · DOI: 10.1016/S0021-9258(18)33473-2
    - Local: `ADE-O2_gingeras_1982_jbc.pdf`
    - Use: ADE-O2 culture_cpe: culture±CPE path coding
 
@@ -802,3 +802,30 @@
    - PMID: 2161319 · DOI: 10.1007/978-3-642-74980-3_6 · Acc: X17403
    - Local: `CMV-O1_chee_1990_ctmi.pdf`
    - Use: CMV-O1 annotation/deposit chapter; production via Fleckenstein cosmids (21N close)
+
+## Stock-origin hop and provenance sources (used; added 2026-10-14)
+
+Held in `refs/sequence_origins/` and cited in the working files (`P3_stock_origin_hops_2026-09-21.md`, `P3_step1_path_type_map_2026-09-21.md`, family notes) but not yet listed above. Full citation lines to be completed when the bibliography is locked for the paper.
+
+- `ADE-O1_roberts_ad2_consensus_1986.txt`
+- `ADE-P_rowe_1953_psebm.pdf`
+- `BK-P_gardner_1971_lancet.pdf`
+- `CHIK-P_ross_1956_jhyg.pdf`
+- `CMV-O1_oram_1982_jgv.pdf`
+- `CMV-O1_rowe_1956_psebm.pdf`
+- `CMV-O1_spector_1982_jvi.pdf`
+- `COV_secondary_drosten_identification_review.pdf`
+- `EBV-P_miller_lipman_1973_pnas.pdf`
+- `FLU-P_winter_subgenomic_1981_nar.pdf`
+- `HAV-P_provost_1979_psebm.pdf`
+- `HBV-P_maupas_1976_lancet.pdf`
+- `HPIV3-P_chanock_1958_nejm.pdf`
+- `HSV-P_brown_strain17_1973_jgv.pdf`
+- `LASSA-O1_auperin_1986_virology.pdf`
+- `LASSA-P_buckley_casals_1970_ajtmh.pdf`
+- `LASSA-P_clegg_oram_1985_virology.pdf`
+- `POL-P_enders_1949_science.pdf`
+- `RAB-P_kissling_1958_psebm.pdf`
+- `RSV-P_chanock_1957_ajhyg.pdf`
+- `SV40-P_sweet_hilleman_1960_psebm.pdf`
+- `VZV-P_weller_1953_psebm.pdf`

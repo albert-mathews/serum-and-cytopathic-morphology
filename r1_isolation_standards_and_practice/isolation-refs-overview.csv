@@ -26,7 +26,6 @@ VI43,2006,SARS-CoV,Vero E6,DMEM,5,2,100,0.1,-,https://mhlw-grants.niph.go.jp/sys
 VI44,2003,enteroviruses ,HEF HEp-2 Vero GMK,MEM,10,2,-,-,-,https://pubmed.ncbi.nlm.nih.gov/12839716/
 VI45,2010,rabies,HEK-293 neuro-2a BHK-21,IMDM,10,2,-,-,-,https://www.ijidonline.com/article/S1201-9712(10)02471-9/fulltext
 VI46,1980,rabies,BHK-21,EMEM,10,3,200,0.4,-,https://europepmc.org/article/med/6999024
-VI47,2014,rabies,BSR,DMEM,10,10,-,-,-,https://pmc.ncbi.nlm.nih.gov/articles/PMC4255371/
 
 *some studies use many cell types. in these cases the primary cell type used for isolation cultures is listed.
 + hernorrhagic fever with renal syndrome

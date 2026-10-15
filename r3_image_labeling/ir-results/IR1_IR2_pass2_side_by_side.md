@@ -1,11 +1,12 @@
 # IR1 vs IR2 — Pass 2 structured checklist (10 criteria)
 
-**Scope:** Pass-2 checklist marks on the same 100 blinded CultureA/CultureB phase-contrast images.
+**Scope:** Pass-2 checklist marks on the same 99 unique blinded CultureA/CultureB phase-contrast frames (100 rated; one duplicate excluded, see below).
 **Labels:** IR1 and IR2 Pass-2 checklists (independent researchers; both blind to culture conditions). CRO healthy-type descriptors are added alongside the three healthy items (see note below).
 **Instrument:** identical 10 criteria (IR1 Pass-2 wording). IR1 used Yes / Partial / Mild-partial / Minimal / No-minimal / No / Not apparent; IR2 used Yes / Partial / Mild / No (IR2 definitions: Partial = subset of field/cells; Mild = present but subtle).
 **Scorer:** the IR1 Pass-2 scorer, unchanged (graded score: Yes 1.0; Mild 0.66; Partial 0.5; Minimal 0.25; No/minimal 0.15; No/Not apparent 0; healthy items Yes 1.0 / Partial-Mild 0.5 / else 0).
 **Strict incidence:** Yes / Partial / Mild / Mild-partial = present (same rule as `ir_cpe_detections.csv`).
-**Arms (analysis only):** CultureA = path1 (10% FBS), CultureB = path2 (2% FBS). n = 50 per arm.
+**Arms (analysis only):** CultureA = path1 (10% FBS), CultureB = path2 (2% FBS). n = 50 (A) / 49 (B).
+**Excluded frame:** `CultureB_day4_08` is a byte-identical duplicate of `CultureB_day4_07` (CRO originals path2 408 = 407); its rows are dropped for every rater by the documented list `../frames_excluded_from_analysis.csv` (raw rater files unchanged). Analysis set: 99 unique frames (50 A / 49 B).
 **Rule:** Confluence/coverage is not used as healthy vs stressed.
 **CRO healthy-type coding:** from the canonical per-frame CRO labels (`../cro-results/cro_cpe_detections.csv`, built from the CRO image-description report by `../cro-results/build_cro_labels.py`). Conservative single-frame rule: a frame's labels come only from the CRO description of that individual frame, which exists for 22 frames (9 Culture A, 13 Culture B). The CRO's 10-frame group/range descriptions (e.g. path1 frames 101–110) have lower specificity; they are kept separately in `../cro-results/cro_group_level_notes.csv` and are not applied to member frames or used in any per-frame number here. The coding is **binary** (named / not named in that frame's description), not graded, so CRO "mean score" equals incidence. The CRO frame notes are short and were not written as checklists, so "not named" is not the same as "absent". The CRO terms Look healthy, Well-defined nuclei and Cytoplasmic extensions are the same three healthy items used on the checklist.
 
@@ -17,11 +18,11 @@
 
 | | IR1 | IR2 | CRO (healthy-type) |
 |--|--:|--:|--:|
-| Images with all 10 criteria marked | 100 | 100 | — (3 healthy items only) |
-| Images with healthy-type coding | 100 | 100 | 22 (own single-frame description) |
-| CultureA / CultureB | 50 / 50 | 50 / 50 | 9 / 13 |
+| Images with all 10 criteria marked | 99 | 99 | — (3 healthy items only) |
+| Images with healthy-type coding | 99 | 99 | 22 (own single-frame description) |
+| CultureA / CultureB | 50 / 49 | 50 / 49 | 9 / 13 |
 | Blank cells | 0 | 0 | 0 |
-| Distinct 10-item mark patterns (of 100 images) | 14 | 40 | — |
+| Distinct 10-item mark patterns (of 99 images) | 14 | 40 | — |
 
 Image IDs match 1:1 (`CultureX_dayY_ZZ`; CRO `path1/path2` + id map to CultureA/CultureB, day, field via `../images_rater_blinded_mapping.csv`).
 
@@ -31,13 +32,13 @@ Image IDs match 1:1 (`CultureX_dayY_ZZ`; CRO `path1/path2` + id map to CultureA/
 
 | # | Item | IR1 A | IR1 B | IR1 B−A | IR2 A | IR2 B | IR2 B−A | CRO A | CRO B | CRO B−A |
 |---|------|------:|------:|-------:|------:|------:|-------:|------:|------:|-------:|
-| 1 | H_Look_Healthy | 1.00 | 1.00 | +0.00 | 1.00 | 0.58 | −0.42 | 0.00 | 0.00 | +0.00 |
+| 1 | H_Look_Healthy | 1.00 | 1.00 | +0.00 | 1.00 | 0.59 | −0.41 | 0.00 | 0.00 | +0.00 |
 | 2 | H_well_defined_nuclei | 1.00 | 1.00 | +0.00 | 1.00 | 1.00 | +0.00 | 0.00 | 0.00 | +0.00 |
 | 3 | H_Cytoplasmic_extensions | 1.00 | 1.00 | +0.00 | 1.00 | 0.98 | −0.02 | 0.00 | 0.46 | +0.46 |
 | 4 | CPE_Vacuolation_V | 0.00 | 0.00 | +0.00 | 1.00 | 1.00 | +0.00 | — | — | — |
 | 5 | CPE_Granularity_G | 1.00 | 1.00 | +0.00 | 1.00 | 1.00 | +0.00 | — | — | — |
 | 6 | CPE_Ballooned_Enlarged_BE | 0.38 | 1.00 | +0.62 | 0.00 | 0.78 | +0.78 | — | — | — |
-| 7 | CPE_Syncytia_Sy | 0.00 | 0.00 | +0.00 | 0.00 | 0.56 | +0.56 | — | — | — |
+| 7 | CPE_Syncytia_Sy | 0.00 | 0.00 | +0.00 | 0.00 | 0.55 | +0.55 | — | — | — |
 | 8 | CPE_Cytoplasmic_strands_CS | 0.14 | 0.96 | +0.82 | 1.00 | 1.00 | +0.00 | — | — | — |
 | 9 | CPE_Cell_death_Dy | 0.06 | 0.00 | −0.06 | 0.78 | 1.00 | +0.22 | — | — | — |
 | 10 | CPE_Nonspecific_degeneration_ND | 0.00 | 0.00 | +0.00 | 0.00 | 1.00 | +1.00 | — | — | — |
@@ -52,14 +53,14 @@ CRO = binary: named in the frame's own single-image CRO description (22 frames: 
 |---|------|------:|------:|-------:|------:|------:|-------:|------:|------:|-------:|
 | 1 | H_Look_Healthy | 1.00 | 1.00 | +0.00 | 1.00 | 0.29 | −0.71 | 0.00 | 0.00 | +0.00 |
 | 2 | H_well_defined_nuclei | 1.00 | 1.00 | +0.00 | 1.00 | 0.72 | −0.28 | 0.00 | 0.00 | +0.00 |
-| 3 | H_Cytoplasmic_extensions | 1.00 | 1.00 | +0.00 | 0.82 | 0.78 | −0.04 | 0.00 | 0.46 | +0.46 |
+| 3 | H_Cytoplasmic_extensions | 1.00 | 1.00 | +0.00 | 0.82 | 0.79 | −0.03 | 0.00 | 0.46 | +0.46 |
 | 4 | CPE_Vacuolation_V | 0.00 | 0.00 | +0.00 | 0.63 | 0.63 | −0.01 | — | — | — |
 | 5 | CPE_Granularity_G | 0.52 | 0.50 | −0.02 | 0.63 | 0.92 | +0.29 | — | — | — |
 | 6 | CPE_Ballooned_Enlarged_BE | 0.19 | 0.50 | +0.31 | 0.00 | 0.57 | +0.57 | — | — | — |
-| 7 | CPE_Syncytia_Sy | 0.00 | 0.00 | +0.00 | 0.00 | 0.44 | +0.44 | — | — | — |
-| 8 | CPE_Cytoplasmic_strands_CS | 0.07 | 0.66 | +0.59 | 0.64 | 0.64 | +0.00 | — | — | — |
+| 7 | CPE_Syncytia_Sy | 0.00 | 0.00 | +0.00 | 0.00 | 0.43 | +0.43 | — | — | — |
+| 8 | CPE_Cytoplasmic_strands_CS | 0.07 | 0.65 | +0.58 | 0.64 | 0.64 | +0.00 | — | — | — |
 | 9 | CPE_Cell_death_Dy | 0.06 | 0.00 | −0.06 | 0.51 | 0.99 | +0.49 | — | — | — |
-| 10 | CPE_Nonspecific_degeneration_ND | 0.03 | 0.00 | −0.03 | 0.00 | 0.73 | +0.73 | — | — | — |
+| 10 | CPE_Nonspecific_degeneration_ND | 0.03 | 0.00 | −0.03 | 0.00 | 0.72 | +0.72 | — | — | — |
 
 CRO values are binary (share of frames with the descriptor named), so they equal the CRO incidence above; they are not graded marks.
 
@@ -67,9 +68,9 @@ CRO values are binary (share of frames with the descriptor named), so they equal
 
 | Metric | IR1 A | IR1 B | IR2 A | IR2 B | CRO A | CRO B |
 |--------|------:|------:|------:|------:|------:|------:|
-| Mean CPE-item score sum (max 7) | 0.87 | 1.66 | 2.41 | 4.91 | — | — |
-| Mean CPE items present (score > 0, max 7) | 1.92 | 2.96 | 3.78 | 6.34 | — | — |
-| Mean healthy score sum (max 3) | 3.00 | 3.00 | 2.82 | 1.79 | 0.00 | 0.46 |
+| Mean CPE-item score sum (max 7) | 0.87 | 1.65 | 2.41 | 4.91 | — | — |
+| Mean CPE items present (score > 0, max 7) | 1.92 | 2.96 | 3.78 | 6.33 | — | — |
+| Mean healthy score sum (max 3) | 3.00 | 3.00 | 2.82 | 1.81 | 0.00 | 0.46 |
 
 CRO healthy sum = number of the three healthy items named in the frame's own description (binary; 22 frames).
 
@@ -80,7 +81,7 @@ CRO healthy sum = number of the three healthy items named in the frame's own des
 | 1 | 1.60 | 1.75 | 2.56 | 3.48 |
 | 2 | 0.65 | 1.70 | 2.36 | 4.22 |
 | 3 | 0.55 | 1.55 | 2.36 | 4.81 |
-| 4 | 0.70 | 1.75 | 2.15 | 5.71 |
+| 4 | 0.70 | 1.72 | 2.15 | 5.77 |
 | 5 | 0.85 | 1.55 | 2.60 | 6.34 |
 
 IR2 marks a monotonic day-1→day-5 rise in Culture B (healthy-score sum B: 2.25 → 0.95) with Culture A flat; IR1 is flat in both arms with a constant B>A offset.
@@ -99,24 +100,24 @@ CRO values come from 1–4 individually described frames per culture-day (n in b
 
 ---
 
-## Per-item inter-rater agreement (IR1 vs IR2, n = 100)
+## Per-item inter-rater agreement (IR1 vs IR2, n = 99)
 
 Binary = strict present/absent. 3-level = Yes / Partial-or-Mild / absent. κ is reported only when both raters vary on the item; otherwise "n/a (constant)" because one rater gave the same mark to every image and κ is uninformative.
 
 | # | Item | IR1 present | IR2 present | Binary % agree | Binary κ | 3-level % exact | 3-level linear-weighted κ |
 |---|------|-----:|-----:|-----:|-----:|-----:|-----:|
-| 1 | H_Look_Healthy | 100 | 79 | 79 | n/a (constant) | 50 | n/a (constant) |
-| 2 | H_well_defined_nuclei | 100 | 100 | 100 | n/a (constant) | 72 | n/a (constant) |
-| 3 | H_Cytoplasmic_extensions | 100 | 99 | 99 | n/a (constant) | 61 | n/a (constant) |
-| 4 | CPE_Vacuolation_V | 0 | 100 | 0 | n/a (constant) | 0 | n/a (constant) |
-| 5 | CPE_Granularity_G | 100 | 100 | 100 | n/a (constant) | 52 | n/a (constant) |
-| 6 | CPE_Ballooned_Enlarged_BE | 69 | 39 | 70 | 0.45 | 55 | 0.35 |
-| 7 | CPE_Syncytia_Sy | 0 | 28 | 72 | n/a (constant) | 72 | n/a (constant) |
-| 8 | CPE_Cytoplasmic_strands_CS | 55 | 100 | 55 | n/a (constant) | 37 | n/a (constant) |
-| 9 | CPE_Cell_death_Dy | 3 | 89 | 14 | 0.01 | 14 | 0.01 |
-| 10 | CPE_Nonspecific_degeneration_ND | 0 | 50 | 50 | n/a (constant) | 50 | n/a (constant) |
+| 1 | H_Look_Healthy | 99 | 79 | 80 | n/a (constant) | 51 | n/a (constant) |
+| 2 | H_well_defined_nuclei | 99 | 99 | 100 | n/a (constant) | 73 | n/a (constant) |
+| 3 | H_Cytoplasmic_extensions | 99 | 98 | 99 | n/a (constant) | 62 | n/a (constant) |
+| 4 | CPE_Vacuolation_V | 0 | 99 | 0 | n/a (constant) | 0 | n/a (constant) |
+| 5 | CPE_Granularity_G | 99 | 99 | 100 | n/a (constant) | 53 | n/a (constant) |
+| 6 | CPE_Ballooned_Enlarged_BE | 68 | 38 | 70 | 0.44 | 55 | 0.35 |
+| 7 | CPE_Syncytia_Sy | 0 | 27 | 73 | n/a (constant) | 73 | n/a (constant) |
+| 8 | CPE_Cytoplasmic_strands_CS | 54 | 99 | 55 | n/a (constant) | 37 | n/a (constant) |
+| 9 | CPE_Cell_death_Dy | 3 | 88 | 14 | 0.01 | 14 | 0.01 |
+| 10 | CPE_Nonspecific_degeneration_ND | 0 | 49 | 51 | n/a (constant) | 51 | n/a (constant) |
 
-Image-level Spearman correlation of CPE-item score sum (IR1 vs IR2): 0.62 across all 100 images, driven by the arm split; within arm it is 0.18 (Culture A) and −0.23 (Culture B), i.e. no frame-level agreement inside an arm.
+Image-level Spearman correlation of CPE-item score sum (IR1 vs IR2): 0.62 across all 99 frames, driven by the arm split; within arm it is 0.18 (Culture A) and −0.25 (Culture B), i.e. no frame-level agreement inside an arm.
 
 High raw % agreement on items 2, 3, 5 reflects both raters marking the feature present on (nearly) every image, not discriminating agreement.
 
@@ -124,7 +125,7 @@ High raw % agreement on items 2, 3, 5 reflects both raters marking the feature p
 
 ## Merged CRO-comparable coding (Pass-1 lexical Ro/D/Re + Pass-2 Dy/V/G; extras from Pass 2)
 
-Strict incidence, n = 50 per path. Source files: `ir_cpe_detections.csv` (IR1), `ir2_cpe_detections.csv` (IR2).
+Strict incidence, n = 50 (path1) / 49 (path2). Source files: `ir_cpe_detections.csv` (IR1), `ir2_cpe_detections.csv` (IR2).
 
 | Column | Source | IR1 path1 | IR1 path2 | IR2 path1 | IR2 path2 |
 |--------|--------|------:|------:|------:|------:|
@@ -133,9 +134,9 @@ Strict incidence, n = 50 per path. Source files: `ir_cpe_detections.csv` (IR1), 
 | V | P2 | 0.00 | 0.00 | 1.00 | 1.00 |
 | D | P1 | 0.58 | 1.00 | 0.04 | 0.02 |
 | G | P2 | 1.00 | 1.00 | 1.00 | 1.00 |
-| Re | P1 | 1.00 | 1.00 | 0.26 | 0.50 |
+| Re | P1 | 1.00 | 1.00 | 0.26 | 0.49 |
 | BE | P2 | 0.38 | 1.00 | 0.00 | 0.78 |
-| Sy | P2 | 0.00 | 0.00 | 0.00 | 0.56 |
+| Sy | P2 | 0.00 | 0.00 | 0.00 | 0.55 |
 | CS | P2 | 0.14 | 0.96 | 1.00 | 1.00 |
 | ND | P2 | 0.00 | 0.00 | 0.00 | 1.00 |
 | cpe_detected (any of CRO six) | — | 1.00 | 1.00 | 1.00 | 1.00 |
@@ -209,17 +210,17 @@ For reference only: terms named in the CRO's ten 10-frame group descriptions (`.
 ## Compare / contrast
 
 **Agree:**
-- **Ballooned/enlarged** is higher in Culture B for both raters (IR1 +0.62, IR2 +0.78 strict incidence). It is the only item with a computable, moderate κ (0.45 binary).
-- **Granularity** is marked present on all 100 images by both raters (saturated); IR2 grades it stronger in B (mean 0.63 → 0.92), IR1 does not.
+- **Ballooned/enlarged** is higher in Culture B for both raters (IR1 +0.62, IR2 +0.78 strict incidence). It is the only item with a computable, moderate κ (0.44 binary).
+- **Granularity** is marked present on all 99 frames by both raters (saturated); IR2 grades it stronger in B (mean 0.63 → 0.92), IR1 does not.
 - **Nuclei** and **cytoplasmic extensions** are marked present on (nearly) all images by both IRs.
 
 **Disagree:**
-- **Overall level of CPE-type marks:** IR2 marks far more CPE-type features in both arms (mean CPE score sum A 2.41 / B 4.91 vs IR1 0.87 / 1.66).
-- **Healthy overall:** IR1 Yes on all 100; IR2 Yes on all A, but Partial 29 / No 21 in B.
-- **Cell death, nonspecific degeneration, syncytia:** essentially absent in IR1; in IR2 cell death is marked on 39/50 A and 50/50 B frames, degeneration on 0/50 A vs 50/50 B, syncytia 0/50 A vs 28/50 B.
+- **Overall level of CPE-type marks:** IR2 marks far more CPE-type features in both arms (mean CPE score sum A 2.41 / B 4.91 vs IR1 0.87 / 1.65).
+- **Healthy overall:** IR1 Yes on all 99; IR2 Yes on all A, but Partial 29 / No 20 in B.
+- **Cell death, nonspecific degeneration, syncytia:** essentially absent in IR1; in IR2 cell death is marked on 39/50 A and 49/49 B frames, degeneration on 0/50 A vs 49/49 B, syncytia 0/50 A vs 27/49 B.
 - **Cytoplasmic strands:** IR1's largest B−A item (+0.82); IR2 marks it Mild/Partial on every image (no arm difference).
-- **Vacuolation:** IR1 absent on all 100; IR2 present (mostly Mild) on all 100.
-- **Healthy-type direction:** IR2's healthy-type marks are lower in B (sum 2.82 / 1.79), carried mainly by "healthy overall"; IR1 marks all three healthy items on every frame. The CRO's single-frame descriptions name cytoplasmic extensions on 6/13 B frames and 0/9 A frames and never name "looks healthy" or well-defined nuclei for an individual frame, so they do not indicate a healthy-type direction either way.
+- **Vacuolation:** IR1 absent on all 99; IR2 present on all 99 (mostly Mild in A, Partial/Yes in B).
+- **Healthy-type direction:** IR2's healthy-type marks are lower in B (sum 2.82 / 1.81), carried mainly by "healthy overall"; IR1 marks all three healthy items on every frame. The CRO's single-frame descriptions name cytoplasmic extensions on 6/13 B frames and 0/9 A frames and never name "looks healthy" or well-defined nuclei for an individual frame, so they do not indicate a healthy-type direction either way.
 
 **Direction:** Both raters mark more CPE-type features in Culture B (2% FBS) than Culture A (10% FBS). The size of the difference and the items carrying it differ: IR1 = ballooned + strands; IR2 = degeneration, ballooned, syncytia, cell death, granularity grade, and lower healthy-overall. On healthy-type descriptors, IR2 is lower in B (healthy overall) and IR1 shows no difference; the CRO's single-frame descriptions are too sparse on healthy-type terms to compare (its group descriptions are reported separately and not used per frame). On the 22 CRO frames, CRO CPE-type terms are named on 1/9 Culture A and 10/13 Culture B frames.
 
@@ -227,15 +228,15 @@ For reference only: terms named in the CRO's ten 10-frame group descriptions (`.
 
 ## Within-rater Pass 1 → Pass 2 shift (IR2)
 
-IR2's Pass-1 free text had zero lexical hits for cell death, ballooning, syncytia, strands, and nonspecific degeneration in either arm, and a small Pass-1 CPE-term difference (mean hits A 0.50 / B 0.60). On the Pass-2 checklist the same rater marks these features frequently, with a large B>A gap. IR1 showed the same type of shift on a smaller scale (Pass 1 had no ballooning/strands; Pass 2 marked both, B>A). The checklist elicits features that open text did not mention; this is a property of the instrument as much as of the images and should be reported alongside any Pass-2 contrast.
+IR2's Pass-1 free text had zero lexical hits for cell death, ballooning, syncytia, strands, and nonspecific degeneration in either arm, and a small Pass-1 CPE-term difference (mean hits A 0.50 / B 0.59). On the Pass-2 checklist the same rater marks these features frequently, with a large B>A gap. IR1 showed the same type of shift on a smaller scale (Pass 1 had no ballooning/strands; Pass 2 marked both, B>A). The checklist elicits features that open text did not mention; this is a property of the instrument as much as of the images and should be reported alongside any Pass-2 contrast.
 
 ---
 
 ## Quality caveats
 
-1. **Saturation:** IR2 items 4 (V), 5 (G), 8 (CS) are present on 100/100; IR2 item 2 (nuclei) 100/100. IR1 items 1–3 and 5 are present on 100/100 and item 4/7/10 absent on 100/100. κ is uninformative on all of these.
-2. **Templating:** IR1 used 14 distinct 10-item patterns across 100 images (2–3 per culture-day block after day 1). IR2 used 40 (3–7 per culture-day block) — less templated, but day blocks still share patterns.
-3. **Magnification:** IR2 recorded a scale bar per frame (400 µm on odd-numbered fields, 200 µm on even). IR2 granularity is graded higher on the 200 µm frames (Yes 28 vs 20; Mild 2 vs 19); other items are similar across the two scales.
+1. **Saturation:** IR2 items 4 (V), 5 (G), 8 (CS) are present on 99/99; IR2 item 2 (nuclei) 99/99. IR1 items 1–3 and 5 are present on 99/99 and item 4/7/10 absent on 99/99. κ is uninformative on all of these.
+2. **Templating:** IR1 used 14 distinct 10-item patterns across 99 frames (2–3 per culture-day block after day 1). IR2 used 40 (3–7 per culture-day block) — less templated, but day blocks still share patterns.
+3. **Magnification:** IR2 recorded a scale bar per frame (400 µm on odd-numbered fields, 200 µm on even). IR2 granularity is graded higher on the 200 µm frames (Yes 27 vs 20; Mild 2 vs 19). IR2 recorded the excluded duplicate `CultureB_day4_08` as 200 µm although the file shows a 400 µm bar (it is a copy of the odd-numbered field 07); other items are similar across the two scales.
 4. **Scale vocabularies differ** (IR1 used Minimal / No-minimal / Not apparent; IR2 did not). Strict coding treats Minimal as absent; IR2 has no Minimal marks, so strict and score>0 incidence are identical for IR2.
 5. Culture A/B and day are visible in the image IDs for both raters, so within-culture time trends and A↔B contrasts are possible even though conditions were not disclosed.
 6. Pass-2 checklist items describe morphology only; "CPE" labels in column names follow this project's CRO descriptor grouping and do not imply a cause.
@@ -246,4 +247,4 @@ IR2's Pass-1 free text had zero lexical hits for cell death, ballooning, syncyti
 
 ## Bottom line for paper drafting
 
-On the identical 10-item checklist, two blind independent researchers both mark more CPE-type morphology in Culture B (2% FBS) than Culture A (10% FBS), and both mark ballooned/enlarged cells predominantly in B (the one item with moderate agreement, κ = 0.45). Beyond that, item-level agreement is low: IR2 marks cell death, degeneration and syncytia heavily in B and reduces "healthy overall" in B, whereas IR1 marks the same images as healthy throughout and places its B excess on cytoplasmic strands. Several items are saturated for one or both raters. Report the shared direction, the disagreement on which features carry it, and the Pass-1→Pass-2 elicitation shift together. On its 22 individually described frames the CRO names CPE-type terms mainly in Culture B (10/13 vs 1/9 frames); its single-frame descriptions rarely name healthy-type terms, so they do not settle the healthy-type comparison, while IR2 marks fewer healthy-type features in B and IR1 marks them throughout.
+On the identical 10-item checklist, two blind independent researchers both mark more CPE-type morphology in Culture B (2% FBS) than Culture A (10% FBS), and both mark ballooned/enlarged cells predominantly in B (the one item with moderate agreement, κ = 0.44). Beyond that, item-level agreement is low: IR2 marks cell death, degeneration and syncytia heavily in B and reduces "healthy overall" in B, whereas IR1 marks the same images as healthy throughout and places its B excess on cytoplasmic strands. Several items are saturated for one or both raters. Report the shared direction, the disagreement on which features carry it, and the Pass-1→Pass-2 elicitation shift together. On its 22 individually described frames the CRO names CPE-type terms mainly in Culture B (10/13 vs 1/9 frames); its single-frame descriptions rarely name healthy-type terms, so they do not settle the healthy-type comparison, while IR2 marks fewer healthy-type features in B and IR1 marks them throughout.

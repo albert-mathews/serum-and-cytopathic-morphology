@@ -1,0 +1,2 @@
+blinded_id,culture,day,field_id,original_filename,duplicate_of,reason
+CultureB_day4_08,CultureB,4,08,EXP_path2_passage4_408.tif,CultureB_day4_07 (EXP_path2_passage4_407.tif),byte-identical duplicate of path2 407 in the CRO originals (same MD5); kept in the image set and in raw rater files; excluded from all per-frame analysis
