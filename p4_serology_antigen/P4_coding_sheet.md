@@ -1,7 +1,10 @@
 ﻿# P4 coding sheet - antigen / immunogen provenance
 
-**Frozen:** 2026-10-15. Changes require a logged amendment in the Amendment log below;
-do not silently add, rename or redefine codes once rows are being collected.
+**Frozen:** 2026-10-15, amended 2026-10-19 (amendment 2, applied; all rows re-scored).
+Changes require a logged amendment below. Amending is allowed and expected when a column
+is found to be wrong or missing; what is not allowed is changing codes row-by-row as the
+corpus grows. An amendment must be logged **and** every existing row re-scored under the
+new version, so that all rows in the file were coded under the same version.
 
 Operationalizes the seven-field provenance stack in `P4_prediction.md` into a fixed
 extraction form. One row per assay product or per assay-as-reported-in-a-paper.
@@ -42,18 +45,21 @@ its id and is marked in `status`.
 | 6 | `agent_label` | free text | organism label as the source names it |
 | 7 | `assay_format` | `elisa`, `ifa`, `western`, `lateral_flow`, `neutralization`, `complement_fixation`, `hai`, `other`, `unclear` | |
 | 8 | `analyte_claimed` | `antibody_titer`, `antigen_capture`, `neutralizing_activity`, `western_band`, `other`, `unclear` | field 1 of the stack |
-| 9 | `immunogen_or_reference_source` | `culture_isolate_lysate`, `purified_culture_particles`, `inactivated_culture_virus`, `recombinant_from_culture_ref`, `recombinant_source_unclear`, `synthetic_peptide`, `clinical_specimen`, `not_stated`, `unclear` | field 2; `recombinant_from_culture_ref` is deliberately not scored as independence |
-| 10 | `isolate_justification` | `cpe`, `plaque`, `tcid50`, `pcr_only`, `serology_only`, `unspecified`, `not_applicable` | field 3: how the Isolate was historically justified |
-| 11 | `matched_mock_run` | `yes`, `no`, `unclear`, `not_stated` | field 4; `not_stated` is the expected default for inserts |
-| 12 | `mock_reactivity_reported` | `reactive`, `nonreactive`, `not_reported`, `not_applicable` | only meaningful when 11 is `yes` |
-| 13 | `serum_or_maintenance_language` | `dual_serum_shift`, `serum_pct_stated`, `serum_free_claimed`, `serum_mentioned_no_detail`, `not_stated` | field 5; link to R1 where `dual_serum_shift` |
-| 14 | `particle_separation_claim` | `density_gradient`, `filtration_or_pellet_only`, `ev_markers_assessed`, `purity_claimed_no_method`, `not_applicable`, `unclear` | field 6; apply P2 overlap codes when "purified virus" is claimed |
-| 15 | `sequence_path` | `culture_cpe`, `culture_no_cpe`, `clinical_direct`, `unclear`, `not_applicable` | field 7; same vocabulary as P3 `risk_path` |
-| 16 | `accession_or_strain` | free text | only as printed in the source |
-| 17 | `inheritance_score` | `inherits`, `partial`, `independent`, `undetermined` | summary judgement, derived from 9-15 |
-| 18 | `evidence_quote` | free text, <= 25 words | verbatim from the source, or empty |
-| 19 | `coder_note` | free text | reasoning, ambiguities |
-| 20 | `status` | `active`, `superseded`, `excluded` | |
+| 9 | `disclosure_level` | `substrate_and_strain_named`, `substrate_named_only`, `format_only`, `none_disclosed` | **amendment 2.** How much provenance the document discloses *at all*, independent of what that provenance is. A kit that never says what is on the plate cannot be assessed for inheritance in either direction |
+| 10 | `immunogen_source` | `culture_isolate_lysate`, `purified_culture_particles`, `inactivated_culture_virus`, `recombinant_from_culture_ref`, `recombinant_source_unclear`, `synthetic_peptide`, `clinical_specimen`, `not_stated`, `unclear`, `not_applicable` | **amendment 2.** What raised the antibody / immunised the host. `not_applicable` for assays that detect the patient's own antibodies |
+| 11 | `reference_antigen_source` | same value set as 10 | **amendment 2.** What is physically on the plate, slide, strip or membrane. Can differ from 10 within one product |
+| 12 | `upstream_source_pointer` | `repository_accession_given`, `strain_designation_only`, `passage_history_given`, `none`, `not_applicable` | **amendment 2.** Naming an ATCC/BEI deposit or a strain does not establish independence; it points at a second provenance question one hop upstream. Record whether the document gives a traceable pointer, and resolve it in a separate upstream row rather than inside this one |
+| 13 | `isolate_justification` | `cpe`, `plaque`, `tcid50`, `pcr_only`, `serology_only`, `unspecified`, `not_applicable` | field 3: how the Isolate was historically justified |
+| 14 | `matched_mock_run` | `yes`, `no`, `unclear`, `not_stated` | field 4. `no` means the document addresses uninfected material but does not run it as a matched antigen; `not_stated` means it is never mentioned |
+| 15 | `mock_reactivity_reported` | `reactive`, `nonreactive`, `not_reported`, `not_applicable` | only meaningful when 14 is `yes` |
+| 16 | `serum_or_maintenance_language` | `dual_serum_shift`, `serum_pct_stated`, `serum_free_claimed`, `serum_mentioned_no_detail`, `not_stated` | field 5; link to R1 where `dual_serum_shift` |
+| 17 | `particle_separation_claim` | `density_gradient`, `filtration_or_pellet_only`, `ev_markers_assessed`, `purity_claimed_no_method`, `not_applicable`, `unclear` | field 6; apply P2 overlap codes when "purified virus" is claimed |
+| 18 | `sequence_path` | `culture_cpe`, `culture_no_cpe`, `clinical_direct`, `unclear`, `not_applicable` | field 7; same vocabulary as P3 `risk_path` |
+| 19 | `accession_or_strain` | free text | only as printed in the source |
+| 20 | `inheritance_score` | `inherits`, `partial`, `independent`, `undetermined` | summary judgement, derived from 9-18 |
+| 21 | `evidence_quote` | free text, <= 25 words | verbatim from the source, or empty |
+| 22 | `coder_note` | free text | reasoning, ambiguities |
+| 23 | `status` | `active`, `superseded`, `excluded` | |
 
 ## Filling rules
 
@@ -62,6 +68,8 @@ its id and is marked in `status`.
 - Absent information is `not_stated`; genuinely contradictory or unreadable information
   is `unclear`. The two are not interchangeable, and the split between them is itself a
   finding (inserts that simply never say).
+- `undetermined` in `inheritance_score` is not a weak `inherits`. It means the document
+  does not permit a judgement, which is what `disclosure_level` now records separately.
 - Quotes are short and attributed by URL or `refs/` id. No PDFs in tracked paths.
 - `inheritance_score` is a judgement, not a measurement: it must be defensible from the
   other columns alone, and the reasoning goes in `coder_note`.
@@ -72,4 +80,4 @@ its id and is marked in `status`.
 | Date | Amendment | Reason |
 |------|-----------|--------|
 | 2026-10-15 | Sheet frozen at 20 columns | Initial freeze before corpus collection |
-| 2026-10-15 | Proposed (NOT applied): split `immunogen_or_reference_source` into `immunogen_source` + `reference_antigen_source` | Pilot row P4-008 has different sources for the immunogen and the plate antigen; awaiting Albert |
+| 2026-10-19 | **Amendment 2, applied.** Split `immunogen_or_reference_source` into `immunogen_source` + `reference_antigen_source`; added `disclosure_level` and `upstream_source_pointer`. 20 -> 23 columns. All 8 existing rows re-scored under v2 | P4-008 carries different sources for immunogen and plate antigen, so one column forced a false choice. Non-disclosure was the strongest pilot signal and was being absorbed into `undetermined`. Naming an ATCC/BEI deposit or strain defers the provenance question upstream rather than answering it (Albert, 2026-10-15) |

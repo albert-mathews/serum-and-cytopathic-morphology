@@ -33,6 +33,10 @@ r3_image_labeling/refs/
 grok.md
 grok_guardrails.md
 
+# Local OpenCode tooling (private)
+.opencode/
+opencode.json
+
 # FOIA personal email export
 p1_history/Gmail - Regarding your FOIA Request*.pdf
 **/Gmail - *.pdf
