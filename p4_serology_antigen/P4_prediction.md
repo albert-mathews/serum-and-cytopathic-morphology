@@ -41,6 +41,38 @@ shared epitope both present — a compound of A and C).
 P4's discipline: for each candidate test, code which arm(s) the document *forces* vs *permits* vs
 *excludes*, and only then read a pattern across the corpus. Do not pick an arm in advance.
 
+### Classification: which arms survive if no virus ever existed
+
+A second cut is to ask, of each arm, whether it remains a coherent explanation if we suppose — as a
+test, not as an assertion — that no virus ever existed. This separates virus-*committed* arms from
+virus-*optional* arms:
+
+| Arm | Survives without any virus ever existing? | Reason |
+|-----|-------------------------------------------|--------|
+| **A** Contamination | **No** | virus-committed by construction (needs the named virus, twice) |
+| **B** No-virus / shared-substance | **Yes** | *is* the no-virus thesis |
+| **C** Cross-reacting shared epitope | **Mechanism yes, label no** | the epitope content (reagent binds host/serum material) survives; only the *label* "cross-reactivity against virus X" needs a virus to be "cross relative to." Without a virus, C reduces to B |
+| **D** Assay artifact | **Yes** | never needed a virus at all — the interference is patient-antibody × assay-reagent, independent of what the assay was designed on |
+| **E** Mislabeled isolate | **Split** | survives only if the "wrong thing" is *non-viral*; then it reduces to B (with the label being a historical error), so not independent |
+| **F** Compound A+C | **No** | contains A, which is virus-committed |
+
+**Two consequences to record, held as reasoning not as findings:**
+
+1. The two arms that survive without a virus are **B and D** — and they make *different*, falsifiable
+   predictions about *where* the false signal lives: **D** is **patient-side** (endogenous
+   anti-reagent antibody meets the assay's animal-derived reagents, regardless of the assay's
+   provenance); **B** is **reference-side** (the assay's own reference material is culture-reagent
+   compounds present in the sample). These are distinguishable in principle, and the interference
+   literature (§4d in `P4_reading_notes.md`) already shows **D** operating at scale (Song 2025:
+   ~50% of one viral-IgM panel's "positives" were heterophile).
+2. **C is not an independent story; it is B wearing a virus-committed wrapper.** The physical claim
+   — "the reagent binds a host/serum molecule, not a viral protein" — is identical whether or not the
+   field keeps asserting that a virus antigen is what the molecule merely *resembles*. Whether C
+   should be kept as a distinct arm therefore depends on a question the data can answer: does any
+   found case actually establish a distinct viral antigen that the cross-reacting molecule resembles,
+   or does each case only show a reagent binding a non-viral molecule? If the latter, C collapses into
+   B on the evidence, not on preference.
+
 ## Motivation from CPE non-specificity
 
 R1 documents dual-serum Isolation practice; R2 scores negative-control quality; R3/P1–P2 press morphology and particle class separation. Serology sits downstream: neutralizing titers, ELISA, Western, lateral-flow, and “antigen detection” frequently use **Isolates, infected-cell lysates, or culture-derived antigen preparations** as truth. If the Isolation endpoint is compositionally under-determined, antigen and antibody panels can **inherit** that under-determination—label agreement becomes circular rather than triangulating.
