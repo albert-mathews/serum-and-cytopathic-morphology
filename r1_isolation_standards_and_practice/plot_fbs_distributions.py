@@ -3,7 +3,7 @@
 R1 FBS% pre/post inoculation — normalized distribution charts.
 
 Ingests:
-  - isolation-refs-dual-fbs_only.csv  (practice papers)
+  - isolation-refs.csv  (canonical corpus; pass dual-FBS rows, i.e. fbs_coded=yes)
   - institution-guideline-protocol-refs.csv  (guidelines; APHIS VIRPRO excluded)
 
 Outputs several styled PNGs for visual iteration.

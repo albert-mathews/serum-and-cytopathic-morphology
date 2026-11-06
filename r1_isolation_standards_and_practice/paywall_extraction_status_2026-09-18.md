@@ -51,7 +51,6 @@
 - **VI121**: 10 → 2 (WI-38 microcultures; Eagle MEM → L-15M)
 
 ## Artifacts
-- Expanded CSV: `expansion/isolation-refs-overview_expanded.csv`
-- Dual CSV: `expansion/isolation-refs-dual-fbs_only.csv`
-- Quotes: `expansion/quotes_paywall_extracted_2026-09-18.md`
-- Temp extracts: `expansion/_pdf_extract_tmp/` (VI*.txt from pdftotext -layout)
+- Canonical corpus: `isolation-refs.csv` (was `expansion/isolation-refs-overview_expanded.csv`)
+- Quotes: `quotes_paywall_extracted_2026-09-18.md` (was `expansion/...`)
+- Temp extracts: `archive/expansion_2026-09-18/_pdf_extract_tmp/` (VI*.txt from pdftotext -layout)

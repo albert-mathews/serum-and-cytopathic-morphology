@@ -157,13 +157,13 @@ no rationale.
 
 We assembled two related reference sets for capital-I **Isolation** (culture → cytopathic readout → passage / Isolate as an operational product):
 
-1. **Practice papers (dual-FBS corpus).** Peer-reviewed Isolation or primary diagnostic isolation Methods that state **both** a numeric pre-inoculation (growth) serum percentage and a numeric post-inoculation (maintenance / virus culture) serum percentage (including explicit 0%). Rows were coded only when both values were explicit in the source; percentages were not invented from context alone. Any dual numeric pair was retained with **equal weight**—including the common 10%→2% pattern and less common equal-holds, increases, or near-serum-free maintenance—without preferential sampling or apology for modal recipes. Sources include open-access full texts and extracted Methods quotes; the working table is `r1_isolation_standards_and_practice/expansion/isolation-refs-dual-fbs_only.csv` (**n = 170** file rows).
+1. **Practice papers (dual-FBS corpus).** Peer-reviewed Isolation or primary diagnostic isolation Methods that state **both** a numeric pre-inoculation (growth) serum percentage and a numeric post-inoculation (maintenance / virus culture) serum percentage (including explicit 0%). Rows were coded only when both values were explicit in the source; percentages were not invented from context alone. Any dual numeric pair was retained with **equal weight**—including the common 10%→2% pattern and less common equal-holds, increases, or near-serum-free maintenance—without preferential sampling or apology for modal recipes. Sources include open-access full texts and extracted Methods quotes; the working table is `r1_isolation_standards_and_practice/isolation-refs.csv` (dual-FBS rows = `fbs_coded=yes`; **n = 170** plotted file rows).
 
 2. **Institutional guidelines / SOPs (overlay).** Separate from the practice-paper corpus, we recorded published institutional recipes that prescribe growth versus maintenance serum for diagnostic Isolation (e.g., ATCC Virology Culture Guide, CLSI M41-A, ASM CPE protocols, NEADL/CIRAD PPRV SOP, WOAH Terrestrial Manual chapter material, WHO EPI, CDC measles lab tools, Health Canada / CCDR B95-a measles support). Plot overlays use **n = 8** guidelines with parseable dual percentages.
 
 **Exclusions from plots.** USDA APHIS VIRPRO1013 (9 CFR §§ 113.55/113.46) is retained in the institutional reference table for completeness but **excluded from distribution plots**: it addresses master-seed / extraneous-agent safety testing rather than diagnostic Isolation practice.
 
-Distribution figures were regenerated with `expansion/plot_fbs_distributions.py` into `expansion/fbs_distribution_plots/`. The plotter successfully parsed **n = 169** practice rows (one file row lacked a soft-numeric parse, as in prior passes).
+Distribution figures were regenerated with `r1_isolation_standards_and_practice/plot_fbs_distributions.py` into `r1_isolation_standards_and_practice/fbs_distribution_plots/`. The plotter successfully parsed **n = 169** practice rows (one file row lacked a soft-numeric parse, as in prior passes).
 
 ### Results (descriptive)
 
@@ -179,7 +179,7 @@ Institutional overlay (**n = 8**, VIRPRO excluded) clusters near the same operat
 **Pattern mix (descriptive only).** Pre-inoculation values are dominated by 10% (139/169), with smaller counts at 5%, 8%, 7.5%, 15%, and occasional low or zero serum. Post-inoculation values are dominated by 2% (113/169), with a long tail including 0%, 1%, 5%, 10%, and other maintenance levels. The corpus therefore shows a **modal** growth→maintenance step-down consistent with institutional recipes, together with a minority of other dual combinations. These frequencies describe practice as sampled; they are not evidence that any single recipe is uniquely correct, and they are not a cherry-picked contrast set.
 
 **Figure.** Overlapping pre/post distributions with institutional spines and delta emphasis:  
-`r1_isolation_standards_and_practice/expansion/fbs_distribution_plots/styleF_overlap_plus_delta_institution.png`  
+`r1_isolation_standards_and_practice/fbs_distribution_plots/styleF_overlap_plus_delta_institution.png`  
 (Summary: `.../fbs_distribution_summary.txt`.)
 
 **Scope.** This corpus is a **representative practice description** of dual-serum Isolation Methods wording. It does not by itself establish CPE virus-specificity, and it does not substitute for controlled experiments that vary serum without inoculum. Claims about control quality and medium confounds are scored separately.

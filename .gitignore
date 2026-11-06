@@ -18,8 +18,8 @@ _private/
 !**/plot_*.py
 
 # Allow R1 speaking-figure PNG exports (research findings; not microscopy/paper PDFs)
-!r1_isolation_standards_and_practice/expansion/fbs_distribution_plots/
-!r1_isolation_standards_and_practice/expansion/fbs_distribution_plots/**
+!r1_isolation_standards_and_practice/fbs_distribution_plots/
+!r1_isolation_standards_and_practice/fbs_distribution_plots/**
 
 # R3 expert-annotation project workspaces and outreach identity
 r3_image_labeling/kolabtree_project/
