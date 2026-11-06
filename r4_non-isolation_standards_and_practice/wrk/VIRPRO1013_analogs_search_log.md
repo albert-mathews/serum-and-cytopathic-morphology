@@ -41,3 +41,14 @@ only · [PAYWALL/wishlisted] · [UNVERIFIED]. DOIs never guessed. No patents sea
 ## Findings to record
 
 (see `VIRPRO1013_analogs.md`)
+
+## Follow-up round (fetched in full, [VERIFIED src])
+
+- EMA/CVMP Q&A "management of extraneous agents in IVMPs" (5 pp) → **0 growth/maintenance
+  serum-% mentions**; defers to Ph. Eur.
+- VICH GL44 general principles & lists (7 pp) → serum mentioned only in quality/freedom
+  sense; no %.
+- WOAH Terrestrial Manual ch. **1.1.9** "Test for sterility and freedom from
+  contamination of biological materials" (16 pp) → uses "MM … media containing FCS" and
+  "ensure no FCS is present" but **never states an FCS %** (0 %-adjacent-to-FCS hits);
+  cites 9 CFR (US) as a reference for serum-freedom tests.
