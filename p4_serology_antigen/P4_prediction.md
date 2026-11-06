@@ -4,7 +4,42 @@
 
 ## One-sentence prediction
 
-If Isolation culture + CPE is a non-specific warrant for labeling culture products, then **serology and antigen assays whose reference materials, immunogens, or “viral antigen” standards were produced from those same culture products** will often **agree with Isolation labels** even when the physical analyte is under-determined (culture supernatant proteins, EV cargo, serum/contaminant proteins, or other co-purifying material)—so concordance with Isolation is weak evidence of an independent particle class.
+If culture CPE supernatant is not specific to viral presence, and serology tests are designed with that supernatant as their reference (oracle), then the published record should contain cases where **serology tests read positive on cell-culture reagents of the kind found in that supernatant** — without requiring a virus to explain the signal.
+
+*(Short form: serology tuned on CPE supernatant will react to culture-reagent material, not only to a virus.)*
+
+## Explanatory arms — enumerate, then let data rank them
+
+The target observation (a serology/antigen test built on a culture/isolate oracle reads positive on
+material with no demonstrated virus) has **more than two** logically distinct explanations. P4 keeps
+them all open and lets the literature rank them. The list is meant to be extended, not closed.
+
+| # | Arm | What it posits exists | What the positive signal is |
+|---|-----|-----------------------|------------------------------|
+| **A** | Contamination | the named virus, present in the "virus-free" reagent (leaked) | the test correctly detects the named virus |
+| **B** | No-virus / shared-substance | no virus anywhere | the Oracle contained reagents/compounds; the test is tuned to them; positives = reagent-on-reagent |
+| **C** | Cross-reacting shared epitope | a virus *does* exist, but the test binds a **shared** molecule (host protein, EV cargo, serum protein, or a *different* virus) that is in the reagent even when the named virus is absent | the test detects the shared epitope with the named virus absent |
+| **D** | Assay artifact | nothing biological is being detected | anti-reagent / heterophile / matrix / anti-species-detector antibody, matrix effect, or misfolded control — a technical, non-biological false positive |
+
+Arms beyond these, to hold if the literature warrants: **E** (the isolate was mislabeled from the
+start — the test faithfully detects a *different* thing than its label); **F** (a real virus and a
+shared epitope both present — a compound of A and C).
+
+### Notes on the arms (objective, not endorsements)
+
+- A, B, C, D are **not symmetric priors**. A and B are the ones with a stake (virus vs no virus).
+  C is the field's usual fallback and requires *least* specificity of any arm — it is the default
+  explanation the literature itself reaches for ("cross-reactivity").
+- D is the mundane arm and must be ruled out first before any biological arm (B or C) earns weight;
+  a "positive" that is a heterophile/anti-species reaction is not even reagent-on-reagent, it is
+  noise.
+- "Conservative" is a **claim to be tested**, not a badge: B asks for fewer *entities* but requires
+  accepting that the field's whole antigen/isolate ontology is under-determined, which is a large
+  *explanatory* commitment of its own. C asks for a cross-reacting molecule but keeps the ontology.
+  Which is cheaper depends on the data, not on which we prefer.
+
+P4's discipline: for each candidate test, code which arm(s) the document *forces* vs *permits* vs
+*excludes*, and only then read a pattern across the corpus. Do not pick an arm in advance.
 
 ## Motivation from CPE non-specificity
 
@@ -16,6 +51,17 @@ R1 documents dual-serum Isolation practice; R2 scores negative-control quality; 
 2. **Matched mock / uninoculated culture antigen:** Where papers run serology on culture products, ask whether uninfected low-serum or matched-maintenance cultures generate reactive bands/titers under the same assay.
 3. **Cross-reactivity / EV overlap:** Literature where EV preparations or serum proteins react in “virus” antigen/antibody assays.
 4. **Sequence-linked serology:** Assays that use peptides/proteins from genomes whose type path is culture-derived (link P3 inheritance)—score that path explicitly.
+
+## What P4 must do (two jobs, per Albert 2026-11-06)
+
+1. **Identify** serology tests that react to non-virus culture reagents (the positive-on-reagent
+   signal the prediction predicts).
+2. **Walk back the evidence trail** from each such test to the cell-culture supernatant it was
+   designed on — documenting how the reagent's reference material traces upstream to the culture
+   product, so the reactivity can be read as reagent-on-reagent rather than virus-on-reagent.
+
+The second job is what turns a list of odd positives into the inheritance argument: the provenance
+stack in `P4_coding_sheet.md` is the tool for it.
 
 ## What would strengthen / weaken
 

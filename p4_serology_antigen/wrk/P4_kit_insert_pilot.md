@@ -78,13 +78,15 @@ antigens are virus-like particles and recombinant glycoprotein
 | `sequence_path` | `unclear` in 8 of 8; no insert printed an accession |
 | `inheritance_score` | Workable, but `undetermined` is doing heavy lifting for non-disclosure |
 
-## Amendment needed
+## Amendment 2 (applied and logged 2026-10-19)
 
 P4-008 showed that **immunogen** (what raised the antibody) and **reference antigen**
 (what is on the plate) can differ within one product, and the single column
-`immunogen_or_reference_source` forces a choice between them. Recommend splitting it into
-`immunogen_source` and `reference_antigen_source` with the same value set, before the
-corpus grows. Not applied yet: the sheet is frozen and this is Albert's call.
+`immunogen_or_reference_source` forced a choice between them. This is now resolved:
+amendment 2 split it into `immunogen_source` and `reference_antigen_source` (same value
+set), and added `disclosure_level` and `upstream_source_pointer`. All 8 rows above were
+re-scored under the amended sheet; the column-audit rows below were written against the
+**frozen (pre-amendment) 20-column** sheet. The sheet is now 23 columns.
 
 ## Distribution (n=8)
 
@@ -94,15 +96,14 @@ corpus grows. Not applied yet: the sheet is frozen and this is Albert's call.
 - Inheritance: `inherits` 3, `partial` 3, `undetermined` 2.
 - Domain: human 4, veterinary 4.
 
-## Next steps
+## Next steps (current, post-amendment-2)
 
-1. Decide the immunogen / reference-antigen split above, then log it as amendment 2.
-2. Upgrade P4-007 from catalogue to manufacturer insert, and find manufacturer inserts for
-   the veterinary rows rather than product pages.
-3. Add the two missing formats: a lateral-flow antigen test and a licensed immunoblot
-   (immunoblots are the one format that routinely runs an uninfected-lysate lane, so they
-   are the best chance of a real `matched_mock_run = yes` row).
-4. Then move to R1 dual-serum Isolation papers, where `serum_or_maintenance_language`
+1. ~~Decide the immunogen / reference-antigen split, then log it as amendment 2.~~ **Done** — see amendment 2.
+2. ~~Consider a `disclosure_level` column.~~ **Done** — `disclosure_level` added in amendment 2.
+3. Upgrade P4-007 from catalogue to manufacturer insert, and find manufacturer inserts for
+   the veterinary rows (P4-004/-005/-006) rather than product pages.
+4. Add the two missing formats: a lateral-flow / rapid antigen test and a licensed
+   immunoblot (immunoblots are the one format that routinely runs an uninfected-lysate
+   lane, so they are the best chance of a real `matched_mock_run = yes` row).
+5. Then move to R1 dual-serum Isolation papers, where `serum_or_maintenance_language`
    should finally become informative.
-5. Consider a `disclosure_level` column, since the strongest pilot signal was not culture
-   provenance but the refusal of several kits to state any provenance at all.
