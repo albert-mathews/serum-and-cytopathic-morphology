@@ -70,6 +70,11 @@ def load_papers(path: Path) -> pd.DataFrame:
     df = df.rename(columns=cols)
     pre_c = "FBS% pre-inoculation"
     post_c = "FBS% post-inculcation"  # historical typo in corpus
+    if pre_c not in df.columns:
+        for c in df.columns:
+            if "pre" in c.lower() and "fbs" in c.lower():
+                pre_c = c
+                break
     if post_c not in df.columns:
         for c in df.columns:
             if "post" in c.lower() and "fbs" in c.lower():

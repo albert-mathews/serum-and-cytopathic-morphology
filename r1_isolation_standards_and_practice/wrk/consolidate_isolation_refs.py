@@ -8,7 +8,7 @@ Reads the source-of-truth expanded CSV and normalizes columns, adds:
   - fbs_coded (yes/no: are BOTH pre- and post-inoculation FBS% populated
                with a usable value, incl. explicit "0").
 
-Input:  expansion/isolation-refs-overview_expanded.csv
+Input (historical; first pass consumed it, source now archived): archive/expansion_2026-09-18/isolation-refs-overview_expanded.csv
 Output: isolation-refs.csv  (also emits a short report to stdout)
 """
 import csv, os, re, sys

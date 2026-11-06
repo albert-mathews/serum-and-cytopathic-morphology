@@ -48,6 +48,13 @@ Typical local refs/ locations used while working (present on author machines, no
 
 Each stream’s main markdown (r1.md, r2.md, p1.md, …) is the entry point for that topic.
 
+### Repo-wide reference files
+
+| File | Role |
+|------|------|
+| `CLAIMS.md` | Argument claims register: every load-bearing assertion as a `C###` ID with a proof-style kind (axiom, definition, observation, lemma, theorem, corollary, conjecture, counterexample) and a Mermaid dependency graph. The single spine for cross-referencing findings. |
+| `CONVENTIONS.md` | Repo-wide working language: claims framework pointer, Mermaid diagram policy, evidence tags, role codes, stream discipline, file placement. All stream agents follow it. |
+
 ## Scope note
 
 This is a **methods / process** project about culture conditions and morphology readouts, scoped to Isolation practice and laboratory readouts rather than etiology claims.

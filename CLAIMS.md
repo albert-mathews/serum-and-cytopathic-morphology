@@ -71,10 +71,11 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 
 ## Observations (empirical facts)
 
-- **C020 · Observation** — **Dual-FBS corpus is modal 10% → 2%.** In the 170-paper dual-FBS Isolation corpus,
-  pre-inoculation serum is modal 10% (139/169 plotted), post-inoculation modal 2% (113/169), with
-  medians 10.0% and 2.0% and means 9.30% and 2.24%.
-  *(Evidence: [FIGURE] `r1_…/isolation-refs.csv`, `fbs_distribution_plots/`; Status: established; Stream: R1.)*
+- **C020 · Observation** — **Dual-FBS corpus is modal 10% → 2%.** Across the 189-row Isolation corpus,
+  169 papers state numeric pre- and post-inoculation serum and are plotted: pre-inoculation serum is
+  modal 10% (139/169), post-inoculation modal 2% (113/169), with medians 10.0% and 2.0% and means
+  9.30% and 2.24%. *(Evidence: [FIGURE] `r1_…/isolation-refs.csv`, `fbs_distribution_plots/fbs_distribution_summary.txt`;
+  Status: established; Stream: R1.)*
 
 - **C021 · Observation** — **Guidelines overlay at ~10% → ~2%.** Eight institutional recipes with parseable
   dual percentages cluster at the same growth→maintenance split (about 10% to about 2%).
@@ -90,8 +91,7 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   (~173), 11 are Tier A (matched-maintenance mock), 38 Tier B (match unverifiable), 14 Tier C (wrong
   stage/mismatch), 110 Tier D (none described). No Tier A paper reports CPE in its negative control.
   *(Evidence: [VERIFIED corpus] `r2_…/control-cultures-overview.csv`; Status: established; Stream: R2.
-  Note: `tex/sections/results.tex` still shows an earlier 158-row count (49/11/38/14/95) and `discussion.tex`
-  reads "11 of 174" — reconcile to the 173-row pass before submission.)*
+  Canonical pass = 173 rows (A/B/C/D 11/38/14/110).)*
 
 - **C024 · Observation** — **CRO medium-only effect (A vs B).** On the 22 CRO-described frames, CPE-type
   terms were named on 1 of 9 Culture A (10% FBS) and 10 of 13 Culture B (2% FBS) frames; Culture B's
@@ -206,16 +206,72 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 
 ## Dependency index (build order)
 
-```
-C001, C003 (terms) ──────────────┐
-C020 → C030 ─────────────────────┤
-C022 → C032 ─────────────────────┤
-C024, C025 → C040 (theorem) ─────┼──► C041 (CPE not inoculum-specific)
-C023 → C031 ─────────────────────┼──► C042 (not standalone proof)
-                                 └──► C043 (matched-maintenance mock required)
-C050 (hinge) → C052 (P2) · C053 (P3) · C054 (P4) · C055 (P5) · C056 (P6) · C057 (P7)
-C033 (P1 history) ───────────────► C051 (P1 conjecture)
-C026, C060 (R4) · C061 (P2) · C062 (R2) = adversarial balance
+```mermaid
+flowchart TD
+    subgraph terms["Definitions"]
+        C001["C001 Isolation"]
+        C003["C003 maintenance medium"]
+    end
+    subgraph obs["Observations"]
+        C020["C020 corpus modal 10 to 2"]
+        C022["C022 same step different reasons"]
+        C023["C023 matched controls rare"]
+        C024["C024 CRO A vs B"]
+        C025["C025 raters: B greater than A"]
+        C026["C026 VIRPRO holds serum"]
+    end
+    subgraph lem["Lemmas"]
+        C030["C030 practice follows recipe"]
+        C031["C031 audit-able controls rare"]
+        C032["C032 step justified heterogeneously"]
+        C033["C033 no serum-alone founding experiment"]
+    end
+    subgraph thm["Theorem"]
+        C040["C040 serum step-down drives CPE morphology"]
+    end
+    subgraph cor["Corollaries"]
+        C041["C041 CPE not inoculum-specific"]
+        C042["C042 not standalone proof"]
+        C043["C043 matched-maintenance mock required"]
+    end
+    subgraph con["Conjectures (P arms)"]
+        C050["C050 hinge"]
+        C051["C051 P1 history"]
+        C052["C052 P2 purification"]
+        C053["C053 P3 genome"]
+        C054["C054 P4 serology"]
+        C055["C055 P5 structure"]
+        C056["C056 P6 seed"]
+        C057["C057 P7 repeatability"]
+    end
+    subgraph cx["Counterexamples"]
+        C060["C060 not all practice steps down"]
+        C061["C061 separation forceable"]
+        C062["C062 no Tier A falsified"]
+    end
+
+    C001 --> C041
+    C003 --> C041
+    C020 --> C030
+    C022 --> C032
+    C023 --> C031
+    C024 --> C040
+    C025 --> C040
+    C040 --> C041
+    C031 --> C042
+    C041 --> C042
+    C031 --> C043
+    C041 --> C043
+    C033 --> C051
+    C050 --> C052
+    C050 --> C053
+    C050 --> C054
+    C050 --> C055
+    C050 --> C056
+    C050 --> C057
+    C026 --> C060
+    C023 --> C062
+    C052 -.-> C061
 ```
 
 ## Rules of use
@@ -230,3 +286,5 @@ C026, C060 (R4) · C061 (P2) · C062 (R2) = adversarial balance
    `tex/wrk/paper_notes.md`; do not leave a stale count in a claim.
 6. When a Conjecture is upgraded by evidence, recast it as an Observation/Lemma and move its ID into that
    kind (keep the ID stable; change the kind and status).
+7. Diagrams use Mermaid per `CONVENTIONS.md`. Evidence tags, role codes, and file placement also follow
+   `CONVENTIONS.md` — this file only owns the claims themselves.

@@ -1,5 +1,5 @@
 # Description
-These notes capture the re-review of the isolation-refs-overview.csv sources.
+These notes capture the re-review of the R1 Isolation corpus (`isolation-refs.csv`, canonical; the earlier `isolation-refs-overview.csv` is archived).
 The goal here is to filter them based on "use of CPE as an end point in culture analsyis".
 The initial review was performed by SuperGrok, using the follwing prompt, and the PDF version of the papers.
 

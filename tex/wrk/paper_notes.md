@@ -20,7 +20,7 @@ Leave comments as `@Albert:` lines under the relevant row; replies as `@CPE:`.
 | Methods R3 (experiment, descriptors, CRO, raters) | drafted; CRO culture details missing | `r3.md`, `cro_labels_consolidation.md`, `ir-results/README.md` |
 | Methods R3 (IR3v) | drafted with briefing condition withheld; Pass 2 pending | gitignored pilot review |
 | Statistics | stub (test choice) | - |
-| Results R1 | drafted; FOIA paragraph assumed | `fbs_distribution_summary.txt` |
+| Results R1 | drafted; FOIA paragraph assumed | `r1_isolation_standards_and_practice/fbs_distribution_plots/fbs_distribution_summary.txt` |
 | Results R2 | drafted | `r2.md` status 2026-09-22 |
 | Results R3 CRO + IR1/IR2 | drafted | `IR1_IR2_pass2_side_by_side.md`, `IR1_IR2_pass1_side_by_side.md`, `cro_labels_consolidation.md` |
 | Results R3 IR3v | provisional numbers | see register below |

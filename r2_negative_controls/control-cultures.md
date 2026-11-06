@@ -2,11 +2,11 @@
 
 **Status:** Draft for iteration (v0.1)  
 **Purpose:** Codify an unambiguous tier system (A–D) for classifying **negative / mock / uninfected culture controls** in virus Isolation and related infection–culture papers.  
-**Scope of application:** Papers in the Isolation corpus (e.g. `isolation-refs-overview.csv` / PDFs under `wrk/isolation_practice/`), and any later additions scored the same way.  
+**Scope of application:** Papers in the Isolation corpus (`r1_isolation_standards_and_practice/isolation-refs.csv`, canonical; PDFs under `r1_isolation_standards_and_practice/refs/isolation_practice/`), and any later additions scored the same way.  
 **Related files:**
 - `control-cultures-overview.csv` — machine-readable scores (to be aligned with this framework)
 - `isolation-refs-endpoint-analysis-filtering.md` — prior free-text control notes
-- `isolation-refs-overview.csv` — FBS / medium extraction (independent dimension)
+- `isolation-refs.csv` (R1 canonical) — FBS / medium extraction (independent dimension)
 
 ---
 
