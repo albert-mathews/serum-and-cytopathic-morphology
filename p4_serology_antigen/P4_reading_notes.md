@@ -194,13 +194,17 @@ documents show, not as a stored belief.
 
 ---
 
-## 4d. The interference literature — arm C/D, and an adversarial correction to arm B
+## 4d. The interference literature — location-D evidence of the single non-viral-epitope arm
 
-A second search pass (2026-11-06, arm C/D phrase sets) found a large, well-established literature on
-**why viral serology reads positive without the virus present.** It is almost entirely explained, by
-practitioners, via two arms: **D** (endogenous anti-reagent antibodies) and **C** (shared/cross-reacting
-epitopes) — not arm B (no virus anywhere). This is important to record, because it is the strongest
-adversarial case against over-weighting arm B.
+A second search pass (2026-11-06) found a large, well-established literature on **why viral serology
+reads positive without the virus present.** It is almost entirely explained, by practitioners, via
+endogenous anti-reagent antibodies (heterophile/HAMA) and shared/cross-reacting epitopes. Under the
+collapsed framing in `P4_prediction.md` (§"Two fundamental cases"), these are **location-D and
+location-C evidence of the single non-viral-epitope arm**: the bound epitope is not viral, and no
+virus is needed to explain the positive. They differ from the reference-side (location-B) evidence
+only in *where* the non-viral substance is said to originate — which is irrelevant to the no-virus
+conclusion. Recorded here as the field's own demonstration that a non-viral epitope is, in fact,
+what routine viral serology binds in a large fraction of cases.
 
 **Kricka 1999** — *Human anti-animal antibody interferences in immunological assays.* Clin Chem
 45(7):942-56. PMID 10388468 (cited >300×).
@@ -208,9 +212,10 @@ adversarial case against over-weighting arm B.
 > "The most common human anti-animal antibody interferent is HAMA, which causes both positive and
 > negative interferences in two-site mouse monoclonal antibody-based assays."
 
-Reading: the canonical statement of arm D. Endogenous human anti-mouse (or anti-rabbit/cow/sheep/etc.)
-antibodies bridge or block the assay's own capture/detection reagents, producing positives that have
-nothing to do with any virus antigen. Prevalences run "<1% to 80%."
+Reading: the canonical statement of the patient-side (location-D) mechanism. Endogenous human
+anti-mouse (or anti-rabbit/cow/sheep/etc.) antibodies bridge or block the assay's own capture/detection
+reagents, producing positives that have nothing to do with any virus antigen. Prevalences run
+"<1% to 80%."
 
 **Song et al. 2025** — *Resolving heterophile antibody interference in viral serology using blocking
 tubes.* Microbiologyopen 14(6):e70098. PMID 41144880.
@@ -220,33 +225,41 @@ tubes.* Microbiologyopen 14(6):e70098. PMID 41144880.
 
 Reading: the single most direct measurement found so far. In routine viral IgM serology for common
 agents (EBV, HSV, VZV, CMV, rubella, Toxoplasma), up to **49.7%** of HSV IgM "positives" were
-heterophile interference — i.e. endogenous antibody binding the assay reagents, resolved by
-heterophile-blocking tubes. This is "positive without the named virus," but the mechanism is arm D,
-**not** arm B: the signal came from the *patient's* anti-reagent antibody, not from the culture
-reagent the assay was built on.
+heterophile interference — i.e. endogenous antibody binding the assay's *reagents*, resolved by
+heterophile-blocking tubes. This is "positive without the named virus," with the bound epitope being
+**non-viral** (patient anti-reagent antibody). Same arm as the reference-side evidence; only the
+supposed *location* of the non-viral epitope differs.
 
 **Ye et al. 2021** — false-positive SARS-CoV-2 antibody reasons (PMID 33710634): "the most common
 endogenous interferences include rheumatoid factor, heterophile antibodies, human anti-animal
 antibodies, lysozyme, complement, and cross-antigens."
 
 **Kharlamova et al. 2021** (PMID 34012450) and **Costa et al. 2021** (PMID 34336313, isolated
-false-reactive HBsAg) — further arm D/C instances.
+false-reactive HBsAg) — further non-viral-epitope instances.
 
-### The adversarial correction this forces on P4
+### What this strand establishes
 
-- The field already *has* a mature account of "serology positive with no virus": it calls it
-  heterophile/HAMA interference (D) and cross-reactivity (C). Any arm-B claim ("the test is tuned to
-  culture-reagent compounds") must first be distinguished from D and C, which produce the same
-  surface observation (a positive with no virus) from *different* causes.
-- Song 2025 quantifies D at ~50% of positives in one viral-IgM panel. That sets a hard prior: in any
-  serology false-positive, arm D is often the leading candidate before B or C.
-- The P4 discipline holds: for each found test, the coding sheet must record whether the document
-  demonstrates reagent-provenance (→ B-relevant) or resolves to anti-reagent interference (→ D). We do
-  not get to call a positive "reagent-on-reagent (B)" merely because no virus was found; D and C are
-  alternative explanations that the same evidence also fits.
+- The field already *has* a mature account of "serology positive with no virus," and in every version
+  of it the bound epitope is **non-viral** (heterophile/HAMA/cross-antigen, all non-viral molecules).
+  None of these accounts requires a virus; they require a non-viral substance and an assay fitted to
+  bind it — which is exactly the non-viral-epitope arm.
+- Song 2025 quantifies this at ~50% of positives in one viral-IgM panel. That is the field's own
+  demonstration that routine viral serology binds a non-viral epitope in a large fraction of cases.
+- The location distinction (reference-side vs patient-side vs shared-hit) remains **unresolved**, but
+  P4 records it as a *location* question, not a *does-a-virus-exist* question. Either way, no virus is
+  needed. The coding sheet can still record, per document, whether the evidence points to a
+  reference-standard origin or a patient-side interference origin, because that is a real (if
+  secondary) empirical question — but it does not alter the no-virus conclusion.
 
-This section is a corrective, and it should stay in the file as a standing check against arm-B
-over-claiming.
+**Hornig et al. 2012** — *Absence of evidence for bornavirus infection in schizophrenia, bipolar
+disorder and major depressive disorder.* Mol Psychiatry 17(5):486-93. PMID 22290118.
+
+Reading for P4: a well-controlled disconfirmation. Earlier reports of bornavirus "infection" in
+psychiatric patients (largely serological) did not hold up when re-tested with serology plus
+independent nucleic-acid and blinded replication assays. A caution against reading any serology
+positive (including ours) as evidence for a discrete particle, and an instance where the cognate
+agent was *not* found on better-controlled measurement — i.e. consistent with the non-viral-epitope
+reading. Not a P4 "win"; a P4 check.
 
 ---
 

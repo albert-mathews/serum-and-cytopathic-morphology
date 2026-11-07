@@ -8,70 +8,69 @@ If culture CPE supernatant is not specific to viral presence, and serology tests
 
 *(Short form: serology tuned on CPE supernatant will react to culture-reagent material, not only to a virus.)*
 
-## Explanatory arms — enumerate, then let data rank them
+## Explanatory arms — two fundamental cases, then a location question that does not split them
 
-The target observation (a serology/antigen test built on a culture/isolate oracle reads positive on
-material with no demonstrated virus) has **more than two** logically distinct explanations. P4 keeps
-them all open and lets the literature rank them. The list is meant to be extended, not closed.
+The target observation: a serology/antigen test built on a culture/isolate oracle reads positive on
+material with no demonstrated virus. The prior enumeration (A–F) over-split the alternatives. They
+reduce to **two fundamental cases**, distinguished by one thing only: **does the positive require a
+virus to explain it?**
 
-| # | Arm | What it posits exists | What the positive signal is |
-|---|-----|-----------------------|------------------------------|
-| **A** | Contamination | the named virus, present in the "virus-free" reagent (leaked) | the test correctly detects the named virus |
-| **B** | No-virus / shared-substance | no virus anywhere | the Oracle contained reagents/compounds; the test is tuned to them; positives = reagent-on-reagent |
-| **C** | Cross-reacting shared epitope | a virus *does* exist, but the test binds a **shared** molecule (host protein, EV cargo, serum protein, or a *different* virus) that is in the reagent even when the named virus is absent | the test detects the shared epitope with the named virus absent |
-| **D** | Assay artifact | nothing biological is being detected | anti-reagent / heterophile / matrix / anti-species-detector antibody, matrix effect, or misfolded control — a technical, non-biological false positive |
+### The two cases
 
-Arms beyond these, to hold if the literature warrants: **E** (the isolate was mislabeled from the
-start — the test faithfully detects a *different* thing than its label); **F** (a real virus and a
-shared epitope both present — a compound of A and C).
+| Case | What it requires | What the positive signal is |
+|------|------------------|------------------------------|
+| **Virus-required** | a virus exists (contamination, or a "shared epitope against a real virus", or a mislabeled-but-genuine second virus) | the test binds a genuine viral antigen, or a molecule that genuinely resembles one |
+| **Non-viral epitope** | **no virus, anywhere** | the test binds a non-viral biological substance — from the growth medium, the cells, the patient sample, or a reaction product among these |
 
-### Notes on the arms (objective, not endorsements)
+### The non-viral case is one arm, not three
 
-- A, B, C, D are **not symmetric priors**. A and B are the ones with a stake (virus vs no virus).
-  C is the field's usual fallback and requires *least* specificity of any arm — it is the default
-  explanation the literature itself reaches for ("cross-reactivity").
-- D is the mundane arm and must be ruled out first before any biological arm (B or C) earns weight;
-  a "positive" that is a heterophile/anti-species reaction is not even reagent-on-reagent, it is
-  noise.
-- "Conservative" is a **claim to be tested**, not a badge: B asks for fewer *entities* but requires
-  accepting that the field's whole antigen/isolate ontology is under-determined, which is a large
-  *explanatory* commitment of its own. C asks for a cross-reacting molecule but keeps the ontology.
-  Which is cheaper depends on the data, not on which we prefer.
+The former B (reference-side), C (shared hit), and D (assay/heterophile/HAMA) all share the single
+property that matters: **the bound epitope is not viral, and no virus is needed to explain the
+positive.** They differ only in *where* the non-viral substance is supposed to originate:
 
-P4's discipline: for each candidate test, code which arm(s) the document *forces* vs *permits* vs
-*excludes*, and only then read a pattern across the corpus. Do not pick an arm in advance.
+- B: in the reference/standard the test was fitted to (growth medium, cells, culture products).
+- C: in a "shared" molecule that the field *labels* cross-reactive but that is, at bottom, the same
+  non-viral substance.
+- D: in the patient sample or its reaction with the assay's animal-derived reagents.
 
-### Classification: which arms survive if no virus ever existed
+Each of these is a hypothesis about **location**, not about **whether a virus exists**. And the
+location is (i) not yet distinguishable on the evidence gathered, and (ii) **irrelevant to the
+no-virus conclusion.** Whether the non-viral epitope comes from the medium, the cells, or the
+patient, the assay is still binding a non-viral biological substance. P4's only essential claim —
+**the evidence can be understood without positing a virus** — does not depend on settling B vs C
+vs D.
 
-A second cut is to ask, of each arm, whether it remains a coherent explanation if we suppose — as a
-test, not as an assertion — that no virus ever existed. This separates virus-*committed* arms from
-virus-*optional* arms:
+So P4 holds **one** no-virus arm ("the test binds a non-viral epitope, of whatever origin") against
+**one** virus-required arm ("the test binds a viral epitope"). The B/C/D location distinction is
+recorded for completeness (the interference literature in §4d of `P4_reading_notes.md` is mostly
+location-D evidence; the census rows are location-B evidence), but it is not a split in the
+prediction.
 
-| Arm | Survives without any virus ever existing? | Reason |
-|-----|-------------------------------------------|--------|
-| **A** Contamination | **No** | virus-committed by construction (needs the named virus, twice) |
-| **B** No-virus / shared-substance | **Yes** | *is* the no-virus thesis |
-| **C** Cross-reacting shared epitope | **Mechanism yes, label no** | the epitope content (reagent binds host/serum material) survives; only the *label* "cross-reactivity against virus X" needs a virus to be "cross relative to." Without a virus, C reduces to B |
-| **D** Assay artifact | **Yes** | never needed a virus at all — the interference is patient-antibody × assay-reagent, independent of what the assay was designed on |
-| **E** Mislabeled isolate | **Split** | survives only if the "wrong thing" is *non-viral*; then it reduces to B (with the label being a historical error), so not independent |
-| **F** Compound A+C | **No** | contains A, which is virus-committed |
+### The single load-bearing question
 
-**Two consequences to record, held as reasoning not as findings:**
+For every found case, ask only:
 
-1. The two arms that survive without a virus are **B and D** — and they make *different*, falsifiable
-   predictions about *where* the false signal lives: **D** is **patient-side** (endogenous
-   anti-reagent antibody meets the assay's animal-derived reagents, regardless of the assay's
-   provenance); **B** is **reference-side** (the assay's own reference material is culture-reagent
-   compounds present in the sample). These are distinguishable in principle, and the interference
-   literature (§4d in `P4_reading_notes.md`) already shows **D** operating at scale (Song 2025:
-   ~50% of one viral-IgM panel's "positives" were heterophile).
-2. **C is not an independent story; it is B wearing a virus-committed wrapper.** The physical claim
-   — "the reagent binds a host/serum molecule, not a viral protein" — is identical whether or not the
-   field keeps asserting that a virus antigen is what the molecule merely *resembles*. Whether C
-   should be kept as a distinct arm therefore depends on a question the data can answer: does any
-   found case actually establish a distinct viral antigen that the cross-reacting molecule resembles,
-   or does each case only show a reagent binding a non-viral molecule? If the latter, C collapses into
-   B on the evidence, not on preference.
+> **Does this document demonstrate a viral epitope (particle-class origin established by an
+> independent, non-culture-anchored measurement), or does every observed positive reduce to a
+> non-viral epitope once the under-determined Isolation warrant is set aside?**
+
+A document that only *ascribes* viral origin through the Isolation warrant has not escaped the
+non-viral arm — it has merely named the epitope "viral" while measuring a non-viral surface. Note
+the asymmetry ("epitope" sits on the wrong side of it): a binding event is a *measured* fact (this
+antibody binds this molecular surface); "viral" is a *label layered on top*, and that label always
+runs back through the under-determined warrant.
+
+---
+
+### Neutral evidence grid — search for and against each case, no prior
+
+| Case | Looks-for (if true, expect to find) | Falsifier (would count against it) |
+|------|--------------------------------------|-------------------------------------|
+| **Virus-required** | sequences/particles matching a named reference *and* independent evidence of replication; a cognate molecule absent from matched uninfected material and present only with inoculum, by a non-culture-anchored measurement | no replication; no particle match beyond the reference; reactivity persists after the claimed virus is depleted but disappears under reagent/medium/matrix depletion |
+| **Non-viral epitope** | the reference/antigen (or the patient matrix) reacts to host/EV/serum/culture material; matched uninfected-culture antigen gives the same band/titer; positives resolve under heterophile/HAMA blocking or reagent redesign | a binding that persists after blocking and tracks a specific molecule demonstrably absent from all non-viral sources |
+
+Search runs **both columns** for **both cases** with equal effort. A finding that lands in a
+falsifier is entered as a result, not suppressed. Negative findings count.
 
 ## Motivation from CPE non-specificity
 
