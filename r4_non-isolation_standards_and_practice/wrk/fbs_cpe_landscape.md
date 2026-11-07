@@ -199,9 +199,14 @@ maintenance): cells "under the medium with **10% bovine serum**" then rolled "in
 Recovered 151 transmissible strains serum-free. Cites **Baron & Low 1955 "New maintenance
 medium for cell culture" Science** (a P1-important primary).
 
-**R4-S3 — PCV2 serum-free CPE (2019)**: serum-free cell lines (CPK-NS, PPK-3F) show strong
-CPE — CPE is NOT serum-dependent; appears under serum-free culture. Confirms serum is not
-required for CPE readout.
+**R4-S3 — PCV2 serum-free CPE (2019)**: strong CPE in serum-free cell lines (CPK-NS, PPK-3F).
+**Framing correction (owner, 2026-11-06):** do NOT read this as "CPE does not require serum".
+The working hypothesis is the opposite direction: **lowering serum induces cell-morphology
+changes; those changes have been labelled "CPE"; and that CPE has been attributed to virus.**
+Serum-free lines showing CPE is *consistent with* the hypothesis (serum manipulation → the
+same morphology the field calls CPE) but is not a standalone proof; R3 is the direct test
+(expert-scored CPE in virus-free cultures, more CPE when FBS is lowered). P1–P7 are
+*derived predictions* of this hypothesis; each confirmed prediction strengthens it.
 
 **R4-S4 — Toxoplasma plaque (2017)**: mostly serum-*free* media / serum-absorption context;
 no fixed maintenance-% recipe (toxo plaque uses serum-supplemented + serum-free variants).
@@ -214,6 +219,47 @@ role (2).
 adventitious agents (100% effect claimed). Confirms role (2); cites "Peak serum" (Brindley)
 and Hawkes "geographic origin" FBS reviews (supply/regulatory, not CPE recipes).
 
+**Serum/cell-line contaminant strand (wrapped from P4 handoff, 2026-11-06):** the culture
+*reagent itself* (FBS and repository cell lines) is a documented carrier of pestivirus-label
+material, independent of any inoculum — this is the strongest form of role (2) "serum/cell
+line as analyte":
+- Giammarioli 2015 (*Biologicals*, DOI 10.1016/j.biologicals.2015.05.009): "All the 26
+  batches were positive by RT-PCR for at least one species of bovine pestiviruses" (archival
+  FBS) [ABSTRACT-level; PDF on R4 wishlist R4-S7]
+- Bolin 1994 (*JAVMA*, PMID 7989247): ATCC-repository cell line distributed to >20 labs
+  carrying an undeclared pestivirus [wishlist R4-S8]
+- Muhsen 2013 (*Arch Virol*, DOI 10.1007/s00705-012-1538-x): RK13 cell line persistently
+  contaminated with ncp BVDV [wishlist R4-S9]
+=> for "virus-free"/negative-control claims, the reagent (FBS / cell line) is itself a
+confound source, not just the inoculum. Directly relevant to R2 control-tier logic.
+
 **Net from fetched set:** the 1963 measles paper anchors the serum→CPE *experimental* prior
-art (with the exact 10%→2% recipe + a serum-type effect), and the 1978/2019 papers show
-CPE readout does not *require* serum at all — two load-bearing facts for the landscape.
+art (with the exact 10%→2% recipe + a serum-type effect). The 1978 and 2019 papers are
+consistent with the central hypothesis (serum manipulation ↔ the morphology the field calls
+CPE) — NOT claims that "CPE doesn't need serum". Two load-bearing facts for the landscape.
+
+## Adversarial / gap-fill sweep (2026-11-06, Europe PMC)
+
+**(1) "Serum starvation / low-serum morphology" — a large adjacent body (181 hits), not
+prior art for the CPE landscape, but mechanistically supportive.** The non-virology cell-
+biology literature documents extensively that *serum reduction changes cell morphology and
+stress responses* — e.g. "From Scarcity to Survival: Adaptive Strategies of A549 Lung Cancer
+Cells Under Serum Starvation" (2025); "Effects of low-serum adaptation on growth and protein
+expression…" (2026); "A review of cytotoxicity testing methods…" (2025); "Effect of Serum
+Starvation on Rheology of Cell Monolayers" (arXiv:2103.09294). This is the modern,
+non-virological analogue of the R3 premise (lower FBS → morphology change) — a supporting
+mechanistic literature, NOT a prior "FBS×CPE map". Worth one Discussion sentence bridging R3
+to the serum-starvation literature.
+
+**(2) "Serum-free cell-line CPE assay" cluster (8 hits) — CPE is scored across the serum
+spectrum.** Multiple papers use serum-free cell lines (CPK-NS, Sf9, etc.) for CPE assays:
+- Establishment of serum-free CPK-NS cell line useful for CSFV assays (1998)
+- Susceptibility of Sf9 insect line to adventitious viruses (1994)
+- CSFV vaccine-strain-derived clone causes CPE (2020); CSFV cytopathogenicity (2004)
+- JEV persistent infection in serum-free Sf9 (2004)
+- CMV enhanced CPE on retinal pigment epithelium K-103 (1997)
+=> CPE is scored as virus-attribute across low/serum-free AND serum-supplemented conditions;
+what changes with serum is the *amount/morphology* scored, not the presence of the label.
+This is the landscape's second axis: the "CPE" label is applied to serum-modified morphology
+at every serum level, with the field's serum-free CPE lines being the cleanest modern
+demonstration that serum is not the *sine qua non* of the label — the *morphology change* is.

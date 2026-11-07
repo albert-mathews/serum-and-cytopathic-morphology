@@ -57,6 +57,19 @@ pulled serum-% / growth-vs-maintenance lines. Findings summarized in
 - 2019 PCV2: CPE in serum-free cell lines (CPE not serum-dependent).
 - 2013 contaminants + 2020 Argentine FBS: serum-as-analyte (screened for pestivirus/mycoplasma).
 
+## Round 8 — full read + gitignored reading notes
+Read all 6 fetched refs in full; wrote `refs/_notes/R4_fetched_reading_notes.md`
+(gitignored) with verbatim quotes + thesis relevance. Wrapped P4 handoff (3 pestivirus
+serum/cell-line refs → R4 wishlist R4-S7/S8/S9 + landscape serum-contaminant strand);
+deleted `P4_handoff_to_R1.md`. Flagged 1978 paper to P1 (`p1.md` TODO #9).
+
+## Round 9 — adversarial / gap-fill sweep (Europe PMC)
+Two gap-fill findings recorded in `fbs_cpe_landscape.md` §"Adversarial / gap-fill sweep":
+(1) "serum starvation / low-serum morphology" literature (181 hits) — modern non-virology
+body showing serum reduction → morphology change (supports R3 premise; not prior art).
+(2) "serum-free cell-line CPE assay" cluster (CPK-NS, Sf9, etc.) — CPE scored across the
+serum spectrum; serum changes amount/morphology scored, not the presence of the label.
+
 ## Round 4 — practice-trawl reconnaissance (Europe PMC batch queries)
 Abstracts for the non-Isolation CPE disciplines (TCID50/plaque ~6 hits; antivirals ~7;
 mycoplasma ~54; toxoplasma ~14) show: **serum % almost never appears in abstracts** — it
