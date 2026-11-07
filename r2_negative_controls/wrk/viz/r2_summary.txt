@@ -1,0 +1,14 @@
+R2 negative-control tier summary (scored corpus)
+scored rows (overview): 173
+tier A: 11 (6.4%)
+tier B: 38 (22.0%)
+tier C: 14 (8.1%)
+tier D: 110 (63.6%)
+any culture-level NC: 63 (36.4%)
+Isolation-stage NC: 50 (28.9%)
+M3 serum/enrichment = NA: 123
+M3 serum/enrichment = yes: 11
+M3 serum/enrichment = unknown: 38
+M3 serum/enrichment = no: 1
+Tier A controls reported CPE in the NC (would falsify specificity): 0
+Tier A controls claimed CPE-negative: 8
