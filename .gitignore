@@ -21,6 +21,9 @@ _private/
 !r1_isolation_standards_and_practice/fbs_distribution_plots/
 !r1_isolation_standards_and_practice/fbs_distribution_plots/**
 
+# Allow R2 control-tier figure PNG exports (research findings; not microscopy/paper PDFs)
+!r2_negative_controls/wrk/viz/r2_fig*.png
+
 # R3 expert-annotation project workspaces and outreach identity
 r3_image_labeling/kolabtree_project/
 r3_image_labeling/kolabtree_priming_pilot/
@@ -32,6 +35,7 @@ r3_image_labeling/refs/
 # Session / agent handoff notes (not paper text)
 grok.md
 grok_guardrails.md
+interpretive_lens.md
 
 # Local OpenCode tooling (private)
 .opencode/

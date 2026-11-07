@@ -69,4 +69,38 @@ For each shortlisted product above (+ any IFA/neutralization product to fill typ
 `upstream_source_pointer` / `isolate_justification` columns → `../p4_antigen_provenance.csv`. Insert
 PDFs go under `refresh/refs/` (gitignored); many already listed in `../P4_pdf_wishlist.md` (P4W-01…).
 
-*Status: selection logic + popularity anchors recorded. Insert-level provenance extraction next.*
+## Insert-level extraction results (2026-11-06, from fetched `refs/`)
+
+Two of the three wishlist fetches (P4W-01 immunoblot/line, P4W-02 lateral-flow) were dropped into
+`../refs/` and read (via `pdftotext`). Findings coded into `../p4_antigen_provenance.csv` as new
+rows:
+
+- **P4-009 — MIKROGEN recomLine HSV-1/HSV-2 IgG (line immunoassay).** The manufacturer's own
+  portfolio catalogue labels the HSV strips as using **"HSV lysates"** (a culture-lysate antigen band)
+  alongside recombinant gG-1/gG-2. Lysate substrate line and validation are not disclosed; no matched
+  uninfected-lysate lane; the anti-HSV reagent's immunogen is undisclosed. `inheritance_score =
+  inherits` (reference antigen is a culture lysate; provenance one hop upstream unresolved).
+- **P4-010 — GenBody COVID-19 Ag rapid test (lateral flow).** Capture/detection = mouse **anti-NP
+  monoclonals**; positive control = "recombinant SARS-CoV-2 protein antigen" with no expression host
+  and no ORF origin stated; the mAb immunogen is undisclosed. `inheritance_score = partial`.
+- **P4-011 — MIKROGEN recomLine Borrelia IgG/IgM.** Recombinant antigens, each keyed to a Borrelia
+  *strain designation*, but the ORF/sequence origin (culture isolate vs clinical vs reference genome)
+  and expression host are not stated — `upstream_source_pointer = strain_designation_only`. Strip
+  controls are conjugate/cutoff procedural controls, not a matched non-viral antigen. `partial`.
+
+**Cross-cutting finding:** within one manufacturer's line-assay portfolio, antigen provenance spans
+the whole spectrum — culture **lysate** (HSV), **recombinant-with-undisclosed-ORF** (Borrelia, and
+most others), and a genuine **Western blot** (recomBlot Rubella, E1/E2). The catalogue's own
+flow chart ("from pathogen to antigen: cloning → fermentation → chromatography") confirms the
+antigens are cloned from "the pathogen's gene," yet no product in the line discloses whether that
+gene's source isolate was culture+CPE derived. This is the P3-inheritance link made visible at the
+kit level.
+
+## Remaining for type coverage
+
+- IFA and neutralization still need a popularity-grounded product/paper pick (the existing ZEUS CMV
+  IFA row is a convenience start). Open.
+
+*Status: two formats (immunoblot/line + lateral-flow) now have insert-level provenance coded.
+Remaining: IFA + neutralization anchors; then the pattern statement (do any sold tests escape the
+under-determination?).*
