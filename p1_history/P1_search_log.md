@@ -219,3 +219,22 @@ P1-048 Baron Low maintenance medium Science 1958; P1-049 Hayflick Moorhead 1961;
 - No new web search round; focus was full-text extraction of existing refs.
 
 **Key result:** Dual-medium at inoculation step operational by ~1953–54 (Youngner, Scherer, Melnick); Baron 1958 names maintenance + quantifies serum inhibition of polio.
+
+---
+
+## Round 11 — R4 flag ingestion (2026-11-06)
+
+**Operator:** p1-agent  
+**Trigger:** `p1.md` TODO #9 (R4 flag, 2026-11-06).
+
+Processed one post-window primary flagged by the R4 stream, PDF on disk at
+`r4_non-isolation_standards_and_practice/refs/R4_serumfree_maintenance_1978.pdf`:
+
+- **P1-052** — Murakami & Kato 1978, *Zentralbl Veterinarmed B* 25:110-113, DOI 10.1111/j.1439-0450.1978.tb00729.x (from R4 wishlist R4-S2; journal imprint on PDF). Full text extracted (PyMuPDF); 4 pp.
+
+**Actions:**
+- Screened row added (useful=Y; window status `out_of_window_excluded` — post-window transmission/counterexample, **not** pre-institutional evolution).
+- Useful CSV extraction + `P1_quotes.md` Round 11 + synthesis Round 11 block + §7 Stage 6 transmission note.
+- Rebuilt `P1_screened.csv` / `P1_BIBLIOGRAPHY.md` via `build_p1_bibliography.py` (n=58).
+
+**Key result:** A 1978 field Isolation program still uses **serum-free maintenance** on the Baron & Low inhibitor rationale (ref 1 cites P1-048, year misprinted 1955), recovers **151** transmissible CPE-producing agents from **537** specimens / **265** healthy dogs, names uninoculated control passages, yet explicitly defers the serum-vs-serum-free comparison ("left for a future study") and flags cell-culture contamination as a possible origin. Confirms transmission of the inhibitor lineage and the continued absence of the deconfounding serum comparison — consistent, not pre-institutional evolution.

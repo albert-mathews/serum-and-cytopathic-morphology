@@ -32,9 +32,9 @@ A reviewer who needs more can use `citation` + `title` + `authors` + `year` + `n
 
 | Metric | n |
 |--------|---|
-| Screened rows | 57 |
-| Rows with any machine ID | 19 |
-| With DOI | 2 |
+| Screened rows | 58 |
+| Rows with any machine ID | 20 |
+| With DOI | 3 |
 | With PMID | 0 |
 | With PMCID | 2 |
 | With other_id | 16 |

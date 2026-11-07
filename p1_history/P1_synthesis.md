@@ -1,9 +1,9 @@
 # P1 synthesis (provisional)
 
-**Date:** 2026-07-22 (Round 10 refresh)  
+**Date:** 2026-07-22 (Round 10) · 2026-11-06 (Round 11 R4 flag)  
 **Protocol:** `P1_research.md` v0.1  
-**Artifacts:** `P1_search_log.md`, `P1_screened.csv` (~57 rows), `P1_useful.csv` (28 unique extracts), `P1_quotes.md`  
-**Status:** Provisional through **Round 10** (Priority-A PDFs: Weller 1948, Youngner 1954, Scherer HeLa 1953, Baron 1958). **Not** bibliographic saturation. See **§7** for medium-vs-inoculation narrative.
+**Artifacts:** `P1_search_log.md`, `P1_screened.csv` (~58 rows), `P1_useful.csv` (29 unique extracts), `P1_quotes.md`  
+**Status:** Provisional through **Round 10** (Priority-A PDFs: Weller 1948, Youngner 1954, Scherer HeLa 1953, Baron 1958) + **Round 11** one post-window transmission/counterexample (**P1-052**, Murakami & Kato 1978). **Not** bibliographic saturation. See **§7** for medium-vs-inoculation narrative.
 
 ### Round 6 update (user PDFs in `p1_history/refs/`)
 
@@ -61,6 +61,21 @@ This is the cleanest pre-CLSI **diagnostic** codification of the growth/maintena
 | **P1-013** | Leland 2007 | Secondary formats review; **no** dual-medium % recipes |
 
 **Interpretive gain (Round 10):** The dual-medium / low-or-no-serum-at-infection pattern is **operational by ~1953–54** in multiple labs, **rationalized** by serum as antibody/inhibitor (Baron, Li, Melnick wash, HeLa MS-100), and **codified** by Schmidt 1969 with **~2% FBS** recipes. Full narrative: **§7**.
+
+### Round 11 (R4 flag, 2026-11-06) — post-window serum-free maintenance transmission/counterexample
+
+Processed the R4-flagged primary **P1-052** (Murakami & Kato 1978, *Zentralbl Veterinarmed B* 25:110-113; DOI 10.1111/j.1439-0450.1978.tb00729.x): a field virus-detection trial in apparently healthy dogs using a **serum-free maintenance medium**.
+
+| Field | Value [VERIFIED src] |
+|-------|----------------------|
+| Growth | primary dog kidney monolayers in Eagle MEM + **10% bovine serum** |
+| Infection/observation | **serum-free maintenance** (Eagle MEM + yeast extract 0.1%, skim milk 0.1%, brain-heart infusion 0.35%, phytone 0.15%, PVP 0.04%, + 0.5% raw DK extract) |
+| Reference standard | Eagle MEM + **5% calf serum** |
+| Endpoint | CPE; serially passaged; uninoculated controls named |
+| Field result | **151 strains** of transmissible CPE-producing agents / **537 specimens** / **265** apparently healthy dogs / **114** dogs yielding |
+| Rationale | medium "devoid of antibodies and serum inhibitors" (cites **Baron & Low** = P1-048, ref 1, year misprinted 1955) |
+
+**Why it matters (conservative):** P1-052 is **post-window (1978)**, so it is not pre-institutional evolution evidence. It is **transmission** (the inhibitor lineage of P1-048/P1-008 still in use for field Isolation) and a **counterexample/caution** in two ways: (1) serum-omitted maintenance was openly used to read CPE and yield 151 "agents" from clinically normal animals; (2) the authors explicitly leave the deconfounding comparison aside — *"Comparison of virus isolations between the media with and without serum is left for a future study"* — and flag *"some of the viruses recovered may reflect contamination of cell cultures."* Even in a serum-free-maintenance protocol, the serum-vs-inoculum question is deferred, matching the pattern in Snippet **P1-S1**.
 
 ---
 
@@ -247,6 +262,8 @@ Supporting mid-decade practice:
 | **P1-009–012, 016** Fenner / CLSI / ATCC / ASM / UK SMI | Transmit **10% → ~2%** (or 1–3%); rationales **heterogeneous** (overgrowth, inhibitors, attachment, or none) |
 
 **P1-013** (Leland 2007) reviews Isolation **formats** after lock-in; does not re-derive medium %.
+
+**Post-codification transmission (1978):** **P1-052** (Murakami & Kato) still runs a **field Isolation** program on **serum-free maintenance** (citing Baron & Low = P1-048) and recovers 151 "CPE-producing agents" from 537 specimens of healthy dogs, while explicitly deferring the serum-vs-serum-free comparison and noting cell-culture contamination as a possible origin of some isolates [VERIFIED src]. The inhibitor rationale transmits; the deconfounding comparison remains deferred.
 
 ### What changed at the inoculation step? (one-line genealogy)
 

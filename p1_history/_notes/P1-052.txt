@@ -1,0 +1,67 @@
+P1-052 — Murakami T, Kato H (1978)
+"A trial for virus detection in healthy animals with a serum-free maintenance
+ medium for primary cell culture"
+Zentralbl Veterinarmed B. 1978;25:110-113. doi:10.1111/j.1439-0450.1978.tb00729.x
+Source PDF (gitignored): r4_non-isolation_standards_and_practice/refs/R4_serumfree_maintenance_1978.pdf
+
+NOTE: quote-sized extract only. German/French/Spanish summaries and the full
+reference list are omitted. The complete text lives in the gitignored refs/ PDF.
+
+=== KEY VERBATIM PASSAGES (English body + Summary; light OCR cleanup of O/o→%) ===
+
+Growth / switch:
+"Primary dog kidney (DK) cells were grown as monolayers in glass test tubes
+under the medium with 10% bovine serum. Cell sheets were washed twice and then
+rolled at 37C in a serum-free maintenance medium which contained given
+ingredients under study."
+
+Reference standard:
+"Cultures in Eagle's minimum essential medium (MEM) with 5% calf serum were
+regarded as the standard of reference."
+
+Serum-free maintenance composition:
+"Eagle's MEM containing 0.1% yeast extract (powdered, Difco), 0.1% skim milk
+(powdered, Difco), 0.35% brain heart infusion broth (powdered, Difco), 0.15%
+phytone (BBL), 0.04% polyvinylpyrrolidone (PVP, K-90, Cica); and 0.5% raw DK
+cell extract fluid was then added. In this medium the cell sheet could be kept
+in good condition for about 7 to 10 days without renewal of the medium."
+
+Problem with serum (inhibitor lineage):
+"This need causes problems in research on viruses, such as, endogenous
+contaminants of viruses and mycoplasmas (4), impossibility to heat over 56C,
+inhibitors and antibodies to viruses, lack of uniformity in quality, necessity
+of freeze-storage, high cost etc."
+
+Titration + field protocol (controls named):
+"Parallel infectivity titrations of some canine viruses, including adeno-,
+herpes-, parainfluenza-, and reovirus, were carried out with DK cell cultures.
+The cultures containing the substitute mixture described above presented
+infectivity titers almost the same as, or higher than, the cultures containing
+serum."
+
+"Four passages were made of inoculated and uninoculated control cell cultures
+before the purification of transmissible CPE-producing agents by the successive
+limiting dilution method."
+
+Field result:
+"A total of 151 strains of CPE-producing agents were isolated from 114 dogs
+derived from various environments (Table 2) and their identification is now in
+progress at this laboratory. The strains tested to date were not sensitive to
+antibiotics against mycoplasma..."
+
+Summary counts:
+"With this medium a total of 151 strains of transmissible CPE-producing agents
+were isolated from 537 specimens, including rectal, nasal, and pharyngeal
+swabs, collected from 265 apparently healthy dogs."
+
+Self-caveats:
+"A possible cause for the unusually high frequency of isolation of viruses may
+be that the medium is devoid of antibodies and serum inhibitors. Some of the
+viruses recovered may reflect contamination of cell cultures."
+
+"Comparison of virus isolations between the media with and without serum is
+left for a future study."
+
+Ref 1 (cites Baron & Low; year misprinted 1955 vs actual 1958):
+"1. BARON, S., and R. J. Low, 1955: New maintenance medium for cell culture.
+Science 128, 89."

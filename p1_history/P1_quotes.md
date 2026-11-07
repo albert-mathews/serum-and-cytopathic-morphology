@@ -397,4 +397,54 @@ Diagnostic TC review (CPE isolation, micro methods, intersecting serum pools). M
 Review of diagnostic cell-culture formats (traditional tubes, shell vial, coculture, transgenic lines) vs molecular methods. **No** quantitative growth/maintenance FBS tables. Useful only as **secondary timeline** of Isolation practice after institutional lock-in—not primary medium evolution evidence.
 
 
-*End quotes archive (through Round 10).*
+---
+
+## Round 11 — R4 flag: Murakami & Kato 1978 (serum-free maintenance in field Isolation)
+
+**Source:** full text extracted from `r4_non-isolation_standards_and_practice/refs/R4_serumfree_maintenance_1978.pdf` (4 pp). [VERIFIED src]
+
+### P1-052 — Murakami & Kato 1978, *Zentralbl Veterinarmed B* 25:110-113
+
+**Growth vs serum-free maintenance**
+
+> "Primary dog kidney (DK) cells were grown as monolayers in glass test tubes under the medium with 10% bovine serum. Cell sheets were washed twice and then rolled at 37°C in a serum-free maintenance medium which contained given ingredients under study."
+
+> "Cultures in Eagle's minimum essential medium (MEM) with 5% calf serum were regarded as the standard of reference."
+
+**Serum-free maintenance composition**
+
+> "Eagle's MEM containing 0.1% yeast extract (powdered, Difco), 0.1% skim milk (powdered, Difco), 0.35% brain heart infusion broth (powdered, Difco), 0.15% phytone (BBL), 0.04% polyvinylpyrrolidone (PVP, K-90, Cica); and 0.5% raw DK cell extract fluid was then added. In this medium the cell sheet could be kept in good condition for about 7 to 10 days without renewal of the medium."
+
+**Stated problem with serum (inhibitor lineage)**
+
+> "This need causes problems in research on viruses, such as, endogenous contaminants of viruses and mycoplasmas (4), impossibility to heat over 56°C, inhibitors and antibodies to viruses, lack of uniformity in quality, necessity of freeze-storage, high cost etc."
+
+**Infectivity titration check + field Isolation protocol (controls named)**
+
+> "Parallel infectivity titrations of some canine viruses, including adeno-, herpes-, parainfluenza-, and reovirus, were carried out with DK cell cultures. The cultures containing the substitute mixture described above presented infectivity titers almost the same as, or higher than, the cultures containing serum."
+
+> "Four passages were made of inoculated and uninoculated control cell cultures before the purification of transmissible CPE-producing agents by the successive limiting dilution method."
+
+**Field result (post-window transmission)**
+
+> "A total of 151 strains of CPE-producing agents were isolated from 114 dogs derived from various environments (Table 2) and their identification is now in progress at this laboratory. The strains tested to date were not sensitive to antibiotics against mycoplasma..."
+
+**Summary (clean counts)**
+
+> "With this medium a total of 151 strains of transmissible CPE-producing agents were isolated from 537 specimens, including rectal, nasal, and pharyngeal swabs, collected from 265 apparently healthy dogs."
+
+**Two self-caveats that matter for the P1 thesis**
+
+> "A possible cause for the unusually high frequency of isolation of viruses may be that the medium is devoid of antibodies and serum inhibitors. Some of the viruses recovered may reflect contamination of cell cultures."
+
+> "Comparison of virus isolations between the media with and without serum is left for a future study."
+
+**Reference 1 (cites the Baron & Low maintenance-medium paper, year misprinted)**
+
+> "1. BARON, S., and R. J. Low, 1955: New maintenance medium for cell culture. Science 128, 89." *(sic — 1955; actual P1-048 is 1958)*
+
+**Role:** Post-window (1978) **transmission/counterexample**, not pre-institutional evolution. Confirms the Baron & Low inhibitor lineage is still invoked in the field a decade after Schmidt 1969 codification; serum-omitted maintenance used to isolate 151 "CPE-producing agents" from apparently healthy dogs; the authors explicitly defer the serum-vs-serum-free comparison ("left for a future study") and flag cell-culture contamination as a possible source of some isolates.
+
+---
+
+*End quotes archive (through Round 11).*
