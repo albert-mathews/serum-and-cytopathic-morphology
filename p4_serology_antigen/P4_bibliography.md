@@ -6,18 +6,25 @@ lost. One row per distinct source. Items already on the fetch wishlist are cross
 for the paper, and if a non-peer-reviewed item "says the same thing," the peer-reviewed equivalent
 is listed so the paper cites the latter.
 
+> **Basis note (updated 2026-11-08 — full texts received).** Section B full texts were fetched into
+> `refs/` and read. Every peer-reviewed source in §A, §A2, and §A3 is now `[VERIFIED src]`
+> (quotes verified against the full text; findings extended in `P4_reading_notes.md`), **except**
+> **Saliki 1998 (P4B-03 / `P4W-07`)**, whose PDF is a scanned image with no text layer and remains
+> `[DATA REQUIRED]` — OCR pending. Bolin 1994 (`P4W-13`, §C, handed to R1) is likewise scanned and
+> unverified. The kit inserts/catalogues backing the CSV rows were already full-text reads.
+
 ## A. Peer-reviewed sources (citable)
 
 | ID | Citation | Provenance of note | P4 use |
 |----|----------|--------------------|--------|
-| P4B-01 | Kainulainen MH et al. 2026. Complement neutralization via cell-derived epitopes on enveloped viruses. mBio 17(3):e0170925. DOI 10.1128/mbio.01709-25. PMID 41685933 | found Europe PMC full-text search | Anchor prior art: neutralizing antibody binds host GM2 ganglioside (cell-derived epitope) |
+| P4B-01 | Kainulainen MH et al. 2026. Complement neutralization via cell-derived epitopes on enveloped viruses. mBio 17(3):e0170925. DOI 10.1128/mbio.01709-25. PMID 41685933 | full text — refs/P4W-05 | Anchor prior art: neutralizing antibody binds host GM2 ganglioside (cell-derived epitope) |
 | P4B-02 | Ellis J et al. 2023. SARS coronavirus 2-reactive antibodies in bovine colostrum. Can Vet J 64(4):337-43. PMID 37008643 | found Europe PMC | Serum ingredient cross-reacts with "viral" antigen |
-| P4B-03 | Saliki JT et al. 1998. Tick cell culture-derived Anaplasma antigen C-ELISA. Ann N Y Acad Sci 849:273-81. DOI 10.1111/j.1749-6632.1998.tb11059.x. PMID 9668475 | PubMed E-utilities | Reference antigen = infected cell lysate (census candidate) |
+| P4B-03 | Saliki JT et al. 1998. Tick cell culture-derived Anaplasma antigen C-ELISA. Ann N Y Acad Sci 849:273-81. DOI 10.1111/j.1749-6632.1998.tb11059.x. PMID 9668475 | scanned PDF — OCR pending (refs/P4W-07) | Reference antigen = infected cell lysate (census candidate) |
 | P4B-04 | Beier D et al. 2004. New BLV-producing cell line. J Virol Methods 121(2):239-46. DOI 10.1016/j.jviromet.2004.06.017. PMID 15381362 | PubMed E-utilities | Antigen-producing culture contaminant → false serology |
 | P4B-05 | Xu Q et al. 2022. Plant-derived E2 immunochromatographic strip for CSFV. Microbiol Spectr 10(4):e0105022. DOI 10.1128/spectrum.01050-22. PMID 35862968 | PubMed E-utilities | Lateral-flow format; culture antigen FBS risk noted |
 | P4B-06 | Sherlock CH et al. 1986. HSV-2 AG-4 CF type specificity. J Clin Microbiol 24(6):1093-7. PMID 3023439 | Europe PMC | Commercial CF antigen not type-specific |
 | P4B-07 | Browne AS et al. 2025. Dengue immunoassay using host + viral biomarkers. Bioconjug Chem 36(7):1474-82. PMID 40503688 | Europe PMC | Host material diagnostically informative in "viral" assay |
-| P4B-08 | Krishnan A et al. 2022. Convalescent serum exosomes as COVID-19 diagnostic. Exp Biol Med 247(14):1244-52. DOI 10.1177/15353702221092984. PMID 35549570 | PubMed E-utilities | False-positive serology from cross-reactivity (general) |
+| P4B-08 | Krishnan A et al. 2022. Convalescent serum exosomes as COVID-19 diagnostic. Exp Biol Med 247(14):1244-52. DOI 10.1177/15353702221092984. PMID 35549570 | full text — refs/P4W-22 | Minireview (not experimental): asserts false positives come from "cross-reactivity of the viral antigens or… patient-related autoimmune factors", and that EVs share endosomal sorting with viruses — background/argument only |
 
 ## A2. Non-viral-epitope evidence — interference, cross-reactivity, and disconfirmation (added 2026-11-06)
 

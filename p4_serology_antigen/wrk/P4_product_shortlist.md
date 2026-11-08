@@ -49,10 +49,34 @@ selection logic and the shortlist; provenance extraction goes into `../p4_antige
 | Lateral-flow / rapid antigen | influenza, RSV, SARS-CoV-2, rotavirus | capture antibody raised against what; antigen standard from what |
 | Neutralization | (productized or paper) | titer defined by CPE reduction in the same dual-serum system (R1 link) |
 
-## Popularity anchors found (2026-11-06) — citable, not asserted
+## Popularity anchors found (2026-11-06) — located, then verified (2026-11-08)
 
 These name the category-leading commercial products per assay type, so the shortlist is popularity-
-grounded. Full citations live in `../P4_bibliography.md` (add as located).
+grounded. Full citations live in `../P4_bibliography.md`. **(2026-11-08) All five anchors were fetched
+and read in full (`P4W-23`…`P4W-27`) and re-tagged `[VERIFIED src]`.** Product-name checks and the
+antigen-provenance read per anchor:
+
+- **Lutz 2023** names **Enzygnost** (Siemens) as dominant, VIDAS second; it does **not** name
+  EUROIMMUN or Captia (medium/low-quality kits are relegated to supplementary tables) — do not rely
+  on it for EUROIMMUN/Captia popularity. Measles assay antigen is noted as either recombinant
+  nucleoprotein or whole-virus antigen, i.e. the whole-virus-vs-recombinant split is real.
+- **Brady 2024** names **Enzygnost, EUROIMMUN, DiaSorin Liaison/XL** as the most-used in its corpus
+  — a genuine popularity anchor for those three.
+- **Silgado 2026** evaluates **Vircell VirClia** Chagas; its antigen is **native TESA
+  (trypomastigote excreted-secreted antigen)** — culture-derived material, *not* recombinant (unlike
+  the Roche Elecsys comparator, which is recombinant).
+- **Levin 2025** is a novel in-house **"Hybrid Lyme ELISA"** (C6 peptide + recombinant VlsE), not a
+  named commercial product — a popularity anchor in spirit for the single-tier format, not for a
+  specific kit.
+- **Plebani 2021** evaluates **COVID19SEROSpeed** (BioSpeedia); its comparator **Diesse Enzywell
+  uses "native antigens from infected Vero E6 cells"** — a named commercial assay whose antigen is
+  cell-culture-isolate material, directly P4-relevant.
+
+**Cross-cutting point for the shortlist:** among the anchored products, antigen provenance spans the
+spectrum — recombinant/synthetic (Hybrid Lyme ELISA, Roche Elecsys), **native culture-derived**
+(Vircell TESA, Diesse Vero-E6 antigens), and undisclosed-or-mixed (the measles EIAs). The dispositive
+question (does any sold test escape the under-determination?) is answered by *grading* this spectrum,
+not by assuming all modern kits are recombinant.
 
 | Assay type | Anchor (who establishes popularity) | Named/implied products | Anchor locator |
 |-----------|--------------------------------------|------------------------|----------------|
