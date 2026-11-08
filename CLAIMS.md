@@ -28,9 +28,12 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 
 - **ID:** `C###`, stable and sequential. Cite as `C###` in notes and in `tex/` (can become a `\label`).
 - **Follows from:** the claim IDs this one rests on (the dependency arrows of the build).
-- **Evidence:** one of the house tags `[VERIFIED src]` (read in the document), `[VERIFIED-ABSTRACT]`
-  (snippet/abstract only), `[FIGURE]`, `[SUPPLIER]`, `[IN-HOUSE]`, `[UNVERIFIED]`, `[DATA REQUIRED]`,
-  plus a source pointer (corpus file / snippet / bibliography).
+- **Evidence:** one of the house tags `[VERIFIED src]` (read in the full document), `[FIGURE]`,
+  `[SUPPLIER]`, `[IN-HOUSE]`, `[UNVERIFIED]`, `[DATA REQUIRED]`, plus a source pointer (corpus file /
+  snippet / bibliography). **Abstract-only research is not allowed**: an abstract may identify a source but
+  not ground a claim. A claim that rests only on an abstract is `[DATA REQUIRED]` until the full text is
+  read. `[VERIFIED-ABSTRACT]` is retained only as a legacy provenance marker for pre-existing
+  abstract-derived material, never as a tag for a new claim.
 - **Status:** `stipulated` | `assumed` | `established` | `established-scoped` | `provisional` | `predicted`.
 - **Stream(s):** which stream owns the evidence (R1–R4, P1–P7).
 
@@ -106,6 +109,17 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   (master-seed extraneous-agent testing) prescribes growth 5–10% serum → later 5–20%, i.e. serum held or
   raised rather than stepped down; most other regulators leave serum % unspecified.
   *(Evidence: [VERIFIED src] VIRPRO1013; `r4_…/wrk/VIRPRO1013_analogs.md`; Status: established; Stream: R4.)*
+
+- **C027 · Observation** — **Isolation EQA reports sensitivity spread and control heterogeneity.** In the
+  first WHO National Influenza Centre cell-culture Isolation EQA (n=21) the lowest-titre samples were isolated
+  by only 52–62% of laboratories while high-titre samples were isolated by ≥90%, and 2 of 21 laboratories
+  reported a positive Isolation result on a virus-free negative sample; within the same panel a negative
+  Isolation control was used by only 16 of 21 laboratories and a positive control by only 12 of 21 (P7-003).
+  In a 51-laboratory BVDV antibody ring trial four antibody-positive pooled milk samples were called negative
+  in 43.6%, 50.9%, 3.6% and 56.4% of investigations, tracking ELISA-kit choice and incubation protocol
+  (P7-007).
+  *(Evidence: [VERIFIED src] P7-003 Reading 2017, P7-007 Wernike & Beer 2022; Status: established-scoped —
+  two panels; Stream: P7.)*
 
 ## Lemmas (supporting established findings)
 

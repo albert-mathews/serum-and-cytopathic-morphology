@@ -16,10 +16,24 @@ this file holds everything else that must be spoken the same way across all stre
 - Keep the Mermaid source beside the prose it explains. It must use standard Mermaid syntax that renders
   on GitHub (no private graph tooling).
 
-## 3. Evidence tags
+## 3. Sources and evidence tags
+
+**Abstract-only research is not allowed.** An abstract (or search snippet) may be used only to *identify* a
+potential source that must then be read in full; it is not a basis for a load-bearing claim, a corpus field,
+or a paper-ready sentence. A claim that rests only on an abstract is `[DATA REQUIRED]` until the full text is
+read, not `[VERIFIED-ABSTRACT]`.
+
+- An abstract-only source goes on the stream's PDF wishlist (full text to be fetched) and its claim is
+  deferred. Until then it is flagged `full text outstanding`, never quoted as settled evidence.
+- `[VERIFIED src]` means read in the full document.
+- `[VERIFIED-ABSTRACT]` is retained **only** as a *provenance marker for pre-existing abstract-derived
+  material* (material already recorded before this rule); it is not an acceptable evidence tag for a new
+  claim. New abstract-derived material is `[DATA REQUIRED]` until the full text is read.
+
 Every quantitative or extractive claim carries one of the house tags:
-`[VERIFIED src]` (read in the document), `[VERIFIED-ABSTRACT]` (snippet/abstract only), `[FIGURE]` (read
-off a plot), `[SUPPLIER]`, `[IN-HOUSE]`, `[UNVERIFIED]`, `[DATA REQUIRED]`.
+`[VERIFIED src]` (read in the full document), `[VERIFIED-ABSTRACT]` (legacy provenance marker — abstract
+only, not a claim basis), `[FIGURE]` (read off a plot), `[SUPPLIER]`, `[IN-HOUSE]`, `[UNVERIFIED]`,
+`[DATA REQUIRED]`.
 
 ## 4. Identity / anonymity
 Tracked files use role codes only (CRO, IR1, IR2, IR2v, IR3v, or pilot codes). Real names of raters,
