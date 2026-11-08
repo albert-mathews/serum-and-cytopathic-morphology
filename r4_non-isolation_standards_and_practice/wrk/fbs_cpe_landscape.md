@@ -263,3 +263,17 @@ what changes with serum is the *amount/morphology* scored, not the presence of t
 This is the landscape's second axis: the "CPE" label is applied to serum-modified morphology
 at every serum level, with the field's serum-free CPE lines being the cleanest modern
 demonstration that serum is not the *sine qua non* of the label — the *morphology change* is.
+
+---
+
+## Article-addendum line (Substack-ready, 2026-11-06)
+
+After the VIRPRO1013 outlier was first noticed, an extended sweep of the other jurisdictions'
+equivalents — European Pharmacopoeia (2.6.24 / 2.6.25 / 5.2.3 / 5.2.4), EMA/CVMP, VICH GL44,
+WOAH Terrestrial Manual 1.1.9, ICH Q5A(R2) / Q5D, and the US *human* rule 21 CFR 610.18 —
+turned up **no other body that prescribes a numeric FBS concentration for either the growth or
+the maintenance phase**: every one leaves serum % to the manufacturer and constrains only
+serum *quality* (freedom from adventitious agents and antibodies). VIRPRO1013 (US veterinary
+biologics) is therefore the single public serum recipe found anywhere, and it runs *opposite*
+to the diagnostic convention — a wide hold-or-increase 5–20% maintenance rather than the
+10→2 step-down.
