@@ -265,3 +265,66 @@ Papers/citations found during search that state or likely state FBS%/serum% befo
 2. Pull Cardoso 2000 to complete VI227 pre-inoculation FBS%.
 3. Re-OCR Springer Arch Virol PDFs (PMC708*) where HTML is abstract-only.
 
+---
+
+## Abstract-only compliance sweep (2026-11-06 — REQUIRED, not optional)
+
+Per the updated agent guidance, **abstract-only data is no longer permitted** as a basis for
+corpus values. Sweep found **12 rows** carrying FBS values (and pseudo-quotes) that were coded
+from abstracts only. Resolution:
+- **1 row now verified from open-access full text:** **VI247** (SARS-CoV-2 clinical isolation,
+  PMC8606911) — "10% FBS growth / 2.5% FBS infection+maintenance" confirmed verbatim;
+  `access` set to `fulltext_verified`.
+- **11 rows → full text must be fetched.** Marked `abstract_full_text_outstanding` in
+  `isolation-refs_reparse.csv`; their corpus values are **provisional** until you drop the PDFs
+  and I re-extract quotes.
+
+| ID | Year | Virus / context | DOI / PMID | Drop as |
+|----|------|-----------------|-----------|---------|
+| VI234 | 1990 | HSV clinical isolation (Omni Serum comparator) | PMID 2159017 | `VI234_HSV_omni_serum_1990.pdf` |
+| VI239 | 2022 | Influenza A H3N2 clinical isolation (MDCK) | 10.11648/j.ijmb.20220701.14 | `VI239_Influenza_H3N2_MDCK_2022.pdf` |
+| VI240 | 1981 | ophthalmic viruses, Hep-2 (McSwiggan) | 10.1136/bjo.65.8.546 | `VI240_McSwiggan_Hep2_1981.pdf` |
+| VI241 | 1981 | ophthalmic viruses, HEK (same McSwiggan paper) | 10.1136/bjo.65.8.546 | *(same PDF as VI240)* |
+| VI242 | 1981 | ophthalmic viruses, HEI (same McSwiggan paper) | 10.1136/bjo.65.8.546 | *(same PDF as VI240)* |
+| VI243 | 1962 | bovine enteroviruses, primary bovine kidney | 10.3168/jds.S0022-0302(62)89523-X | `VI243_bovine_enterovirus_1962.pdf` |
+| VI244 | 1988 | CMV shell vial, MRC-5/FLOW2000 | 10.1002/cyto.990090311 | `VI244_CMV_shell_vial_1988.pdf` |
+| VI246 | 2015 | FMDV, ZZ-R 127 / LFBK-αvβ6 | PMID 26082457 | `VI246_FMDV_ZZR127_2015.pdf` |
+| VI249 | 2013 | Influenza A exhibition swine, MDCK SFM | 10.1177/1040638712470449 | `VI249_IAV_swine_SFM_2013.pdf` |
+| VI266 | 2023 | HRSV clinical (HeLa/HEp-2/Vero) | 10.3855/jidc.17462 | `VI266_HRSV_2023.pdf` |
+| VI267 | 2016 | HPIV-1/3, MNT-1 melanoma line | 10.1111/1348-0421.12446 | `VI267_HPIV_MNT1_2016.pdf` |
+
+Note: VI240/VI241/VI242 are three cell-line arms of the **one** McSwiggan 1981 paper — a single
+PDF covers all three. VI239 and VI243 have no Europe PMC record (publisher-only) — fetch direct.
+
+---
+
+## P4 serology-classification blockers (2026-11-08 — bot-blocked / scanned, needed for P4's serology pass)
+
+P4 processed all 189 R1 refs for serology/antigen classification (`p4_serology_antigen/p4_r1_roster.csv`).
+**19 refs remain unreadable** — open-access links that are bot-blocked or are scanned/PDF-only. Drop the
+PDF into `r1_isolation_standards_and_practice/refs/isolation_practice/` and P4 will read/OCR and finish
+the classification. (The 7 paywall + 11 abstract refs above are already tracked further up this file.)
+
+| ID | Agent / context | Link | Blocker | Action |
+|----|-----------------|------|---------|--------|
+| VI225 | parainfluenza 1-3 / SV5 (Numazaki) | jstage mandi1957 12_3_275 | encrypted/scanned PDF | fetch → OCR |
+| VI226 | measles SSPE (brain biopsy, Mirchamsy) | archrazi 108816 | scanned image | fetch → OCR |
+| VI227 | IBDV (CER/Vero, Silva) | redalyc 179713982009 | binary PDF | fetch → OCR |
+| VI228 | PRRSV EDRD-1 (Takikawa) | jstage jvms 59_1_31 | 502 bot-block | browser fetch |
+| VI229 | PRRSV EDRD-1 (Jusa) | jstage jvms 59_4_281 | 502 bot-block | browser fetch |
+| VI238 | FMDV isolation SOP (ANSES) | sitesv2.anses.fr | 503 | browser fetch |
+| VI265 | PPRV (Saurashtra Gujarat) | thepharmajournal 11-12-166-726 | PDF missing | browser fetch |
+| VI270 | Lymphocystivirus (IFREMER) | archimer.ifremer.fr 51774 | OCR binary PDF | fetch → OCR |
+| VI271 | measles Vero/hSLAM (CDC lab tool) | cdc.gov measles vero-slam | 403 bot-block | browser fetch |
+| VI278 | FAdV-8a (Heliyon) | 10.1016/j.heliyon.2024.e26578 | citation only | browser fetch |
+| VI279 | Getah virus piglets (VIRULENCE) | 10.1080/21505594.2026.2714605 | citation only | browser fetch |
+| VI280 | PEDV intestinal (Transbound Emerg Dis) | 10.1155/tbed/1340053 | citation only | browser fetch |
+| VI281 | HEV retail pork pâté (Viruses/MDPI) | 10.3390/v18070760 | 403 bot-block | browser fetch |
+| VI284 | Negevirus mosquitoes (Virology J) | 10.1186/s12985-025-02961-x | bot-block | browser fetch |
+| VI285 | SARS-CoV-2 feline (Vet Sci/MDPI) | 10.3390/vetsci13040374 | 403 bot-block | browser fetch |
+| VI289 | JEV culture (Viruses/MDPI) | 10.3390/v18080850 | 403 bot-block | browser fetch |
+| VI290 | Influenza A MDCK (Emerg Microbes Infect) | 10.1080/22221751.2024.2387449 | 403 bot-block | browser fetch |
+| VI292 | SARS-CoV-2 systems (iScience/Cell) | 10.1016/j.isci.2023.106634 | 403 bot-block | browser fetch |
+| VI44 | enteroviruses (Hsiung) | PMID 12839716 | no PDF in repo | library fetch |
+
+
