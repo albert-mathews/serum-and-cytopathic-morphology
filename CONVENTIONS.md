@@ -52,3 +52,18 @@ in tracked files, commit messages, branch names, or headings.
 
 ## 7. No commit / no push
 Leave changes in the working tree for GitHub Desktop unless Albert explicitly asks to commit or push.
+
+## 8. Research strategy (all agents)
+- Literature work follows [`agent-settings/research-strategy.md`](agent-settings/research-strategy.md); find
+  publications from any legitimate source of record.
+- A paywalled/blocked full text is logged in the stream's `<STREAM>_pdf_wishlist.md` with columns:
+  **title · year · author · identifier (PMID/DOI/stable URL) · drop-as filename** (saved into
+  `<stream>/refs/`). One row per document; the owner fetches. Until the full text is read, the claim stays
+  `[DATA REQUIRED]` (full text outstanding). Never guess a DOI/locator.
+- A scanned (image-only) PDF is OCR'd with `tools/ocr_pdf.py` before extraction; improvements go back into
+  that tool so future agents inherit them (see `tools/README.md`).
+
+## 9. Python environment (all agents)
+- Run all Python through the single shared venv `tools/venv` (gitignored), recreated from
+  `tools/requirements.txt`. See [`agent-settings/environment.md`](agent-settings/environment.md). No
+  per-stream venvs.

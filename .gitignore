@@ -80,6 +80,7 @@ r1_isolation_standards_and_practice/APHIS FOIA/
 # Python / tooling environments and caches
 .venv/
 venv/
+tools/venv/
 __pycache__/
 *.pyc
 *.pyo

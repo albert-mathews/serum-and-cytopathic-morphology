@@ -1,0 +1,17 @@
+# Consolidated runtime for serum-and-cytopathic-morphology
+# Recreate the shared venv:
+#   Windows:   python -m venv tools/venv
+#              tools/venv/Scripts/pip install -r tools/requirements.txt
+#   macOS/Linux: python -m venv tools/venv
+#              tools/venv/bin/pip install -r tools/requirements.txt
+# Developed against CPython 3.10.11 (see agent-settings/environment.md).
+
+matplotlib>=3.7
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+openpyxl>=3.1
+python-docx>=1.1
+PyMuPDF>=1.23
+rapidocr-onnxruntime>=1.3
+tomli>=2.0; python_version < "3.11"
