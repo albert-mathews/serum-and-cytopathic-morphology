@@ -1,0 +1,145 @@
+# P4 classification of R1 refs (subagent output, consolidated). ref_id | serology | provenance | matched_mock | note
+# provenance: CN=culture-native, REC=recombinant, NA=n/a, NS=not-stated
+VI100 | neutralization,ELISA | CN | no | HAdV outbreak IgG/IgA + NT
+VI101 | IFA,neutralization,ELISA | CN | not-stated | genus mAb typing + NT pools
+VI102 | none | NA | n/a | no serology
+VI105 | none | NA | n/a | no serology
+VI106 | neutralization,ELISA | CN | no | HAdV-IgA ELISA + NT
+VI107 | neutralization,HI | CN | not-stated | reovirus NT + HI typing
+VI109 | IFA(FAT) | CN | yes | rabies DFA
+VI110 | none | NA | n/a | parainfluenza field isolation; no serology
+VI111 | none | NA | n/a | Crohn inoculum CPE; no serology
+VI112 | IFA,RIA | CN | no | HAV antigen
+VI113 | neutralization,HI,HA,IEM | CN | not-stated | enterovirus/adeno/reo typing
+VI115 | IFA | CN | not-stated | CMV mAb
+VI116 | none | NA | n/a | C. difficile toxin confounding
+VI117 | none | NA | n/a | no serology
+VI118 | IFA | CN | not-stated | HSV DFA
+VI121 | IFA(IFAT) | CN | yes | adeno/coxsackie IFAT + uninoculated control
+VI98 | IFA(IFAT) | CN | yes | Sinu virus IFAT
+VI99 | IFA | CN | not-stated | PEDV N IFA
+VI200 | none | NA | n/a | CPE + RT-PCR
+VI201 | none | NA | n/a | TGEV RT-PCR/clone/seq
+VI202 | antibody(serum) | CN | not-stated | TGE seroconversion; method not in accessible text
+VI203 | IFA/immunoperoxidase | CN | yes | HSV; non-viral keratitis controls negative
+VI204 | none | NA | n/a | HSV/HCMV plaque
+VI205 | ELISA | REC | no | scFv vs recombinant gD
+VI206 | antibody(serum IgG) | CN | not-stated | measles SSPE brain IgG
+VI208 | none | NA | n/a | rhinovirus PMNL chemotaxis
+VI209 | none | NA | n/a | IBR infectivity titration
+VI210 | neutralization,CF | CN | not-stated | rat coronavirus mono antisera
+VI211 | none | NA | n/a | coronavirus tissue culture propagation
+VI212 | none | NA | n/a | enterovirus isolation (abstract)
+VI214 | neutralization(serum) | CN | not-stated | HCoV serum NT
+VI215 | none | NA | n/a | ISAV RT-PCR
+VI216 | none | NA | n/a | SARS CPE inhibition/plaque
+VI217 | none | NA | n/a | PIV/PRCV CPE inhibition
+VI218 | IFA | CN | not-stated | enterovirus/adeno genus mAb + Ad40/41 ELISA
+VI219 | IFA,neutralization(VN) | CN | yes | PEDV IFA + VN; uninoculated control
+VI220 | none | NA | n/a | JEV/YFV glycoprotein labeling
+VI221 | antibody(serological) | CN | not-stated | parainfluenza antigenic characterization
+VI222 | none | NA | n/a | CHIKV monolayer transmission
+VI223 | none | NA | n/a | rabies cell-culture comparison
+VI224 | western | CN | not-stated | FIPV envelope protein
+VI230 | IFA | CN | not-stated | influenza isolate ID
+VI231 | none | NA | n/a | CE virus EM
+VI232 | none | NA | n/a | WNV antisense PMO/luc
+VI233 | none | NA | n/a | rhinovirus RT-PCR vs isolation
+VI235 | IFA,immunoperoxidase | CN | not-stated | ZIKV 4G2 mAb
+VI236 | none | NA | n/a | YFV CPE+qRT-PCR+NGS
+VI237 | none | NA | n/a | WNV CPE+RT-PCR
+VI245 | none | NA | n/a | review chapter
+VI248 | none | NA | n/a | SARS CPE+qRT-PCR+NGS
+VI250 | none | NA | n/a | flu multiplex RT-PCR
+VI251 | IFA | CN | not-stated | RSV IFA
+VI252 | hemadsorption,HA,EIA | CN | not-stated | paramyxovirus
+VI253 | immunoperoxidase | CN | not-stated | hMPV antigen
+VI254 | serological(antigenic) | NS | not-stated | Mizuta respiratory microplate
+VI255 | serological(antigenic) | NS | not-stated | Mizuta
+VI256 | serological(antigenic) | NS | not-stated | Mizuta
+VI257 | serological(antigenic) | NS | not-stated | Mizuta
+VI258 | serological(antigenic) | NS | not-stated | Mizuta
+VI259 | serological(antigenic) | NS | not-stated | Mizuta
+VI260 | serological(antigenic) | NS | not-stated | Mizuta
+VI261 | serological(antigenic) | NS | not-stated | Mizuta
+VI262 | not-stated | NS | not-stated | abstract only
+VI263 | not-stated | NS | not-stated | abstract only
+VI264 | immunoperoxidase | CN | not-stated | SFTSV convalescent antiserum
+VI268 | neutralization(VNT) | CN | not-stated | FMDV VNT
+VI269 | ELISA(liquid-phase blocking) | CN | not-stated | FMDV LPB-ELISA
+VI272 | none | NA | n/a | ranavirus H&E/meta/PCR/seq
+VI273 | none | NA | n/a | NNV qPCR/reporter
+VI274 | ELISA(indirect) | CN | yes | IBDV indirect ELISA
+VI275 | neutralization(VNT) | CN | not-stated | PPRV VNT
+VI276 | IFA | CN | not-stated | bat MRV IFA
+VI277 | IFA(IIFT),neutralization(VNT) | CN | yes | DEV IIFT + uninfected control
+VI282 | none | NA | n/a | EBOV TCID50/qRT-PCR
+VI283 | western,IFA | CN | not-stated | PRRSV N 4A5
+VI286 | western,IFA | CN | yes | FPV VP2
+VI287 | none | NA | n/a | SARS patient antibody study
+VI288 | none | NA | n/a | CyHV-2 PCR/histo/TEM
+VI291 | IFA | CN | yes | orthohantavirus N IFA
+VI293 | IFA,western,RFFIT | CN | yes | rabies FITC mAb
+VI50 | none | NA | n/a | HAdV PCR/seq
+VI51 | IFA | CN | yes | BEV VP2
+VI52 | none | NA | n/a | herpes B qPCR/plaque/TEM/WGS
+VI53 | IFA,neutralization | CN | yes | BVDV
+VI54 | none | NA | n/a | enterovirus rRT-PCR/NGS
+VI55 | IFA,western,ELISA | REC | yes | mouse anti-NP serum (E. coli NP)
+VI56 | none | NA | n/a | sarbecovirus TCID50/seq
+VI57 | ELISA(dsRNA mAb) | CN | yes | MAVRIC anti-dsRNA
+VI58 | IFA | CN | not-stated | JEV NS1
+VI59 | IFA | CN | yes | BVDV yak serum
+VI60 | IFA,western | CN | yes | PIV5 NP
+VI61 | none | NA | n/a | Jeilongvirus seq
+VI62 | none | NA | n/a | HAdV PCR/CPE
+VI63 | IFA,IHC,ELISA | CN | yes | PRRSV N mAb
+VI64 | none | NA | n/a | HAdV-55 PCR/WGS
+VI65 | none | NA | n/a | mumps RT-PCR/Sanger
+VI66 | none | NA | n/a | FAdV PCR/seq
+VI67 | IFA | CN | yes | BEV uninfected control
+VI68 | none | NA | n/a | camelpox PCR/NGS
+VI69 | immunoperoxidase | CN | yes | ASFV p30
+VI70 | IFA,ELISA(blocking) | CN | yes | DAdV-3 2F12
+VI71 | none | NA | n/a | polio VHH panel; CPE/rRT-PCR/VP1
+VI72 | none | NA | n/a | SARS compound/TCID50
+VI73 | western | CN | yes | HSV-1 gB
+VI74 | neutralization(VNT),ELISA | CN | no | DENV-2 CPE-VNT
+VI75 | none | NA | n/a | alphavirus pan-alpha RT-PCR
+VI76 | none | NA | n/a | CMNV RT-qPCR
+VI77 | IFA,IHC | CN | yes | PDCoV spike
+VI78 | none | NA | n/a | FAdV-4 PCR/NGS
+VI79 | western | CN | yes | RSV NP
+VI80 | HA | CN | not-stated | H3NX avian flu
+VI81 | IFA,IHC | CN | yes | FAdV fiber-2 5A5
+VI82 | none | NA | n/a | NNV TCID50/qPCR
+VI83 | western,IFA,ELISA | CN | yes | CPV VP2
+VI84 | western,IFA | CN | yes | PTV VP1
+VI85 | immunoperoxidase(IPMA) | CN | yes | feline astrovirus
+VI86 | none | NA | n/a | DTMUV RT-qPCR
+VI87 | neutralization(VNT) | CN | yes | duck orbivirus VNT
+VI88 | IFA | CN | yes | LSDV polyclonal
+VI89 | none | NA | n/a | FHV-1 gB/NGS
+VI90 | none | NA | n/a | HSV-2 TK/DP seq
+VI91 | none | NA | n/a | RSV/MeV qPCR
+VI92 | IFA | CN | not-stated | WNV IFA
+VI93 | western,IFA,Co-IP | CN | yes | DENV E; recombinant E DIII for SPR
+VI94 | none | NA | n/a | PDCoV sparrow RT-PCR
+INACCESSIBLE | VI225 | jstage encrypted PDF
+INACCESSIBLE | VI226 | archrazi scanned PDF
+INACCESSIBLE | VI227 | redalyc binary PDF
+INACCESSIBLE | VI228 | jstage 502
+INACCESSIBLE | VI229 | jstage 502
+INACCESSIBLE | VI238 | ANSES 503
+INACCESSIBLE | VI265 | pharmajournal PDF missing
+INACCESSIBLE | VI270 | IFREMER OCR binary
+INACCESSIBLE | VI271 | CDC 403 bot-block
+INACCESSIBLE | VI278 | DOI citation only
+INACCESSIBLE | VI279 | DOI citation only
+INACCESSIBLE | VI280 | DOI citation only
+INACCESSIBLE | VI281 | MDPI 403
+INACCESSIBLE | VI284 | BMC bot-block
+INACCESSIBLE | VI285 | MDPI 403
+INACCESSIBLE | VI289 | MDPI 403
+INACCESSIBLE | VI290 | T&F 403
+INACCESSIBLE | VI292 | Cell Press 403

@@ -13,12 +13,12 @@ only; quotes stay short and attributable. Role codes only.
 > read in full and re-tagged `[VERIFIED src]`, quote-checked against the full text and extended
 > below (P4W-05, -06, -08, -10, -11, -14, -15, -16, -17, -18, -19, -20, -21). P4W-09 (Liu 2016 VZV)
 > and P4W-22 (Krishnan 2022 exosomes) were also read in full and are recorded in
-> `P4_bibliography.md` (they are wishlist/bibliography rows, not cited in these notes). Two items
-> are received but are **scanned image PDFs with no text layer**, so they stay unverified
-> `[DATA REQUIRED]` (OCR pending): Saliki 1998 (`P4W-07`) and Bolin 1994 (`P4W-13`). The
-> handoff-to-R1 items (Giammarioli 2015 `P4W-12`, Bolin 1994 `P4W-13`) are noted here for
-> completeness; their extraction is filed to R1. The kit-insert/catalogue CSV rows
-> (P4-001…P4-011) were already full-text reads and are not affected.
+> `P4_bibliography.md` (they are wishlist/bibliography rows, not cited in these notes). Two scanned
+> (image-only) items were **OCR'd 2026-11-08** (RapidOCR) and are now readable: Saliki 1998 (`P4W-07`,
+> `[VERIFIED src]`, coded as `P4-019`) and Bolin 1994 (`P4W-13`, handed to R1). The handoff-to-R1
+> items (Giammarioli 2015 `P4W-12`, Bolin 1994 `P4W-13`) are noted here for completeness; their
+> extraction is filed to R1. The kit-insert/catalogue CSV rows (P4-001…P4-011) were already
+> full-text reads and are not affected.
 
 ---
 
@@ -44,18 +44,20 @@ serology) chains into P3 and is not yet populated here.
 competitive ELISA for serodiagnosis of anaplasmosis.* Ann N Y Acad Sci 849:273-81.
 DOI: 10.1111/j.1749-6632.1998.tb11059.x. PMID 9668475.
 
-`[DATA REQUIRED]` — full text received (`P4W-07`) but scanned image (no text layer); OCR pending.
+`[VERIFIED src]` — OCR'd full text (`P4W-07`), read 2026-11-08.
 
 > "Anaplasma marginale was propagated in a continuous tick cell line and
 > detergent-solubilized infected cells were used as antigen in a competitive ELISA"
 
-Reading for P4: the reference antigen is a **detergent-solubilized infected-cell lysate**
-from a continuous culture line. Veterinary domain (bovine). Exactly the `culture_isolate_lysate`
-reference-antigen pattern the census is designed to catch; the C-ELISA's specificity is argued
-against a complement-fixation comparator, not against a matched uninfected tick-cell lysate
-antigen. Mapped to `reference_antigen_source = culture_isolate_lysate`, `matched_mock_run`
-unaddressed. The abstract-only reading is now superseded — the PDF is received but must be
-OCR'd before `matched_mock_run` can be scored for the CSV row.
+Reading for P4: the reference antigen is a **crude detergent-solubilized lysate** of A. marginale
+propagated in the IDE8 tick cell line and harvested at 80-100% CPE (a rickettsial agent, not a
+virus — veterinary analogue). **Full-text addition (OCR):** a matched **uninfected tick-cell lysate
+negative control was run**, and the MAb "did not react with uninfected cell lysates (OD ≤0.08)"
+versus ≥1.5 for infected lysate — so the matched mock was **nonreactive**. Note (see §4f·ii): a
+nonreactive mock only rules out *baseline uninfected* reactivity; it does **not** establish that the
+reactive molecule is the A. marginale (MSP5) epitope, because the infected culture differs from the
+mock by much more than the organism particles. Coded as `P4-019`
+(`matched_mock_run = yes`, mock nonreactive).
 
 **Beier et al. 2004** — *Establishment of a new bovine leukosis virus producing cell line.*
 J Virol Methods 121(2):239-46. DOI: 10.1016/j.jviromet.2004.06.017. PMID 15381362.
@@ -379,7 +381,85 @@ half currently rests on one decisive reference-side anchor (Kainulainen) plus th
 interference literature (Song/Kricka/Costa/Kharlamova), which is the *same non-viral-epitope arm*
 at a different location. The still-open empirical question is the **matched-mock score**: whether
 the culture-derived reference antigens read positive on their own matched uninfected-culture
-material — that is where the census rows and the two vendor inserts (P4W-03/-04) are pointed.
+material. Kit inserts will *not* answer that (P4-001 shows they treat uninfected cells only as a
+counterstain, not a matched antigen; the immunoblot rows P4-009/-011 likewise carry no matched
+mock); it is answered by **primary papers**, i.e. the R1 dual-serum Isolation papers that report
+serology (TODO 5). The two outstanding vendor inserts (P4W-03/-04) are a *provenance-completeness*
+item for the veterinary rows only — not a blocker for the main argument.
+
+---
+
+## 4f. Two sufficiency gaps (recorded 2026-11-08, with Albert)
+
+Two inference gaps qualify how far the census can be read as "the signal is the viral epitope."
+Both were pointed out during review; they stand as qualifications over the whole stream.
+
+**(i) The recombinant "escape hatch" does not close the P3 inheritance link.** A recombinant antigen
+looks independent because it is a defined protein, not a crude lysate. But recombinance only fixes
+*which molecule is produced*, not *whether that molecule is the viral epitope*. The recombinant ORF is
+cloned from a "reference strain" whose genome was itself obtained from a culture+CPE-defined Isolate.
+Cloning a gene faithfully reproduces the culture-anchored sequence; it does not re-verify that the
+sequence came from a distinct particle class. So "recombinant VP7" is recombinant *of whatever the
+culture-anchored reference genome calls VP7* — a label reproduced, not an identity re-measured. Truly
+independent would require the sequence/analyte to never route through culture+CPE (e.g. mass-spec of a
+particle separated by non-culture class-defining biochemistry, or a clinical-direct specimen with an
+orthogonal non-culture identity).
+
+**(ii) A nonreactive matched mock does not establish viral-epitope specificity.** The mock subtraction
+(test − mock = "the virus") is only sound if test and mock differ *solely* by the viral particles. They
+cannot: there is no process that produces a pure viral-particle preparation, so no mock can ever be
+"the test minus pure virus." Infection transforms the entire culture — cytopathic degeneration, cell
+death and debris, host-protein up/down-regulation, virus–host interaction products (syncytia, membrane
+blebs, EVs, stress granules), and altered (depleted/acidified) medium. The infected culture therefore
+contains a large class of *non-viral* material that is absent (or differently constituted) in the
+healthy mock. A positive-on-infected / negative-on-mock result shows only that the signal requires the
+*infected (sickened) state* — not that the reacting molecule is the viral epitope. The mock rules out
+*baseline uninfected* reactivity; the viral attribution is then read back through the warrant, not
+measured. This qualifies every matched-mock row: Saliki (`P4-019`) and VI14 (`P4-014`) showing a
+nonreactive mock do **not** demonstrate an antigen validated against a viral epitope — only that
+uninfected cells did not react.
+
+---
+
+## 4g. Recombinant vs culture-direct, and the P3 link (2026-11-08, with Albert)
+
+The census reduces to a two-way antigen-provenance split, plus the P3 upstream trace:
+
+1. **Culture-direct** — the reference antigen or confirmation *is* the culture product (infected
+   monolayer / culture lysate / culture supernatant) or a functional read on it (CPE-suppression
+   neutralization, FAT/IFA, HA, Western). All nine P4-coded primary-paper serology rows are
+   culture-direct (`P4-012`…`P4-021`), as are the culture-lysate kit rows (`P4-001`, `-002`, `-005`, `-009`).
+2. **Recombinant** — a defined protein (or an antibody raised against one) stands in for the antigen.
+   In the census these are all `recombinant_source_unclear`: the insert names a "recombinant
+   VP7 / GP / NP / Borrelia protein" but does **not** state the ORF's source isolate (`P4-004`, `-006`,
+   `-008`, `-010`, `-011`).
+3. **Synthetic / clinical-direct** — zero rows. The escape route the prediction says would weaken it is
+   simply absent so far.
+
+**The logical equivalence (Albert):** a recombinant antigen whose ORF was cloned from a culture+CPE-defined
+reference strain is *not* more independent than a culture-direct antigen — it is the same
+culture-anchored definition with translation interposed. "Nothing lost in translation" is already
+generous: P3 documents that assembling a genotype out of a *mixed culture product* (host RNA, co-carried
+agents, EV cargo, medium components) and then assigning which contigs belong to "the virus" is far from
+error-free (`p3_genetics/sequence_origins/`). So each recombinant-with-unnamed-ORF row rests on the
+chain `cell culture → sequence assembly → recombinant → assay`, every hop assumed error-free, and no
+insert discloses the first hop.
+
+**Where P3 has already traced the reference to `culture_cpe`:** measles **Edmonston** (MEA-O1 Crowley
+`culture_cpe`, Edmonston/HeLa — the strain behind P4-002's EUROIMMUN lysate and any recombinant measles
+antigen), **bluetongue** (BTV-C1/-C2/-O1 `culture_cpe` — behind P4-004's recombinant VP7), and **BVDV**
+(NADL plaque-purified on MDBK, `culture_cpe`). A recombinant antigen only escapes if its ORF source
+strain — which the inserts do not name — traces `clinical_direct`; P3 finds `clinical_direct` is the
+minority, and for SARS-CoV-2 the same label spans both `clinical_direct` (MN908947) and `culture_cpe`
+(WIV04), so "recombinant NP" is under-specified.
+
+**Coverage.** All 189 R1 refs classified 2026-11-08 in `p4_r1_roster.csv`: **151 classified / 38
+wishlist** (fetch blockers appended to R1's `paywall_wishlist_combined.md`). Of the 151, **96 report a
+serology/antigen confirmation, and all but a handful are culture-native** (IFA/FAT/HA/HI/neutralization/
+western/IPMA on infected cells or supernatant). Recombinant antigens appear in only a few R1 refs
+(VI55 E. coli NP MAb, VI205 scFv-vs-gD, VI38 anti-N MAb against recombinant N) — consistent with §4g's
+point that "recombinant" lives mainly in the commercial kit inserts, whose ORFs trace culture-anchored
+references.
 
 ---
 

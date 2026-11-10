@@ -122,9 +122,34 @@ kit level.
 
 ## Remaining for type coverage
 
-- IFA and neutralization still need a popularity-grounded product/paper pick (the existing ZEUS CMV
-  IFA row is a convenience start). Open.
+- IFA still has only a convenience anchor (ZEUS CMV, P4-001); a guideline/WHO-cited IFA would tighten it.
+- Neutralization is now covered by primary-paper rows (P4-012/P4-013, CPE-suppression neutralization).
 
-*Status: two formats (immunoblot/line + lateral-flow) now have insert-level provenance coded.
-Remaining: IFA + neutralization anchors; then the pattern statement (do any sold tests escape the
-under-determination?).*
+## Dispositive pattern (2026-11-08, provisional — n=21 coded rows)
+
+The shortlist was built to answer one question: **does any sold test escape the cell-culture/FBS/CPE
+under-determination in its design-and-validation material?** Across the 21 coded rows (8 kit inserts,
+4 datasheets, 9 primary papers), **zero rows score `independent`**:
+
+- `inherits` — 14 rows (culture-lysate / infected-monolayer / culture-supernatant reference antigen,
+  or CPE-suppression / FAT confirmation on the culture product): P4-001, -002, -005, -009, -012…-021.
+- `partial` — 5 rows (recombinant antigen whose ORF / expression-host origin is undisclosed, keyed only
+  to a culture-seeded "strain designation"): P4-004, -006, -008, -010, -011.
+- `undetermined` — 2 rows (insert discloses only "BTV antigen" / "inactivated coating", no provenance):
+  P4-003, -007.
+
+**Pattern statement.** No sampled sold test, and no sampled primary Isolation paper, demonstrates a
+reference antigen with an *independent* provenance (clinical-direct specimen, or a synthetic/recombinant
+antigen whose sequence traces to a demonstrated non-culture source). Every modern recombinant kit instead
+keys its antigen to a "strain designation" — an upstream pointer whose culture/CPE origin is unstated
+(P4-011 Borrelia, P4-008 SUDV, P4-010 COVID NP) — so the "recombinant" escape hatch re-opens the P3
+inheritance link rather than closing it (*expanded in `P4_reading_notes.md` §4f·i*). Neutralization/functional
+confirmation reads CPE reduction (P4-012/P4-013), i.e. circular with the endpoint it purports to confirm.
+Matched uninfected-culture antigen is the exception, not the rule (only P4-014 VI14 mock and P4-019
+Saliki ran one) — and even a **nonreactive mock does not establish viral-epitope specificity**, only that
+uninfected cells didn't react (*§4f·ii*).
+
+**Caveat.** Provisional: n=21 is a convenience-then-popularity sample, not an exhaustive market census.
+A cost-effective way to test the "zero independent" claim is to deliberately hunt for a counterexample
+(a kit or immune assay whose positive control is a clinical specimen or a synthetic peptide with a
+non-culture sequence), which is item 5 of the TODO.
