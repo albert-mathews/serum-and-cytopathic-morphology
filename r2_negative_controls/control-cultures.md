@@ -5,7 +5,7 @@
 **Scope of application:** Papers in the Isolation corpus (`r1_isolation_standards_and_practice/isolation-refs.csv`, canonical; PDFs under `r1_isolation_standards_and_practice/refs/isolation_practice/`), and any later additions scored the same way.  
 **Related files:**
 - `control-cultures-overview.csv` — machine-readable scores (to be aligned with this framework)
-- `isolation-refs-endpoint-analysis-filtering.md` — prior free-text control notes
+- `control-cultures-justification-notes.md` — per-paper quote-backed control/tier justification
 - `isolation-refs.csv` (R1 canonical) — FBS / medium extraction (independent dimension)
 
 ---
@@ -309,7 +309,7 @@ For a compact `control-cultures-overview.csv`:
 id,tier,c_reason,nc_any,nc_isolation_stage,m3_serum_enrichment,match_basis,control_cpe_reported,control_cpe_claimed_negative,ambiguous,quotes_nc,notes
 ```
 
-Full checklist can live in a wider table or in per-paper notes under `isolation-refs-endpoint-analysis-filtering.md`.
+Full checklist can live in a wider table or in per-paper notes under `control-cultures-justification-notes.md`.
 
 ---
 

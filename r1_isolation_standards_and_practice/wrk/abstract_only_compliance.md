@@ -13,7 +13,7 @@ stubs — no action.
   infection+maintenance" confirmed verbatim. `access=fulltext_verified`.
 - **11 rows** → not open access (or no PMC record). Marked `access=abstract_full_text_outstanding`.
   Their FBS values are **provisional** until PDFs are fetched and re-extracted. Added to
-  `paywall_wishlist_combined.md` §"Abstract-only compliance sweep".
+  `R1_pdf_wishlist.md` §B.
 
 **Standing note:** the 11 outstanding rows should NOT be used to make any paper claim until
 their full text is read and quotes extracted. They are a correctness debt, not evidence.

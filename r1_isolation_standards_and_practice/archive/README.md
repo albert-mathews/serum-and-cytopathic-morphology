@@ -21,6 +21,6 @@ Nothing here is a source of truth for drafting; the live corpus is
   archived expanded CSV OR can be repointed to the live master if re-run.
 - Figure tooling was *not* archived: `../plot_fbs_distributions.py` and
   `../fbs_distribution_plots/` remain live (referenced by `../R1_for_paper_2026-09-19.md`).
-- Paywall wishlist and extracted-quote archives remain live at R1 root
-  (`paywall_wishlist_combined.md`, `paywall_extraction_status_2026-09-18.md`,
-  `quotes_paywall_extracted_2026-09-18.md`).
+- Paywall wishlist and extracted-quote archives: the wishlist was later renamed to
+  `../R1_pdf_wishlist.md` (live) and the extraction-status file was removed as redundant.
+  The verbatim quote archive `../quotes_paywall_extracted_2026-09-18.md` remains live.
