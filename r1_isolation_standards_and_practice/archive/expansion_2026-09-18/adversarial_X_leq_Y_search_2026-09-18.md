@@ -5,7 +5,7 @@
 **Honesty rule:** Null / sparse result is valid. Do not invent %. No paywalled PDFs into tracked paths. No git commit.
 
 **Output dir (MSI):**  
-`C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\expansion\`
+`r1_isolation_standards_and_practice\expansion\`
 
 Companion files: `adversarial_X_leq_Y_candidates.csv`, `../../r4_non-isolation_standards_and_practice/wrk/VIRPRO1013_exclusion_note.md`
 

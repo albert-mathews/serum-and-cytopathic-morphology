@@ -11,13 +11,13 @@ i think we should add columns to the cvs for the various endpoints found in the 
 so please do these task in order:
 1] capture the paragraph about the argument structure above in r1.md for use in the paper prose. 
 2] codify this research classification in r1.m or where appropriate
-3] give exluded-VI44 a new VI ID, and move it to C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\refs\isolation_practice, parse it, and populate a row in isolation-refs.csv for it
+3] give exluded-VI44 a new VI ID, and move it to r1_isolation_standards_and_practice\refs\isolation_practice, parse it, and populate a row in isolation-refs.csv for it
 4] reparese the entire corpus, as you go, build up the set of alternative endpoint columns needed, and populate the data for each row as you go. also populate the class column
 
 
-"C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\wrk\SPT references - refs.csv"
+"r1_isolation_standards_and_practice\wrk\SPT references - refs.csv"
 has similar data for single particle tracking papers. 
-pdfs should be here: C:\Users\alber\Documents\virus\bechamp institute\virus Single virus tracking
+pdfs should be here: the local "virus Single virus tracking" folder (adjacent to this repo, outside the repo tree)
 please parse each of those, see if fbs-pre and fbs-post are reported, and if so, assign a VI ID, and add rows to isolation-refs.csv as class=4 and appropriate endpoint
 
 class 1: VI13, VI94, VI105, VI218, VI233, VI234, VI285, VI 292. many of these are multi-endpoint, but have CPE-detection/isolation as one, or the main endpoint. be sure to capture all end points for each.
@@ -29,8 +29,14 @@ VI107: cat=1, class=1.
 VI74: cat=1, class=1. multi endpoint
 VI254 (mizuta 2019), cat=3 i think, the methods_review_teaching cat
 VI270, move to methods_review_teaching folder
-anything cateogry 2 or 3, should not be localed in 'C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\refs\isolation_practice', it should be located where it belongs, in either 'C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\refs\isolation_protocols', or 'C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\refs\methods_review_teaching '. please make the mechanical moves so that this is resolved. 
+anything cateogry 2 or 3, should not be localed in 'r1_isolation_standards_and_practice\refs\isolation_practice', it should be located where it belongs, in either 'r1_isolation_standards_and_practice\refs\isolation_protocols', or 'r1_isolation_standards_and_practice\refs\methods_review_teaching '. please make the mechanical moves so that this is resolved. 
 
 any ref not in \refs\isolation_practice\ shall have its VI ID striped from the file name, and it isolation-refs.csv row moved to a different csv. it is ok to create new ID prefixes to analogous to VI but used in other refs folders. and each folder with some class/cat pdfs, needs to have its own csv files tracking the data from the refs there. 
 
 i want category organized by the folder in which the ref appears, and class organized by columns in csv. the folders make the split between what is a paper reporting whats done in practice, and all other refs, while class is endpoint differentiating among the 'reporting in practice' set. i think this disctinction is clear. please code it in r1.md, and clean out any text there that overlaps, or makes this ambiguous. 
+
+
+please create a r1_isolation_practice_review.md whihc is minimal guidance for another bot to page by page read all pdfs in r1_isolation_standards_and_practice\refs\isolation_practice, and reproduce isolation-refs.csv per the present specification. the goal is a second bot doing the same activity, and then we compare after the discrepancies.
+
+
+your task is to execute the job detailed in "r1_isolation_standards_and_practice\r1_isolation_practice_review.md" . please follow all agent guidance in agent-settings

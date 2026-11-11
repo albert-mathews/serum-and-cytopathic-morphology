@@ -2,7 +2,7 @@
 from pathlib import Path
 from collections import Counter
 
-root = Path(r"C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice")
+root = Path(r"r1_isolation_standards_and_practice")
 exp = root / "expansion"
 
 csv_files = list(exp.glob("*.csv")) + list(root.glob("*.csv"))

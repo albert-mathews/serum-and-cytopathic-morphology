@@ -3,7 +3,7 @@ import json, urllib.request, urllib.parse, re, time, ssl, html, sys
 from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 ctx = ssl.create_default_context()
-exp = Path(r"C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\expansion")
+exp = Path(r"r1_isolation_standards_and_practice\expansion")
 dedup = set(json.load(open(exp/"_dedup_keys_repr.json", encoding="utf-8"))["keys"])
 
 def is_dup(pmid=None, doi=None, pmc=None):

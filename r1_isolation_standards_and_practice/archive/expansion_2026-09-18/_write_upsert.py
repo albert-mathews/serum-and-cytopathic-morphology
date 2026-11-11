@@ -4,7 +4,7 @@ from pathlib import Path
 from collections import Counter
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 ctx = ssl.create_default_context()
-exp = Path(r"C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\expansion")
+exp = Path(r"r1_isolation_standards_and_practice\expansion")
 root = exp.parent
 
 def fetch_ft(pmcid):

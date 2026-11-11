@@ -216,7 +216,7 @@ Still NEED_FETCH: Bess, Gluschankof, Cantin, Ott 2009, Szilagyi 1991, Chen 2015.
 - Wishlist / p2.md / sync manifest updated with **parent CopyToBox list**.
 
 ### Parent next (required for remaining quote pass)
-CopyToBox each MSI file → `/workspace/streams/refs_staging/<same name>` then re-run pdftotext quote pass for P2-010/011/013/015/044/078/080.
+CopyToBox each MSI file → `streams/refs_staging/<same name>` then re-run pdftotext quote pass for P2-010/011/013/015/044/078/080.
 
 ---
 

@@ -1,7 +1,7 @@
 ﻿import json, urllib.request, re, time, ssl, html
 from pathlib import Path
 ctx = ssl.create_default_context()
-exp = Path(r"C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\expansion")
+exp = Path(r"r1_isolation_standards_and_practice\expansion")
 hits = json.load(open(exp/"_ft_hits_repr.json", encoding="utf-8"))
 
 def fetch_ft(pmcid):

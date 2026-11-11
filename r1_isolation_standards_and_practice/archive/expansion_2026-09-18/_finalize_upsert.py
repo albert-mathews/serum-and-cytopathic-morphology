@@ -3,7 +3,7 @@ import csv, re, shutil, datetime
 from pathlib import Path
 from collections import Counter
 
-exp = Path(r"C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\expansion")
+exp = Path(r"r1_isolation_standards_and_practice\expansion")
 root = exp.parent
 BATCH = "expansion_2026-09-18_representative"
 core_fields = ["ID","year","virus","cells*","Base Medium","FBS% pre-inoculation","FBS% post-inculcation","penicillin (IU/ml)","streptomycin (mg/ml)","amphotericin (mg/ml)","link","access","notes","quote_pre","quote_post","source_batch"]

@@ -61,7 +61,7 @@ def fetch_summaries(pmids):
     return out
 
 summaries = fetch_summaries(uniq[:120])
-with open(r'C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\expansion\_pubmed_repr_search.json','w',encoding='utf-8') as f:
+with open(r'r1_isolation_standards_and_practice\expansion\_pubmed_repr_search.json','w',encoding='utf-8') as f:
     json.dump({'queries':{k:v for k,v in all_pmids.items()},'summaries':summaries}, f, indent=2)
 for s in summaries[:40]:
     print(f"{s['pmid']}|{s['pubdate'][:4]}|{s['source'][:20]}|{s['title'][:90]}")

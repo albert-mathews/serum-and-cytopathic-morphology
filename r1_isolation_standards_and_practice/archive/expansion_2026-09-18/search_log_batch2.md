@@ -4,7 +4,7 @@ Agent: Grok executor (batch2, IDs VI200+)
 Date: 2026-09-14 (America/Toronto)
 
 ## Dedup baseline
-- Skipped links in `/workspace/r1/existing_links.txt` (29 URLs).
+- Skipped links in `r1_isolation_standards_and_practice/existing_links.txt` (29 URLs).
 - Skipped IDs already in overview CSV (VI2–VI47 / SPT10).
 - Explicitly skipped PMC273643 / europepmc 6999024 (existing VI46 rabies).
 

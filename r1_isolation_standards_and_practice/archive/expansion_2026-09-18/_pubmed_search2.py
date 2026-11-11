@@ -89,6 +89,6 @@ print('\nCandidates with multi-%:', len(candidates))
 for c in candidates:
     print(f"PMID{c['pmid']}|{c['year']}|pcts={c['pcts']}|isol={c['has_isolation_kw']}|{c['title'][:80]}")
 
-with open(r'C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\expansion\_pubmed_abstracts_repr.json','w',encoding='utf-8') as f:
+with open(r'r1_isolation_standards_and_practice\expansion\_pubmed_abstracts_repr.json','w',encoding='utf-8') as f:
     json.dump({'queries':all_pmids,'candidates':candidates,'all':abs_data}, f, indent=2)
 print('saved')

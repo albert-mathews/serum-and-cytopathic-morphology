@@ -140,7 +140,7 @@
 
 ## G. Tier A–C fulltext quote pass — 2026-09-22 night (~22:55 ET)
 
-**PDFs:** parent CopyToBox → `/workspace/streams/refs_staging/`. pdftotext/poppler.  
+**PDFs:** parent CopyToBox → `streams/refs_staging/`. pdftotext/poppler.  
 **Rule:** Verbatim only. Strengthen + weaken. Exploration not advocacy.  
 **Exception:** `P2-044_chen_2015_PS_vesicles_enterovirus.pdf` is **misfiled** (Zhai et al. Pol IV siRNA *Cell* 2015; DOI `10.1016/j.cell.2015.09.032`) — **not** Chen YH enterovirus PS vesicles (`10.1016/j.cell.2015.01.032`). No Chen quotes invented.
 

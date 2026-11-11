@@ -10,7 +10,7 @@
 |--------|---|-------|
 | MSI path (user claim) | ~170 | **Not accessible** this run (executor lacks ListMachines / CopyToBox / Shell machineId). |
 | Local best: `r1/plots/isolation-refs-dual-fbs_only.csv` | **123** | Used for exact miss list (includes VI99–VI121 paywall-batch + ADV/HOLD VI234–VI246). |
-| Stale `/workspace/isolation-refs-dual-fbs_only.csv` | 103 | Fully covered by pass1; miss vs overview = 0. |
+| Stale `isolation-refs-dual-fbs_only.csv` | 103 | Fully covered by pass1; miss vs overview = 0. |
 
 Exact miss this pass = dual∖overview = **21** IDs: VI99, VI105, VI109, VI110, VI111, VI112, VI115, VI118, VI121, VI234, VI235, VI236, VI237, VI239, VI240, VI241, VI242, VI243, VI244, VI245, VI246.
 
@@ -71,7 +71,7 @@ If MSI dual truly has n=170 (VI247–VI293 etc.), those IDs remain an **external
 
 1. Followed `control-cultures.md` decision tree; ambiguity → worse tier; no invented mocks.
 2. Sources: local PDFs under `r1/pdfs/` (VI99–VI121); PLOS ONE / CDC EID / PMC / protocols.io / IntechOpen / PubMed abstracts for ADV/HOLD IDs.
-3. Machine path not writable from this box. Outputs under `/workspace/r2_negative_controls/` (and `/workspace/r2/`). Parent: CopyFromBox → MSI `r2_negative_controls/`.
+3. Machine path not writable from this box. Outputs under `r2_negative_controls/` (and `r2_negative_controls/` box working dir). Parent: CopyFromBox → MSI `r2_negative_controls/`.
 4. Backup: `control-cultures-overview.csv.bak_20260919_pass2`.
 5. No git commit.
 

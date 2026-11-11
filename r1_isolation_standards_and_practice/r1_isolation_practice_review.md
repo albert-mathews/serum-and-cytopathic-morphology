@@ -12,7 +12,7 @@ You may look at the CSV only to learn the *schema/column order* and the *ID↔PD
 ## 1. Input
 
 PDFs live in:
-`C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\refs\isolation_practice\`
+`r1_isolation_standards_and_practice\refs\isolation_practice\`
 
 Each PDF is named `VI### - <title>.pdf`, so **the `ID` is the leading `VI###` token** of the
 filename. One PDF = one paper; if a paper reports multiple distinct cell/serum recipes, it becomes

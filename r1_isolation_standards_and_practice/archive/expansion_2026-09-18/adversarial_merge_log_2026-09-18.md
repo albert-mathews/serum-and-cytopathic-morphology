@@ -49,7 +49,7 @@
 
 ## Plots
 
-Regenerated via expansion/plot_fbs_distributions.py (box /workspace/r1/plots/.venv) into expansion/fbs_distribution_plots/ on MSI.
+Regenerated via expansion/plot_fbs_distributions.py (box r1_isolation_standards_and_practice/plots/.venv) into expansion/fbs_distribution_plots/ on MSI.
 
 Plotter papers n after parse fence: **122** (dual CSV n=123; VI227 pre=(ref. Cardoso 2000) fails parse_fbs — pre-existing).
 Institutions in dens: **6** (APHIS VIRPRO excluded by plotter; ANSES in CSV but pre not numeric so not in dens).

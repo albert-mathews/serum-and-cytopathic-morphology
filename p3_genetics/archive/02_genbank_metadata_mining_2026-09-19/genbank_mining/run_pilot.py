@@ -13,8 +13,8 @@ from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
 
-OUT = Path("/workspace/p3_genetics/genbank_mining")
-AUDIT_CSV = Path("/workspace/p3_genetics/P3_type_strain_audit.csv")
+OUT = Path("p3_genetics/archive/02_genbank_metadata_mining_2026-09-19/genbank_mining")
+AUDIT_CSV = Path("p3_genetics/archive/01_type_strain_audit_2026-09-19/P3_type_strain_audit.csv")
 BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 TOOL = "serum-cpe-p3-mining"
 EMAIL = "albert.mathews.research+ncbi@gmail.com"

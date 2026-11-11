@@ -63,5 +63,5 @@ unique_paywalled=31
 ## Notes
 - First broad query (`2% FBS` + isolation + `10% FBS`) returned very large hitCounts with many non-virology false positives; subsequent queries added CPE/maintenance/virus filters.
 - OA full-text XML scanned for Methods FBS/serum contexts; rows only kept when both growth and infection/maintenance (or serum-free/trypsin) could be supported by verbatim snippets.
-- Existing PMIDs/PMCs/DOIs from `/workspace/r1/existing_links.txt` and clean CSV were skipped.
+- Existing PMIDs/PMCs/DOIs from `r1_isolation_standards_and_practice/existing_links.txt` and clean CSV were skipped.
 - IDs start at VI50 (VI48–VI49 left unused).

@@ -54,7 +54,7 @@
 
 1. Followed `control-cultures.md` decision tree; ambiguity → worse tier; no invented mocks.
 2. Sources: Europe PMC fullTextXML for OA PMC IDs; local `r1/expansion/` HTML/pdftxt where present; JSTAGE/Arch Razi/Redalyc PDFs for VI225–229.
-3. **Machine path** `C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology` was **not writable from this box** (no ListMachines/CopyFromBox in harness). Outputs written under `/workspace/r2/` (and mirrored notes under `/workspace/review_r1r2/`). Parent should CopyFromBox → MSI `r2_negative_controls/`.
+3. **Machine path (repo root)** was **not writable from this box** (no ListMachines/CopyFromBox in harness). Outputs written under the box `r2_negative_controls/` working dir (and mirrored notes under `review_r1r2/`). Parent should CopyFromBox → MSI `r2_negative_controls/`.
 4. Backup: `control-cultures-overview.csv.bak_20260919`.
 5. No git commit.
 

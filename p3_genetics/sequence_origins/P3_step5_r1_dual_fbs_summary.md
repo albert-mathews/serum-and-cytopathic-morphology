@@ -53,17 +53,17 @@ Modern dual-FBS Isolation papers commonly report sequencing or deposit; older Is
 6. **Culture used ≠ sequenced.** Example: `VI42` propagates VZV Jones isolate in MeWo but is an ORF29p localization study (protein homology accessions only) → `seq_no`.
 7. **PCR ≠ sequence.** Detection/qRT-PCR confirmation without claimed sequencing → `seq_unclear` or `seq_no` (e.g. `VI264`, `VI283`).
 8. **Duplicate arms / shared PDFs.** Some IDs share one paper (e.g. `VI262`/`VI263` microplate arms; `VI254`–`VI261` JJID epidemiology PDF). Codes follow the shared text.
-9. **MSI `expansion/` extract sync.** This harness could not read Windows MSI (`04858ede-…`). Box already had `/workspace/r1/expansion/` + `/workspace/r1/txt/` + `/workspace/r2/extracts/`. No additional MSI expansion caches were copied. Parent should `CopyToBox` any newer MSI `r1/.../expansion` extracts if they exist beyond the box tree.
+9. **MSI `expansion/` extract sync.** This harness could not read Windows MSI (`04858ede-…`). Box already had `r1_isolation_standards_and_practice/expansion/` + `r1_isolation_standards_and_practice/txt/` + `r2_negative_controls/extracts/`. No additional MSI expansion caches were copied. Parent should `CopyToBox` any newer MSI `r1/.../expansion` extracts if they exist beyond the box tree.
 10. **Not a substitute for Step 1b.** Do not pool Step 5 `seq_yes` counts into deposit-event n≥100 claims.
 
 ## Sources used (priority)
 
 1. EuropePMC fullTextXML when PMCID available  
 2. OA PDFs via EuropePMC render / Unpaywall / J-STAGE  
-3. Local R1/R2 extracts (`/workspace/r1/txt`, `/workspace/r1/pdfs`, `/workspace/r2/extracts`)  
+3. Local R1/R2 extracts (`r1_isolation_standards_and_practice/txt`, `r1_isolation_standards_and_practice/pdfs`, `r2_negative_controls/extracts`)  
 4. EuropePMC title+abstract + CSV notes/quotes  
 
-Cache: `/workspace/streams/p3_step5_cache/` (meta, fulltext, corpus, pdfs, unpaywall).
+Cache: `streams/p3_step5_cache/` (meta, fulltext, corpus, pdfs, unpaywall).
 
 ## Files
 

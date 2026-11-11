@@ -3,10 +3,10 @@
 ## Outputs
 | File | Path |
 |------|------|
-| New refs CSV | `/workspace/r1/expansion/new_isolation_refs_batch2.csv` |
-| Paywall wishlist | `/workspace/r1/expansion/paywall_wishlist_batch2.md` |
-| Search log | `/workspace/r1/expansion/search_log_batch2.md` |
-| This summary | `/workspace/r1/expansion/summary_batch2.md` |
+| New refs CSV | `r1_isolation_standards_and_practice/expansion/new_isolation_refs_batch2.csv` |
+| Paywall wishlist | `r1_isolation_standards_and_practice/expansion/paywall_wishlist_batch2.md` |
+| Search log | `r1_isolation_standards_and_practice/expansion/search_log_batch2.md` |
+| This summary | `r1_isolation_standards_and_practice/expansion/summary_batch2.md` |
 
 ## Counts
 - **New CSV rows:** 34 (IDs **VI200–VI233**)

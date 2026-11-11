@@ -92,7 +92,7 @@ Re-open these if MSI local PDFs under `isolation_practice/` become CopyToBox-acc
 2. MSI desktop PDF path not usable from this executor (no machine file tools in MCP catalog).
 3. Backup: `control-cultures-overview.csv.bak_20260919_pass3` (+ justification notes bak).
 4. No git commit.
-5. Outputs under `/workspace/r2_negative_controls/` for parent CopyFromBox.
+5. Outputs under `r2_negative_controls/` (box working dir) for parent CopyFromBox.
 
 ## Backlog (optional PDF upgrade — not dual∖overview)
 
