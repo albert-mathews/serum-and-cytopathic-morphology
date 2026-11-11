@@ -90,3 +90,22 @@ answers "how prevalent is the dual-serum switch among practicing virologists?" w
 double- or under-counting: it counts every published demonstration of practice exactly once,
 merges nothing, and splits only when one publication genuinely reports multiple distinct
 recipes.
+
+---
+
+## Endpoint classification (class, category-1 only) — added 2026-11-10
+
+See `r1.md` §"Corpus organization" for the authoritative table. Two axes:
+
+- **category** = encoded by FOLDER (isolation_practice = primary practice reports; isolation_protocols = protocols/SOPs; methods_review_teaching = reviews/teaching/theses).
+- **class** = encoded by CSV column, category-1 only:
+
+  - **Class 1** = primary endpoint is **CPE read as virus detection and/or Isolate**. Multi-endpoint papers are Class 1 if CPE-detection/Isolation is a main endpoint — and **all** endpoints are recorded.
+  - **Class 4** = the 2I1D serum pattern is present but the **primary endpoint is something else** (titration/TCID₅₀, antigen detection, neutralization, plaque, HA/HAd, molecular, purification, characterization).
+
+  Category-2 and category-3 rows have no `class` (their folder already classifies them).
+
+### Current class split (2026-11-10, post re-read + owner resolution + folder moves)
+- Category-1 `isolation-refs.csv`: **184 rows = 128 Class 1 + 56 Class 4** (181 distinct papers).
+- Includes 8 single-particle-tracking (SPT) rows (VI295–302) and VI294 (Dengue NS1) as Class 4.
+- Moved out to category folders: VI254 (Mizuta 2019, MR001), VI270 (thesis, MR002), VI237 (WNV protocol, PR001).

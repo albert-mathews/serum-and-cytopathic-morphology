@@ -43,6 +43,25 @@ Record of owner decisions on the re-parse of `isolation-refs*.csv` for category 
 
 ---
 
+## RESOLVED (2026-11-10): folder=category, column=class
+
+The category/class split is now codified in `r1.md` §"Corpus organization":
+- **category** = which FOLDER a ref lives in (isolation_practice = primary practice reports; isolation_protocols = protocols; methods_review_teaching = reviews/teaching/theses).
+- **class** = the `class` column, endpoint-based, category-1 only (1 = CPE-detection, 4 = other endpoint).
+
+**Mechanical moves executed:**
+- **VI254** (Mizuta 2019) → `refs/methods_review_teaching/` as **MR001.A–H** (8 recipes); PDF renamed (VI prefix stripped).
+- **VI270** (lymphocystivirus thesis) → `refs/methods_review_teaching/` as **MR002.A**; PDF renamed (VI prefix stripped).
+- **VI237** (WNV protocols.io SOP) → `refs/isolation_protocols/` as **PR001.A**; PDF renamed (VI prefix stripped).
+- **VI74** → class 1 (multi-endpoint: CPE + titration + neutralization), stays in isolation_practice.
+- **VI107** → confirmed class 1, category 1 (stays).
+
+**Folder CSVs created:** `refs/methods_review_teaching/methods-review-refs.csv` (MR prefix), `refs/isolation_protocols/protocol-refs.csv` (PR prefix). Each tracks its folder's refs.
+
+The old "class 5 (thesis)" concept is retired — a thesis is a *category* (methods_review_teaching), not a class (endpoint).
+
+---
+
 ## Institutional-set home correction (owner, 2026-11-10)
 
 - **Master-seed / extraneous-agent protocols are NOT Isolation protocols** — they live in **R4** (`r4_non-isolation_standards_and_practice/refs/master_seed_protocols/`). This applies to **APHIS VIRPRO1013** (9 CFR §§113.55/113.46, MSV safety testing) and **APHIS SAM312**. The R1 institutional CSV row `USDA APHIS VIRPRO1013 …` is therefore **misplaced** and should be re-homed to R4 (pending: confirm whether to delete the R1 row or just annotate it). The separate **APHIS SAM 104.04** (Parainfluenza-3 *isolation*) in `refs/isolation_protocols/` **is** an Isolation SOP and stays in R1.
