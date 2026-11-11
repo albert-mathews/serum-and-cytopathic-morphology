@@ -31,3 +31,5 @@ Each stream's entry point is its main markdown (`rN.md` / `pN.md`), which owns t
 6. **Git.** No commit/push unless Albert asks; leave changes unstaged for GitHub Desktop.
 7. **Scanned PDFs.** Image-only PDFs are OCR'd with `tools/ocr_pdf.py` before extraction; improvements go
    back into that tool (see `tools/README.md`), so future agents inherit them.
+8. **Paths.** Write all paths relative to the repo root; never full/absolute paths (no drive letters, no
+   `C:\Users\...` or `/home/...`).

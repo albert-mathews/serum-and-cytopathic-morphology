@@ -67,3 +67,8 @@ Leave changes in the working tree for GitHub Desktop unless Albert explicitly as
 - Run all Python through the single shared venv `tools/venv` (gitignored), recreated from
   `tools/requirements.txt`. See [`agent-settings/environment.md`](agent-settings/environment.md). No
   per-stream venvs.
+
+## 10. Relative paths only (no full paths)
+- Every path in a tracked file, command, or instruction is written **relative to the repo root**. Never
+  write a full/absolute path (no drive letters, no `C:\Users\...`, no `/home/...`, no `~/...`).
+- This keeps the repository portable and avoids leaking any one machine's filesystem layout.
