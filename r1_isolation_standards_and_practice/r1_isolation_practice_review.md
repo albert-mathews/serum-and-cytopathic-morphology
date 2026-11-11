@@ -14,9 +14,15 @@ You may look at the CSV only to learn the *schema/column order* and the *ID↔PD
 PDFs live in:
 `C:\Users\alber\Documents\virus\bechamp institute\PLOS bio\serum-and-cytopathic-morphology\r1_isolation_standards_and_practice\refs\isolation_practice\`
 
-Each PDF is named `VI### - <title>.pdf` (or `SPT## - <title>.pdf`), so **the `ID` is the leading
-`VI###`/`SPT##` token** of the filename. One PDF = one paper; if a paper reports multiple distinct
-cell/serum recipes, it becomes multiple rows (recipe letters A, B, C…).
+Each PDF is named `VI### - <title>.pdf`, so **the `ID` is the leading `VI###` token** of the
+filename. One PDF = one paper; if a paper reports multiple distinct cell/serum recipes, it becomes
+multiple rows (recipe letters A, B, C…).
+
+**Note:** the corpus intentionally includes some **non-Isolation-endpoint** references — the
+`VI295`–`VI303` block are single-virus/particle-tracking (live-cell imaging) papers (class 4).
+They are part of the curated "isolation practice" set (Arg 2: the 2I1D serum pattern persists
+across the field regardless of endpoint). Code them by the same rules; their class will come out
+4 because their endpoint is imaging, not CPE-as-detection.
 
 Image-only (no text layer) PDFs must be OCR'd before reading (see `tools/ocr_pdf.py`); tag any
 quote taken from OCR as OCR-derived, not clean text.
@@ -27,6 +33,10 @@ Write one CSV, `isolation-refs.csv`, with EXACTLY these columns (in this order):
 
 ```
 ID, recipe, year, virus, cells, base_medium, FBS_pre_inoculation, FBS_post_inoculation,
+TPB_pre_inoculation, TPB_post_inoculation,
+lactalbumin_pre_inoculation, lactalbumin_post_inoculation,
+yeast_extract_pre_inoculation, yeast_extract_post_inoculation,
+peptone_pre_inoculation, peptone_post_inoculation,
 penicillin_IU_ml, streptomycin_mg_ml, amphotericin_mg_ml, link, DOI, access, fbs_coded,
 source_batch, notes, quote_pre, quote_post,
 endpoint_CPE_detection_isolate, endpoint_titration_TCID50, endpoint_antigen_detection,
@@ -60,6 +70,31 @@ Read the **Methods** (and Results if needed). For the *isolation/culture* step:
 - `base_medium` = the cell-culture base (DMEM, MEM, RPMI-1640, L-15, M199, …).
 - `penicillin_IU_ml`, `streptomycin_mg_ml`, `amphotericin_mg_ml` = antibiotic amounts if stated
   (else blank/`-`).
+
+### Enrichment columns (the non-serum half of the "medium rich → poor" switch)
+
+The growth→maintenance switch often changes **more than serum** at once. Record each non-serum
+enrichment in its own pre/post column — **NOT** in the FBS columns.
+
+| columns | substance | note |
+|---|---|---|
+| `TPB_` | tryptose phosphate broth | common growth additive |
+| `lactalbumin_` | lactalbumin hydrolysate (LAH) | |
+| `yeast_extract_` | yeast extract | |
+| `peptone_` | peptone / proteose peptone | |
+
+- Put the **%** in the matching pre/post cell (e.g. `TPB_pre=10`, `TPB_post=0`). Blank if not
+  stated. These are enrichment, so record them even though they are not serum.
+- **Do NOT** put any of these in `FBS_*`.
+
+### Systematic exclusions (never in any enrichment column, never serum)
+
+1. **Single purified stabilizers:** albumin (BSA/Fraction V), gelatin, detergents (Tween/PEG/
+   Pluronic). Trypsin is an enzyme (µg/ml), not a % supplement. → `base_medium`/`notes` only.
+2. **Assay reagent sera:** goat/horse/donkey serum named with "block"/"wash"/"antibody" (immuno-
+   staining), not the culture serum.
+3. **Serum albumin ≠ serum:** a "0.2% BSA + trypsin" medium is **serum-free** — code `FBS_post = 0`,
+   not 0.2.
 
 ### `fbs_coded` (data-availability flag, 3 values)
 
