@@ -12,14 +12,20 @@ Full title of the last-fetched item (VI279, confirmed on disk): "A conserved E1 
 - **VI245** → category-3 (`refs/methods_review_teaching/`).
 - **VI271** removed (dup of institutional CDC Vero/hSLAM row).
 - **VI238** removed (dup of institutional ANSES FMDV SOP row — post=0% FBS, pre not stated).
-- **VI43** PDF image-scanned — needs OCR.
+- **VI24** removed (2026-11-10, non-Isolation amphotericin-B drug-effect paper).
+- **VI43** PDF image-scanned — OCR text present alongside; verify quotes before citing.
 - Orphans on disk (not corpus): VI4, VI47.
+- **Non-VI-ID PDFs in `refs/isolation_practice/`** (screened candidates / citation-chain support, not corpus rows): AHSV‑1968, AJVR1991 (PRRSV sows), Cardoso2000 + Ferreira2003 (VI227 growth-medium citations), Virus isolation titration 1975 (Fuchs & Wigand). See §"Orphan/support PDFs" below.
+- **Duplicate PDF copies:** VI241 + VI242 are byte-identical to VI240 (McSwiggan ophthalmic 1981) — redundant.
+- `excluded_pdfs/VI44` = Dengue NS1 antigen-detection method paper (*Viruses* 2020, 12:1105) — **not** an Isolation paper; misnamed "VI44" (collides with corpus VI44 = enteroviruses). Awaiting delete/keep call.
 
 ---
 
 ## Institutional PDF wishlist (every `institution-guideline-protocol-refs.csv` row needs a PDF in `refs/isolation_protocols/`)
 
-**Rule:** one PDF per institutional row. Fetched → tell me → I confirm + clear. PDFs live in `refs/isolation_protocols/` (gitignored).
+**Rule:** one PDF per institutional row. Fetched → tell me → I confirm + clear. PDFs live in `refs/isolation_protocols/` (gitignored). Master-seed / extraneous-agent protocols are **not** Isolation protocols → they live in **R4** (`r4_non-isolation_standards_and_practice/refs/master_seed_protocols/`).
+
+**Status (last reconciled 2026-11-10):** 5 institutional rows fully covered by a PDF; 1 (APHIS VIRPRO1013) re-homed to R4; 3 outstanding (WHO EPI Annex B7/B8 wrong-doc, ANSES site down, CDC URL 404).
 
 | Institution | On-disk PDF | Status / action |
 |---|---|---|

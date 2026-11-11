@@ -1,6 +1,6 @@
 # R1 corpus — research method codification: "instance" = the atomic unit (2026-11, revised)
 
-**Status: IMPLEMENTED** in `isolation-refs.csv` and `isolation-refs_reparse.csv`.
+**Status: IMPLEMENTED** in `isolation-refs.csv` (single source of truth, 2026-11-10 consolidation). The prior `isolation-refs_reparse.csv` and `isolation-refs-reparse2.csv` audit layers were merged into `isolation-refs.csv` and archived.
 
 ## The research question R1 answers
 
@@ -53,13 +53,26 @@ never splits.
 - We report: *"we observed **n** Isolation instances across **j** papers, of which **k** state
   a dual (pre+post) serum; among those, the modal pattern is growth≈10% → maintenance≈2%…"*
 
-### Current numbers (2026-11)
-- Total instances (rows): **187** across **j = 177** distinct papers (VI240=3, VI254=8, VI262=2 recipes).
-- Dual-FBS instances (`fbs_coded=yes`): **165**.
-- Rows with `fbs_coded=no` (22): paper did **not** state a numeric pre and/or post — a
-  data-availability flag, **not** a dedup and **not** a "doesn't follow protocol" signal.
-  They are kept in the corpus (they are still instances) but excluded from the dual-FBS
-  distribution.
+### `fbs_coded` values (3-way, codified 2026-11-10)
+
+| value | meaning | counts toward dual-FBS? |
+|---|---|---|
+| `yes` | both pre and post stated numerically (verbatim) | **yes** |
+| `post_only` | post stated verbatim; pre **not** stated → pre **assumed = 10%** (ATCC-standard default for the cell line, always 10%) | **no** (pre is an assumption, not a stated value) |
+| `no` | neither stated, or pre-only | no |
+
+**Owner rule (2026-11-10):** *any paper that states fbs-post only has its fbs-pre assumed to be
+the ATCC recommendation for the cell line, which is always 10%.* This is coded as
+`fbs_coded=post_only` with `FBS_pre_inoculation=10` and a `[post_only: pre assumed 10% ATCC]`
+note tag. `post_only` rows are **distinct** from `yes` (dual) rows: they are not counted in the
+dual-FBS statistic because their pre is an assumption, not a stated value.
+
+### Current numbers (2026-11-10, post-corrections)
+- Total instances (rows): **185** across **j = 176** distinct papers (VI24 removed as a
+  non-isolation drug-effect paper).
+- `fbs_coded=yes` (dual, both stated): **162**.
+- `fbs_coded=post_only` (post stated, pre assumed 10%): **5** (VI14, VI15, VI227, VI232, VI233).
+- `fbs_coded=no`: **18**.
 
 ## Recipe categories we care about (for downstream grouping, not for n)
 
