@@ -25,7 +25,7 @@ Full title of the last-fetched item (VI279, confirmed on disk): "A conserved E1 
 
 **Rule:** one PDF per institutional row. Fetched → tell me → I confirm + clear. PDFs live in `refs/isolation_protocols/` (gitignored). Master-seed / extraneous-agent protocols are **not** Isolation protocols → they live in **R4** (`r4_non-isolation_standards_and_practice/refs/master_seed_protocols/`).
 
-**Status (last reconciled 2026-11-10):** 5 institutional rows fully covered by a PDF; 1 (APHIS VIRPRO1013) re-homed to R4; 3 outstanding (WHO EPI Annex B7/B8 wrong-doc, ANSES site down, CDC URL 404).
+**Status (last reconciled 2026-11-14):** 5 institutional rows fully covered by a PDF; 3 outstanding (WHO EPI Annex B7/B8 wrong-doc, ANSES site down, CDC URL 404). USDA APHIS **VIRPRO1013** is **out of scope for R1** (non-Isolation master-seed protocol, handled by R4) and is therefore not an R1 fetch item.
 
 | Institution | On-disk PDF | Status / action |
 |---|---|---|
@@ -34,13 +34,12 @@ Full title of the last-fetched item (VI279, confirmed on disk): "A conserved E1 
 | ASM Cytopathic Effects Protocols | ✅ `ASM cytopathic-effects-of-viruses-protocols.pdf` | — |
 | NEADL / CIRAD PPRV SOP (VI27) | ✅ `NEADL - Virus isolation of peste des petits ruminants.pdf` | — |
 | WOAH Terrestrial Manual (MERS-CoV ch.) | ✅ `WOAH... Chapter 3.5.2 MERS.pdf` (+ full manual) | — |
-| USDA APHIS VIRPRO1013 (9 CFR §§113.55/113.46) | ✅ **in R4** `r4_…/refs/master_seed_protocols/APHIS - VIRPRO1013.pdf` (+ SAM312) | **→ re-home to R4** (master-seed protocol, not Isolation). R1 `institution-…csv` row flagged for removal. |
 | WHO EPI (Measles/Rubella laboratory manual) | ⚠️ **annexes fetched are WRONG docs** (Annex B7 = 2025 RT-qPCR presentation; B8 = GRMLN Outbreak Response.docx) | **re-fetch correct Annex B7/B8** (Vero/hSLAM propagation + virus isolation). Manual URL below. |
 | ANSES FMDV Virus Isolation SOP | ❌ none | **still fetch** — site under maintenance. URL: `https://sitesv2.anses.fr/sites/default/files/221216%20-%20Virus%20Isolation.pdf` |
 | CDC Measles Lab Tools — Vero/hSLAM | ⚠️ `.docx` only | **URL is 404** (`.gov/measles/lab-tools/vero-slam.html`). Need replacement URL / archive. |
 | Health Canada / CCDR Measles B95-a | ✅ `Health Canada - CCDR - H12-21-24-5-eng.pdf` | — |
 
 **Notes:**
-- **APHIS VIRPRO1013** is a master-seed (MSV extraneous-agent) protocol → belongs in **R4**, not R1 Isolation. PDFs live in `r4_non-isolation_standards_and_practice/refs/master_seed_protocols/` (`APHIS - VIRPRO1013.pdf`, `APHIS - SAM312 - Detection of Extraneous Cytopathogenic Agents in Master Seed Virus.pdf`). The separate `APHIS - SAM 104.04` (Parainfluenza-3 isolation) in `refs/isolation_protocols/` **is** an Isolation SOP and stays in R1.
+- **APHIS VIRPRO1013** is **out of scope for R1** (master-seed / extraneous-agent testing, not diagnostic Isolation); it lives in R4 and is not tracked here. The separate `APHIS - SAM 104.04` (Parainfluenza-3 isolation) in `refs/isolation_protocols/` **is** an Isolation SOP and stays in R1.
 - **WHO EPI annexes**: the two fetched files do not match the manual's "Annex B7 (Propagation/maintenance of Vero/hSLAM)" and "Annex B8 (virus isolation in cell culture)." Re-fetch needed.
 - **CDC Vero/hSLAM**: original URL is now 404; only the `.docx` (annex-b7) is local.

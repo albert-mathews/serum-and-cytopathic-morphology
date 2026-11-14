@@ -1,7 +1,7 @@
 papers n=165
   pre:  mean=9.31 median=10.00
   post: mean=2.20 median=2.00
-institutions n=8 (APHIS VIRPRO excluded)
+institutions n=8
   pre:  [10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 7.5]  names=['ATCC Virology Culture Guide', 'CLSI M41-A (Viral Culture)', 'ASM Cytopathic Effects of Viruses Protocols', 'NEADL / CIRAD PPRV SOP (VI27)', 'WOAH Terrestrial Manual (MERS-CoV chapter)', 'WHO EPI', 'CDC Measles Lab Tools — Vero/hSLAM virus isolation', 'Health Canada / CCDR Measles Surveillance Lab Support (B95-a)']
   post: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
 

@@ -144,16 +144,13 @@ def load_papers(path: Path) -> pd.DataFrame:
     return out[(out["pre"] <= 20) & (out["post"] <= 20)].copy()
 
 
-def load_institutions(path: Path, exclude_aphis: bool = True) -> pd.DataFrame:
+def load_institutions(path: Path) -> pd.DataFrame:
     df = pd.read_csv(path)
     cols = {c: c.strip() for c in df.columns}
     df = df.rename(columns=cols)
     name_c = [c for c in df.columns if c.lower().startswith("institution")][0]
     pre_c = [c for c in df.columns if "pre-inoculation" in c.lower()][0]
     post_c = [c for c in df.columns if "post-inoculation" in c.lower()][0]
-    if exclude_aphis:
-        mask = ~df[name_c].astype(str).str.contains("APHIS|VIRPRO", case=False, na=False)
-        df = df.loc[mask].copy()
 
     # Health Canada "5-10%" growth: consolidate range to representative midpoint 7.5%
     # (owner decision 2026-11-06 — see wrk/fbs_plotting_notes.md). Apply BEFORE parse_fbs
@@ -551,14 +548,14 @@ def main():
     args.outdir.mkdir(parents=True, exist_ok=True)
 
     papers = load_papers(args.papers)
-    inst = load_institutions(args.institutions, exclude_aphis=True)
+    inst = load_institutions(args.institutions)
 
     summary = args.outdir / "fbs_distribution_summary.txt"
     with summary.open("w", encoding="utf-8") as f:
         f.write(f"papers n={len(papers)}\n")
         f.write(f"  pre:  mean={papers['pre'].mean():.2f} median={papers['pre'].median():.2f}\n")
         f.write(f"  post: mean={papers['post'].mean():.2f} median={papers['post'].median():.2f}\n")
-        f.write(f"institutions n={len(inst)} (APHIS VIRPRO excluded)\n")
+        f.write(f"institutions n={len(inst)}\n")
         f.write(f"  pre:  {inst['pre'].tolist()}  names={inst['institution'].tolist()}\n")
         f.write(f"  post: {inst['post'].tolist()}\n")
         # value counts

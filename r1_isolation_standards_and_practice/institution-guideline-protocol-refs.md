@@ -167,26 +167,8 @@ isolation-step quotes below are provisional — see the verbatim-audit section a
 
 
 
-# USDA APHIS Protocol (VIRPRO1013)
-https://www.aphis.usda.gov/sites/default/files/VIRPRO1013.pdf
-These protocols are intended for testing Master-Seed-Virus (MSV) used for vaccine production.
-The goal is to neutralize the MSV, and the use cell culture and CPE to test for extraneous cytopathogenic agents.
+> **Out of scope (2026-11-14):** USDA APHIS **VIRPRO1013** (master-seed extraneous-agent testing, 9 CFR §§ 113.55/113.46) is removed from R1. It is a non-Isolation protocol handled by **R4** (`r4_non-isolation_standards_and_practice/`); its serum recipe belongs there, not here.
 
-## insitution description
-United States Department of Agriculture - Animal and PLant Health Inspection Service
-https://www.aphis.usda.gov/
-
-## Innoculation
-2.2.9 Growth Medium
-	1. 900 mL of MEM
-	2. Aseptically add 50-100 mL gamma-irradiated fetal bovine serum (FBS)
-2.2.10 Maintenance Medium
-	1. 900 mL of MEM
-	2. Aseptically add 50-200 mL gamma-irradiated FBS
-
-based on volumes, the growth medium is 5-10% FBS, and the maintenance medium is 5-20% FBS.
-
-## end point
 
 
 
@@ -248,7 +230,6 @@ Summary:
 | CDC measles Vero/hSLAM (PR010) | 10% → 2% | **overgrowth** |
 | Health Canada/CCDR B95-a (PR011) | 5–10% → 2% | **none stated** |
 | WNV protocols.io (PR001) | 5% → 5% | **not a drop** (hold) |
-| USDA APHIS VIRPRO1013 (re-homed R4) | 5–10% → 5–20% | **not a drop** (hold/increase) |
 | APHIS SAM 104.04 Parainfluenza-3 (on disk, no PR# yet) | 10% → 2% | **none stated** |
 
 ## Verbatim quotations
@@ -307,6 +288,3 @@ Summary:
 - 2.2.5 Growth Medium: “900 mL of Diluent Medium … Aseptically add 100 mL gamma-irradiated fetal bovine serum (FBS)” (≈10%).
 - 2.2.6 Maintenance Medium: “980 mL Diluent Medium … Aseptically add 20 mL gamma-irradiated FBS” (≈2%).
 - No reason given for the 10% → 2% change. **Not yet a row in `isolation-protocol-refs.csv`** (see TODO). Evidence: `[VERIFIED src]` `refs/isolation_protocols/APHIS - SAM - Isolation of Parainfluenza-3 Virus from Nasal Excretions.pdf` (pp. 4–5).
-
-### USDA APHIS VIRPRO1013 (master-seed extraneous-agent testing) — not a drop (hold/increase)
-- Growth Medium: “add 50-100 mL gamma-irradiated fetal bovine serum (FBS)” to ~900 mL MEM (~5–10%); Maintenance Medium: “add 50-200 mL gamma-irradiated FBS” (~5–20%). Serum is held or raised, not stepped down. This is a **non-Isolation** protocol and has been re-homed to **R4** (`r4_non-isolation_standards_and_practice/refs/master_seed_protocols/`); see `r4_…/wrk/VIRPRO1013_exclusion_note.md`. Rationale is not the subject of this R1 audit.

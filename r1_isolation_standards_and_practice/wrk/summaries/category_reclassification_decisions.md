@@ -64,7 +64,7 @@ The old "class 5 (thesis)" concept is retired — a thesis is a *category* (meth
 
 ## Institutional-set home correction (owner, 2026-11-10)
 
-- **Master-seed / extraneous-agent protocols are NOT Isolation protocols** — they live in **R4** (`r4_non-isolation_standards_and_practice/refs/master_seed_protocols/`). This applies to **APHIS VIRPRO1013** (9 CFR §§113.55/113.46, MSV safety testing) and **APHIS SAM312**. The R1 institutional CSV row `USDA APHIS VIRPRO1013 …` is therefore **misplaced** and should be re-homed to R4 (pending: confirm whether to delete the R1 row or just annotate it). The separate **APHIS SAM 104.04** (Parainfluenza-3 *isolation*) in `refs/isolation_protocols/` **is** an Isolation SOP and stays in R1.
+- **Master-seed / extraneous-agent protocols are NOT Isolation protocols** — they live in **R4** (`r4_non-isolation_standards_and_practice/refs/master_seed_protocols/`). This applies to **APHIS VIRPRO1013** (9 CFR §§113.55/113.46, MSV safety testing) and **APHIS SAM312**. **VIRPRO1013 is out of scope for R1** (2026-11-14): removed from R1 docs and handled only by R4 — do not process, cite, or retain it in R1. The separate **APHIS SAM 104.04** (Parainfluenza-3 *isolation*) in `refs/isolation_protocols/` **is** an Isolation SOP and stays in R1.
 
 ## Remaining institutional-PDF gaps (not yet fetched / wrong docs)
 
