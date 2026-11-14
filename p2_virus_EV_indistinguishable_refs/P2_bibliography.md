@@ -14,12 +14,13 @@ not used) and `P2_pdf_wishlist.md` (gitignored, fetch-only queue).
 
 | Measure | n |
 |---|--:|
-| Screened IDs (`P2_screened.csv`) | 94 |
-| Useful Y (`P2_useful.csv`) | 50 |
-| Quoted sources (`P2_quotes.md`) | 31 |
-| P2-0xx PDFs on disk | 36 (24 prior + 12 fetched 2026-11-14) |
+| Screened IDs (`P2_screened.csv`) | 97 |
+| Useful Y (`P2_useful.csv`) | 57 |
+| Quoted sources (`P2_quotes.md`) | 38 |
+| P2-0xx PDFs on disk | 40 (24 prior + 16 fetched 2026-11-14) |
 | Seed-review PDFs on disk (P2-200–207) | 8 |
-| Read-but-unused (see `P2_bibliography_unused.md`) | 5 |
+| Read-but-unused (see `P2_bibliography_unused.md`) | 2 |
+| On wishlist (see `P2_pdf_wishlist.md`) | 0 |
 
 ## Used — quoted sources (`P2_quotes.md`)
 
@@ -48,14 +49,21 @@ not used) and `P2_pdf_wishlist.md` (gitignored, fetch-only queue).
 | P2-078 | Szilagyi JF et al. 1991. Identification and characterization of a novel non-infectious herpes simplex virus-related particle. *J Gen Virol. 1991;72:661-668* | `10.1099/0022-1317-72-3-661` | yes |
 | P2-079 | Welsh JA et al. (ISEV). 2024. MISEV2023: An updated guide to EV research and applications (editorial companion). *J Extracell Vesicles. 2024;13:e12416* | `10.1002/jev2.12416` | no (quoted from OA full text) |
 | P2-080 | Reiter K et al. 2019. Separation of virus-like particles and extracellular vesicles by flow-through and heparin affinity chromatography. *J Chromatogr A. 2019;1588:77-84* | `10.1016/j.chroma.2018.12.035` | yes |
+| P2-081 | von Magnus P. 1954. Incomplete Forms of Influenza Virus. *Adv Virus Res. 1954;2:59-79* | `10.1016/S0065-3527(08)60529-1` | yes |
 | P2-082 | Ada GL, Perry BT. 1956. Influenza virus nucleic acid: relationship between biological characteristics of the virus particle and properties of the nucleic acid. *J Gen Microbiol. 1956;14(3):623-633* | `10.1099/00221287-14-3-623` | yes |
 | P2-083 | Morgan C, Hsu KC, Rose HM. 1962. Structure and development of viruses as observed in the electron microscope. VII. Incomplete influenza virus. *J Exp Med. 1962;116(4):553-564* | `10.1084/jem.116.4.553` | yes |
 | P2-084 | Chugh PE et al. 2013. Systemically circulating viral and tumor-derived microRNAs in KSHV-associated malignancies. *PLoS Pathog. 2013;9(7):e1003484* | `10.1371/journal.ppat.1003484` | yes |
+| P2-085 | Marichal-Gallardo P, Pieler MM, Wolff MW, Reichl U. 2017. Steric exclusion chromatography for purification of cell culture-derived influenza A virus using regenerated cellulose membranes and polyethylene glycol. *J Chromatogr A*. 2017 (accepted 2016-12-27) | `10.1016/j.chroma.2016.12.076` | yes |
 | P2-086 | Spear PG, Roizman B. 1972. Proteins specified by herpes simplex virus. V. Purification and structural proteins of the herpesvirion. *J Virol. 1972;9(1):143-159* | `10.1128/jvi.9.1.143-159.1972` | yes |
 | P2-088 | Loret S, Guay G, Lippé R. 2008. Comprehensive characterization of extracellular herpes simplex virus type 1 virions. *J Virol. 2008;82(17):8605-8618* | `10.1128/JVI.00904-08` | yes |
 | P2-089 | Iša P et al. 2020. Rotaviruses associate with distinct types of extracellular vesicles. *Viruses. 2020;12(7):763* | `10.3390/v12070763` | yes |
 | P2-090 | Nunez Lopez YO, Casu A, Pratley RE. 2021. Investigation of extracellular vesicles from SARS-CoV-2 infected specimens: a safety perspective. *Front Immunol. 2021;12:617042* | `10.3389/fimmu.2021.617042` | yes |
 | P2-091 | Martins ST, Alves LR. 2020. Extracellular vesicles in viral infections: two sides of the same coin? *Front Cell Infect Microbiol. 2020;10:593170* | `10.3389/fcimb.2020.593170` | yes |
+| P2-092 | Altan-Bonnet N, Panigrahi M. 2025. Nonlytic Egress and Transmission in the Virus World. *Annu Rev Biochem. 2025;94:531-560* | `10.1146/annurev-biochem-052521-120140` | yes |
+| P2-093 | Defourny K, Xhelili P, Ince IA, et al. (incl. Nolte-'t Hoen E). 2026. Interactions between extracellular vesicles and viruses: lessons learned across species and kingdoms. *FEMS Microbiol Rev. 2026;50:fuag028* | `10.1093/femsre/fuag028` | yes |
+| P2-094 | Santiana M, Ghosh S, Ho BA, Rajasekaran V, Du WL, Mutsafi Y, et al. 2018. Vesicle-cloaked virus clusters are optimal units for inter-organismal viral transmission. *Cell Host Microbe. 2018;24(2):208-220.e8* | `10.1016/j.chom.2018.07.006` | yes |
+| P2-095 | van der Grein SG, Defourny KAY, Slot EFJ, Nolte-'t Hoen ENM. 2018. Intricate relationships between naked viruses and extracellular vesicles in the crosstalk between pathogen and host. *Semin Immunopathol. 2018;40(5):491-504* | `10.1007/s00281-018-0678-9` | yes |
+| P2-096 | Reyes-Ruiz JM, Osuna-Ramos JF, De Jesús-González LA, et al. 2019. Isolation and characterization of exosomes released from mosquito cells infected with dengue virus. *Virus Res. 2019;266:1-14* | `10.1016/j.virusres.2019.03.015` | yes |
 
 ## Used — read full text, not yet individually quoted
 
@@ -73,11 +81,9 @@ not used) and `P2_pdf_wishlist.md` (gitignored, fetch-only queue).
 - **DOI corrections kept:** P2-010 = `10.1006/viro.1997.8499`; P2-011 = `10.1006/viro.1997.8453`;
   P2-013 = `10.1016/j.jim.2008.07.007`; P2-044 = `10.1016/j.cell.2015.01.032` (not `.09.032`).
 - **2026-10-14:** a duplicate P2-010 copy was deleted; `P2-010_bess_1997_microvesicles_HIV.pdf` kept.
-- **2026-11-14:** 12 Round-5 PDFs confirmed fetched and correct into `refs/` (P2-081, 082, 083, 084,
-  086, 087, 088, 089, 090, 091, 092, 093). **Correction while confirming:** P2-087 is **Vahlne AG &
-  Blomberg J**, *J Gen Virol*. 1974;22(2):297-302 — the earlier "Gentry & Randall" attribution was a
-  mis-citation inherited from a 1985 thesis (see `P2_bibliography_unused.md`). P2-085 (Marichal-Gallardo
-  2017) is the single still-outstanding item (see `P2_pdf_wishlist.md`).
+- **2026-11-14:** all 13 Round-5 PDFs confirmed fetched and correct into `refs/` (P2-081 … 093). **Correction while confirming:** P2-087 is **Vahlne AG & Blomberg J**, *J Gen Virol*. 1974;22(2):297-302 — the earlier "Gentry & Randall" attribution was a mis-citation inherited from a 1985 thesis (see `P2_bibliography_unused.md`); the local PDF was renamed `P2-087_vahlneblomberg_1974_hsv_purification.pdf`. P2-085 (Marichal-Gallardo 2017, DOI `10.1016/j.chroma.2016.12.076`) promoted to used.
+- **2026-11-14 (follow-on):** mined the three read-but-unused PDFs (P2-081, 092, 093) and promoted them here with quotes (`P2_quotes.md` §J); resolved the two deferred leads as P2-094 (Santiana 2018) and P2-095 (van der Grein 2018), both read OA online (PDF drop wishlisted); queued the flavivirus lead as P2-096 (Reyes-Ruiz 2019, paywalled). Read-but-unused is now P2-008 + P2-087 only.
+- **2026-11-14 (final fetch):** P2-094/095/096 PDFs dropped and identity-confirmed; P2-096 (dengue) promoted to used and quoted (§J), closing the flavivirus gap; `P2_pdf_wishlist.md` cleared. On disk = 40 P2-0xx.
 
 ### Seed reviews on disk (P2-200–207)
 

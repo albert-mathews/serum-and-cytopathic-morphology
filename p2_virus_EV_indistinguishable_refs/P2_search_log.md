@@ -303,3 +303,50 @@ extraction (PyMuPDF) for each; a correction surfaced during confirm:
   contributing) and `P2_bibliography_unused.md` (fetched/read but not load-bearing: P2-008, 081, 087,
   092, 093).
 - Abstracts not yet fetched remain only in `P2_screened.csv` (screening log), per the read-before-use rule.
+
+---
+
+## Round 5 — P2-085 fetched & processed (2026-11-14)
+
+**Owner dropped the last outstanding item, P2-085 Marichal-Gallardo 2017.** Confirmed identity:
+*J Chromatogr A* accepted-manuscript (34 pp), DOI `10.1016/j.chroma.2016.12.076` (PII S0021-9673(16)31742-3),
+accepted 2016-12-27; authors Marichal-Gallardo, Pieler, Wolff, Reichl. Full text read → **promoted B → Y**
+and quoted (`P2_quotes.md` §I): residual host-cell DNA in the influenza-A SXC vaccine platform is explicitly
+attributed to "co-purification of extracellular vesicles (EV) containing host cell DNA … in a similar size
+range of the VP". This closes the non-retrovirus density/EM gap for influenza (synthesis §6.3) and empties
+the wishlist. Useful 50→51; quoted 31→32. Local P2-087 PDF renamed `P2-087_vahlneblomberg_1974_hsv_purification.pdf`.
+
+---
+
+## Round 5 — follow-on: mined reads + resolved leads (2026-11-14)
+
+**Task:** clear the "optional only" items left in `p2.md` (mine the three read-but-unused PDFs; resolve the
+two deferred leads; close the flavivirus gap).
+
+| Action | Result |
+|--------|--------|
+| Mine P2-081 von Magnus 1954 | Quoted (§J): 1954 "incomplete particles practically undistinguishable from fully active virus in size, shape, biologic surface"; DI/L hedge noted. Promoted B→Y. |
+| Mine P2-092 Altan-Bonnet & Panigrahi 2025 | Quoted (§J): "all animal and plant and many archaeal and bacterial viruses egress through nonlytic pathways … in enveloped membrane-bound forms." Promoted B→Y. |
+| Mine P2-093 Defourny et al. 2026 | Quoted (§J, Box 1): viruses overlap EVs in "size, sedimentation coefficient, precipitation tendency, and buoyant density." Promoted B→Y. |
+| Lead → P2-094 Santiana 2018 | Resolved; *Cell Host Microbe* 24(2):208-220.e8, DOI `10.1016/j.chom.2018.07.006`, OA (PMC6226266). Read + quoted (§J). |
+| Lead → P2-095 van der Grein 2018 | Resolved; *Semin Immunopathol* 40(5):491-504, DOI `10.1007/s00281-018-0678-9`, OA (PMC6208671). Read + quoted (§J). Primary source of the naked-virus EV enclosure + "overlap in size/density" caveat P2-091 cited secondhand. |
+| Lead → P2-096 Reyes-Ruiz 2019 | Logged; dengue EVs, *Virus Res* 266:1-14, DOI `10.1016/j.virusres.2019.03.015`, paywalled → wishlist. |
+
+**Counts:** screened 94→97; useful 51→56; quoted 32→37; read-but-unused 5→2 (P2-008 + P2-087). Wishlist reopened
+with 3 rows (P2-094/095 PDF drops + P2-096 paywalled). Guidance note: per new CONVENTIONS §7, all tracked
+edits are staged (`git add`), never committed/pushed by the agent.
+
+---
+
+## Round 5 — final fetch: P2-094/095/096 (2026-11-14)
+
+**Owner dropped the last three wishlist items.** Identity confirmed by PyMuPDF title/authors for each
+(P2-094 Santiana 36 pp; P2-095 van der Grein 14 pp; P2-096 Reyes-Ruiz 14 pp, *Virus Res*). P2-096 (dengue)
+was abstract-only/paywalled; full text read → **promoted B→Y** and quoted (`P2_quotes.md` §J): DENV-infected
+C6/36 exosomes are larger, contain virus-like particles and infect naïve cells, and "the viral particles have
+a similar size to the exosomes, then it is difficult to separate the two populations … positive selection …
+magnetic beads coupled to an antibody against a protein enriched in exosomes is by far the best method"
+(citing Raab-Traub & Dittmer 2017). This closes the flavivirus gap (synthesis §6.3/§8b).
+
+**Final counts:** screened 97; useful 57; quoted 38; 40 P2-0xx + 8 seed PDFs on disk; read-but-unused 2;
+**wishlist empty.** The P2 corpus is corpus-complete for its Discussion role.

@@ -10,11 +10,11 @@
 
 | Class | n (approx) | Notes |
 |-------|------------|-------|
-| Screened IDs | 94 | `P2_screened.csv` |
-| Useful Y | 50 | Round 5 upgraded 8 abstract-only → fulltext |
-| Borderline B | ~31 | Class leads, imprint TBD, background, paywalled queue |
+| Screened IDs | 97 | `P2_screened.csv` |
+| Useful Y | 57 | Round 5 + follow-on: 12 abstract-only/paywalled → fulltext (incl. P2-096 dengue) |
+| Borderline B | ~30 | Class leads, imprint TBD, background, paywalled queue |
 | Not useful N | ~10+ | Pure EV biology / therapy / noise |
-| Full text read (`[VERIFIED src]`) | 8 seeds + 24 Round 2–5 primaries/reviews | No longer colleague-skewed: Round 5 is predominantly non-retrovirus |
+| Full text read (`[VERIFIED src]`) | 8 seeds + ~30 primaries/reviews | No longer colleague-skewed: predominantly non-retrovirus |
 
 **Bias control progress:** Round 2 added Bess/Gluschankof 1997, Feng 2013, Bukong 2014, Chen 2015, Cantin/Coren/Ott methods, Dias 2018, Giannessi/Moulin already non-UNC, MISEV2018. Round 5 (2026-11-14) added non-retrovirus/HIV-free sources — influenza (P2-081–083), herpesvirus (P2-086–088), KSHV (P2-084), rotavirus (P2-089), SARS-CoV-2 (P2-090), plus the EM-artifact review (P2-091) — and pushed the historical trail to 1956–1972, 25–40 years earlier than the prior 1997 anchor.
 
@@ -115,12 +115,12 @@ Literature **does not by itself prove**: “virions were never observationally g
 
 ## 8. Round 5 addendum (2026-11-14) — non-retrovirus / historical expansion
 
-**What changed.** Eight new full-text-verified (OA) sources and five paywalled queued sources closed three earlier gaps (§6): pre-1997 purification/DI history, non-retrovirus density/EM primaries, and the weak M-EM metric.
+**What changed.** Nine new full-text-verified sources (eight OA + P2-085 fetched/promoted) and four fetched-but-not-yet-mined reads (P2-081, 087, 092, 093) closed three earlier gaps (§6): pre-1997 purification/DI history, non-retrovirus density/EM primaries, and the weak M-EM metric.
 
 | Earlier gap (§6) | Status after Round 5 |
 |------------------|----------------------|
-| Pre-1997 virus-purification manuals / DI / HSV L-particles | **Closed to 1956–1972.** Morgan 1962 (EM: cytoplasmic fragments ≈ incomplete influenza, P2-083); Ada & Perry 1956 (incomplete vs standard surfaces indistinguishable, P2-082); Spear & Roizman 1972 (membrane-vesicle contaminants of "purified" herpesvirion, P2-086). von Magnus 1954 (P2-081) and Gentry & Randall 1973 (P2-087) queued. |
-| Non-retrovirus density tables (flavivirus/herpes/influenza) primaries | **Partly closed.** Chugh 2013 KSHV (virions+exosomes co-sediment; CD63 separates, P2-084); Loret 2008 HSV-1 (Ficoll 5% L-particles vs 15% virions, P2-088); Nunez Lopez 2021 SARS-CoV-2 restates Nolte-16 "virtually impossible" (P2-090). Flavivirus-specific primary remains open. |
+| Pre-1997 virus-purification manuals / DI / HSV L-particles | **Closed to 1954–1972.** von Magnus 1954 (incomplete influenza, P2-081, on disk); Ada & Perry 1956 (P2-082); Morgan 1962 (EM: cytoplasmic fragments ≈ incomplete influenza, P2-083); Spear & Roizman 1972 (membrane-vesicle contaminants, P2-086); Vahlne & Blomberg 1974 (HSV purification, P2-087, on disk). |
+| Non-retrovirus density tables (flavivirus/herpes/influenza) primaries | **Closed.** Chugh 2013 KSHV (P2-084); Loret 2008 HSV-1 (P2-088); Marichal-Gallardo 2017 influenza-A SXC (P2-085); Nunez Lopez 2021 SARS-CoV-2 (P2-090); Reyes-Ruiz 2019 dengue (P2-096: DENV exosomes carry virus-like particles; virions/exosomes "similar size … difficult to separate," CD9 beads remediation). |
 | M-EM morphology non-discriminating | **Strengthened.** Morgan 1962 (pre-EV EM overlap); Martins & Alves 2020 (cup-shape = preparation artifact, P2-091); Nunez Lopez 2021 Fig 2 (EVs with "collapsed cup shape" beside intact virions). |
 | Non-retrovirus / non-enveloped co-association | **Added.** Iša 2020 rotavirus associates with EVs in/out, antibody-protected, trypsin-independent entry (P2-089). |
 
@@ -138,3 +138,25 @@ Literature **does not by itself prove**: “virions were never observationally g
 | Pre-1997 co-contamination language | **Medium** — now documented to 1956–1972 under "incomplete virus / membrane vesicles" vocabulary, not only 1997 |
 
 **Bounds retained (no overclaiming).** P2-088 (adapted Ficoll yields L-particle-free HSV) and P2-084 (CD63 capture separates KSHV virions) are method-conditional counterexamples; the pre-1997 "incomplete virus"/"membrane fragments" language is about *co-produced viral/vesicular particles*, which supports M-HIST/M-EM without asserting a virion–host-EV identity (the Agent-B hedge still applies). The ontology hinge (CNJ052) stays a Discussion prediction, not a result.
+
+---
+
+## 8b. Follow-on (2026-11-14) — mined reads + resolved leads
+
+The three read-but-unused PDFs and the two deferred leads were processed (`P2_quotes.md` §J), tightening the
+"established" tier rather than reopening any gap:
+
+- **P2-081 von Magnus 1954** mined → the historical anchor is now a *quoted* 1954 statement (incomplete
+  influenza "practically undistinguishable from the fully active virus in size, shape and biologic surface
+  characteristics"), with the DI/L hedge noted (virus-encoded defective particles, not host EVs).
+- **P2-092 Altan-Bonnet & Panigrahi 2025** and **P2-093 Defourny et al. 2026** mined → 2025 multi-kingdom
+  nonlytic-egress synthesis and the 2026 "Box 1" restatement (viruses overlap EVs in size, sedimentation,
+  precipitation, and buoyant density) carry the dilemma to the present.
+- **P2-094 Santiana 2018** (rotavirus/norovirus vesicle-cloaked clusters → 10–45% of stool pool) and
+  **P2-095 van der Grein 2018** (naked-virus EV enclosure + size/density separation caveat) resolved the two
+  deferred leads — both OA, read, quoted.
+- **P2-096 Reyes-Ruiz 2019** (dengue, paywalled) queued as the flavivirus-EV lead (wishlist).
+
+Net: screened 94→97, useful 51→57, quoted 32→38; read-but-unused reduced to P2-008 + P2-087. P2-096 (Reyes-Ruiz
+2019, dengue) was subsequently fetched, read, and promoted B→Y (closes the flavivirus gap), and the wishlist is
+now cleared (40 P2-0xx on disk). The Discussion is ready to draft from §8 + `P2_quotes.md`.

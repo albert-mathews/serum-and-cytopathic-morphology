@@ -341,3 +341,60 @@ No quotes from the misfiled PDF. Abstract-level Chen claim retained in CSV until
 > "There is ongoing discussion about the classification of these particles, since they can be either host EVs containing viral molecules or defective viral particles. It is difficult to isolate pure populations of these different types of vesicles since they are of similar size, density and composition, and most isolation methods cannot be used to separate them."
 
 **Polarity:** Documents the M-EM artifact (cup-shape is preparation, not identity) and restates the multi-metric (size/density/composition) non-separability; abstract also frames "a continuum of particles" (naked virions → EVs with infective genomes → quasi-enveloped viruses → complete viral particles). P2-090 Fig 2 shows the same "collapsed cup shape" EVs side-by-side with intact virions.
+
+### P2-085 Marichal-Gallardo et al. 2017 *J Chromatogr A* (accepted manuscript) — influenza A SXC co-purifies EVs
+> "There are several possible explanations for the presence of intact DNA after nuclease treatment. First, taking into account the mechanism of SXC, it could be due to the co-purification of extracellular vesicles (EV) containing host cell DNA. EV are lipid bilayer vesicles in a similar size range of the VP (exosomes, 40–100 nm in diameter; ectosomes, 100–1000 nm in diameter) that are released from most cells … and can contain proteins and nucleic acids (RNA, ssDNA, dsDNA). Accordingly, DNA inside EV could be protected from nuclease digestion."
+
+**Polarity:** Primary non-retrovirus (influenza A, MDCK) purification-methods paper: a vaccine-platform chromatography step (SXC) achieves high virus recovery yet attributes residual host-cell DNA to EV co-purification — an *explicit* statement that EVs co-purify with virus particles in the same size range. The TEM micrographs showing co-eluted exosome-like vesicles beside intact virions are reproduced by P2-090 (Fig 2). Strengthens non-retrovirus co-purification (M-SEC/M-EM); bound by the fact SXC is a high-yield method (counterexample-leaning on *depletion*, not on EV co-isolation).
+
+---
+
+## J. Round 5 follow-on — mined reads + resolved leads (2026-11-14)
+
+**Scope:** mined the three on-disk "read-but-unused" PDFs (P2-081, 092, 093) and resolved the two deferred leads (Santiana 2018 → P2-094; van der Grein 2018 → P2-095) + queued the flavivirus lead (Reyes-Ruiz 2019 → P2-096). All quotes read in full text.
+
+### P2-081 von Magnus 1954 *Adv Virus Res* — 1954 "incomplete virus" ≈ standard in surface/size/shape
+> "In brief summary, we can say that the incomplete particles are thus practically undistinguishable from the fully active virus in size, shape and biologic surface characteristics. They differ from the fully active particles by having a lower sedimentation constant, by the apparent lack of infectivity, and finally, by their capacity to interfere with and inhibit the propagation [of virus]."
+
+> "Electron micrographs of purified Standard and undiluted passage fluids have not revealed any pronounced difference between fully active and incomplete virus particles as regards size and shape. In consequence, it must be assumed that the difference in sedimentation constants is due to a difference in density."
+
+> "…as regards surface characteristics, incomplete virus is indistinguishable from fully active particles. Both forms of virus are thus adsorbed onto and eluted from chicken red cells at the same rate…"
+
+**Polarity / bound:** 1954 primary statement that a non-infectious particle class co-produced with influenza is *practically indistinguishable* from infectious virus by size, shape, and surface — separable only by (lower) density + lack of infectivity. **Hedge:** these are virus-encoded defective/incomplete particles, not host EVs (the Agent-B DI/L hedge applies) — historical evidence for "physical parameters alone do not mark the infectious particle class," not a virion–EV identity claim.
+
+### P2-092 Altan-Bonnet & Panigrahi 2025 *Annu Rev Biochem* — nonlytic egress is the rule, not the exception
+> "Here, we make the compelling case that all animal and plant and many archaeal and bacterial viruses egress through nonlytic pathways. Most of these nonlytic pathways can be separated into those that enable viruses to spread without leaving the confines of cell bodies and those that traffic them to the extracellular space in enveloped membrane-bound forms."
+
+> "So-called nonenveloped viruses also exploit MVBs to egress nonlytically in membrane-cloaked enveloped forms. Lemon and colleagues … showing HAV (Picornaviridae) has two infectious forms: naked nucleocapsids … and nucleocapsids inside exosomes, which are found in the blood."
+
+**Polarity / bound:** 2025 review (OA) extending vesicle-cloaked nonlytic egress across kingdoms; strengthens M-CONT (quasi-enveloped taxonomy blur). Bound: egress-pathway review, not a purification/separation claim.
+
+### P2-093 Defourny et al. 2026 *FEMS Microbiol Rev* — the separation challenge, stated 2026
+> "A second, even bigger challenge is separating virus particles from EVs, which varies across virus families. Viruses can (partially) overlap with EVs in size, sedimentation coefficient, precipitation tendency, and buoyant density, all common features used for EV isolation. The difficulty increases with enveloped viruses due to their morphological and compositional similarities to EVs, arising from their shared use of cellular membranes and budding pathways."
+
+**Polarity / bound:** 2026 review "Box 1" consensus: the multi-metric (size/sedimentation/precipitation/density) overlap and separation difficulty persist to the present, named family-by-family. Strengthens M-SIZE/M-DENS/M-SEC.
+
+### P2-094 Santiana et al. 2018 *Cell Host Microbe* — non-enveloped viruses cloaked en bloc
+> "We reveal that rotaviruses and noroviruses are also shed in stool as viral clusters enclosed within vesicles that deliver a high inoculum to the receiving host. Cultured cells non-lytically release rotaviruses and noroviruses inside extracellular vesicles."
+
+> "…vesicle-contained rotaviruses constitute a non-negligible fraction, comprising from 10% to 45%, of the total rotavirus stool pools."
+
+> "Vesicle-cloaked viruses are non-negligible populations in stool and have a disproportionately larger contribution to infectivity than free viruses."
+
+**Polarity / bound:** Primary (OA) non-enveloped (rotavirus/norovirus) evidence that the "free independent virion" is not the only — or even the most infectious — transmission unit; vesicle-cloaked clusters deliver higher MOI. Strengthens M-CONT/M-INF for non-enveloped systems.
+
+### P2-095 van der Grein et al. 2018 *Semin Immunopathol* — naked viruses inside host EV + separation caveat
+> "…the reported packaging of complete virions in host membrane-derived vesicles containing several transmembrane and luminal proteins characteristic for EV. This has been primarily shown for viruses belonging to the Picornaviridae family … Electron microscopy (EM)-based studies demonstrated EV enclosure of hepatitis A virus (HAV), coxsackievirus serotype B3 (CVB3), and poliovirus (PV). Host membrane enclosure of virus particles was also shown for unrelated naked viruses such as hepatitis E virus (HEV) [and suggested for rotavirus]."
+
+> "Frequent contaminants of EV preparations include extracellular structures that overlap with EV in terms of size and density, such as protein aggregates or lipoprotein particles."
+
+> "…technical limitations exist in the efficiency with which EVs that carry viral proteins, host proteins, and viral genomic elements can be separated from enveloped viral particles that carry similar molecules."
+
+**Polarity / bound:** 2018 review (OA, Nolte-'t Hoen lab) — the primary source behind P2-091's secondhand "similar size, density, composition" citation; documents naked-virus EV enclosure (blurs envelope taxonomy) plus the size/density-overlap separation caveat. Strengthens M-CONT/M-EM/M-DENS.
+
+### P2-096 Reyes-Ruiz et al. 2019 *Virus Res* — dengue (flavivirus) exosomes carry virus-like particles
+> "The exosomes from DENV infected cells were larger than the exosomes secreted from uninfected cells, contained virus-like particles, and they were able to infect naïve C6/36 cells, suggesting that exosomes are playing a role in virus dissemination."
+
+> "…in the context of DENV-infected cells, the viral particles have a similar size to the exosomes, then it is difficult to separate the two populations. Therefore, the separation of exosomes from virions by positive selection using magnetic beads coupled to an antibody against a protein enriched in exosomes is by far the best method (Raab-Traub and Dittmer, 2017)."
+
+**Polarity / bound:** Flavivirus (dengue) primary — the first flavivirus entry: DENV-infected mosquito-cell exosomes enlarge, carry virus-like particles and infect naïve cells, and dengue virions/exosomes are "similar size … difficult to separate," remediated by anti-CD9 bead positive selection. Closes the flavivirus gap (synthesis §6.3/§8b) and marks the same marker-conditional separation pattern seen in HIV/KSHV.
