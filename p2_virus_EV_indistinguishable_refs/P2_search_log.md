@@ -271,3 +271,35 @@ CopyToBox each MSI file → `streams/refs_staging/<same name>` then re-run pdfto
 ### Leads deferred (no ID assigned; verify before screening)
 - Santiana et al. 2018 "Vesicle-cloaked virus clusters are optimal units for intercellular transmission" (*Cell Host Microbe*) — snowball from P2-089; Altan-Bonnet lineage; verify citation/DOI before assigning an ID.
 - van der Grein et al. 2018 (EV/virus classification + purification) — cited by P2-091 for the "similar size, density and composition … cannot be separated" statement; verify citation/DOI before assigning an ID.
+
+---
+
+## Round 5 — fetch confirm + ref-tracking refactor (2026-11-14)
+
+**Owner dropped 12 of the 13 Round-5 PDFs into `refs/`.** Identity confirmed by title/author text
+extraction (PyMuPDF) for each; a correction surfaced during confirm:
+
+| ID | Confirm result |
+|----|----------------|
+| P2-081 von Magnus 1954 | ✓ *Adv Virus Res* 2:59-79 chapter author/title confirmed (21 pp) |
+| P2-082 Ada & Perry 1956 | ✓ J gen Microbiol 14:623-633 |
+| P2-083 Morgan, Hsu & Rose 1962 | ✓ authors "Councilman Morgan" et al., J Exp Med 116:553 |
+| P2-084 Chugh 2013 | ✓ PLoS Pathog 9:e1003484 |
+| P2-086 Spear & Roizman 1972 | ✓ J Virol 9:143-159 |
+| P2-087 | ⚠ **author line corrected → Vahlne AG & Blomberg J, J Gen Virol 1974;22(2):297-302** (not "Gentry & Randall"; the DOI/PMID/title were right, the prior author attribution was a mis-citation from a 1985 thesis) |
+| P2-088 Loret 2008 | ✓ J Virol 82:8605 |
+| P2-089 Iša 2020 | ✓ Viruses 12:763 |
+| P2-090 Nunez Lopez 2021 | ✓ Front Immunol 12:617042 |
+| P2-091 Martins & Alves 2020 | ✓ Front Cell Infect Microbiol 10:593170 |
+| P2-092 Altan-Bonnet & Panigrahi 2025 | ✓ Annu Rev Biochem 94:531-560, **open access (CC), not paywalled** |
+| P2-093 Defourny et al. 2026 | ✓ FEMS Microbiol Rev 50:fuag028 (full title incl. subtitle) |
+
+**Outstanding:** P2-085 Marichal-Gallardo 2017 (ScienceDirect; pii only) remains on the wishlist.
+
+### Ref-tracking refactor (align to CONVENTIONS §8 / research-strategy §2-3)
+- Removed the tracked `P2_pdf_catalogue.md` "Please fetch" section; the wishlist is now the gitignored
+  `P2_pdf_wishlist.md` at stream root (fetch-only queue, single outstanding row).
+- Split the tracked catalogue into the two bibliographies: `P2_bibliography.md` (used: quoted/currently
+  contributing) and `P2_bibliography_unused.md` (fetched/read but not load-bearing: P2-008, 081, 087,
+  092, 093).
+- Abstracts not yet fetched remain only in `P2_screened.csv` (screening log), per the read-before-use rule.

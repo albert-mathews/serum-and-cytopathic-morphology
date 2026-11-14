@@ -114,6 +114,9 @@ Include if substantial content on **any**:
 | `P2_useful.csv` | Useful sources + metric extraction |
 | `P2_quotes.md` | Verbatim separation / overlap quotes |
 | `P2_synthesis.md` | After ≥2 rounds; patterns + limits |
+| `P2_bibliography.md` | **Used bibliography** (fetched/read & contributing) |
+| `P2_bibliography_unused.md` | **Read-but-unused bibliography** (fetched/read, no load-bearing value) |
+| `P2_pdf_wishlist.md` | **Fetch-only queue** (gitignored, stream root; per CONVENTIONS §8) |
 | `agent_reviews/` | Independent agent re-reads / feedback |
 | `refs/` | Local PDFs only (**gitignored**) |
 
