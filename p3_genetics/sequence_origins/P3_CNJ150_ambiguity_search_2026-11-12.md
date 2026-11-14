@@ -100,6 +100,11 @@ contamination-screening program (FCS-GX) and a dedicated virome-QC tool literatu
   they are CNJ150 evidence (contamination mistaken for discovery) but not culture+CPE-inheritance evidence.
   The culture+CPE-scoped CNJ150 probe is A3 (re-sequencing divergence/corrections).
 
+**Cross-reference (2026-11-14):** the strongest P3.v1 items (1 same-strain re-sequencing → inconsistent
+consensus; 2 assembly fragility / DEF005) were expanded by a further search round — the HSV-1 strain-17 /
+PRV-mosaic / HPV-reference-clone threads plus a Seto 2010 counterexample — recorded in
+`P3_CNJ150_strong_signal_expansion_2026-11-14.md`.
+
 ## Verified quotes (fetched + read 2026-11-14, `[VERIFIED src]`; codes internal-only)
 
 At-scale quantification:

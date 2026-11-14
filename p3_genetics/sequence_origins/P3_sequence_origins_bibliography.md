@@ -858,3 +858,24 @@ P3-013 Dovrolis 2021; P3-014 Hegarty 2024; P3-018 Peng 2026 (ViralQC); P3-019 Ch
 
 Local files: `p3_genetics/refs/`. Un-fetched: P3-027 Kingham 2001 HVT; P3-029 HPV16 correction; P3-030..P3-037
 (intrastrain) — see stream-root wishlist.
+
+## Strong-signal expansion (2026-11-14) — same-strain re-sequencing / intrastrain thread
+
+Identifier-verified (Europe PMC) and **PDFs fetched + read 2026-11-14** — `[VERIFIED src]` unless noted.
+Full details + exact quotes in `P3_CNJ150_strong_signal_expansion_2026-11-14.md`. Fetched, confirmed
+correct, and read: P3-031, P3-032, P3-034…037, P3-040…047, P3-051…053.
+
+- **P3-040** Parsons 2015 mBio 6:e02213-14 · PMID 25827418 · PMC4453532 — HSV-1 KOS intrastrain (KOS subclones 99.5% identical; F 98.6%; syncytial = identical gB mutation). OA.
+- **P3-041** Renner 2021 Microbiol Resour Announc 10:e01146-19 · PMID 33766904 · PMC7996463 — HSV-1 McKrae ≥2 variant strains (UL56 discrepancy). OA.
+- **P3-042** Bowen 2016 Virology 492:179 · PMID 26950505 · PMC5056906 — KOS63/KOS79 "genetically unrelated"; iterations "artificially matched to strain 17".
+- **P3-043** Bowen 2019 J Virol 93:e01824-18 · PMID 30760568 · PMC6450105 — Finnish HSV-1 assembled against strain 17; ref strain replicates 10–100× more in Vero. OA.
+- **P3-044** Klupp 2004 J Virol 78:424 · PMID 14671123 · PMC303424 — PRV "complete" genome is a six-strain mosaic (has Erratum).
+- **P3-045** Szpara 2011 PLoS Pathog 7:e1002282 · PMID 22022263 · PMC3192842 — mosaic reference; frameshifts in non-Kaplan genes; SSR "set to match reference." OA.
+- **P3-046** Tombácz 2014 Genome Announc 2:e00628-14 · PMID 25035325 · PMC4102862 — PRV sequences contain "several discrepancies"; Kaplan re-sequenced. OA. `[VERIFIED src]`.
+- **P3-047** Ye 2018 Virol J 15:195 · PMID 30594230 · PMC6310976 — PRV passage accumulates gE deletion, indels, frameshifts. OA. `[VERIFIED src]`.
+- **P3-048** Meissner 1997 (chapter, *Human Papillomaviruses 1997*, Los Alamos) — HPV reference clone sequencing errors (resolves P3-029). **Unfetched — web copy only.** Locator to verify (no guess).
+- **P3-049** Van Doorslaer 2013 Nucleic Acids Res 41:D571 — PaVE founding (corrected reference genomes). **Unfetched — web copy only.** PMID/DOI to verify.
+- **P3-050** Van Doorslaer 2017 Nucleic Acids Res 45:D499 — PaVE update (manual ORF restoration). **Unfetched — web copy only.** PMID/DOI to verify.
+- **P3-051** Wang 2014 Cell Biosci 4:5 · PMID 24410913 · PMC3903022 — HPV58 RCA-seq vs PCR+cloning; pipeline changes reported genome. OA. `[VERIFIED src]`.
+- **P3-052** Price 2019 bioRxiv (DOI 10.1101/2019.12.13.876037) — Ad5 reference incomplete/in-error. **Preprint, fetched + read; not load-bearing until peer review.**
+- **P3-053** Seto 2010 Virology 404:180 · PMID 20627349 — Ad5 genome stable across 45 years. **Counterexample — kept visible.** `[VERIFIED src]`.

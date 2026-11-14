@@ -17,3 +17,9 @@ the 'Albert's line-275 comment' is asking for p3.md to have a section for this w
 does P3 have a full bibliography? we should always track two bibs. one for refs that we use, and will be ref'd in the paper, and another for refs we read, but found they did not have value for our paper. 
 
 4. the updated R 1 corpus. let's add a todo item to revisit this unless it is necessary to resolve the framing questions above. if this can wait until we resolve the framing question, fine, make a todo item. 
+
+
+
+
+
+are there other virus for which we could probe the sequence progeny to see if it goes back to culture+CPE? if so, lets maintain a list of viruses tracked and trails complete, those partially tracked, and those not attaempted yet. if this exists, pick it up and 

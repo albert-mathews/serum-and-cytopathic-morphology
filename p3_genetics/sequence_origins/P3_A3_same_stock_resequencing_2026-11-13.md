@@ -1,9 +1,11 @@
 # P3 A3 — same-stock re-sequencing divergence
 
 **Date:** 2026-11-13
-**Status:** Census in progress. Eighteen cases recorded (12 in-house `[VERIFIED src]` + 6 new literature, of which
-the Ortigas-Vasquez 2024 flagship is `[VERIFIED src]`); wishlist open for a few identifiers. Systematic scoring of
-the full Step 1 O/C pairs is the next step.
+**Status:** Census in progress. Eighteen cases originally (12 in-house `[VERIFIED src]` + 6 new literature); expanded
+2026-11-14 by 8 new cases + 1 counterexample (A3-019 … A3-026, see `P3_CNJ150_strong_signal_expansion_2026-11-14.md`)
+→ **26 rows** (25 divergent / 2 unclear / 1 clean per the census tally, which counts the same-stock pairs including
+the one clean counterexample). Wishlist open for the new identifiers' PDFs. Systematic scoring of the full Step 1
+O/C pairs remains the next step.
 **Claim under test:** CNJ150 (Conjecture) — the under-determination of culture±CPE Isolates is *detectable* in the
 published viral-genetics literature. A3 is the culture+CPE-specific CNJ150 probe: **when a named stock / Isolate /
 accession lineage is re-sequenced years or groups apart, how much do published assemblies differ** (length, gene
@@ -37,10 +39,12 @@ cases (recorded in `P3_CNJ150_ambiguity_search_2026-11-12.md`), which sit one st
 | `passage_divergence` | High-passage vs low-passage material of the same lineage diverged |
 | `heterogeneity` | The stocked material itself was mixed, and the single consensus hides that |
 
-## Findings (eighteen cases)
+## Findings (eighteen cases + eight added 2026-11-14)
 
-Eighteen cases: twelve mined from the Step 1 corpus (already `[VERIFIED src]`) plus six new literature cases
-(the flagship Ortigas-Vasquez 2024 is `[VERIFIED src]`; the other five are identified, full text to read):
+Eighteen original cases: twelve mined from the Step 1 corpus (already `[VERIFIED src]`) plus six new literature cases
+(the flagship Ortigas-Vasquez 2024 is `[VERIFIED src]`; the other five are identified, full text to read). Eight
+further cases (A3-019…A3-026, incl. one adversarial counterexample) added 2026-11-14 — see
+`P3_CNJ150_strong_signal_expansion_2026-11-14.md` and the CSV tail:
 
 | id | virus | type | one-line divergence |
 |----|-------|------|---------------------|
@@ -89,8 +93,8 @@ claim requires a census over many named stocks (next steps).
 ## Wishlist (see consolidated stream-root `../P3_pdf_wishlist.md`)
 
 1. Cattaneo & Ballart 1990 measles infectious cDNA + 1991 retraction — identifier not yet verified.
-2. HPV16 (Seedorf 1985) sequencing-error correction — the specific notice (RefSeq-linked), identifier not verified.
-3. Optional: broaden A3 with additional culture-derived "complete genome correction" papers beyond the nine.
+2. HPV16 (Seedorf 1985) sequencing-error correction — **identified 2026-11-14**: Meissner 1997 (P3-048) + PaVE (P3-049/P3-050); PDFs to fetch. (The former open item `P3-029` in the wishlist points to this.)
+3. Broadened 2026-11-14 with the same-strain re-sequencing / intrastrain thread (P3-040…P3-053; see `P3_CNJ150_strong_signal_expansion_2026-11-14.md`).
 
 ## Next steps
 
