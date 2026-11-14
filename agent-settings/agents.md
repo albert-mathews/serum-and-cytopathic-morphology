@@ -37,7 +37,9 @@ Each stream's entry point is its main markdown (`rN.md` / `pN.md`), which owns t
    `P3-001`), used when referring to the item; internal-only (never in a published bibliography).
 4. **Environment.** Run Python through the shared `tools/venv`; see `environment.md`.
 5. **Anonymity.** Role codes only (CRO, IR1, IR2, IR2v, IR3v) in tracked files.
-6. **Git.** No commit/push unless Albert asks; leave changes unstaged for GitHub Desktop.
+6. **Git.** Stage all work as you go (`git add` every changed tracked file) so GitHub Desktop shows it and
+   Albert can diff and commit at will; do **not** commit or push yourself, and never work in a git worktree
+   or anywhere outside the main checkout (nothing hidden that GitHub Desktop cannot see).
 7. **Scanned PDFs.** Image-only PDFs are OCR'd with `tools/ocr_pdf.py` before extraction; improvements go
    back into that tool (see `tools/README.md`), so future agents inherit them.
 8. **Paths.** Write all paths relative to the repo root; never full/absolute paths (no drive letters, no
