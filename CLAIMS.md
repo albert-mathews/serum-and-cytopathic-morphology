@@ -182,7 +182,7 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   0.96–1.0 while cell-culture infectivity reached only 0.68–0.90 — an unblinded lab reproduces the genetic
   readout yet fails the cell-culture readout, so the asymmetry is not an artifact of blinding; the two
   explicitly blinded panels still show the same direction. *(Follows from OB027; Evidence: [VERIFIED src]
-  P7-001, P7-003, P7-004, P7-008, P7-018 (`C080.csv` / `C080.md`); Status: established-scoped — first-class
+  P7-001, P7-003, P7-004, P7-008, P7-018 (`OB080.csv` / `OB080.md`); Status: established-scoped — first-class
   Isolation/titration panels; Stream: P7. Detection is one side of the genetics toolchain; the assembly half is
   CNJ151's separate seam.)*
 

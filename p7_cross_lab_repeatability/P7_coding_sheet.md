@@ -78,11 +78,11 @@ marked in `status`.
 
 ## Hierarchy of the headline
 
-The P7 prediction (C057) distinguishes **template-following concordance from robustness under deliberate
+The P7 prediction (CNJ057) distinguishes **template-following concordance from robustness under deliberate
 serum/matrix/control variation**. Coding priority reflects that:
 
 1. A panel whose discordance is **explained by** serum lot / medium / threshold / SOP variation is the
-   strongest evidence (strengthens C057).
+   strongest evidence (strengthens CNJ057).
 2. A panel whose concordance **rises only after protocol harmonization** (serum/threshold forced identical)
    is high-information for the process-template reading.
 3. A panel with high concordance *and* strong matched controls *and* stated serum is a candidate falsifier.
