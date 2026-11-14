@@ -57,6 +57,17 @@ so Albert can use it effectively.
 - **Not a bibliography:** the wishlist records only what still needs fetching. What was fetched and read is
   captured in the stream's **two bibliographies** (Step 3), never in the wishlist.
 
+## Step 2b — retracted articles: note-only, never load-bearing
+
+Retracted articles **may not** be used as references or knowledge for building arguments, forming statistical
+views of publishing landscapes, asserting conclusions, or anything else core to the project/stream's
+truth-seeking goals. They may be used **only** as interesting informative notes on the topic.
+
+- **Label:** any retracted reference in a bibliography or wishlist carries a **`RETRACTED`** label.
+- **Filename:** any fetched retracted PDF uses the `_RETRACTED` suffix, e.g.
+  `<ID>_<short name>_RETRACTED.pdf`.
+- This applies whether the retraction happened before or after the item entered the wishlist/bib.
+
 ## Step 2a — scanned (image-only) PDFs: OCR before extraction
 
 When a fetched PDF is a page scan with no usable text layer, extract its text with the shared OCR tool

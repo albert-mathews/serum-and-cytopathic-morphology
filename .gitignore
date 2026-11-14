@@ -7,6 +7,10 @@ _private/
 **/*.pdf
 **/*.PDF
 
+# Stream-root PDF wishlists (fetch-only coordination queues; local-only per CONVENTIONS §8).
+# Fetched/read material is recorded in the stream's two bibliographies, not here.
+**/*_pdf_wishlist.md
+
 # Microscopy / image binaries
 **/*.tif
 **/*.tiff

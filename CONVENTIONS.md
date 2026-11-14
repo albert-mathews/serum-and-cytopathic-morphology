@@ -63,6 +63,9 @@ Leave changes in the working tree for GitHub Desktop unless Albert explicitly as
 - Wishlists are fetch-only coordination queues: confirm the fetched file is correct, then remove its row.
   Fetched/read material is recorded in the stream's two bibliographies (used; read-but-unused) — not the
   wishlist.
+- Retracted articles are **note-only, never load-bearing** (no citing for arguments, landscape statistics, or
+  conclusions). Any retracted item is labelled `RETRACTED` in the bib/wishlist and fetched as
+  `<ID>_<name>_RETRACTED.pdf`.
 - A scanned (image-only) PDF is OCR'd with `tools/ocr_pdf.py` before extraction; improvements go back into
   that tool so future agents inherit them (see `tools/README.md`).
 

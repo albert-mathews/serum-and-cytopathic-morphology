@@ -47,7 +47,7 @@ PDFs go in the gitignored `refs/` folder named below; never commit PDFs.
 | Stream | Catalogue / wishlist | Have / used / still needed | Drop folder |
 |---|---|---|---|
 | P2 | [`P2_pdf_catalogue.md`](p2_virus_EV_indistinguishable_refs/P2_pdf_catalogue.md) | 32 IDs on disk / 23 used (quoted) / 0 needed | `p2_virus_EV_indistinguishable_refs/refs/` |
-| P3 | [`P3_pdf_catalogue.md`](p3_genetics/sequence_origins/P3_pdf_catalogue.md) | 171 files / 181 bibliography entries / 0 required (2 optional) | `p3_genetics/refs/sequence_origins/` |
+| P3 | Catalogue [`P3_pdf_catalogue.md`](p3_genetics/sequence_origins/P3_pdf_catalogue.md) · wishlist [`P3_pdf_wishlist.md`](p3_genetics/P3_pdf_wishlist.md) (gitignored) | 171 files / 181 bibliography entries / 29 wishlist rows (C150+A3+Step1) | `p3_genetics/refs/sequence_origins/` |
 | R2 | [`R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md) | 173 scored rows / 7 Tier-D upgrades wanted (optional) | `r1_isolation_standards_and_practice/refs/` |
 | R1 | [`R1_pdf_wishlist.md`](r1_isolation_standards_and_practice/R1_pdf_wishlist.md) | 7 paywall + 11 abstract + few leads still to fetch | `r1_isolation_standards_and_practice/refs/` |
 | P1 | [`P1_BIBLIOGRAPHY.md`](p1_history/P1_BIBLIOGRAPHY.md) | closed for drafting | `p1_history/refs/` |
