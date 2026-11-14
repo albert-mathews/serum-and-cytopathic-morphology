@@ -275,10 +275,11 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 - **CNJ052 · Conjecture (P2)** — **Purification will not restore dualism.** Purification/EM of culture
   products will not provide a method that uniquely separates extracellular vesicles from "virions" by
   physical parameters alone; the EV literature's indistinguishability reports are the expected pattern.
-  *(Predicted; follows from CNJ050; Evidence: [VERIFIED src] P2 corpus `p2_…/P2_screened.csv` n=94,
-  `P2_useful.csv` n=51 — Round 5 added non-retrovirus primaries (KSHV P2-084; influenza A SXC P2-085;
-  rotavirus P2-089; SARS-CoV-2 P2-090) and pre-1997 historical primaries (P2-081/082/083/086, 1954–1972);
-  bounds: CD63 affinity (P2-084) and adapted Ficoll (P2-088) separate conditionally, cf. ADVR061. Streams P2.)*
+  *(Predicted; follows from CNJ050; Evidence: [VERIFIED src] P2 corpus `p2_…/P2_screened.csv` n=97,
+  `P2_useful.csv` n=56 — non-retrovirus primaries (KSHV P2-084; influenza A SXC P2-085; rotavirus P2-089
+  / Santiana P2-094; SARS-CoV-2 P2-090), pre-1997 historical primaries (P2-081/082/083/086, 1954–1972), and
+  naked-virus EV enclosure + separation caveat (P2-093/095, 2018–2026); bounds: CD63 affinity (P2-084) and
+  adapted Ficoll (P2-088) separate conditionally, cf. ADVR061. Streams P2.)*
 
 - **CNJ053 · Conjecture (P3)** — **Genome claims inherit the endpoint.** Sequence/database claims that rest
   on CPE-defined Isolates inherit the under-determination of the endpoint that declared them positive.
