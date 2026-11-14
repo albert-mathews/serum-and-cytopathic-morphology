@@ -1,12 +1,37 @@
 # P4 prediction — Serology / antigen under Isolation-linked labels
 
-**Status:** Formalized, **not started**.
+**Status:** Formalized; prediction refined 2026-11-12 (added the "no-virus-expected sample" observable).
 
 ## One-sentence prediction
 
-If culture CPE supernatant is not specific to viral presence, and serology tests are designed with that supernatant as their reference (oracle), then the published record should contain cases where **serology tests read positive on cell-culture reagents of the kind found in that supernatant** — without requiring a virus to explain the signal.
+If culture CPE supernatant is not specific to viral presence, and serology tests are designed with that supernatant as their reference (oracle), then the published record should contain cases where **serology tests read positive without a demonstrated virus to explain the signal** — on cell-culture reagents of the kind found in that supernatant (reference-side), **and** on healthy / no-virus-expected patient samples (patient-side).
 
-*(Short form: serology tuned on CPE supernatant will react to culture-reagent material, not only to a virus.)*
+*(Short form: serology tuned on CPE supernatant will react to culture-reagent material, not only to a virus; and serology in general reads positive on non-viral material — patient or reagent — often enough that "positive = virus" cannot be the only reading.)*
+
+### The second observable (added 2026-11-12, with Albert)
+
+The original prediction named **one** observable: a serology test positive on culture-reagent material.
+Reading the field's own false-positive literature forces a **second, parallel observable**: a viral
+serology/antigen test reads positive on a **healthy patient sample where no virus is expected**. This is
+the same non-viral-epitope arm at the *patient-side* location (the "location-D" of the explanatory arms
+below), and it is the field's most abundant, most directly documented instance of "positive without the
+named virus." Two sub-forms, which the field itself distinguishes:
+
+1. **Interference (no virus at all):** heterophile antibodies, rheumatoid factor, human anti-animal
+   antibodies, lysozyme, complement — endogenous non-viral substances that bridge or block the assay's
+   reagents (Song 2025; Kricka 1999; Ye 2021). The bound epitope is non-viral by construction.
+2. **Cross-reactivity (a *prior* real virus blamed):** antibodies to a different, previously encountered
+   agent — e.g. endemic-coronavirus antibodies reading positive on a SARS-CoV-2 antigen (pre-pandemic
+   blood donors), or dengue/Zika cross-reading — read positive on the test's antigen.
+
+The caveat that keeps this honest: sub-form 2 is usually explained by the field as "you already had a
+*real* virus," so the healthy-sample literature alone does **not** settle the no-virus question — it
+enlarges the evidence that a *non-viral* epitope can drive a positive (the "shared molecule" reading),
+while the **reference-side** cases (culture-reagent positive; Kainulainen's host-GM2 "neutralizing" IgM
+in virus-unexposed donors) remain the ones that show no-virus-*needed* directly. The prediction is
+therefore: **both** observables exist and are documented; the reference-side one is the P4-specific
+claim, and the healthy-sample one is the field's own large demonstration that a non-viral epitope drives
+routine viral serology positives.
 
 ## Explanatory arms — two fundamental cases, then a location question that does not split them
 

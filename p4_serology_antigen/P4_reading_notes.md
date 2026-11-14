@@ -326,6 +326,26 @@ heterophile antibody bridging the two reagent antibodies, resolved by blocking t
 platform (Abbott Architect) + confirmatory tests; the same heterophile also gave a **false-positive
 HIV 1/2/p24 screen** (confirmatory Geenius and HIV-1 RNA both negative).
 
+**Located, not yet fetched (2026-11-12, Europe PMC REST — `[DATA REQUIRED]` full text outstanding; on
+`P4_pdf_wishlist.md` P4W-05…P4W-08):** a second tranche of the *healthy / no-virus-expected sample*
+side of the patient arm, expanding the prediction's second observable (§ prediction note 2026-11-12):
+
+- **Grimm 2024** (PMID 39026530) — US blood-donor serology Dec 2019–Jul 2020: pre-pandemic donors
+  cross-react on SARS-CoV-2 serology via endemic coronaviruses — the cleanest "positive with no virus
+  expected" case.
+- **Luo 2025** (PMID 41209423) — EBV-heterophile antibody drives a false-positive *treponemal* syphilis
+  serology (non-viral antibody misreads a different pathogen's assay).
+- **Nowak 2025** (PMID 41348228) — "When serology misleads: cross-reactivity in acute hepatitis" — a
+  named review of serology cross-reactivity as a failure mode.
+- **Chen 2026** (PMID 42333151) — SARS-CoV-2-induced cross-reactive antibodies raise the false-positive
+  rate of HIV serology (HIV out of P4 scope; kept for the cross-reactivity mechanism).
+
+These strengthen the **patient-side** location of the single non-viral-epitope arm: the field already
+documents, at population scale (blood donors, pre-pandemic sera), that "viral" serology reads positive
+on people with no expected virus — the prediction's second observable. They do **not** by themselves
+settle the reference-side question (whether the *reference antigen* is culture material), which remains
+the P4-specific claim.
+
 ### What this strand establishes (full-text read)
 
 - The field already *has* a mature account of "serology positive with no virus," and in every version
@@ -453,13 +473,136 @@ strain — which the inserts do not name — traces `clinical_direct`; P3 finds 
 minority, and for SARS-CoV-2 the same label spans both `clinical_direct` (MN908947) and `culture_cpe`
 (WIV04), so "recombinant NP" is under-specified.
 
-**Coverage.** All 189 R1 refs classified 2026-11-08 in `p4_r1_roster.csv`: **151 classified / 38
-wishlist** (fetch blockers appended to R1's `paywall_wishlist_combined.md`). Of the 151, **96 report a
-serology/antigen confirmation, and all but a handful are culture-native** (IFA/FAT/HA/HI/neutralization/
-western/IPMA on infected cells or supernatant). Recombinant antigens appear in only a few R1 refs
-(VI55 E. coli NP MAb, VI205 scFv-vs-gD, VI38 anti-N MAb against recombinant N) — consistent with §4g's
-point that "recombinant" lives mainly in the commercial kit inserts, whose ORFs trace culture-anchored
-references.
+**Coverage.** R1 re-read the corpus 2026-11-10 and `isolation-refs.csv` is now **184 rows** (128
+class 1 + 56 class 4) with authoritative `endpoint_*` and `class` columns — this supersedes the
+earlier 189-row webfetch classification. P4's roster (`p4_r1_roster.csv`) was rebuilt against it
+`2026-11-11`. The webfetch "96 report serology" number is **retired** as a basis: it counted any
+IFA/HA/neutralization *confirmation step* attached to a CPE isolate, which is a different (looser)
+thing than serology *as the endpoint*. The authoritative endpoint-level reading is sharper — see §4h.
+
+---
+
+## 4h. Authoritative R1 split — class 1 vs class 4, and the serology-as-endpoint subset (2026-11-11)
+
+R1's revised corpus distinguishes two things P4 had been running together:
+
+- **class 1** (128/184) = CPE read as virus detection/Isolation **is the endpoint**; any serology
+  (IFA/FAT/HA) attached to it is a *confirmation step*, not the endpoint. These are R1's Arg-1 core,
+  and for P4 they are the "serology tuned on the CPE culture product" pattern — the reference antigen
+  is the very monolayer/supernatant that was declared positive by CPE.
+- **class 4** (56/184) = the 2I1D (growth→maintenance serum switch) pattern is present **but the
+  endpoint is something else** — titration, antigen detection, neutralization, HA, molecular,
+  characterization, imaging. This is R1's Arg-2 core, and for P4 it is the *cleaner* evidence: the
+  serum-switch pattern is applied and the readout is itself a serology/antigen test.
+
+**The serology-as-endpoint subset (authoritative):** 12 rows carry an `endpoint_*` serology flag —
+
+| endpoint flag | rows |
+|---|---|
+| `endpoint_antigen_detection` (7) | VI71 (polio D-antigen), VI101 (shell-vial IFA), VI121 (IFA isolate ID), VI218 (enterovirus IFA, class 1), VI244 (CMV flow antigen), VI281 (HEV ORF2), VI294 (DENV NS1) |
+| `endpoint_neutralization` (4) | VI74 (DENV, class 1), VI205 (HSV scFv), VI228 (PRRSV NT), VI232 (flavivirus NT) |
+| `endpoint_hemagglutination_hemadsorption` (1) | VI289 (JEV HA antigen) |
+
+**10 of 12 are class 4**; only VI74 and VI218 are class 1 (multi-endpoint). Three more class-4 rows
+name serology in `primary_endpoint` text but outside the endpoint columns — VI114 (PRRSV
+"morphological/biochemical/serological characterization"), VI103 (IBDV immunogenicity under immune
+pressure), VI229 (PRRSV hemagglutinin) — so the working serology-as-endpoint set is **~15, of which
+~13 are class 4**. This matches Albert's guidance: **class-4 refs are the primary P4 material** (serology
+is the endpoint, under the 2I1D pattern), with only a couple of class-1 multi-endpoint refs carrying
+serology outcomes alongside CPE.
+
+**Access:** 13 of these 15 are readable now (oa / pdf_extracted / fulltext_verified); two are not —
+VI244 (`abstract_full_text_outstanding`) and VI114 + VI103 (`paywall_needed`). All three are already on
+R1's wishlist (`paywall_wishlist_combined.md`) — nothing new to fetch for the core set beyond what R1
+already lists.
+
+**Refinement over the retired webfetch claim:** the earlier "96 report serology, overwhelmingly
+culture-native" is not wrong about the *confirmation* layer, but it over-reached by counting
+confirmation steps. The defensible P4 statement is two-tiered: (i) serology/antigen is the **endpoint**
+in ~15 R1 refs, ~13 class 4, and in every readable one the antigen is the culture product (monolayer,
+lysate, supernatant, or a culture-derived HA/NT read); (ii) serology as **confirmation of a CPE isolate**
+is near-universal in the class-1 set. Recombinant antigen remains confined to the kit inserts; the only
+R1 recombinant-antigen confirmations are VI55 (E. coli NP MAb), VI205 (scFv vs recombinant gD), VI38
+(anti-N MAb vs recombinant N).
+
+---
+
+## 4i. Full-text read of the serology-relevant R1 subset (2026-11-11)
+
+R1's corpus PDFs all live in `refs/isolation_practice/`; the wishlist is empty, so every relevant
+paper was read in full (PyMuPDF extraction to `_pdf_extract_tmp/`; only VI43 is image-only and it already
+has a `.md` extract). Read result for the endpoint-flagged serology set + the text-flagged serology
+refs, coded confirmatory vs challenging:
+
+**Confirmatory (the antigen/readout routes through cell culture) — 12 refs:**
+
+| ref | method | antigen | mock |
+|-----|--------|---------|------|
+| VI74 | CPE-based VN + IgG ELISA | culture-native: VN on live C6/36 DENV-2; ELISA is "in-house IgG / envelope-protein" (no "recombinant" stated in this paper — see §4j) | yes, nonreactive |
+| VI101 | shell-vial indirect IFA + ELISA | culture-native (infected monolayer) | not-stated |
+| VI121 | IFAT + CF + neutralization | culture-native (infected WI-38 monolayer, first passage) | yes, nonreactive |
+| VI228 | neutralization test | culture-native (infected MARC-145 antigen; uninfected neg ctrl) | yes, nonreactive |
+| VI244 | indirect IFA + flow cytometry | culture-native (infected FLOW 2000, early CMV antigen) | yes, nonreactive |
+| VI281 | HEV ORF2 immunostaining | culture-native (infected monolayer) | yes, nonreactive |
+| VI289 | hemagglutination-inhibition | culture-native (LFBK-propagated JEV) | no |
+| VI294 | NS1 rapid test + WB + IFA | culture-native (C6/36 or Vero-propagated DENV) | no |
+| VI103 | virus-neutralization (CPE readout) | culture-native (live Vero-passaged IBDV) | not-stated |
+| VI114 | IIF + PAG-IEM + RIPA + WB | culture-native (infected PAM monolayer) | yes, nonreactive |
+| VI229 | HA + WB | culture-native (infected MARC-145 culture fluid; CsCl virus) | no (pre-immune serum only) |
+| VI108 | FAT (direct IF) confirm CPE | culture-native (infected BFT monolayer) | yes, nonreactive |
+
+**Recombinant (partial — defined protein, ORF source unstated) — 1 ref:**
+
+| ref | method | antigen | reading |
+|-----|--------|---------|---------|
+| VI205 | ELISA + WB + plaque-reduction NT | recombinant gD (hexa-His) | the ELISA binds recombinant glycoprotein D, not a culture lysate — `recombinant_source_unclear`; per §4f·i / §4g this is not independence unless the gD ORF traces `clinical_direct`, which the paper does not state (HSV-2 gD reference strains are culture-derived) |
+
+**Challenging (antigen NOT culture-routed) — 2 refs:**
+
+| ref | method | antigen | why challenging |
+|-----|--------|---------|-----------------|
+| VI104 | direct IF on frozen tissue | clinical (piglet lung/trachea sections), anti-TGEV conjugate | antigen is *in-situ* clinical tissue, not a culture lysate |
+| VI97 | indirect ELISA (Svanovir kit) | not stated (commercial kit) | the positive control / antigen is a kit reagent, provenance unstated |
+
+**Not serology after all (endpoint flags were misread at webfetch stage) — 2 refs:**
+
+- **VI71** — the PDF on disk is a VDPV *surveillance* paper (cell culture + rRT-PCR + VP1 sequencing),
+  **no D-antigen / antibody panel**; the R1 endpoint flag `endpoint_antigen_detection=yes` does not
+  survive full-text reading.
+- **VI232** — antisense PMO / luciferase-replicon inhibition, **no antibody/antigen assay**; the
+  `endpoint_neutralization=yes` flag is a method misread.
+
+**Net of the full-text pass:** the readable R1 serology set is **12 confirmatory (culture-routed) + 1
+recombinant (VI205, partial) + 2 challenging** (a clinical-tissue IF, and a commercial-kit ELISA whose
+antigen provenance is simply unstated). This is the same pattern as the kit-insert census: in every R1
+paper where an antibody binds culture material, the reference positive *is* the culture product
+(monolayer, lysate, culture-antigen, or a live-virus VN/CPE read); the only "independent" routes are
+clinical tissue (still an antibody raised against a culture isolate) and a kit whose antigen is not
+disclosed. No R1 paper demonstrates a synthetic-peptide or clinical-direct antigen with a non-culture
+identity — the near-total **culture-routed** result is unchanged, but now it rests on full-text reads,
+not abstracts. The two endpoint-flag errors (VI71, VI232) are a caution that even R1's `endpoint_*`
+columns need a full-text check before P4 leans on them.
+
+---
+
+## 4j. Independent re-verification of the critical refs (2026-11-11)
+
+A second, independent read (fresh explorer subagent) re-checked the quotes P4 leans on. **9 of 10
+claims verified verbatim**; one was **corrected**:
+
+- **VI74 (corrected):** the DENV C-ELISA arm is described in-paper only as "in-house IgG ELISA" and
+  "DENV envelope protein-based ELISA"; the words **"recombinant EDIII" appear only in the title of the
+  cited reference [7] (Pereira et al. J Med Virol 2024), not in VI74 itself**. VI74's own text does not
+  claim a recombinant antigen, so VI74 is culture-native on both arms. This flips nothing about the
+  culture-routed pattern, but it removes an over-claim.
+- **VI71, VI232 (confirmed as not-serology):** the full-text scans found zero antibody/antigen method —
+  VI71 is VDPV surveillance (rRT-PCR + VP1 sequencing), VI232 is antisense-PMO inhibition. R1's
+  endpoint flags are wrong for both; flagged in `r1.md` TODO 11 for R1 to reconcile.
+
+The verification pass also confirmed the two *challenging* refs are genuinely off the culture route:
+**VI104** (direct IF on fresh-frozen clinical tissue sections, anti-TGEV conjugate) and **VI97**
+(commercial Svanovir indirect-ELISA kit, antigen provenance unstated). No claim changed category — the
+ledger stays **12 confirmatory + 1 recombinant (VI205 gD) + 2 challenging**, now double-read.
 
 ---
 

@@ -36,6 +36,10 @@ is listed so the paper cites the latter.
 | P4B-14 | Kharlamova N et al. 2021. False positive SARS-CoV-2 serology in chronic inflammatory disease. Front Immunol 12:666114. DOI 10.3389/fimmu.2021.666114. PMID 34012450 | Peer-reviewed; predicts false positives from non-viral immune state |
 | P4B-15 | Costa V et al. 2021. Isolated false-reactive HBsAg. Case Reports Hepatol 2021:9928098. PMID 34336313 | Heterophile antibody → isolated HBsAg false positive |
 | P4B-19 | Hornig M et al. 2012. Absence of evidence for bornavirus infection in schizophrenia, bipolar disorder and major depressive disorder. Mol Psychiatry 17(5):486-93. PMID 22290118 | Cautionary: serology "infection" claims disconfirmed by better controls — falsifier-side anchor |
+| P4B-25 | Grimm K et al. 2024. Serologic testing of US blood donations to identify SARS-CoV-2 and other coronaviruses, Dec 2019–Jul 2020. Open Forum Infect Dis 11(7):ofae351. DOI 10.1093/ofid/ofae351. PMID 39026530 | Healthy/pre-pandemic blood donors cross-react on SARS-CoV-2 serology — clean "positive, no virus expected" patient-side case |
+| P4B-26 | Luo M et al. 2025. False-positive treponemal syphilis serology linked to EBV-related heterophile antibodies. IDCases 42:e02403. DOI 10.1016/j.idcr.2025.e02403. PMID 41209423 | Heterophile (non-viral) antibody drives false positive in a different pathogen's serology |
+| P4B-27 | Nowak K et al. 2025. When serology misleads: cross-reactivity in acute hepatitis. Arch Virol 171(1):12. DOI 10.1007/s00705-025-06470-8. PMID 41348228 | Review — serology cross-reactivity as a general failure mode |
+| P4B-28 | Chen D et al. 2026. Impact of cross-reactive antibodies induced by SARS-CoV-2 infection on the false-positive rate of HIV serological testing. Indian J Hematol Blood Transfus 42(4):1448-54. DOI 10.1007/s12288-025-02081-0. PMID 42333151 | Cross-reactivity inflates a serology false-positive rate (HIV assay — out of P4 scope; kept for the cross-reactivity mechanism only) |
 
 ## A3. Product popularity / market anchors (for the shortlist, added 2026-11-06)
 

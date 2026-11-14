@@ -1,190 +1,185 @@
-ref_id,agent,access,status,serology_reported,antigen_provenance,matched_mock
-SPT10,ZIKV,legacy_coded,classified,IFA,culture-native,
-VI100,adenovirus (HAdV-7),pdf_extracted,classified,"neutralization,ELISA",CN,no
-VI101,enterovirus / adenovirus (shell vial vs conventional),pdf_extracted,classified,"IFA,neutralization,ELISA",CN,not-stated
-VI102,Culex flavivirus,pdf_extracted,classified,none,NA,n/a
-VI103,IBDV,paywall_needed,wishlist,,,
-VI104,PRCV,paywall_needed,wishlist,,,
-VI105,rhinovirus (HRV; HEL vs HeLa susceptibility),pdf_extracted,classified,none,NA,n/a
-VI106,adenovirus (HAdV-11a / B2),pdf_extracted,classified,"neutralization,ELISA",CN,no
-VI107,virus isolation cell-system comparison (wastewater/fecal),pdf_extracted,classified,"neutralization,HI",CN,not-stated
-VI108,herpesvirus,paywall_needed,wishlist,,,
-VI109,rabies (street/fixed),pdf_extracted,classified,IFA(FAT),CN,yes
-VI110,parainfluenza,pdf_extracted,classified,none,NA,n/a
-VI111,Crohn disease inoculum CPE study (viral culture),pdf_extracted,classified,none,NA,n/a
-VI112,HAV,pdf_extracted,classified,"IFA,RIA",CN,no
-VI113,"enteroviruses, adenoviruses, and reoviruses (sewage effluent)",pdf_extracted,classified,"neutralization,HI,HA,IEM",CN,not-stated
-VI114,PRRSV,paywall_needed,wishlist,,,
-VI115,CMV,pdf_extracted,classified,IFA,CN,not-stated
-VI116,enterovirus (C. difficile toxin confounding),pdf_extracted,classified,none,NA,n/a
-VI117,field virus isolation (miniature cell culture systems),pdf_extracted,classified,none,NA,n/a
-VI118,HSV,pdf_extracted,classified,IFA,CN,not-stated
-VI119,enterovirus,paywall_needed,wishlist,,,
-VI120,adenovirus,paywall_needed,wishlist,,,
-VI121,adenovirus types 4 and 7; coxsackievirus A21,pdf_extracted,classified,IFA(IFAT),CN,yes
-VI13,SARS-CoV-2,legacy_coded,classified,none (plaque/qPCR),n/a,
-VI14,HRSV,legacy_coded,classified,IFA,culture-native,
-VI15,DENV-2,legacy_coded,classified,none (plaque/PCR),n/a,
-VI16,HSV-1,legacy_coded,classified,IFA/immunoperoxidase,culture-native,
-VI18,influenza,legacy_coded,classified,HI + immunostaining,culture-native,
-VI2,SL-CoV-WIV1,legacy_coded,classified,neutralization (CPE-suppression),culture-native,
-VI200,enteroviruses (groundwater concentrates),oa,classified,none,NA,n/a
-VI201,TGEV,oa,classified,none,NA,n/a
-VI202,TGEV,oa,classified,antibody(serum),CN,not-stated
-VI203,HSV (shell vial),oa,classified,IFA/immunoperoxidase,CN,yes
-VI204,HSV; HCMV,oa,classified,none,NA,n/a
-VI205,HSV-1 SC16; HSV-2 G,oa,classified,ELISA,REC,no
-VI206,measles (SSPE vs wild-type),oa,classified,antibody(serum IgG),CN,not-stated
-VI208,human rhinovirus,oa,classified,none,NA,n/a
-VI209,IBR/BHV-1,oa,classified,none,NA,n/a
-VI210,rat coronavirus (sialodacryoadenitis-related),oa,classified,"neutralization,CF",CN,not-stated
-VI211,human coronavirus 229E / related coronaviruses,oa,classified,none,NA,n/a
-VI212,enteroviruses (faecal isolation),oa,classified,none,NA,n/a
-VI214,human respiratory coronavirus,oa,classified,neutralization(serum),CN,not-stated
-VI215,ISAV,oa,classified,none,NA,n/a
-VI216,SARS-CoV 2003VA2774,oa,classified,none,NA,n/a
-VI217,PIV-3; PRCV,oa,classified,none,NA,n/a
-VI218,enteroviruses; adenoviruses,oa,classified,IFA,CN,not-stated
-VI219,PEDV,oa,classified,"IFA,neutralization(VN)",CN,yes
-VI220,JEV; YFV (glycoprotein study),oa,classified,none,NA,n/a
-VI221,myxovirus (infectious hepatitis study),oa,classified,antibody(serological),CN,not-stated
-VI222,Chikungunya virus,oa,classified,none,NA,n/a
-VI223,rabies (street strain),oa,classified,none,NA,n/a
-VI224,FIPV (DF2),oa,classified,western,CN,not-stated
-VI225,parainfluenza 1-3; SV5,oa,wishlist,INACCESSIBLE,,
-VI226,measles SSPE (brain biopsy),oa,wishlist,INACCESSIBLE,,
-VI227,IBDV,oa,wishlist,INACCESSIBLE,,
-VI228,PRRSV (EDRD-1),oa,wishlist,INACCESSIBLE,,
-VI229,PRRSV (EDRD-1),oa,wishlist,INACCESSIBLE,,
-VI23,SARS-CoV-2,legacy_coded,classified,western blot,culture-native,
-VI230,influenza A/B (clinical NPA isolation),oa,classified,IFA,CN,not-stated
-VI231,California encephalitis virus,oa,classified,none,NA,n/a
-VI232,WNV (3356); flavivirus assays,oa,classified,none,NA,n/a
-VI233,human rhinovirus (clinical),oa,classified,none,NA,n/a
-VI234,HSV (clinical isolation),abstract,wishlist,,,
-VI235,Zika virus (mosquito suspension isolation),oa,classified,"IFA,immunoperoxidase",CN,not-stated
-VI236,Yellow fever virus (mosquito pool isolation),oa,classified,none,NA,n/a
-VI237,West Nile virus,oa,classified,none,NA,n/a
-VI238,FMDV (clinical suspicion isolation),oa,wishlist,INACCESSIBLE,,
-VI239,Influenza A H3N2 (clinical isolation),abstract,wishlist,,,
-VI24,Influenza A and B,legacy_coded,classified,HA confirmation,culture-native,
-VI240,ophthalmic viruses (HSV etc. primary isolation),abstract,wishlist,,,
-VI241,ophthalmic viruses primary isolation,abstract,wishlist,,,
-VI242,ophthalmic viruses primary isolation,abstract,wishlist,,,
-VI243,bovine enteroviruses (dairy herd isolation),abstract,wishlist,,,
-VI244,CMV (shell vial / clinical isolates),abstract,wishlist,,,
-VI245,Influenza; hMPV; PIV-4,oa,classified,none,NA,n/a
-VI246,FMDV (clinical samples; experimental infection animals),abstract,wishlist,,,
-VI247,SARS-CoV-2,abstract,wishlist,,,
-VI248,SARS-CoV-2,oa,classified,none,NA,n/a
-VI249,Influenza A (exhibition swine),abstract,wishlist,,,
-VI25,EBOV (Makona-C05 and Yambuko-Mayinga),legacy_coded,classified,immunostaining,culture-native,
-VI250,Influenza (clinical; vaccine seed isolation),oa,classified,none,NA,n/a
-VI251,RSV (nasopharyngeal aspirates),oa,classified,IFA,CN,not-stated
-VI252,human paramyxoviruses (PIV/mumps) primary isolation,oa,classified,"hemadsorption,HA,EIA",CN,not-stated
-VI253,hMPV (clinical isolation),oa,classified,immunoperoxidase,CN,not-stated
-VI254,respiratory viruses (HEF microplate),oa,classified,serological(antigenic),NS,not-stated
-VI255,respiratory viruses (HEp-2 microplate),oa,classified,serological(antigenic),NS,not-stated
-VI256,influenza / respiratory (MDCK microplate),oa,classified,serological(antigenic),NS,not-stated
-VI257,enteroviruses (GMK microplate),oa,classified,serological(antigenic),NS,not-stated
-VI258,parechovirus / PeV isolation (no trypsin MM),oa,classified,serological(antigenic),NS,not-stated
-VI259,parainfluenza isolation (trypsin MM),oa,classified,serological(antigenic),NS,not-stated
-VI260,EV-D68 / CV-A6 isolation,oa,classified,serological(antigenic),NS,not-stated
-VI261,Saffold virus isolation,oa,classified,serological(antigenic),NS,not-stated
-VI262,respiratory viruses (HEF microplate 2004-2005),oa,classified,not-stated,NS,not-stated
-VI263,respiratory viruses (RD-18S microplate),oa,classified,not-stated,NS,not-stated
-VI264,SFTSV (tick homogenate isolation),oa,classified,immunoperoxidase,CN,not-stated
-VI265,PPRV (clinical tissues/swabs),oa,wishlist,INACCESSIBLE,,
-VI266,HRSV (clinical PCR-positive),abstract,wishlist,,,
-VI267,HPIV-1 and HPIV-3 (clinical),abstract,wishlist,,,
-VI268,FMDV (clinical outbreak isolation),oa,classified,neutralization(VNT),CN,not-stated
-VI269,FMDV (experimental/clinical sample isolation),oa,classified,ELISA(liquid-phase blocking),CN,not-stated
-VI270,Lymphocystivirus (Iridoviridae),oa,wishlist,INACCESSIBLE,,
-VI271,measles (clinical isolation),oa,wishlist,INACCESSIBLE,,
-VI272,Ranavirus micropterus1 (McRV),oa,classified,none,NA,n/a
-VI273,Betanodavirus / NNV (gonad diagnostics),oa,classified,none,NA,n/a
-VI274,IBDV (LC-75 Vero adaptation),oa,classified,ELISA(indirect),CN,yes
-VI275,PPRV (in vitro isolation from domestic/wild ruminants),oa,classified,neutralization(VNT),CN,not-stated
-VI276,Mammalian orthoreovirus (bat MRV2),oa,classified,IFA,CN,not-stated
-VI277,Duck enteritis virus (DEV field outbreak),oa,classified,"IFA(IIFT),neutralization(VNT)",CN,yes
-VI278,Fowl adenovirus 8a (FAdV-8a),oa,wishlist,INACCESSIBLE,,
-VI279,Getah virus (GETV) from diseased piglets,oa,wishlist,INACCESSIBLE,,
-VI28,SARS-CoV-2,legacy_coded,classified,none (CPE/qPCR),n/a,
-VI280,PEDV (intestinal tissue isolation),oa,wishlist,INACCESSIBLE,,
-VI281,Hepatitis E virus (retail pork pate),oa,wishlist,INACCESSIBLE,,
-VI282,Ebola virus outbreak variants (Mayinga/Kikwit/Makona),oa,classified,none,NA,n/a
-VI283,PRRSV-2 (Marc-145 culture after inoculation),oa,classified,"western,IFA",CN,not-stated
-VI284,Negevirus (mosquito isolation),oa,wishlist,INACCESSIBLE,,
-VI285,SARS-CoV-2 (feline primary isolation),oa,wishlist,INACCESSIBLE,,
-VI286,Feline parvovirus (FPV) from anal swab,oa,classified,"western,IFA",CN,yes
-VI287,SARS-CoV-2 (clinical swab isolation Alpha),oa,classified,none,NA,n/a
-VI288,Cyprinid herpesvirus-2 (CyHV-2),oa,classified,none,NA,n/a
-VI289,Japanese encephalitis virus (JEV) culture,oa,wishlist,INACCESSIBLE,,
-VI29,Rabies virus (PV strain),legacy_coded,classified,western blot (NP),culture-native,
-VI290,Influenza A (tissue homogenate MDCK isolation),oa,wishlist,INACCESSIBLE,,
-VI291,Orthohantavirus (genetic variants isolation),oa,classified,IFA,CN,yes
-VI292,SARS-CoV-2 (clinical isolates; Caco-2/HuH-6 systems),oa,wishlist,INACCESSIBLE,,
-VI293,Rabies virus (Vero-adapted Flury HEP),oa,classified,"IFA,western,RFFIT",CN,yes
-VI30,Influenza A (IAV clinical/swine isolates) / MDCK (various lines),legacy_coded,classified,HA + IFA,culture-native,
-VI32,FHV-1 (feline herpesvirus-1),legacy_coded,classified,IFA + HA,culture-native,
-VI33,MERS-CoV,legacy_coded,classified,none (qPCR/NGS),n/a,
-VI34,CAV-2 (canine adenovirus type 2 variant),legacy_coded,classified,IFA + HA + cross-neutralization,culture-native,
-VI36,CHIKV (chikungunya virus),legacy_coded,classified,PRNT + western blot,culture-native,
-VI38,SARS-CoV-2,legacy_coded,classified,immunostaining (anti-N MAb),recombinant (N protein MAb),
-VI39,Oita virus (rhabdovirus),legacy_coded,classified,none (TCID50/qPCR),n/a,
-VI40,RSV (respiratory syncytial virus),legacy_coded,classified,IFA (M2-1),culture-native,
-VI41,West Nile virus (small plaque variant),legacy_coded,classified,none (plaque),n/a,
-VI42,VZV,legacy_coded,classified,IFA + western blot,culture-native,
-VI43,SARS-CoV,legacy_coded,classified,western blot + IFA,culture-native,
-VI44,enteroviruses,legacy_coded,wishlist,,,
-VI45,rabies,legacy_coded,classified,FAT/DFA,culture-native,
-VI46,rabies,legacy_coded,classified,FAT,culture-native,
-VI50,HAdV (human adenovirus),oa,classified,none,NA,n/a
-VI51,bovine enterovirus,oa,classified,IFA,CN,yes
-VI52,herpes B virus (Macacine alphaherpesvirus 1),oa,classified,none,NA,n/a
-VI53,BVDV,oa,classified,"IFA,neutralization",CN,yes
-VI54,enteroviruses (wastewater),oa,classified,none,NA,n/a
-VI55,Orthobunyavirus (novel),oa,classified,"IFA,western,ELISA",REC,yes
-VI56,sarbecoviruses (bat),oa,classified,none,NA,n/a
-VI57,insect-specific flavivirus (lineage I),oa,classified,ELISA(dsRNA mAb),CN,yes
-VI58,Japanese encephalitis virus (JEV),oa,classified,IFA,CN,not-stated
-VI59,BVDV-1c,oa,classified,IFA,CN,yes
-VI60,PIV5 (parainfluenza virus 5),oa,classified,"IFA,western",CN,yes
-VI61,bat Jeilongvirus,oa,classified,none,NA,n/a
-VI62,human adenovirus,oa,classified,none,NA,n/a
-VI63,PRRSV-1 and PRRSV-2,oa,classified,"IFA,IHC,ELISA",CN,yes
-VI64,HAdV-55,oa,classified,none,NA,n/a
-VI65,mumps virus,oa,classified,none,NA,n/a
-VI66,fowl adenovirus (FAdV),oa,classified,none,NA,n/a
-VI67,bovine enterovirus genotype F,oa,classified,IFA,CN,yes
-VI68,camelpox virus,oa,classified,none,NA,n/a
-VI69,African swine fever virus (ASFV),oa,classified,immunoperoxidase,CN,yes
-VI70,fowl adenovirus,oa,classified,"IFA,ELISA(blocking)",CN,yes
-VI71,poliovirus (Sabin type 1 D-antigen assays),oa,classified,none,NA,n/a
-VI72,SARS-CoV-2,oa,classified,none,NA,n/a
-VI73,HSV-1,oa,classified,western,CN,yes
-VI74,DENV (C6/36 standardization),oa,classified,"neutralization(VNT),ELISA",CN,no
-VI75,mosquito-borne alphaviruses (Zambia),oa,classified,none,NA,n/a
-VI76,covert mortality nodavirus (CMNV),oa,classified,none,NA,n/a
-VI77,PDCoV (porcine deltacoronavirus),oa,classified,"IFA,IHC",CN,yes
-VI78,FAdV-4,oa,classified,none,NA,n/a
-VI79,RSV,oa,classified,western,CN,yes
-VI8,SARS-CoV-2,legacy_coded,classified,neutralization (patient sera),culture-native,
-VI80,H3NX avian influenza,oa,classified,HA,CN,not-stated
-VI81,FAdV,oa,classified,"IFA,IHC",CN,yes
-VI82,nervous necrosis virus (NNV),oa,classified,none,NA,n/a
-VI83,CPV-2c (canine parvovirus),oa,classified,"western,IFA,ELISA",CN,yes
-VI84,porcine teschovirus 2 (PTV-2),oa,classified,"western,IFA",CN,yes
-VI85,feline astrovirus,oa,classified,immunoperoxidase(IPMA),CN,yes
-VI86,Duck Tembusu virus (DTMUV),oa,classified,none,NA,n/a
-VI87,novel duck orbivirus,oa,classified,neutralization(VNT),CN,yes
-VI88,vaccine-like recombinant virus (cellular tropism study),oa,classified,IFA,CN,yes
-VI89,FHV-1 (MLV strain F2 clinical re-isolation),oa,classified,none,NA,n/a
-VI90,HSV-2 (primary clinical isolate),oa,classified,none,NA,n/a
-VI91,RSV / measles (secondary infection methods),oa,classified,none,NA,n/a
-VI92,DENV (antiviral NDGA study),oa,classified,IFA,CN,not-stated
-VI93,DENV-2,oa,classified,"western,IFA,Co-IP",CN,yes
-VI94,PDCoV-related viruses (house sparrows),oa,classified,none,NA,n/a
-VI97,herpesvirus,paywall_needed,wishlist,,,
-VI98,Sinu virus (orthomyxovirus),pdf_extracted,classified,IFA(IFAT),CN,yes
-VI99,PEDV (coronavirus HLJBY),pdf_extracted,classified,IFA,CN,not-stated
+ref_id,recipe,agent,access,class,primary_endpoint,endpoint_sero,sero_confirmation_webfetch,matched_mock_webfetch,fulltext_serology
+VI100,A,adenovirus (HAdV-7),pdf_extracted,1,CPE (virus detection / Isolate),,"neutralization,ELISA",no,
+VI101,A,enterovirus / adenovirus (shell vial vs conventional),pdf_extracted,4,antigen detection (IFA shell-vial comparison),antigen_detection,"IFA,neutralization,ELISA",not-stated,c
+VI102,A,Culex flavivirus,pdf_extracted,1,CPE (virus detection / Isolate),,none,n/a,
+VI103,A,IBDV,paywall_needed,4,immunogenicity (mutant selection under immune pressure),,,,c
+VI104,A,PRCV,paywall_needed,1,CPE (virus detection / Isolate),,,,x
+VI105,A,rhinovirus (HRV; HEL vs HeLa susceptibility),pdf_extracted,1,CPE (virus detection / Isolate),,none,n/a,
+VI106,A,adenovirus (HAdV-11a / B2),pdf_extracted,1,CPE (virus detection / Isolate),,"neutralization,ELISA",no,
+VI107,A,virus isolation cell-system comparison (wastewater/fecal),pdf_extracted,1,CPE (virus detection / Isolate),,"neutralization,HI",not-stated,
+VI108,A,herpesvirus,paywall_needed,4,diagnostic-method comparison (dot blot / PCR / isolation),,,,c
+VI109,A,rabies (street/fixed),pdf_extracted,1,CPE (virus detection / Isolate),,IFA(FAT),yes,
+VI110,A,parainfluenza,pdf_extracted,1,CPE (virus detection / Isolate),,none,n/a,
+VI111,A,Crohn disease inoculum CPE study (viral culture),pdf_extracted,1,CPE (virus detection / Isolate),,none,n/a,
+VI112,A,HAV,pdf_extracted,1,CPE (virus detection / Isolate),,"IFA,RIA",no,
+VI113,A,"enteroviruses, adenoviruses, and reoviruses (sewage effluent)",pdf_extracted,1,CPE (virus detection / Isolate),,"neutralization,HI,HA,IEM",not-stated,
+VI114,A,PRRSV,paywall_needed,4,morphological/biochemical/serological characterization,,,,c
+VI115,A,CMV,pdf_extracted,1,CPE (virus detection / Isolate),,IFA,not-stated,
+VI116,A,enterovirus (C. difficile toxin confounding),pdf_extracted,1,CPE (virus detection / Isolate),,none,n/a,
+VI117,A,field virus isolation (miniature cell culture systems),pdf_extracted,1,CPE (virus detection / Isolate),,none,n/a,
+VI118,A,HSV,pdf_extracted,1,CPE (virus detection / Isolate),,IFA,not-stated,
+VI119,A,enterovirus,paywall_needed,4,cell-line sensitivity comparison (field isolates),,,,
+VI120,A,adenovirus,paywall_needed,1,CPE (virus detection / Isolate),,,,
+VI121,A,adenovirus types 4 and 7; coxsackievirus A21,pdf_extracted,4,antigen detection (indirect immunofluorescence ID),antigen_detection,IFA(IFAT),yes,c
+VI13,A,SARS-CoV-2,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI14,A,HRSV,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI15,A,DENV-2,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI16,A,HSV-1,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI18,A,influenza,legacy_coded,4,vaccine donor strain generation (serial Vero passage),,,,
+VI2,A,SL-CoV-WIV1,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI200,A,enteroviruses (groundwater concentrates),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI201,A,TGEV,oa,4,molecular (spike-gene sequencing / phylogeny),,none,n/a,
+VI202,A,TGEV,oa,1,CPE (virus detection / Isolate),,antibody(serum),not-stated,
+VI203,A,HSV (shell vial),oa,1,CPE (virus detection / Isolate),,IFA/immunoperoxidase,yes,
+VI204,A,HSV; HCMV,oa,4,characterization (antiviral GFS screening),,none,n/a,
+VI205,A,HSV-1 SC16; HSV-2 G,oa,4,neutralization (scFv plaque reduction),neutralization,ELISA,no,r
+VI206,A,measles (SSPE vs wild-type),oa,4,characterization (neurovirulence comparison),,antibody(serum IgG),not-stated,
+VI208,A,human rhinovirus,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI209,A,IBR/BHV-1,oa,4,titration TCID50 (ether-sensitivity),,none,n/a,
+VI210,A,rat coronavirus (sialodacryoadenitis-related),oa,1,CPE (virus detection / Isolate),,"neutralization,CF",not-stated,
+VI211,A,human coronavirus 229E / related coronaviruses,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI212,A,enteroviruses (faecal isolation),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI214,A,human respiratory coronavirus,oa,4,characterization (coronavirus isolate heterogeneity),,neutralization(serum),not-stated,
+VI215,A,ISAV,oa,4,molecular (real-time RT-PCR assay),,none,n/a,
+VI216,A,SARS-CoV 2003VA2774,oa,4,characterization (antiviral drug screening),,none,n/a,
+VI217,A,PIV-3; PRCV,oa,4,characterization (antiviral protein activity),,none,n/a,
+VI218,A,enteroviruses; adenoviruses,oa,1,CPE (virus detection / Isolate),antigen_detection,IFA,not-stated,c
+VI219,A,PEDV,oa,1,CPE (virus detection / Isolate),,"IFA,neutralization(VN)",yes,
+VI220,A,JEV; YFV (glycoprotein study),oa,4,glycoprotein study (JEV/YFV),,none,n/a,
+VI221,A,myxovirus (infectious hepatitis study),oa,1,CPE (virus detection / Isolate),,antibody(serological),not-stated,
+VI222,A,Chikungunya virus,oa,4,characterization (cell-to-cell spread mechanism),,none,n/a,
+VI223,A,rabies (street strain),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI224,A,FIPV (DF2),oa,4,characterization (temperature-sensitive mutant),,western,not-stated,
+VI225,A,parainfluenza 1-3; SV5,oa,1,CPE (virus detection / Isolate),,,,
+VI226,A,measles SSPE (brain biopsy),oa,1,CPE (virus detection / Isolate),,,,
+VI227,A,IBDV,oa,1,CPE (virus detection / Isolate),,,,
+VI228,A,PRRSV (EDRD-1),oa,4,neutralization (PRRSV NT test),neutralization,,,c
+VI229,A,PRRSV (EDRD-1),oa,4,characterization (hemagglutinin),,,,c
+VI23,A,SARS-CoV-2,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI230,A,influenza A/B (clinical NPA isolation),oa,1,CPE (virus detection / Isolate),,IFA,not-stated,
+VI231,A,California encephalitis virus,oa,4,characterization (EM morphology),,none,n/a,
+VI232,A,WNV (3356); flavivirus assays,oa,4,flavivirus assays (assay platform),neutralization,none,n/a,n
+VI233,A,human rhinovirus (clinical),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI234,A,HSV (clinical isolation),abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI235,A,Zika virus (mosquito suspension isolation),oa,1,CPE (virus detection / Isolate),,"IFA,immunoperoxidase",not-stated,
+VI236,A,Yellow fever virus (mosquito pool isolation),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI239,A,Influenza A H3N2 (clinical isolation),abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI240,A,ophthalmic viruses (HSV etc. primary isolation),abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI240,B,ophthalmic viruses primary isolation,abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI240,C,ophthalmic viruses primary isolation,abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI243,A,bovine enteroviruses (dairy herd isolation),abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI244,A,CMV (shell vial / clinical isolates),abstract_full_text_outstanding,4,antigen detection (flow cytometry early CMV antigen),antigen_detection,,,c
+VI246,A,FMDV (clinical samples; experimental infection animals),abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI247,A,SARS-CoV-2,fulltext_verified,1,CPE (virus detection / Isolate),,,,
+VI248,A,SARS-CoV-2,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI249,A,Influenza A (exhibition swine),abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI25,A,EBOV (Makona-C05 and Yambuko-Mayinga),legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI250,A,Influenza (clinical; vaccine seed isolation),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI251,A,RSV (nasopharyngeal aspirates),oa,1,CPE (virus detection / Isolate),,IFA,not-stated,
+VI252,A,human paramyxoviruses (PIV/mumps) primary isolation,oa,1,CPE (virus detection / Isolate),,"hemadsorption,HA,EIA",not-stated,
+VI253,A,hMPV (clinical isolation),oa,1,CPE (virus detection / Isolate),,immunoperoxidase,not-stated,
+VI262,A,respiratory viruses (HEF microplate 2004-2005),oa,1,CPE (virus detection / Isolate),,not-stated,not-stated,
+VI262,B,respiratory viruses (RD-18S microplate),oa,1,CPE (virus detection / Isolate),,not-stated,not-stated,
+VI264,A,SFTSV (tick homogenate isolation),oa,1,CPE (virus detection / Isolate),,immunoperoxidase,not-stated,
+VI265,A,PPRV (clinical tissues/swabs),oa,1,CPE (virus detection / Isolate),,,,
+VI266,A,HRSV (clinical PCR-positive),abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI267,A,HPIV-1 and HPIV-3 (clinical),abstract_full_text_outstanding,1,CPE (virus detection / Isolate),,,,
+VI268,A,FMDV (clinical outbreak isolation),oa,1,CPE (virus detection / Isolate),,neutralization(VNT),not-stated,
+VI269,A,FMDV (experimental/clinical sample isolation),oa,1,CPE (virus detection / Isolate),,ELISA(liquid-phase blocking),not-stated,
+VI272,A,Ranavirus micropterus1 (McRV),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI273,A,Betanodavirus / NNV (gonad diagnostics),oa,4,reporter/luciferase diagnostics (RTG psaumx2-luc) + estradiol characterization,,none,n/a,
+VI274,A,IBDV (LC-75 Vero adaptation),oa,4,Vero adaptation of IBDV LC-75 vaccine strain,,ELISA(indirect),yes,
+VI275,A,PPRV (in vitro isolation from domestic/wild ruminants),oa,1,CPE (virus detection / Isolate),,neutralization(VNT),not-stated,
+VI276,A,Mammalian orthoreovirus (bat MRV2),oa,1,CPE (virus detection / Isolate),,IFA,not-stated,
+VI277,A,Duck enteritis virus (DEV field outbreak),oa,1,CPE (virus detection / Isolate),,"IFA(IIFT),neutralization(VNT)",yes,
+VI278,A,Fowl adenovirus 8a (FAdV-8a),oa,1,CPE (virus detection / Isolate),,,,
+VI279,A,Getah virus (GETV) from diseased piglets,oa,1,CPE (virus detection / Isolate),,,,
+VI28,A,SARS-CoV-2,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI280,A,PEDV (intestinal tissue isolation),oa,1,CPE (virus detection / Isolate),,,,
+VI281,A,Hepatitis E virus (retail pork pate),oa,4,antigen detection (HEV ORF2 immunostaining),antigen_detection,,,c
+VI282,A,Ebola virus outbreak variants (Mayinga/Kikwit/Makona),oa,4,"titration TCID50 (Ebola disinfection efficacy, QCT-2 carrier test)",,none,n/a,
+VI283,A,PRRSV-2 (Marc-145 culture after inoculation),oa,1,CPE (virus detection / Isolate),,"western,IFA",not-stated,
+VI284,A,Negevirus (mosquito isolation),oa,1,CPE (virus detection / Isolate),,,,
+VI285,A,SARS-CoV-2 (feline primary isolation),oa,1,CPE (virus detection / Isolate),,,,
+VI286,A,Feline parvovirus (FPV) from anal swab,oa,1,CPE (virus detection / Isolate),,"western,IFA",yes,
+VI287,A,SARS-CoV-2 (clinical swab isolation Alpha),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI288,A,Cyprinid herpesvirus-2 (CyHV-2),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI289,A,Japanese encephalitis virus (JEV) culture,oa,4,hemagglutination-hemadsorption (HA antigen production),hemagglutination,,,c
+VI29,A,Rabies virus (PV strain),legacy_coded,4,nucleoprotein purification (protein prep),,,,
+VI290,A,Influenza A (tissue homogenate MDCK isolation),oa,4,characterization (gene-edited pig titration),,,,
+VI291,A,Orthohantavirus (genetic variants isolation),oa,1,CPE (virus detection / Isolate),,IFA,yes,
+VI292,A,SARS-CoV-2 (clinical isolates; Caco-2/HuH-6 systems),oa,1,CPE (virus detection / Isolate) + cell-system characterization,,,,
+VI293,A,Rabies virus (Vero-adapted Flury HEP),oa,4,characterization (vaccine-strain Vero adaptation),,"IFA,western,RFFIT",yes,
+VI294,A,Dengue virus (DENV) — NS1 antigen detection,fulltext_verified,4,antigen detection (NS1),antigen_detection,,,c
+VI295,A,Influenza (single-virus imaging),fulltext_verified,4,live-cell imaging / single-particle tracking,,,,
+VI296,A,HIV-1 (single-particle tracking),fulltext_verified,4,live-cell imaging / single-particle tracking,,,,
+VI297,A,Hepatitis B surface antigen (VLP),fulltext_verified,4,live-cell imaging / single-particle tracking,,,,
+VI298,A,SARS-CoV-2 (single-virus tracking),fulltext_verified,4,live-cell imaging / single-particle tracking,,,,
+VI299,A,VSV (high-speed 3D tracking),fulltext_verified,4,live-cell imaging / single-particle tracking,,,,
+VI30,A,Influenza A (IAV clinical/swine isolates) / MDCK (various lines),legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI300,A,Vaccinia virus (Tiantan),fulltext_verified,4,live-cell imaging / single-particle tracking,,,,
+VI301,A,Poliovirus,fulltext_verified,4,live-cell imaging / single-particle tracking,,,,
+VI302,A,Murine polyoma virus-like particles,fulltext_verified,4,live-cell imaging / single-particle tracking,,,,
+VI303,A,ZIKV,legacy_coded,4,live-cell imaging / replication (tetracysteine-tagged capsid),,,,
+VI32,A,FHV-1 (feline herpesvirus-1),legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI33,A,MERS-CoV,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI34,A,CAV-2 (canine adenovirus type 2 variant),legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI36,A,CHIKV (chikungunya virus),legacy_coded,4,characterization (immunity / breastfeeding challenge),,,,
+VI38,A,SARS-CoV-2,legacy_coded,4,characterization (trypsin-enhanced entry mechanism),,,,
+VI39,A,Oita virus (rhabdovirus),legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI40,A,RSV (respiratory syncytial virus),legacy_coded,4,characterization (multiple RSV strains),,,,
+VI41,A,West Nile virus (small plaque variant),legacy_coded,4,characterization (small-plaque variant),,,,
+VI42,A,VZV,legacy_coded,4,protein cellular localization (ORF29p),,,,
+VI43,A,SARS-CoV,legacy_coded,4,characterization (persistent SARS-CoV cell mechanism),,,,
+VI44,A,enteroviruses,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI45,A,rabies,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI46,A,rabies,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI50,A,HAdV (human adenovirus),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI51,A,bovine enterovirus,oa,1,CPE (virus detection / Isolate),,IFA,yes,
+VI52,A,herpes B virus (Macacine alphaherpesvirus 1),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI53,A,BVDV,oa,1,CPE (virus detection / Isolate),,"IFA,neutralization",yes,
+VI54,A,enteroviruses (wastewater),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI55,A,Orthobunyavirus (novel),oa,1,CPE (virus detection / Isolate),,"IFA,western,ELISA",yes,
+VI56,A,sarbecoviruses (bat),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI57,A,insect-specific flavivirus (lineage I),oa,1,CPE (virus detection / Isolate),,ELISA(dsRNA mAb),yes,
+VI58,A,Japanese encephalitis virus (JEV),oa,1,CPE (virus detection / Isolate),,IFA,not-stated,
+VI59,A,BVDV-1c,oa,1,CPE (virus detection / Isolate),,IFA,yes,
+VI60,A,PIV5 (parainfluenza virus 5),oa,1,CPE (virus detection / Isolate),,"IFA,western",yes,
+VI61,A,bat Jeilongvirus,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI62,A,human adenovirus,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI63,A,PRRSV-1 and PRRSV-2,oa,1,CPE (virus detection / Isolate),,"IFA,IHC,ELISA",yes,
+VI64,A,HAdV-55,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI65,A,mumps virus,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI66,A,fowl adenovirus (FAdV),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI67,A,bovine enterovirus genotype F,oa,1,CPE (virus detection / Isolate),,IFA,yes,
+VI68,A,camelpox virus,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI69,A,African swine fever virus (ASFV),oa,1,CPE (virus detection / Isolate),,immunoperoxidase,yes,
+VI70,A,fowl adenovirus,oa,1,CPE (virus detection / Isolate),,"IFA,ELISA(blocking)",yes,
+VI71,A,poliovirus (Sabin type 1 D-antigen assays),oa,4,D-antigen assay (antibody panel),antigen_detection,none,n/a,n
+VI72,A,SARS-CoV-2,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI73,A,HSV-1,oa,4,purification (HSV-1 gB protein),,western,yes,
+VI74,A,DENV (C6/36 standardization),oa,1,CPE (virus detection / Isolate) + titration + neutralization,neutralization,"neutralization(VNT),ELISA",no,c
+VI75,A,mosquito-borne alphaviruses (Zambia),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI76,A,covert mortality nodavirus (CMNV),oa,4,characterization (replication kinetics / serial passage),,none,n/a,
+VI77,A,PDCoV (porcine deltacoronavirus),oa,1,CPE (virus detection / Isolate),,"IFA,IHC",yes,
+VI78,A,FAdV-4,oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI79,A,RSV,oa,1,CPE (virus detection / Isolate),,western,yes,
+VI8,A,SARS-CoV-2,legacy_coded,1,CPE (virus detection / Isolate),,,,
+VI80,A,H3NX avian influenza,oa,1,CPE (virus detection / Isolate),,HA,not-stated,
+VI81,A,FAdV,oa,1,CPE (virus detection / Isolate),,"IFA,IHC",yes,
+VI82,A,nervous necrosis virus (NNV),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI83,A,CPV-2c (canine parvovirus),oa,1,CPE (virus detection / Isolate),,"western,IFA,ELISA",yes,
+VI84,A,porcine teschovirus 2 (PTV-2),oa,1,CPE (virus detection / Isolate),,"western,IFA",yes,
+VI85,A,feline astrovirus,oa,1,CPE (virus detection / Isolate),,immunoperoxidase(IPMA),yes,
+VI86,A,Duck Tembusu virus (DTMUV),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI87,A,novel duck orbivirus,oa,1,CPE (virus detection / Isolate),,neutralization(VNT),yes,
+VI88,A,vaccine-like recombinant virus (cellular tropism study),oa,4,phylogeny + tropism characterization (recombinant virus),,IFA,yes,
+VI89,A,FHV-1 (MLV strain F2 clinical re-isolation),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI90,A,HSV-2 (primary clinical isolate),oa,4,characterization (drug-resistance EC50),,none,n/a,
+VI91,A,RSV / measles (secondary infection methods),oa,4,secondary-infection methods (lab replication),,none,n/a,
+VI92,A,DENV (antiviral NDGA study),oa,4,antiviral compound screening (NDGA),,IFA,not-stated,
+VI93,A,DENV-2,oa,1,CPE (virus detection / Isolate),,"western,IFA,Co-IP",yes,
+VI94,A,PDCoV-related viruses (house sparrows),oa,1,CPE (virus detection / Isolate),,none,n/a,
+VI97,A,herpesvirus,paywall_needed,4,molecular subtyping (glycoprotein C gene),,,,x
+VI98,A,Sinu virus (orthomyxovirus),pdf_extracted,1,CPE (virus detection / Isolate),,IFA(IFAT),yes,
+VI99,A,PEDV (coronavirus HLJBY),pdf_extracted,1,CPE (virus detection / Isolate),,IFA,not-stated,
