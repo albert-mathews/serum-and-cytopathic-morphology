@@ -81,14 +81,25 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   medium; B = named but match unverifiable; C = wrong stage and/or explicit mismatch; D = none described.
   *(Evidence: house framework `r2_negative_controls/control-cultures.md`; Status: stipulated; Stream: R2.)*
 
-- **DEF005 · Definition** — **Assembly fragility.** *(Short)* The deposited "complete genome" was built wrong
-  (missing, erroneous, mis-sized, or retracted) and a later publication corrected it. *(Status: stipulated;
-  Streams P3. Backing: p3.md §P3.v1 signal 2 — e.g. CMV AD169 missing 929 bp.)*
+- **DEF005 · Definition** — **Assembly fragility.** *(Short)* The deposited "complete genome" was built wrong.
+  *(Long)* The published full-genome assembly of a named, culture-derived type material is later shown incorrect
+  or incomplete — a missing gene-containing segment (CMV AD169 absent 929 bp affecting UL42/UL43), accumulated
+  sequencing errors (HPV16, human adenovirus 17, AAV2, the adenovirus "four errors" corrected by Jung 1991, the
+  HVT frameshift), a mis-sized genome (FMDV O1K poly(C) length corrected 7802→~8450 nt), or a retracted
+  infectious clone (measles Edmonston, Ballart 1990 retracted 1991) — and the correction is itself published, so
+  the error is *detectable*, not hidden. *(Evidence: [VERIFIED src] A3 census
+  `sequence_origins/P3_A3_census_2026-11-13.md`; Status: stipulated — taxonomy; Stream P3.)*
 
-- **DEF006 · Definition** — **Stock drift.** *(Short)* The culture product itself is not a fixed object: the
-  "reference genome" is a passage-drifted, lab-specific snapshot, not a stable natural identifier. *(Status:
-  stipulated; Streams P3. Backing: p3.md §scope note 2026-11-14 — a process critique, not a "virus is broken"
-  claim.)*
+- **DEF006 · Definition** — **Stock drift.** *(Short)* The culture product itself is not a fixed object.
+  *(Long)* When "the same" named stock / isolate is re-sequenced, or held and passaged in different laboratories,
+  the biological material has itself diverged — through passage and adaptation (CMV AD169 high-passage vs
+  low-passage Merlin), lab-to-lab drift (AD169 varUC vs ATCC holdings), culture adaptation (HAV HM-175 wild-type
+  vs cell-adapted attenuated), or residual population heterogeneity (MDV CVI988 consensus differing at 236
+  positions / 13 ORFs across three holdings; Ad2 "heterogeneity persists after plaque purification") — so
+  independent sequences differ because the stock drifted, not because a data-handling step failed. The "reference
+  genome" is therefore a passage-drifted, lab-specific snapshot, not a stable natural identifier — a process
+  critique, not a "virus is broken" claim. *(Evidence: [VERIFIED src] A3 census
+  `sequence_origins/P3_A3_census_2026-11-13.md`; Status: stipulated — taxonomy; Stream P3.)*
 
 ## Axioms (premises / scope)
 
@@ -155,11 +166,14 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   two panels; Stream: P7.)*
 
 - **OB028 · Observation** — **Origin/type genome deposits are predominantly culture-derived.** The Step 1
-  origin/type census (37 `culture_cpe` / 0 open) found most type-genome deposits entered via culture
-  propagation, with a large share CPE-warranted. This is the census premise that justifies looking for
-  downstream ambiguity in the viral-genetics literature (CNJ150). *(Evidence: [VERIFIED src] Step 1 corpus
-  `p3_genetics/sequence_origins/P3_sequence_origin_events.csv`, `P3_step1_progress_summary.md`;
-  Status: established-scoped; Stream: P3.)*
+  genome-origin census (102 origin/confirmation events, all `chain_closed`, 0 open) finds 82 of 102 (80%)
+  deposit events document culture-propagated sample production — 37 (36%) with a culture+CPE/plaque/syncytia
+  warrant, 45 (44%) culture without stated CPE — versus 11 (11%) clinical-direct and 9 (9%) other
+  (eggs/animal/synthetic). Coding used a documentary soft bar (method↔deposit within reasonable doubt) and
+  passed a quality audit (0 of 24 re-read borderlines re-scored). This is the census premise that justifies
+  looking for downstream ambiguity in the viral-genetics literature (CNJ150). *(Evidence: [VERIFIED src]
+  `p3_genetics/sequence_origins/P3_sequence_origin_events.csv`, `P3_step1_path_type_map_2026-09-21.md`;
+  Status: established-scoped — documentary census of 102 events, not a random taxonomy sample; Stream P3.)*
 
 - **OB080 · Observation** — **The Isolation/titration endpoint is the least reproducible of the methods
   compared.** Across the first-class Isolation/titration panels that reported both a cell-culture endpoint and
@@ -197,9 +211,10 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 
 - **LM034 · Lemma** — **Detection is deterministic but non-specific.** The molecular *detection* layer of
   viral genetics (PCR/qPCR/RT-PCR) is reproducible across laboratories even when blinded (OB080: P7-008
-  unblinded qPCR 0.96–1.0; P7-014 blinded RT-qPCR near-perfect), but it is *primer-driven* — it amplifies
-  whatever nucleic acid matches the primers. Reproducible detection does not itself earn the "viral" label of
-  the detected sequence. *(Follows from OB080; Status: established-scoped; Streams P3, P7.)*
+  unblinded qPCR 0.96–1.0 vs infectivity 0.68–0.90; P7-014 blinded RT-qPCR near-perfect), but it is
+  *primer-driven* — it amplifies whatever nucleic acid matches the primers (viral, host, bovine, or reagent).
+  Reproducible detection does not itself earn the "viral" label of the detected sequence. *(Follows from OB080;
+  Status: established-scoped; Streams P3, P7.)*
 
 ## Theorem
 
