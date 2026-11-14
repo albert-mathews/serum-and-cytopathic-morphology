@@ -359,7 +359,7 @@ cross-reactivity) + **1 challenging** (Grimm — the pre-pandemic "cross-reactiv
 attributed to earlier real virus, so cross-reactivity is *excluded* there). This is the honest ledger: the
 healthy-donor/patient-side positive-with-no-expected-virus pattern is real and large-n, but the field also
 **rescues** the ambiguous positives by back-dating a virus (Grimm) — which is itself evidence for the
-under-determined warrant C041/C042, not for a clean no-virus conclusion.
+under-determined warrant CRL041/CRL042, not for a clean no-virus conclusion.
 
 ### What this strand establishes (full-text read)
 
