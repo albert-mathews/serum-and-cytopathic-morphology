@@ -23,14 +23,14 @@
 
 ## Please fetch
 
-*Nothing required.* All Step 1 events that can be closed from literature are closed or recorded as such in `P3_step1_progress_summary.md`.
+*Nothing required.* All Step 1 events that can be closed from literature are closed or recorded as such in `P3_step1_progress_summary.md`. The fetch queue (incl. the two optional Step 1 items below) is consolidated in the stream-root, gitignored wishlist [`../P3_pdf_wishlist.md`](../P3_pdf_wishlist.md) — not here.
 
-Optional:
+The two optional Step 1 items (carried in the consolidated wishlist):
 
-| ID | Citation | DOI | Drop as | Note |
-|---|---|---|---|---|
-| RHV-P3 | Stanway et al. 1984 *Arch Virol* 81:67-78 (PMID 6331350) | `10.1007/BF01309297` | `RHV-P_stanway_1984_archvirol.pdf` | RHV-O1 closed without it (Stanway 1984 *NAR* HRV-14 is held and used) |
-| Frey 1986 | Frey et al. 1986 *Virology*, rubella E1 cloning (PMID 3755848) | `10.1016/0042-6822(86)90446-0` | `RUB-P_frey_1986_virology.pdf` | Related RNA hop for RUB-O1; not a separate event |
+| ID | Citation | Note |
+|---|---|---|
+| RHV-P3 | Stanway et al. 1984 *Arch Virol* 81:67-78 (PMID 6331350) | RHV-O1 closed without it (Stanway 1984 *NAR* HRV-14 is held and used) |
+| Frey 1986 | Frey et al. 1986 *Virology*, rubella E1 cloning (PMID 3755848) | Related RNA hop for RUB-O1; not a separate event |
 
 Not requested (no verified DOI or not acquirable):
 

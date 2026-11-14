@@ -1,7 +1,7 @@
 # P3 Step 1 Results — draft (exploration)
 
 **Date:** 2026-09-21 (pass **21N** snapshot)  
-**Status:** Working draft for paper-facing Results / Methods. **Step 1 is not finished** — 1 chain still open (LASSA-O1); wishlist lean.  
+**Status:** Working draft for paper-facing Results / Methods. **Step 1 census complete (pass 21P)** — 0 chains open (LASSA-O1 closed via Auperin 1986; see `P3_step1_path_score_audit_2026-09-21.md` 21P addendum).  
 **Tone:** Parallel to P2 (hypothesis → predict X → find X). Census and documentation, not advocacy.
 
 ---
@@ -40,32 +40,34 @@ Prefer OA/PMC; paywalled PDFs only when user-supplied into gitignored `refs/sequ
 
 ---
 
-## 3. Counts (snapshot 2026-09-21 ~22:15 ET, pass **21N**)
+## 3. Counts (final — pass **21P**; supersedes the 21M/21N pass logs below)
 
 | Metric | n |
 |--------|---|
 | Events (O+C) | **102** |
-| `chain_closed` | **101** (99%) |
-| `chain_open` | **1** (1%) |
+| `chain_closed` | **102** (100%) |
+| `chain_open` | **0** (0%) |
 
 ### path_score among closed
 
 | path_score | n closed | % of closed |
 |------------|----------|-------------|
-| `culture_cpe` | **36** | 36% |
-| `culture_no_cpe` | **45** | 45% |
+| `culture_cpe` | **37** | 36% |
+| `culture_no_cpe` | **45** | 44% |
 | `clinical_direct` | **11** | 11% |
 | `other` | **9** | 9% |
 
-| Culture-propagated (`culture_cpe` + `culture_no_cpe`) | **81** / 101 closed (**80%**) |
-| `culture_cpe` alone | **36** / 101 closed (**36%**) |
+| Culture-propagated (`culture_cpe` + `culture_no_cpe`) | **82** / 102 closed (**80%**) |
+| `culture_cpe` alone | **37** / 102 closed (**36%**) |
 
 **Read for the spine:** among closed events, culture-propagated paths dominate; the CPE-warranted subset is substantial but not the whole culture story — report both separately.
 
-**Pass 21N closes:** COV-O7, HSV-O1, CHIK-O1, CMV-O1 — all `culture_no_cpe` (see `P3_step1_path_type_map_2026-09-21.md`). Still open: LASSA-O1 only.
+**Pass 21N closes:** COV-O7, HSV-O1, CHIK-O1, CMV-O1 — all `culture_no_cpe` (see `P3_step1_path_type_map_2026-09-21.md`).
+
+**Pass 21P closes:** LASSA-O1 → `culture_cpe` (Auperin 1986 Josiah Methods: plaque×3 Vero E6; BHK-21 purified virion RNA). **0 chains open.**
 
 
-## 4. All closed `culture_cpe` events (36)
+## 4. All closed `culture_cpe` events (37)
 
 | event_id | virus | year | 1-line Methods warrant |
 |----------|-------|------|------------------------|
@@ -101,12 +103,13 @@ Prefer OA/PMC; paywalled PDFs only when user-supplied into gitignored `refs/sequ
 | VSV-C1 | vesicular stomatitis Indiana virus | 2019 | Explicit: Once 80 to 90% of the cells exhibited a cytopathic effect, the supernatant was harvested. Title/abstract: plaque isol... |
 | WNV-C1 | West Nile virus | 2004 | yes — plaque-purified variants; mouse virulence PFU; plaques used for glycosylation-motif variants |
 | WNV-O1 | West Nile virus | 1999 | Cells examined for cytopathologic effect for up to 7 days after inoculation |
+| LASSA-O1 | Lassa virus (Josiah S segment) | 1989 | Auperin 1986 Josiah Methods (plaque×3 Vero E6; BHK-21 purified virion RNA) cited by Auperin 1989 |
 
 ---
 
 ## 5. Contrast: `clinical_direct` and `other`
 
-### clinical_direct (n=10)
+### clinical_direct (n=11)
 Examples:
 - **B19-O1** (human parvovirus B19, 1986): no culture
 - **BOCA-O1** (human bocavirus, 2005): n/a — clinical_direct; no culture for sequenced genomes DQ000495/496
@@ -119,7 +122,7 @@ Examples:
 - **SAPO-C1** (sapovirus (Sapporo virus), 2017): Total RNA was extracted from 200-μL aliquots of two stool supernatants (S3 and S6)… Ion total RNA-seq… SaV contigs → KY040366. ...
 - **ZIKV-C1** (Zika virus, 2008): n/a — no isolate obtained
 
-### other (n=7)
+### other (n=9)
 Examples:
 - **FLU-B-O1** (influenza B virus, 1982): n/a (eggs)
 - **FLU-O1** (influenza A virus, 1981): n/a (eggs; not cell-culture CPE)
@@ -135,12 +138,12 @@ These contrast paths matter for honesty: the spine concerns culture ± CPE found
 
 ## 6. Limitations
 
-- **5 chains still open**, many wishlist-blocked: ASTRO-O1, BTV-O1, BVDV-O1, CDV-O1, CHIK-O1, CMV-O1, COV-O7, CSFV-O1, FCV-O1, HPIV1-O1, HSV-O1, LASSA-O1, MARB-O1, NIPAH-O1, SAPO-O1, ZIKV-O1.
+- **0 chains open** as of pass 21P (LASSA-O1 closed last; the interim 21M/21N open-chain lists are retained as history below).
 - **HSV-O1 / CHIK-O1** marked could_not_obtain (Albert).
 - Soft bar closes documentary method↔deposit links; it does **not** reconstruct forensic tube custody.
 - O/C mix and family coverage are opportunistic (OA + user PDFs), not a random sample of viral taxonomy.
 - Some closed consensus/compilation events (e.g. ADE-O1) inherit warrant from constitutive upstream Methods.
-- **Step 1 is not done.** Fractions will move as wishlist PDFs arrive.
+- **Step 1 census complete.** Fractions are final for the coded event set; no wishlist items remain required (see `P3_pdf_catalogue.md`).
 
 ---
 

@@ -1,6 +1,6 @@
 # P3 Step 1 — Progress summary
 
-**Updated:** 2026-09-21 ~21:30 ET (pass **21M**). **Step 1 IN PROGRESS — not done.**
+**Updated:** 2026-09-21 (passes 21M → 21N → 21P; **census complete** — see "Final state" at bottom; 21M/21N below are interim pass logs).
 
 ## Evidentiary-bar clarification (USER 2026-09-21) — still in force
 Adequate documentary evidence linking **sample-production method ↔ deposited genome** within reasonable scientific doubt — **not** forensic chain-of-custody. Patterns 1–2 are examples only. Close when method↔deposit clear; quote Methods. Prefer honest `culture_cpe` when CPE/plaque/syncytia warrant present; do **not** inflate `culture_no_cpe` into `culture_cpe`.
@@ -54,11 +54,11 @@ Adequate documentary evidence linking **sample-production method ↔ deposited g
 - **ZIKV-O1** — mouse-brain RNA (not cell culture)
 - **MARB-O1** — guinea-pig blood virions (animal-only)
 
-## Full closed culture_cpe list (36)
+## Full closed culture_cpe list (37 — final, pass 21P)
 
-ADE-O1, ADE-O2, ASTRO-O1, BTV-C1, BTV-C2, BTV-O1, BVDV-C1, BVDV-C2, BVDV-O1, CDV-C1, CDV-C3, COV-C5, COV-O2, COV-O5, COV-O6, DEN-O1, EBO-O1, EV71-C1, EV71-C2, EV71-O1, FMDV-C1, FMDV-O1, HEND-O1, JC-O1, MEA-C1, MEA-O1, MUM-O1, NDV-O1, NIPAH-C1, NIPAH-O1, RSV-C1, RUB-O1, SIN-O1, VSV-C1, WNV-C1, WNV-O1
+ADE-O1, ADE-O2, ASTRO-O1, BTV-C1, BTV-C2, BTV-O1, BVDV-C1, BVDV-C2, BVDV-O1, CDV-C1, CDV-C3, COV-C5, COV-O2, COV-O5, COV-O6, DEN-O1, EBO-O1, EV71-C1, EV71-C2, EV71-O1, FMDV-C1, FMDV-O1, HEND-O1, JC-O1, LASSA-O1, MEA-C1, MEA-O1, MUM-O1, NDV-O1, NIPAH-C1, NIPAH-O1, RSV-C1, RUB-O1, SIN-O1, VSV-C1, WNV-C1, WNV-O1
 
-## Still open (5)
+## Still open (historical — 21M/21N interim; all closed by pass 21P)
 
 - **CMV-O1** — Chee chapter thin; need Bankier/Oram/Fleckenstein/Rowe production Methods
 - **COV-O7** — Thiel 2001 JGV Inf-1 Methods still missing (Hamre P now have)
@@ -90,3 +90,21 @@ ADE-O1, ADE-O2, ASTRO-O1, BTV-C1, BTV-C2, BTV-O1, BVDV-C1, BVDV-C2, BVDV-O1, CDV
 - Totals: n=102, closed=101, open=1 (LASSA-O1 only).
 - path_score closed: culture_cpe=36, culture_no_cpe=45, clinical_direct=11, other=9.
 - Deliverables: `P3_step1_path_type_map_2026-09-21.md`, `P3_step1_path_type_counts_2026-09-21.png`, `P3_step1_path_type_by_family_2026-09-21.png`.
+
+## Final state (pass 21P, 2026-09-21)
+
+LASSA-O1 closed via Auperin 1986 Methods → `culture_cpe` (see `P3_step1_path_score_audit_2026-09-21.md` 21P addendum).
+
+| Metric | Final |
+|--------|-------|
+| Events | 102 |
+| chain_closed | 102 (100%) |
+| chain_open | 0 |
+| Provenance nodes | 70 |
+| culture_cpe | 37 |
+| culture_no_cpe | 45 |
+| clinical_direct | 11 |
+| other | 9 |
+| Culture-propagated | 82 / 102 (80%) |
+
+**Step 1 census complete** (documentary soft bar; 0 open chains; quality audit found 0 inflate/0 deflate/0 reopen).

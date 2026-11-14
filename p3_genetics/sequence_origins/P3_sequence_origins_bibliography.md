@@ -829,3 +829,32 @@ Held in `refs/sequence_origins/` and cited in the working files (`P3_stock_origi
 - `RSV-P_chanock_1957_ajhyg.pdf`
 - `SV40-P_sweet_hilleman_1960_psebm.pdf`
 - `VZV-P_weller_1953_psebm.pdf`
+
+## C150 / A3 sources (fetched + read 2026-11-14; codes P3-###, internal-only)
+
+**Load-bearing (used) — `[VERIFIED src]` after PDF read:**
+
+- **P3-006** Chen 2022 mSystems 7:e00907-22 · PMID 36286492 — 766 nt + 276 aa problematic viral sequences (PVSs); 85.5% chimeric. Local `P3-006_chen_2022_foreign_seqs.pdf`.
+- **P3-008** Astashyn 2024 Genome Biol 25:60 · PMID 38409096 — FCS-GX screened 1.6M assemblies → 36.8 Gbp (0.16%). Local `P3-008_astashyn_2024_fcsgx.pdf`.
+- **P3-007** Steinegger & Salzberg 2020 Genome Biol 21:115 · PMID 32398145 — 2,161,746 contaminated entries (viruses excluded). Local `P3-007_steinegger_2020.pdf`.
+- **P3-004** Naccache 2013 J Virol 87:11966 · PMID 24027301 — PHV traced to contaminated spin columns. Local `P3-004_naccache_2013_phv.pdf`.
+- **P3-002** Paprotka 2011 Science 333:97 · PMID 21628392 — XMRV = recombinant of two proviruses. Local `P3-002_paprotka_2011_xmrv.pdf`.
+- **P3-005** Delviks-Frankenberry 2012 Curr Opin Virol 2:499 · PMID 22818188 — de-discovery of XMRV. Local `P3-005_delviks_2012_dediscovery.pdf`.
+- **P3-016** McWhite 2016 Virus Evol 2:vew026 — passaging leaves spurious adaptation signals. Local `P3-016_mcwhite_2016.pdf`.
+- **P3-015** DuPai 2019 Virus Evol 5:vez016 · PMID 31275610 — passage-annotation ambiguity. Local `P3-015_dupai_2019.pdf`.
+- **P3-023** Ortigas-Vasquez 2024 Virus Evol 10:veae047 · PMID 39036034 — MDV CVI988 intrastrain variation (236 pos / 13 ORFs). Local `P3-023_ortigasvasquez_2024_mdv.pdf`.
+
+**Supporting / tool-QC (used, read):** P3-010 Salter 2014; P3-011 Laurence 2014; P3-012 Jurasz 2021;
+P3-013 Dovrolis 2021; P3-014 Hegarty 2024; P3-018 Peng 2026 (ViralQC); P3-019 Chin 2025 (RVDB); P3-020 Bolaji
+2024; P3-009 Chorlton 2024; P3-017 Carné 2025.
+
+**A3 correction cases (used, read):** P3-024 Dehghan 2011 (Ad17); P3-026 Jang 2005 (AAV2); P3-025 Jung 1991
+(adenovirus 4 errors); P3-028 Akter 2002 (AD169 UL15A).
+
+**Retracted (note-only, never load-bearing):** P3-001 Urisman 2006; P3-003 Lo 2010; P3-021 Ballart 1990 (filed
+`_RETRACTED.pdf`). P3-022 Eschle 1991 is the **retraction notice** (citable — documents the Ballart retraction).
+
+**Step 1 optional (fetched):** P3-038 Stanway 1984 (RHV-P3); P3-039 Frey 1986 (RUB-P).
+
+Local files: `p3_genetics/refs/`. Un-fetched: P3-027 Kingham 2001 HVT; P3-029 HPV16 correction; P3-030..P3-037
+(intrastrain) — see stream-root wishlist.

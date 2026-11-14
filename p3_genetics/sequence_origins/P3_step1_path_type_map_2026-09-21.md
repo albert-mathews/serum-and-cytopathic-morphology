@@ -25,20 +25,20 @@ Soft evidentiary bar: documentary **method ↔ deposit** link within reasonable 
 | Metric | n |
 |--------|---|
 | Events (O+C) | **102** |
-| `chain_closed` | **101** (99%) |
-| `chain_open` | **1** (1%) |
+| `chain_closed` | **102** (100%) |
+| `chain_open` | **0** (0%) |
 
 ### path_score among closed
 
 | path_score | n closed | % of closed |
 |------------|----------|-------------|
-| `culture_cpe` | **36** | 36% |
-| `culture_no_cpe` | **45** | 45% |
+| `culture_cpe` | **37** | 36% |
+| `culture_no_cpe` | **45** | 44% |
 | `clinical_direct` | **11** | 11% |
 | `other` | **9** | 9% |
 
-| Culture-propagated (`culture_cpe` + `culture_no_cpe`) | **81** / 101 closed (**80%**) |
-| `culture_cpe` alone | **36** / 101 closed (**36%**) |
+| Culture-propagated (`culture_cpe` + `culture_no_cpe`) | **82** / 102 closed (**80%**) |
+| `culture_cpe` alone | **37** / 102 closed (**36%**) |
 
 ---
 
@@ -90,6 +90,7 @@ Grouped by **family**, then **virus**. Each cell lists closed `event_id`s under 
 | influenza_A | influenza A virus | — | — | — | FLU-O1 |
 | influenza_B | influenza B virus | — | — | — | FLU-B-O1 |
 | JC_virus | JC polyomavirus | JC-O1 | — | — | — |
+| lassa | Lassa virus (Josiah) | LASSA-O1 | — | — | — |
 | LCMV | lymphocytic choriomeningitis virus | — | LCMV-O1 | — | — |
 | Marburg | Marburg virus | — | — | — | MARB-O1 |
 | MCPyV | Merkel cell polyomavirus | — | — | MCPYV-O1 | — |
@@ -119,11 +120,13 @@ Grouped by **family**, then **virus**. Each cell lists closed `event_id`s under 
 
 ---
 
-## 4. Still open
+## 4. Previously "still open" — closed in pass 21P
 
-| event_id | virus / strain | Why still open |
-|----------|----------------|----------------|
-| LASSA-O1 | Lassa virus / Josiah S segment | 21M: PDF have/title-verified; Methods give only "viral RNA templates" without production path — remain chain_open (do not invent culture). |
+| event_id | virus / strain | Closure |
+|----------|----------------|---------|
+| LASSA-O1 | Lassa virus / Josiah S segment | Auperin 1986 Josiah Methods (plaque×3 Vero E6; BHK-21 purified virion RNA) cited by Auperin 1989 → `culture_cpe`. |
+
+**0 chains open.**
 
 ---
 
