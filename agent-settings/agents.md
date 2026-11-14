@@ -21,8 +21,10 @@ Each stream's entry point is its main markdown (`rN.md` / `pN.md`), which owns t
 
 ## Shared behavior contract (every agent)
 
-1. **Claims.** Cite `C###` from `CLAIMS.md` instead of restating an established point; add/update claims
-   there when a finding lands or a number changes.
+1. **Claims.** Cite a kind-prefixed code from `CLAIMS.md` (`DEF###` definition, `AX###` axiom, `OB###`
+   observation, `LM###` lemma, `TH###` theorem, `CRL###` corollary, `CNJ###` conjecture, `ADVR###`
+   counterexample) instead of restating an established point; add/update claims there when a finding lands
+   or a number changes. The numeric portion maps 1:1 from the old `C###` (e.g. `C054` → `CNJ054`).
 2. **Conventions.** Follow `CONVENTIONS.md` (evidence tags, Mermaid diagrams, role codes, single-TODO-per-stream).
 3. **Research.** Follow `research-strategy.md`. Wishlists are clean, lean, gitignored fetch queues at the
    stream root: remove a row once the fetched file is confirmed correct. Fetched/read material is recorded in
