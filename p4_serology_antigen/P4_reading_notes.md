@@ -326,25 +326,40 @@ heterophile antibody bridging the two reagent antibodies, resolved by blocking t
 platform (Abbott Architect) + confirmatory tests; the same heterophile also gave a **false-positive
 HIV 1/2/p24 screen** (confirmatory Geenius and HIV-1 RNA both negative).
 
-**Located, not yet fetched (2026-11-12, Europe PMC REST — `[DATA REQUIRED]` full text outstanding; on
-`P4_pdf_wishlist.md` P4W-05…P4W-08):** a second tranche of the *healthy / no-virus-expected sample*
-side of the patient arm, expanding the prediction's second observable (§ prediction note 2026-11-12):
+**Fetched & read 2026-11-14 (Europe PMC REST → `refs/P4W-28…31`, `[VERIFIED src]`)** — the second
+tranche of the *healthy / no-virus-expected sample* side of the patient arm, expanding the prediction's
+second observable (§ prediction note 2026-11-12). Read result, coding confirmatory vs challenging:
 
-- **Grimm 2024** (PMID 39026530) — US blood-donor serology Dec 2019–Jul 2020: pre-pandemic donors
-  cross-react on SARS-CoV-2 serology via endemic coronaviruses — the cleanest "positive with no virus
-  expected" case.
-- **Luo 2025** (PMID 41209423) — EBV-heterophile antibody drives a false-positive *treponemal* syphilis
-  serology (non-viral antibody misreads a different pathogen's assay).
-- **Nowak 2025** (PMID 41348228) — "When serology misleads: cross-reactivity in acute hepatitis" — a
-  named review of serology cross-reactivity as a failure mode.
-- **Chen 2026** (PMID 42333151) — SARS-CoV-2-induced cross-reactive antibodies raise the false-positive
-  rate of HIV serology (HIV out of P4 scope; kept for the cross-reactivity mechanism).
+- **Grimm 2024** (PMID 39026530; `P4W-28`) — **CHALLENGING, and I had it reversed before reading.**
+  US routine blood donors (n=46,120) Dec 2019–Jul 2020: anti-N screen reactive 92 (0.2%), 9 confirmed
+  among 13,364 pre-19-Jan-2020 donations. Cross-reactivity with seasonal coronaviruses / SARS-CoV / MERS
+  was **explicitly excluded**, and the authors attribute the early positives to **real early SARS-CoV-2**
+  ("SARS-CoV-2 was likely present in the United States before 19 January 2020"). This is **not** a
+  no-virus-expected positive — it is the field claiming a virus was present. It is retained as a
+  **falsifier-side caution**: the "pre-pandemic healthy-donor positive" that I predicted on
+  cross-reactivity grounds is, in the field's hands, read as *earlier virus presence*, i.e. the same
+  under-determined warrant invoked to rescue the positive rather than to question it.
+- **Luo 2025** (PMID 41209423; `P4W-29`) — **CONFIRMATORY.** Single patient; treponemal syphilis
+  serology positive with **no T. pallidum**, caused by **EBV-related heterophile antibodies**; reverts to
+  negative after heterophile blocking. A clean "positive with no target pathogen" via a non-viral
+  (patient anti-reagent) antibody.
+- **Nowak 2025** (PMID 41348228; `P4W-30`) — **CONFIRMATORY** (review of 63 articles). Anti-HEV IgM
+  positivity is "frequently attributed not to primary HEV infection but to past or concurrent infections
+  with EBV or CMV"; up to **33.3%** of anti-HEV-IgM-positive samples also EBV/CMV-IgM positive, with only
+  ~13% confirmed by HEV PCR. Population-scale demonstration that a "viral" IgM test reads positive under
+  cross-reactivity with only ~1/8 confirmed by the cognate agent's nucleic acid.
+- **Chen 2026** (PMID 42333151; `P4W-31`) — **CONFIRMATORY** (HIV out of P4 scope; mechanism only).
+  681,232 blood donors: HIV seroreactivity rose **0.08% → 0.91%** (14.7×) during the Omicron surge, all
+  184 surge-reactive samples **Western-blot-negative**, attributed to SARS-CoV-2-induced
+  cross-reactive antibodies. Large-n, directly measured: a pathogen serology reading positive with no
+  evidenced target organism.
 
-These strengthen the **patient-side** location of the single non-viral-epitope arm: the field already
-documents, at population scale (blood donors, pre-pandemic sera), that "viral" serology reads positive
-on people with no expected virus — the prediction's second observable. They do **not** by themselves
-settle the reference-side question (whether the *reference antigen* is culture material), which remains
-the P4-specific claim.
+**Net:** 3 confirmatory (Luo heterophile→syphilis; Nowak HEV-IgM cross-reactivity; Chen HIV
+cross-reactivity) + **1 challenging** (Grimm — the pre-pandemic "cross-reactive" positives are instead
+attributed to earlier real virus, so cross-reactivity is *excluded* there). This is the honest ledger: the
+healthy-donor/patient-side positive-with-no-expected-virus pattern is real and large-n, but the field also
+**rescues** the ambiguous positives by back-dating a virus (Grimm) — which is itself evidence for the
+under-determined warrant C041/C042, not for a clean no-virus conclusion.
 
 ### What this strand establishes (full-text read)
 

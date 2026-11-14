@@ -1,9 +1,12 @@
-# P4 serology/antigen — local ignores (transient scratch only).
+# P4 serology/antigen — local ignores (transient scratch + local-only coordination queue).
 #
 # `wrk/` stays tracked (repo convention §6: it is a reproducible working area for
 # scripts and derived data). Only throwaway files are ignored here; copyright PDFs
 # and extraction scratch are already handled repo-wide via `**/refs/`, `**/*.pdf`,
 # and `**/_pdf_extract_tmp/`.
+
+# Fetch-only wishlist is local-only (repo convention §8), like refs/.
+P4_pdf_wishlist.md
 
 # Transient batch-shard lists handed to subagents during the R1 classification pass.
 # Regenerable via `wrk/plan_r1_batches.py`; not worth committing.
