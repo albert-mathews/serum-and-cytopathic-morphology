@@ -859,6 +859,21 @@ P3-013 Dovrolis 2021; P3-014 Hegarty 2024; P3-018 Peng 2026 (ViralQC); P3-019 Ch
 Local files: `p3_genetics/refs/`. Un-fetched: P3-027 Kingham 2001 HVT; P3-029 HPV16 correction; P3-030..P3-037
 (intrastrain) — see stream-root wishlist.
 
+## Step-1 new virus additions (2026-11-14, tracking-board push)
+
+- **HSV2-O1 (HSV-2 HG52)** — Dolan A, Jamieson FE, Cunningham C, Barnett BC, McGeoch DJ. The Genome Sequence of
+  Herpes Simplex Virus Type 2. J Virol. 1998;72(3):2010–2021. PMID 9499055 · DOI 10.1128/jvi.72.3.2010-2021.1998 ·
+  PMC109494 (OA). Acc Z86099. **`[VERIFIED src]`** (full text read via PMC 2026-11-14; P3-060). Closed
+  `culture_no_cpe` — plasmid-cloned HG52 lab-stock DNA, no CPE warrant in Methods (sibling to HSV-1 strain 17).
+- **HMPV-O1 (human metapneumovirus 00-1)** — van den Hoogen BG, de Jong JC, Groen J, Kuiken T, de Groot R,
+  Fouchier RAM, Osterhaus ADME. A newly discovered human pneumovirus isolated from young children with respiratory
+  tract disease. Nat Med. 2001;7(6):719–724. PMID 11385510 · DOI 10.1038/89098 · PMC7095854 (OA). Acc
+  AF371330–AF371367. **`[VERIFIED src]`** (full text read via PMC + local XML `refs/P3-065_vandenhoogen_2001_hmpv_fulltext.xml`;
+  P3-065). Closed `culture_cpe` — explicit CPE/syncytia on tMK cells, discovery from pediatric NPA.
+- **HDV-O1 (hepatitis delta virus)** — Wang KS, et al. Structure, sequence and expression of the hepatitis delta
+  (δ) viral genome. Nature. 1986;323:508–514. PMID 3762705 · DOI 10.1038/323508a0. **`[DATA REQUIRED]`** (full text
+  outstanding — Nature paywalled; abstract only). `chain_open` / `path_score` unassigned. Fetch P3-062 to close.
+
 ## Strong-signal expansion (2026-11-14) — same-strain re-sequencing / intrastrain thread
 
 Identifier-verified (Europe PMC) and **PDFs fetched + read 2026-11-14** — `[VERIFIED src]` unless noted.
