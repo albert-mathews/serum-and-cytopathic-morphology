@@ -157,10 +157,13 @@ Is CPE a viral presence indicator: yes (used in isolation; RT-PCR primary in man
 # WHO - Manual for the Laboratory-based Surveillance of Measles, Rubella, and Congenital Rubella Syndrome
 https://www.who.int/teams/immunization-vaccines-and-biologicals/immunization-analysis-and-insights/surveillance/surveillance-for-vpds/laboratory-networks/measles-and-rubella-laboratory-network/manual-for-the-laboratory-based-surveillance-of-measles-rubella-and-congenital-rubella-syndrome
 that manual has annexes B7 and B8:
-Annex B7. Propagation and maintenance of Vero/hSLAM cell culture (CDC)
-Annex B8. Measles and rubella virus isolation in cell culture [Pending]
+Annex B7. Propagation and maintenance of Vero/hSLAM cell culture (CDC) — local copy: `refs/isolation_protocols/annex-b7-propagation-and-maintenance-of-verohslam-cell-culture.docx`
+Annex B8. Measles and rubella virus isolation in cell culture — **[DATA REQUIRED] full text outstanding**
 
-It is assumed that the protocol information desired would be in B8, but wont know until it is available.
+Note (2026-11-14): the two fetched "Annex B7/B8" files in `refs/isolation_protocols/` are the **wrong documents**
+(B7 file = 2025 RT-qPCR "discarding measles cases" presentation; B8 file = GRMLN Outbreak Response checklist).
+The correct Annex B8 (virus isolation in cell culture) is still to be fetched. Until then the WHO EPI
+isolation-step quotes below are provisional — see the verbatim-audit section at the end of this file.
 
 
 
@@ -214,3 +217,96 @@ Is CPE a viral presence indicator: yes
 - Inoculation / adsorption / maintenance: DMEM + **2% FBS**
 - URL: https://www.cdc.gov/measles/lab-tools/vero-slam.html
 - CPE monitored; passaging every 4–5 days as needed.
+
+---
+
+# Rationale / justification for the serum drop at inoculation — verbatim audit (2026-11-14)
+
+**Purpose.** For each institutional protocol reference, record *why* (if at all) the protocol says to
+lower serum at or near inoculation, using the verbatim sentence that carries the reason. Where no reason
+is stated, record that explicitly ("none stated") — a null finding is itself a result. Quotes are read
+from the local PDFs in `refs/isolation_protocols/`; page/section references point into those files.
+
+**Taxonomy of stated rationales (from the text):**
+- **attachment** — serum interferes with viral attachment;
+- **overgrowth / viability** — lower serum slows monolayer overgrowth and/or maintains cell viability (and so keeps cells in the state required for a readable culture/inoculation);
+- **inhibitors** — serum carries viral inhibitors that interfere with infection;
+- **none stated** — the step is prescribed without a reason;
+- **not a drop** — the protocol does not lower serum at inoculation (hold, omit, or raise).
+
+Summary:
+
+| Protocol (PR#) | Serum change | Stated rationale |
+|---|---|---|
+| ATCC Virology Culture Guide (PR002) | ~10% → 2% (2–10%) | **attachment** |
+| CLSI M41-A (PR003) | ~10% → 2% (1–3%) | **overgrowth/viability + inhibitors + viral-replication** |
+| ASM CPE protocols (PR004) | growth → 2% | **none stated** |
+| NEADL/CIRAD PPRV SOP (PR005) | 10% → 2% | **none stated** |
+| WOAH Terrestrial Manual ch. 3.5.2, 2021 (PR006) | (growth unstated) → 2% FCS | **none stated** |
+| WHO EPI measles/rubella manual (PR008) | 10% → 2% | **overgrowth** (+ "overgrown → unsuccessful") |
+| ANSES FMDV SOP (PR009) | (growth unstated) → 0% | **not a drop** (serum omitted; no rationale) |
+| CDC measles Vero/hSLAM (PR010) | 10% → 2% | **overgrowth** |
+| Health Canada/CCDR B95-a (PR011) | 5–10% → 2% | **none stated** |
+| WNV protocols.io (PR001) | 5% → 5% | **not a drop** (hold) |
+| USDA APHIS VIRPRO1013 (re-homed R4) | 5–10% → 5–20% | **not a drop** (hold/increase) |
+| APHIS SAM 104.04 Parainfluenza-3 (on disk, no PR# yet) | 10% → 2% | **none stated** |
+
+## Verbatim quotations
+
+### ATCC Virology Culture Guide (PR002) — rationale: attachment
+- p.13, SERUM section, NOTE 5: “For viral inoculation, ATCC recommends decreasing the percentage of serum to 2% as it can interfere with viral attachment. This can vary from strain to strain, and is not applicable for influenza viruses.”
+- p.4 (step 1, “Initiating Frozen Cultures — Tissue Culture-Adapted Strains”), for the lower-serum recipe without a stated reason: “Viral growth medium is usually supplemented with a lower percentage of serum than cell growth medium, often ranging between 2-10% depending on the virus (See NOTE 1).”
+- p.4, NOTE 1 (influenza exception): “Viral growth medium prepared for tissue culture-adapted strains of Influenza should not be supplemented with Fetal Bovine Serum (FBS).”
+- Evidence: `[VERIFIED src]` `refs/isolation_protocols/ATCC Virology Guide.pdf` (pp. 4, 13).
+
+### CLSI M41-A (PR003) — rationale: overgrowth/viability + viral-replication + inhibitors
+- §5.3.1.2 Cell Density (PDF p. 17): “Once the cultures have reached the required density, maintenance medium containing 2% fetal bovine serum (FBS) can be used in place of growth medium, which usually contains 10% FBS. Medium with the lower concentration of FBS will maintain cell viability and will slow monolayer overgrowth. Monolayers that have become overgrown (see Section 5.1.4) should not be used for viral culture.”
+- §5.4.1 Medium Composition (PDF p. 20), the direct function statement: “The lower serum concentration supports cell viability while permitting virus replication.”
+- §5.4.1 Medium Composition (PDF p. 20), the inhibitor reason stated generally: “Serum may also contain specific and nonspecific viral inhibitors and their presence may vary by lot.”
+- §7.2.3 Culture Inoculation (PDF p. 41), the inhibitor reason stated for influenza: “Because serum may contain viral inhibitors that interfere with infection of cell cultures by influenza viruses, it has been recommended that the monolayers be washed with a serum-free medium just prior to inoculation.”
+- §5.3.2 Maintenance (PDF p. 18), the inverse (higher serum = growth): “Growth of sparse monolayers may be enhanced by refeeding with medium containing a higher concentration of FBS (e.g., 10%) and/or by incubation in a CO2 atmosphere.”
+- Evidence: `[VERIFIED src]` `refs/isolation_protocols/CLSI M41.M41AE_copypaste.pdf` (pp. 17, 18, 20, 41).
+
+### ASM Cytopathic Effects of Viruses Protocols (PR004) — rationale: none stated
+- p.9, “General procedure for cultured animal cell infection,” step 1: “Carefully remove growth medium from cells taking care not to touch the dish to any surfaces to avoid contamination; try to avoid leaving residual medium around edges of wells. Add 1 ml of maintenance medium (fresh medium with 2% serum) to each well.”
+- No sentence in the protocol gives a reason for the 2% serum; the drop is prescribed as an instruction only. Evidence: `[VERIFIED src]` `refs/isolation_protocols/ASM cytopathic-effects-of-viruses-protocols.pdf` (p. 9).
+
+### NEADL / CIRAD PPRV SOP (PR005) — rationale: none stated
+- p.2 Reagents: “Growth media (DMEM with 10% FBS and 1% antibiotics)” / “Maintenance media (DMEM with 2% FBS and 1% antibiotics)”.
+- p.3, Virus isolation steps 2–4: “Remove the growth media of Vero dog-slam cells. Wash the monolayer with sterile PBS one time.” … “Add maintenance media to the final volume of 5ml.”
+- No stated reason for the 10% → 2% change. Evidence: `[VERIFIED src]` `refs/isolation_protocols/NEADL - Virus isolation of peste des petits ruminants.pdf` (pp. 2–3).
+
+### WOAH Terrestrial Manual 2021, ch. 3.5.2 MERS-CoV (PR006) — rationale: none stated
+- §1.2 Isolation in cell culture, step i.g: “Retrieve the plate and add 700 µl of virus culture medium (DMEM [Dulbecco’s modified Eagle’s medium] with 1% Pen/Strep, 1% sodium pyruvate and 2% fetal calf serum) into each well. Treated cells are then cultured in a CO2 incubator for 24 hours.”
+- The chapter does **not** state the pre-inoculation growth FBS% in the isolation section (step i.a only says Vero wells are prepared to reach “80% confluence the next day”); the `10% (growth)` value in the CSV is an assumption, not a quoted number. No reason is given for the 2% fetal calf serum.
+- Evidence: `[VERIFIED src]` `refs/isolation_protocols/WOAH_Terrestrial_Manual_2021 - Chapter 3.5.2 - MIDDLE EAST RESPIRATORY SYNDROME.pdf` (p. 4).
+
+### WHO EPI measles/rubella manual (PR008) — rationale: overgrowth (+ “overgrown → unsuccessful”)
+- “9.4.10 maintenance”: “Cells can be maintained for several days by switching to medium containing 2% FBS to prevent overgrowth.”
+- “9.4.11 Inoculation”: “For inoculations, cells should be seeded into 25cm2 tissue culture flasks (T-25). Cells should be at approximately 85-90% of confluency and at least one day after seeding. If cells are overgrown, virus isolation will be unsuccessful. Virus inoculation and subsequent incubation should be in DMEM-PS plus 2% FBS.”
+- **Provenance caveat:** these quotes are from the WHO *Manual for the Laboratory Diagnosis of Measles and Rubella Virus Infection* (2nd ed., WHO/IVB/07.01, 2007), **not** from the two Annex files on disk — those fetched files are the wrong documents (B7 = 2025 RT-qPCR presentation; B8 = GRMLN Outbreak Response checklist). The correct manual/Annex B8 is outstanding; re-verify these quotes against the fetched full text before citing. Tag: `[DATA REQUIRED]` (full text outstanding).
+
+### CDC measles lab tools — Vero/hSLAM (PR010) — rationale: overgrowth
+- The on-disk WHO Annex B7 (CDC-authored Vero/hSLAM protocol), “Maintenance of Vero/hSLAM Cells”: “Cells can be maintained for several days by switching to DMEM-PS-2%FBS when confluent to prevent overgrowth.”
+- Same protocol, growth step: “Resuspend cells in 5 mL DMEM-PS-10%FBS and pipette up and down to break up clumps. Seed cells into flasks containing DMEM-PS-10%FBS.”
+- **Provenance caveat:** this docx documents propagation/maintenance (10% for passaging, 2% “to prevent overgrowth”). The separate *inoculation* step (10% → 2% at the specimen-add step) is Annex B8 of the same manual and is still outstanding; the original CDC web URL (`cdc.gov/measles/lab-tools/vero-slam.html`) is now 404. The 10%→2% inoculation split in the CSV row rests on the (now-unavailable) web page and should be re-anchored to a fetched Annex B8.
+- Evidence: `[VERIFIED src]` `refs/isolation_protocols/annex-b7-propagation-and-maintenance-of-verohslam-cell-culture.docx`.
+
+### Health Canada / CCDR measles lab support, B95-a (PR011) — rationale: none stated
+- p.6: “Cell growth is sustained by adding 5% to 10% FBS. FBS is used at a 2% concentration for cell maintenance during viral isolation.”
+- No reason is given for the 5–10% → 2% change. Evidence: `[VERIFIED src]` `refs/isolation_protocols/Health Canada - CCDR - H12-21-24-5-eng.pdf` (p. 6).
+
+### ANSES FMDV virus isolation SOP (PR009) — not a drop (serum omitted), rationale: none stated
+- Post-inoculation complete medium is **without FBS** (0%); the SOP does not quantify a pre-inoculation growth FBS%. No rationale for the serum state is recorded in the row. **No PDF on disk** — fetch outstanding (`https://sitesv2.anses.fr/sites/default/files/221216%20-%20Virus%20Isolation.pdf`, site under maintenance). Tag: `[DATA REQUIRED]` (full text outstanding).
+
+### WNV clinical isolation, protocols.io (PR001) — not a drop (hold), rationale: none stated
+- Cell culture medium is DMEM “high (4,5 g/L) glucose” + **5% Foetal Bovine Serum (FBS)**; after the 90-min incubation, “Add cell culture medium (DMEM) with 5% FBS and cell culture guard in a dilution 1:100.” Serum is held at 5% → 5%, so there is no serum step-down to explain.
+- Evidence: `[VERIFIED src]` `refs/isolation_protocols/West-Nile-virus_protocolsio.pdf` (p. 3).
+
+### APHIS SAM 104.04 (Parainfluenza-3 isolation) — rationale: none stated
+- 2.2.5 Growth Medium: “900 mL of Diluent Medium … Aseptically add 100 mL gamma-irradiated fetal bovine serum (FBS)” (≈10%).
+- 2.2.6 Maintenance Medium: “980 mL Diluent Medium … Aseptically add 20 mL gamma-irradiated FBS” (≈2%).
+- No reason given for the 10% → 2% change. **Not yet a row in `isolation-protocol-refs.csv`** (see TODO). Evidence: `[VERIFIED src]` `refs/isolation_protocols/APHIS - SAM - Isolation of Parainfluenza-3 Virus from Nasal Excretions.pdf` (pp. 4–5).
+
+### USDA APHIS VIRPRO1013 (master-seed extraneous-agent testing) — not a drop (hold/increase)
+- Growth Medium: “add 50-100 mL gamma-irradiated fetal bovine serum (FBS)” to ~900 mL MEM (~5–10%); Maintenance Medium: “add 50-200 mL gamma-irradiated FBS” (~5–20%). Serum is held or raised, not stepped down. This is a **non-Isolation** protocol and has been re-homed to **R4** (`r4_non-isolation_standards_and_practice/refs/master_seed_protocols/`); see `r4_…/wrk/VIRPRO1013_exclusion_note.md`. Rationale is not the subject of this R1 audit.

@@ -130,9 +130,14 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 
 - **OB022 · Observation** — **Same step, different stated reasons.** The guidelines that prescribe a serum
   step-down at inoculation agree on the target but not the rationale: ATCC cites interference with
-  attachment; CLSI cites cell viability, slower overgrowth, and serum-borne inhibitors; ASM, NEADL, and
-  WOAH give none.
-  *(Evidence: [VERIFIED src] quoted passages in `tex/DRAFT.md`, table `tex/tables/rationale.tex`; Status: established; Stream: R1.)*
+  attachment; CLSI cites cell viability, slower overgrowth, and serum-borne inhibitors; WHO EPI and the
+  CDC Vero/hSLAM protocol cite overgrowth control ("to prevent overgrowth"; WHO adds "if cells are
+  overgrown, virus isolation will be unsuccessful"); ASM, NEADL, WOAH, Health Canada/CCDR, and APHIS SAM
+  104.04 give none. Two on-disk protocols that do not step down serum (WNV protocols.io 5%→5% hold;
+  ANSES FMDV 0% post-inoculation) and one non-Isolation master-seed protocol (VIRPRO1013, R4) are
+  excluded from the step-down set.
+  *(Evidence: [VERIFIED src] `r1_…/institution-guideline-protocol-refs.md` "Rationale / justification for the serum
+  drop at inoculation — verbatim audit (2026-11-14)"; table `tex/tables/rationale.tex`; Status: established; Stream: R1.)*
 
 - **OB023 · Observation** — **Matched-medium controls are rare.** Of the scored Isolation-paper rows
   (~173), 11 are Tier A (matched-maintenance mock), 38 Tier B (match unverifiable), 14 Tier C (wrong
@@ -151,8 +156,12 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 
 - **OB026 · Observation** — **A non-Isolation protocol holds or raises serum.** USDA APHIS VIRPRO1013
   (master-seed extraneous-agent testing) prescribes growth 5–10% serum → later 5–20%, i.e. serum held or
-  raised rather than stepped down; most other regulators leave serum % unspecified.
-  *(Evidence: [VERIFIED src] VIRPRO1013; `r4_…/wrk/VIRPRO1013_analogs.md`; Status: established; Stream: R4.)*
+  raised rather than stepped down; most other regulators leave serum % unspecified. The 5–20% number lives
+  in the internal *protocol* only — the implementing regulation 9 CFR 113.55/113.46 is serum-silent — and
+  APHIS supplies **no stated rationale** for the hold-or-increase pattern.
+  *(Evidence: [VERIFIED src] VIRPRO1013/SAM312; 9 CFR 113.55 & 113.46 (eCFR, read 2026-11-14);
+  `r4_…/wrk/VIRPRO1013_analogs.md`, `r4_…/refs/_notes/R4_VIRPRO1013_SAM312_extraction_notes.md`;
+  Status: established; Stream: R4.)*
 
 - **OB027 · Observation** — **Isolation EQA reports sensitivity spread and control heterogeneity.** In the
   first WHO National Influenza Centre cell-culture Isolation EQA (n=21) the lowest-titre samples were isolated
@@ -255,7 +264,10 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 - **CNJ052 · Conjecture (P2)** — **Purification will not restore dualism.** Purification/EM of culture
   products will not provide a method that uniquely separates extracellular vesicles from "virions" by
   physical parameters alone; the EV literature's indistinguishability reports are the expected pattern.
-  *(Predicted; follows from CNJ050; Streams P2.)*
+  *(Predicted; follows from CNJ050; Evidence: [VERIFIED src] P2 corpus `p2_…/P2_screened.csv` n=94,
+  `P2_useful.csv` n=50 — Round 5 added non-retrovirus primaries (KSHV P2-084; rotavirus P2-089;
+  SARS-CoV-2 P2-090) and pre-1997 historical primaries (P2-082/083/086, 1956–1972); bounds: CD63
+  affinity (P2-084) and adapted Ficoll (P2-088) separate conditionally, cf. ADVR061. Streams P2.)*
 
 - **CNJ053 · Conjecture (P3)** — **Genome claims inherit the endpoint.** Sequence/database claims that rest
   on CPE-defined Isolates inherit the under-determination of the endpoint that declared them positive.

@@ -7,6 +7,16 @@ look for extraneous agents.
 - Maintenance medium: **~5–20% FBS** (900 mL MEM + 50–200 mL FBS) → *hold or increase*
 - Endpoint: CPE + hemadsorption + IF/other for extraneous/cytopathogenic agents
 
+**Note (2026-11-14):** the 5–10%→5–20% numbers live *only in the VIRPRO1013 protocol
+recipe* (§2.2.9/2.2.10), not in the implementing regulation. **9 CFR 113.55 and 113.46 are
+serum-silent** ([VERIFIED src], eCFR read 2026-11-14): 113.55 mandates inoculum volume,
+monolayer area, the uninoculated control, a 14-day maintenance, ≥1 subculture, and
+113.46/113.47 readouts, but **no serum %**. So the hold-or-increase serum range is an
+internal CVB protocol choice with **no stated rationale** (see
+`refs/_notes/R4_VIRPRO1013_SAM312_extraction_notes.md`); the only serum sentence in the
+protocol (§4.1.5 "Discard inoculum … to reduce serum toxicity") concerns *removing* serum
+at adsorption, the opposite direction.
+
 **Question being tested:** does the wide/high maintenance-serum pattern (VIRPRO's
 5–20%, which can hold or exceed growth) recur in extraneous-agent / master-seed SOPs
 in other jurisdictions, or is it US-specific?
@@ -20,7 +30,7 @@ Evidence tags: [VERIFIED src] (read in full) · [VERIFIED-ABSTRACT] · [VERIFIED
 
 | Jurisdiction / body | Document | Growth FBS% | Maintenance FBS% | Serum specified at all? | Endpoint | Evidence |
 |---|---|---|---|---|---|---|
-| USA (APHIS CVB) | VIRPRO1013 / SAM312 (9 CFR 113.55) | ~5–10% | **5–20%** (hold/increase) | **Yes — volume-specified** | CPE + hemadsorb + IF | [VERIFIED src] (R4 refs) |
+| USA (APHIS CVB) | VIRPRO1013 / SAM312 (**the 5–20% number is a *protocol* recipe, NOT in 9 CFR 113.55**, which is serum-silent) | ~5–10% | **5–20%** (hold/increase) | **Yes — volume-specified, but only in VIRPRO1013, with no stated rationale** | CPE + hemadsorb + IF | [VERIFIED src] (R4 refs; 9 CFR 113.55/113.46 read 2026-11-14) |
 | EU / Ph. Eur. | 5.2.4 Cell cultures for production of veterinary vaccines | *not stated* | *not stated* | **No — medium = "same medium and additives... as for preparation of the vaccine"** | CPE + hemadsorb + IF + NAT | [VERIFIED src] (full text fetched) |
 | EU / Ph. Eur. | 2.6.24 Avian viral vaccines: tests for extraneous agents in seed lots | *not stated* | *not stated* ("add culture medium") | **No — serum only constrained for *antibody-freedom* (§7), not %** | CPE + hemadsorb + COFAL/ELISA + chick Ab | [VERIFIED src] (full text fetched) |
 | EU / Ph. Eur. | 2.6.25 Avian live vaccines: extraneous agents in finished product | *not stated* | *not stated* | **No — same as 2.6.24** | CPE + hemadsorb + serology | [VERIFIED src] (partial, same file) |

@@ -69,7 +69,7 @@ confirmed. Remaining index un-swept: bioRxiv/medRxiv (API-blocked), Google Schol
 - [ ] WHO TRS 878/978 cell-substrate & viral-safety annexes
 
 ### B. Veterinary (already partly mapped)
-- [x] USDA VIRPRO1013/SAM312 (volume-specified 5–10% → 5–20%)
+- [x] USDA VIRPRO1013/SAM312 (volume-specified 5–10% → 5–20% in the *protocol*; 9 CFR 113.55/113.46 serum-silent; no stated rationale)
 - [x] Ph. Eur. 2.6.24 / 2.6.25 (avian; volume-unspecified)
 - [x] Ph. Eur. 5.2.4 (cell cultures, vet; volume-unspecified)
 - [x] VICH GL44, WOAH 1.1.9 (volume-unspecified)
@@ -111,17 +111,21 @@ live — i.e., the landscape is best reconstructed from **practice** (R1-style) 
 ## Working finding so far (institutional/regulatory, both human + veterinary)
 Across **ICH Q5A(R2) / Q5D, Ph. Eur. 2.6.16 / 5.2.3 / 2.6.24 / 2.6.25 / 5.2.4, EMA Q&A,
 VICH GL44, WOAH 1.1.9, and 21 CFR 610.18 (US human)**, NO document prescribes a serum %.
-The sole prescriber found is **US *veterinary* biologics (9 CFR 113.55 → APHIS VIRPRO1013/
-SAM312; 5–10%→5–20%)**. So "volume-specified serum" is a *narrow, US-veterinary-only* trait,
-not a general property of CPE-based regulation. Everywhere else, serum % is (a) deferred to
-"the manufacturer's medium", or (b) constrained only for *quality* (antibody/contaminant
-freedom), never quantity.
+The sole prescriber found is **US *veterinary* biologics (APHIS VIRPRO1013/SAM312;
+5–10%→5–20%)** — and, importantly ([VERIFIED src], 2026-11-14), the 5–20% number is only in
+the *internal protocol recipe*; the implementing regulation **9 CFR 113.55/113.46 is itself
+serum-silent** and provides **no rationale** for the range. So "volume-specified serum" is a
+*narrow, US-veterinary-internal-protocol-only* trait, not a general property of CPE-based
+regulation. Everywhere else, serum % is (a) deferred to "the manufacturer's medium", or (b)
+constrained only for *quality* (antibody/contaminant freedom), never quantity.
 
 This sharpens the R1 thesis: the modal 10→2 step-down that Isolation practice papers *show*
 is a **practice** convention (inherited, codified in lab SOPs and textbooks), not something
-any human-side regulator, or any non-US regulator, actually *mandates*. US veterinary
-VIRPRO1013 is the one regulator that publicly fixes a range — and it's a *wide hold-or-increase*
-range, not the 10→2 step-down.
+any human-side regulator, or any non-US regulator, actually *mandates*. The one public number
+anywhere — the wide hold-or-increase 5–20% range — sits in APHIS's *internal protocol*
+VIRPRO1013, whose implementing regulation (9 CFR 113.55/113.46) is serum-silent and carries
+**no stated rationale** for the range ([VERIFIED src], 2026-11-14). Strictly, then, *no*
+regulation fixes a serum %; VIRPRO1013 is an agency protocol, not a regulation.
 
 ## Output artifacts (planned)
 - `wrk/fbs_cpe_landscape.md` — this scaffold + completed table
@@ -132,7 +136,7 @@ range, not the 10→2 step-down.
 
 | Domains | Document | Serum % prescribed? | Notes |
 |---|---|---|---|
-| US veterinary | 9 CFR 113.55 → APHIS VIRPRO1013/SAM312 | **YES — 5–10% growth / 5–20% maintenance** | sole volume-prescriber found |
+| US veterinary | 9 CFR 113.55 → APHIS VIRPRO1013/SAM312 | **YES — 5–10% growth / 5–20% maintenance** (but the numbers live in the *protocol* VIRPRO1013 only; 9 CFR 113.55/113.46 are themselves serum-silent) | sole volume-prescriber found; no stated rationale |
 | EU vet | Ph. Eur. 2.6.24 / 2.6.25 (avian EA) | No | "add culture medium"; serum only for antibody-freedom |
 | EU vet | Ph. Eur. 5.2.4 (vet cell cultures) | No | medium = "same… as for preparation of the vaccine" |
 | EU vet | EMA/CVMP Q&A | No (0 mentions) | |
@@ -145,12 +149,15 @@ range, not the 10→2 step-down.
 | EU human | Ph. Eur. Bovine serum (2262) monograph | No (substance QC; protein/osmolality/globulin; no culture %) | serum is the analyte here, not a recipe |
 | US human | 21 CFR 610.18 "Cultures" | No | tests "may be required by the Director"
 
-**Conclusion:** the only regulator that publicly fixes a serum-% range for a CPE-readout
-process is **US *veterinary* biologics (APHIS CVB)**. Everything else is
-performance/delegation-based (serum % deferred to manufacturer) or quality-based (serum %
-never named). The modal 10→2 step-down of Isolation practice is a **practice convention**
-(R1 corpus), not a regulatory mandate anywhere except — inversely — the wide 5–20% US
-veterinary maintenance range.
+**Conclusion ([VERIFIED src], refined 2026-11-14):** **no regulator publicly fixes a
+serum-% range for a CPE-readout process.** The one public number anywhere — the wide
+5–20% maintenance range — is in APHIS CVB's *internal testing protocol* VIRPRO1013 (which
+also fixes ~5–10% growth), and it carries **no stated rationale**; the implementing
+regulation 9 CFR 113.55/113.46 is itself serum-silent. Every other body (Ph. Eur., EMA,
+VICH, WOAH, ICH, US-human 21 CFR 610.18) is performance/delegation-based (serum % deferred
+to manufacturer) or quality-based (serum % never named). The modal 10→2 step-down of
+Isolation practice is therefore a **practice convention** (R1 corpus), not a regulatory
+mandate anywhere.
 
 ## Practice-layer findings (open-access Methods, full-text extracted)
 These are published *practice* Methods in the **non-Isolation** CPE-assay tiers — i.e.
@@ -276,4 +283,7 @@ the maintenance phase**: every one leaves serum % to the manufacturer and constr
 serum *quality* (freedom from adventitious agents and antibodies). VIRPRO1013 (US veterinary
 biologics) is therefore the single public serum recipe found anywhere, and it runs *opposite*
 to the diagnostic convention — a wide hold-or-increase 5–20% maintenance rather than the
-10→2 step-down.
+10→2 step-down. Note ([VERIFIED src], 2026-11-14): the recipe sits in the *protocol only*,
+**not** in 9 CFR 113.55/113.46, and APHIS supplies **no stated rationale** for the
+hold-or-increase serum level — the only serum rationale sentence in the document set
+(VIRPRO1013 §4.1.5) concerns *discarding* inoculum serum at adsorption.
