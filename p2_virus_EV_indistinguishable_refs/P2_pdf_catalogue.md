@@ -4,23 +4,40 @@
 
 **Drop folder:** `p2_virus_EV_indistinguishable_refs/refs/` (gitignored; never commit PDFs). Naming: `P2-0xx_firstauthor_year_slug.pdf`. Verified DOI only; no Sci-Hub.  
 **Screen table:** `P2_screened.csv` (all screened IDs, useful Y/B/N, fulltext status). **Quotes:** `P2_quotes.md`.  
-**Last checked against disk:** 2026-10-14.
+**Last checked against disk:** 2026-10-14 (Round 5 additions logged 2026-11-14).
 
 ## Counts
 
 | Measure | n |
 |---|--:|
-| Screened IDs (`P2_screened.csv`) | 81 |
+| Screened IDs (`P2_screened.csv`) | 94 |
 | Distinct P2 IDs with a PDF on disk | 32 (P2-0xx: 24; seed reviews P2-200-207: 8) |
-| Used (quoted in `P2_quotes.md`) = bibliography below | 23 |
+| Used (quoted in `P2_quotes.md`) = bibliography below | 31 |
 | On disk, P2-0xx, not yet quoted | 3 (P2-017, P2-020, P2-021) |
-| Requested PDFs still missing | 0 |
+| Round 5 sources read OA online, PDF not yet dropped to `refs/` | 8 (P2-082, 083, 084, 086, 088, 089, 090, 091) |
+| Previously requested PDFs still missing | 0 (resolved) |
 
 ## Please fetch
 
-*None.* Every Tier A-C item from the former request list is on disk, including the corrected Chen et al. 2015 *Cell* (P2-044, `10.1016/j.cell.2015.01.032`; title verified on disk 2026-10-14, the earlier misfile is resolved).
+Every former Tier A–C item is on disk, including the corrected Chen et al. 2015 *Cell* (P2-044, `10.1016/j.cell.2015.01.032`; title verified on disk, prior misfile resolved). Round 5 (2026-11-14) opened a new fetch queue below — OA items are listed so the research rests on the fetched PDF (per `agent-settings/research-strategy.md`), and the paywalled primaries need the owner. Drop into `p2_virus_EV_indistinguishable_refs/refs/`.
 
-Optional (only if P2 is reopened): abstract-only useful rows in `P2_screened.csv` (P2-024, 028, 031, 043, 051, 052) and the pre-1997 purification / DI-particle literature listed in `P2_synthesis.md` section 6.
+| ID | Title · year | Author | Identifier | Drop as | Priority |
+|----|--------------|--------|------------|---------|----------|
+| P2-083 | Structure and development of viruses … VII. Incomplete influenza virus · 1962 | Morgan C, Hsu KC, Rose HM | `10.1084/jem.116.4.553` (PMC2137626) | `P2-083_morgan_1962_incomplete_influenza.pdf` | high (OA) |
+| P2-086 | Proteins specified by herpes simplex virus. V … herpesvirion · 1972 | Spear PG, Roizman B | `10.1128/jvi.9.1.143-159.1972` (PMC356272) | `P2-086_spear_1972_hsv_purification.pdf` | high (OA) |
+| P2-084 | Systemically circulating viral and tumor-derived microRNAs in KSHV-associated malignancies · 2013 | Chugh PE et al. | `10.1371/journal.ppat.1003484` | `P2-084_chugh_2013_kshv_exosomes.pdf` | high (OA) |
+| P2-089 | Rotaviruses associate with distinct types of extracellular vesicles · 2020 | Iša P et al. | `10.3390/v12070763` (PMC7411906) | `P2-089_isa_2020_rotavirus_ev.pdf` | high (OA) |
+| P2-090 | Investigation of extracellular vesicles from SARS-CoV-2 infected specimens: a safety perspective · 2021 | Nunez Lopez YO et al. | `10.3389/fimmu.2021.617042` | `P2-090_nunezlopez_2021_sarscov2_safety.pdf` | high (OA) |
+| P2-088 | Comprehensive characterization of extracellular HSV-1 virions · 2008 | Loret S, Guay G, Lippé R | `10.1128/JVI.00904-08` (PMC2519676) | `P2-088_loret_2008_hsv1_virions.pdf` | high (OA) |
+| P2-091 | Extracellular vesicles in viral infections: two sides of the same coin? · 2020 | Martins ST, Alves LR | `10.3389/fcimb.2020.593170` (PMC7736630) | `P2-091_martins_2020_two_sides.pdf` | medium (OA) |
+| P2-082 | Influenza virus nucleic acid … · 1956 | Ada GL, Perry BT | `10.1099/00221287-14-3-623` (PMID 13346022) | `P2-082_adaperry_1956_influenza_nucleic_acid.pdf` | medium |
+| P2-081 | Incomplete forms of influenza virus · 1954 | von Magnus P | `10.1016/S0065-3527(08)60529-1` | `P2-081_vonmagnus_1954_incomplete_influenza.pdf` | medium (paywalled) |
+| P2-085 | Steric exclusion chromatography … influenza A virus … · 2017 | Marichal-Gallardo P et al. | pii `S0021967316317423` (DOI not seen) | `P2-085_marichalgallardo_2017_sxc_influenza.pdf` | medium (paywalled) |
+| P2-087 | Purification of herpes simplex virus · 1973 | Gentry GA, Randall CC (verify) | `10.1099/0022-1317-22-2-297` (PMID 4362407) | `P2-087_gentryrandall_1973_hsv_purification.pdf` | medium (paywalled) |
+| P2-092 | Nonlytic egress and transmission in the virus world · 2025 | Altan-Bonnet N | `10.1146/annurev-biochem-052521-120140` | `P2-092_altanbonnet_2025_nonlytic_egress.pdf` | low (paywalled) |
+| P2-093 | Interactions between extracellular vesicles and viruses · 2026 | Defourny K et al. | `10.1093/femsre/fuag028` | `P2-093_defourny_2026_ev_virus.pdf` | low (paywalled) |
+
+Optional (only if P2 is reopened further): abstract-only useful rows in `P2_screened.csv` (P2-024, 028, 031, 043, 051, 052) and the Santiana et al. 2018 lead logged in `P2_search_log.md`.
 
 ## Bibliography: used in P2 (quoted)
 
@@ -49,6 +66,14 @@ Optional (only if P2 is reopened): abstract-only useful rows in `P2_screened.csv
 | P2-078 | Szilagyi JF et al. 1991. Identification and characterization of a novel non-infectious herpes simplex virus-related particle. *J Gen Virol. 1991;72:661-668* | `10.1099/0022-1317-72-3-661` | yes |
 | P2-079 | Welsh JA et al. (ISEV) et al. 2024. MISEV2023: An updated guide to EV research and applications (editorial companion). *J Extracell Vesicles. 2024;13:e12416* | `10.1002/jev2.12416` | no (quoted from OA full text) |
 | P2-080 | Reiter K et al. et al. 2018. Separation of virus-like particles and extracellular vesicles by flow-through and heparin affinity chromatography. *J Chromatogr A. 2019;1588:77-* | `10.1016/j.chroma.2018.12.035` | yes |
+| P2-082 | Ada GL, Perry BT. 1956. Influenza virus nucleic acid: relationship between biological characteristics of the virus particle and properties of the nucleic acid. *J Gen Microbiol. 1956;14(3):623-633* | `10.1099/00221287-14-3-623` | not yet (OA online) |
+| P2-083 | Morgan C, Hsu KC, Rose HM. 1962. Structure and development of viruses … VII. Incomplete influenza virus. *J Exp Med. 1962;116(4):553-564* | `10.1084/jem.116.4.553` | not yet (OA PMC) |
+| P2-084 | Chugh PE et al. 2013. Systemically circulating viral and tumor-derived microRNAs in KSHV-associated malignancies. *PLoS Pathog. 2013;9(7):e1003484* | `10.1371/journal.ppat.1003484` | not yet (OA) |
+| P2-086 | Spear PG, Roizman B. 1972. Proteins specified by herpes simplex virus. V … herpesvirion. *J Virol. 1972;9(1):143-159* | `10.1128/jvi.9.1.143-159.1972` | not yet (OA PMC) |
+| P2-088 | Loret S, Guay G, Lippé R. 2008. Comprehensive characterization of extracellular herpes simplex virus type 1 virions. *J Virol. 2008;82(17):8605-8618* | `10.1128/JVI.00904-08` | not yet (OA PMC) |
+| P2-089 | Iša P et al. 2020. Rotaviruses associate with distinct types of extracellular vesicles. *Viruses. 2020;12(7):763* | `10.3390/v12070763` | not yet (OA PMC) |
+| P2-090 | Nunez Lopez YO, Casu A, Pratley RE. 2021. Investigation of extracellular vesicles from SARS-CoV-2 infected specimens: a safety perspective. *Front Immunol. 2021;12:617042* | `10.3389/fimmu.2021.617042` | not yet (OA) |
+| P2-091 | Martins ST, Alves LR. 2020. Extracellular vesicles in viral infections: two sides of the same coin? *Front Cell Infect Microbiol. 2020;10:593170* | `10.3389/fcimb.2020.593170` | not yet (OA PMC) |
 
 ## Held but not yet quoted
 

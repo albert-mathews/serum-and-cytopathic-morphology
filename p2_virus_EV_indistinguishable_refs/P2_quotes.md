@@ -279,3 +279,65 @@ No quotes from the misfiled PDF. Abstract-level Chen claim retained in CSV until
 > "In summary, we report here a novel mode of viral transmission among cells where multiple viral particles are clustered and collectively released within PS-lipid-enriched vesicles."
 
 **Polarity / bounds:** Full-text primary evidence that enterovirus particles can be packaged in PS vesicles, released without lysis, and transmitted en bloc; this weakens a naked-virion-only framing. It is an enterovirus/poliovirus system and does not by itself establish a universal EV/virion identity or purification rule.
+
+---
+
+## I. Round 5 — non-retrovirus / historical expansion (2026-11-14)
+
+**Purpose:** deliberately diversify beyond the retrovirus/HIV-heavy core toward non-retrovirus systems (influenza, herpesvirus, KSHV, rotavirus, SARS-CoV-2, enterovirus) and push the historical trail earlier than 1997 (per AX012 scope exclusions and synthesis gap §6). All quotes read in full text (OA) unless noted.
+
+### P2-084 Chugh et al. 2013 *PLoS Pathog* (OA) — KSHV co-purification + CD63 remediation
+> "Methods for purifying virions and exosomes can lead to co-precipitating of both exosomes and virions, therefore making it difficult to physically separate them for analysis."
+
+> "…viral DNA was enriched in the exosome pellet following differential ultracentrifugation, as both virions and exosomes sediment at similar densities during centrifugation."
+
+> "Thus, neither differential centrifugation not ExoQuick can with certainty be used to separate exosomes from virion particles. However, CD63+ exosomes contain little KSHV DNA … This novel method confirms that the majority of the signal detected in the viral load assay was due to free DNA and KSHV virion DNA."
+
+**Polarity:** Primary non-retrovirus (KSHV) co-purification (weakening bulk methods); CD63 affinity capture = conditional remediation.
+
+### P2-090 Nunez Lopez, Casu & Pratley 2021 *Front Immunol* (OA) — SARS-CoV-2, co-isolation persists
+> "Because of their shared intracellular biogenesis mechanisms, viruses (enveloped viruses in particular) and EVs have important similarities, including comparable size and buoyant density, that make their complete experimental separation very difficult … at least when using common techniques applied in the EV field such as density gradients and ultracentrifugation, size exclusion chromatography, and polymer precipitation-based methods."
+
+> "As Drs. Nolte-'t Hoen, Cremer, Gallo, and Margolis wrote on their PNAS perspective back in 2016: 'Unless more specifically defined, it is currently virtually impossible to specifically separate and identify EVs that carry viral proteins, host proteins, and viral genomic elements from enveloped viral particles that carry the same molecules.' In our opinion, this statement remains accurate today."
+
+**Polarity:** Independent (non-UNC) 2021 restatement of the Nolte-16 impossibility quote for SARS-CoV-2; strengthens continuity + safety consequence. Also reproduces Marichal-Gallardo SXC TEM showing EVs co-purified with influenza A vaccine particles (Fig 2, P2-085 system).
+
+### P2-086 Spear & Roizman 1972 *J Virol* (OA PMC) — 1972 herpesvirion "purity" caveat
+> "The procedure for the purification of virions consists of careful extraction of cytoplasm to prevent nuclear breakage, separation of enveloped nucleocapsids from soluble proteins and membrane vesicles by rate zonal centrifugation of cytoplasmic extracts through dextran 10 gradients, treatment with urea to dissociate virus-debris aggregates, and, lastly, separation of virions from naked nucleocapsids and free membranes by isopycnic flotation in discontinuous sucrose gradients."
+
+> "Residual contaminants were identified as host and viral constituents of membrane vesicles."
+
+**Polarity:** Pre-1997 primary (HSV, non-retrovirus) showing membrane-vesicle contamination is intrinsic to "purified" enveloped virus and that a *four-step* protocol was still only 120–200-fold purified with residual membrane-vesicle contaminants. Strengthens M-HIST; bound by the fact they did reach high enrichment.
+
+### P2-083 Morgan, Hsu & Rose 1962 *J Exp Med* (OA PMC) — 1962 EM: cytoplasmic fragments ≈ incomplete virus
+> "…membrane-bound fragments of cytoplasm appeared to be in process of release from entodermal cells of the chorioallantois. … The lack of recognizable internal components, together with the presence of surface structure which closely resembled that of the virus and frequently contained viral antigen, suggested that many of these fragments were incomplete viral particles."
+
+**Polarity:** 1962 EM primary: cellular membrane fragments and "incomplete" influenza particles are morphologically indistinguishable by conventional EM. Strengthens M-EM and M-HIST; earlier than 1997 by 35 years.
+
+### P2-082 Ada & Perry 1956 *J Gen Microbiol* — incomplete vs standard influenza indistinguishable
+> "As the surface characteristics of incomplete virus are indistinguishable from those of standard virus (von Magnus, 1954)…"
+
+> "With both plant and bacterial viruses examples have been found where infection is associated with the formation of particles which, though closely related (either serologically, chemically or morphologically) to the corresponding virus particle, are non-infectious."
+
+**Polarity:** 1956 statement of surface indistinguishability between infectious and non-infectious influenza particles, with plant/bacterial precedents for co-produced non-infectious particles. Strengthens M-HIST/M-INF; full text read online (clean PDF optional).
+
+### P2-088 Loret, Guay & Lippé 2008 *J Virol* (OA PMC) — Ficoll separates HSV L-particles; host proteins remain
+> "In typical 5 to 15% Ficoll gradients, the defective L particles migrate at the 5% mark, whereas the heavier mature virions remains near the bottom at 15%."
+
+> "…the viral preparation was completely devoid of cellular debris, L particles, nuclei, mitochondria, and even small vesicles."
+
+> "…up to 49 distinct host proteins were identified in the virions."
+
+**Polarity:** Counterexample: with serum-free harvest + adapted Ficoll step, HSV-1 virions can be purified free of L-particles and small vesicles. Bound: L-particles are a co-produced virus-encoded population that *must* be explicitly removed, and 49 host proteins remain incorporated in the "pure" virion.
+
+### P2-089 Iša et al. 2020 *Viruses* (OA PMC) — non-enveloped rotavirus/EV association
+> "A fraction of the secreted viral particles present in the cell supernatant was protected from protease treatment, possibly through its association with membranous vesicles… Using electron microscopy, we found different size vesicles with particles resembling rotaviruses associated from both the outside and the inside. The viral particles inside the vesicles were refractory to neutralization with a potent rotavirus neutralizing monoclonal antibody, and were able to infect cells even without trypsin activation."
+
+**Polarity:** Extends EV–virus co-association to a **non-enveloped** virus (rotavirus), confirming non-lytic vesicle-associated release; blurs the "only enveloped viruses co-purify" boundary. Non-retrovirus, non-enveloped primary.
+
+### P2-091 Martins & Alves 2020 *Front Cell Infect Microbiol* (OA) — cup-shaped TEM artifact + continuum
+> "They were initially observed with a cup-shaped morphology through conventional transmission electron microscopy techniques, although nowadays it is known that this shape is a preparation artifact, and a round morphology is observed with more advanced cryo-EM techniques."
+
+> "There is ongoing discussion about the classification of these particles, since they can be either host EVs containing viral molecules or defective viral particles. It is difficult to isolate pure populations of these different types of vesicles since they are of similar size, density and composition, and most isolation methods cannot be used to separate them."
+
+**Polarity:** Documents the M-EM artifact (cup-shape is preparation, not identity) and restates the multi-metric (size/density/composition) non-separability; abstract also frames "a continuum of particles" (naked virions → EVs with infective genomes → quasi-enveloped viruses → complete viral particles). P2-090 Fig 2 shows the same "collapsed cup shape" EVs side-by-side with intact virions.

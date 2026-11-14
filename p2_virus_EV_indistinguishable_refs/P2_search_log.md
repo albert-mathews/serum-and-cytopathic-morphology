@@ -240,3 +240,34 @@ CopyToBox each MSI file → `streams/refs_staging/<same name>` then re-run pdfto
 **Next:** Replace P2-044 PDF; then draft `P2_synthesis.md`.
 
 - 2026-09-22 23:00 ET — P2-044 corrected Chen PDF ingested with `pdftotext`; §H quotes added; fulltext=Y, counterexample value=partial (weakens naked-virion-only framing), DOI `10.1016/j.cell.2015.01.032`; misfile corrected.
+
+---
+
+## Round 5 — non-retrovirus / historical expansion (2026-11-14)
+
+**Rationale:** Rebalance the corpus away from the retrovirus/HIV-heavy core toward (a) non-retrovirus primary and review sources and (b) pre-1997 historical primaries, closing synthesis gaps §6.2 (non-retrovirus density tables) and §6.3 (pre-1997 purification). This also honors AX012 (HIV/phage out of the ontology scope; new load-bearing items avoid HIV as primary system).
+
+**Platforms:** WebSearch + PMC full text + PLoS/Frontiers OA full text. No Sci-Hub; no paywalled fetch (paywalled items queued to wishlist).
+
+### New query families (pre-registered)
+| Family | Query (approx) | Outcome |
+|--------|----------------|---------|
+| **G — historical incomplete/DI influenza** | influenza "von Magnus" incomplete particles density gradient noninfectious | P2-081 von Magnus 1954 (paywalled B); P2-082 Ada & Perry 1956 (Y); P2-083 Morgan/Hsu/Rose 1962 (Y, OA PMC) |
+| **H — pre-1997 virus purification monographs** | herpes simplex purification "cellular debris"/"membrane vesicles" | P2-086 Spear & Roizman 1972 (Y, OA PMC); P2-087 Gentry & Randall 1973 (B, paywalled) |
+| **I — non-enveloped / non-retrovirus EV association** | rotavirus/poliovirus non-enveloped extracellular vesicles 2020 | P2-089 Iša 2020 (Y, OA PMC); P2-092 Altan-Bonnet 2025 review (B, paywalled) |
+| **J — KSHV / herpesvirus co-purification primary** | Chugh KSHV exosome copurification CD63 | P2-084 Chugh 2013 (Y, OA PLoS); P2-088 Loret 2008 HSV virions (Y, OA PMC) |
+| **K — recent persistence + EM artifact** | SARS-CoV-2 EV co-isolation safety; cup-shape TEM artifact | P2-090 Nunez Lopez 2021 (Y, OA); P2-091 Martins & Alves 2020 (Y, OA); P2-093 Defourny 2026 (B, paywalled) |
+
+### CSV deltas
+- Screened **81 → 94**; Useful **42 → 50**.  
+- 8 new Y rows (P2-082, 083, 084, 086, 088, 089, 090, 091); 5 new B rows queued to wishlist (P2-081, 085, 087, 092, 093).  
+- New DOI/PMID for all Y rows verified on PMC/PLoS/Frontiers. P2-085 (Marichal-Gallardo) DOI left `not_seen` (ScienceDirect pii only) per no-guess rule; P2-087 author line flagged "verify on fetch."
+
+### Bias-control notes
+- All 8 new Y are **non-retrovirus** (influenza × 3, HSV × 2, KSHV, rotavirus, SARS-CoV-2, plus the EM-artifact review).  
+- Counterexamples kept: P2-088 (Ficoll purity achievable) and P2-084 (CD63 affinity separates) bound the dilemma.  
+- Pre-1997 documentary evidence now reaches 1956–1972, 25–40 years earlier than the prior 1997 anchor.
+
+### Leads deferred (no ID assigned; verify before screening)
+- Santiana et al. 2018 "Vesicle-cloaked virus clusters are optimal units for intercellular transmission" (*Cell Host Microbe*) — snowball from P2-089; Altan-Bonnet lineage; verify citation/DOI before assigning an ID.
+- van der Grein et al. 2018 (EV/virus classification + purification) — cited by P2-091 for the "similar size, density and composition … cannot be separated" statement; verify citation/DOI before assigning an ID.

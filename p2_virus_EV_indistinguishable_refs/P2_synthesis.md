@@ -10,13 +10,13 @@
 
 | Class | n (approx) | Notes |
 |-------|------------|-------|
-| Screened IDs | ~70 | `P2_screened.csv` |
-| Useful Y | ~30 | Many abstract-only pending PDF |
-| Borderline B | ~25 | Class leads, imprint TBD, background |
+| Screened IDs | 94 | `P2_screened.csv` |
+| Useful Y | 50 | Round 5 upgraded 8 abstract-only → fulltext |
+| Borderline B | ~31 | Class leads, imprint TBD, background, paywalled queue |
 | Not useful N | ~10+ | Pure EV biology / therapy / noise |
-| Full text held | 8 seeds | Still colleague-skewed for full text |
+| Full text read (`[VERIFIED src]`) | 8 seeds + 24 Round 2–5 primaries/reviews | No longer colleague-skewed: Round 5 is predominantly non-retrovirus |
 
-**Bias control progress:** Round 2 added Bess/Gluschankof 1997, Feng 2013, Bukong 2014, Chen 2015, Cantin/Coren/Ott methods, Dias 2018, Giannessi/Moulin already non-UNC, MISEV2018. Round 3 must deepen pre-1997 virus-purification monographs and non-retrovirus systems.
+**Bias control progress:** Round 2 added Bess/Gluschankof 1997, Feng 2013, Bukong 2014, Chen 2015, Cantin/Coren/Ott methods, Dias 2018, Giannessi/Moulin already non-UNC, MISEV2018. Round 5 (2026-11-14) added non-retrovirus/HIV-free sources — influenza (P2-081–083), herpesvirus (P2-086–088), KSHV (P2-084), rotavirus (P2-089), SARS-CoV-2 (P2-090), plus the EM-artifact review (P2-091) — and pushed the historical trail to 1956–1972, 25–40 years earlier than the prior 1997 anchor.
 
 ---
 
@@ -110,3 +110,31 @@ Literature **does not by itself prove**: “virions were never observationally g
 ---
 
 *Update after agent reviews and user PDF drop; freeze only after Round 4 adversarial pass.*
+
+---
+
+## 8. Round 5 addendum (2026-11-14) — non-retrovirus / historical expansion
+
+**What changed.** Eight new full-text-verified (OA) sources and five paywalled queued sources closed three earlier gaps (§6): pre-1997 purification/DI history, non-retrovirus density/EM primaries, and the weak M-EM metric.
+
+| Earlier gap (§6) | Status after Round 5 |
+|------------------|----------------------|
+| Pre-1997 virus-purification manuals / DI / HSV L-particles | **Closed to 1956–1972.** Morgan 1962 (EM: cytoplasmic fragments ≈ incomplete influenza, P2-083); Ada & Perry 1956 (incomplete vs standard surfaces indistinguishable, P2-082); Spear & Roizman 1972 (membrane-vesicle contaminants of "purified" herpesvirion, P2-086). von Magnus 1954 (P2-081) and Gentry & Randall 1973 (P2-087) queued. |
+| Non-retrovirus density tables (flavivirus/herpes/influenza) primaries | **Partly closed.** Chugh 2013 KSHV (virions+exosomes co-sediment; CD63 separates, P2-084); Loret 2008 HSV-1 (Ficoll 5% L-particles vs 15% virions, P2-088); Nunez Lopez 2021 SARS-CoV-2 restates Nolte-16 "virtually impossible" (P2-090). Flavivirus-specific primary remains open. |
+| M-EM morphology non-discriminating | **Strengthened.** Morgan 1962 (pre-EV EM overlap); Martins & Alves 2020 (cup-shape = preparation artifact, P2-091); Nunez Lopez 2021 Fig 2 (EVs with "collapsed cup shape" beside intact virions). |
+| Non-retrovirus / non-enveloped co-association | **Added.** Iša 2020 rotavirus associates with EVs in/out, antibody-protected, trypsin-independent entry (P2-089). |
+
+**Updated provisional counts (§7):**
+
+| Statement type | Working support level |
+|----------------|----------------------|
+| Size overlap | High |
+| Density overlap | High (now includes KSHV 2013 + HSV L-particles + 1956 incomplete influenza) |
+| UC/PEG co-enrichment | High |
+| RNA attribution ambiguity | High |
+| Continuum framing in field | High |
+| M-EM morphological overlap | **Medium** (was weak–moderate: 1962 primary + 2020 artifact documentation) |
+| "Solved by modern methods" | **Low** — methods mitigate but do not erase the multi-metric problem |
+| Pre-1997 co-contamination language | **Medium** — now documented to 1956–1972 under "incomplete virus / membrane vesicles" vocabulary, not only 1997 |
+
+**Bounds retained (no overclaiming).** P2-088 (adapted Ficoll yields L-particle-free HSV) and P2-084 (CD63 capture separates KSHV virions) are method-conditional counterexamples; the pre-1997 "incomplete virus"/"membrane fragments" language is about *co-produced viral/vesicular particles*, which supports M-HIST/M-EM without asserting a virion–host-EV identity (the Agent-B hedge still applies). The ontology hinge (CNJ052) stays a Discussion prediction, not a result.
