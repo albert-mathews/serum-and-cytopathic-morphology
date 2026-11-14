@@ -50,8 +50,11 @@ in tracked files, commit messages, branch names, or headings.
 - Working/scratch notes under tracked `wrk/`. No new top-level scratch files.
 - Quotes stay quote-sized and attributable; never paste a whole paper into a tracked file.
 
-## 7. No commit / no push
-Leave changes in the working tree for GitHub Desktop unless Albert explicitly asks to commit or push.
+## 7. Stage, don't commit (git)
+- **Stage all work.** After editing, `git add` every changed tracked file so GitHub Desktop shows it and
+  Albert can diff and commit at will. Do **not** commit or push unless Albert explicitly asks.
+- **No hidden worktrees.** Do all work in the main checkout, never in a git worktree or any location
+  GitHub Desktop cannot see. Nothing is left sit outside the working tree where it cannot be diffed.
 
 ## 8. Research strategy (all agents)
 - Literature work follows [`agent-settings/research-strategy.md`](agent-settings/research-strategy.md); find
