@@ -24,8 +24,10 @@ Each stream's entry point is its main markdown (`rN.md` / `pN.md`), which owns t
 1. **Claims.** Cite `C###` from `CLAIMS.md` instead of restating an established point; add/update claims
    there when a finding lands or a number changes.
 2. **Conventions.** Follow `CONVENTIONS.md` (evidence tags, Mermaid diagrams, role codes, single-TODO-per-stream).
-3. **Research.** Follow `research-strategy.md`; a paywalled/blocked full text goes on the stream's
-   `<STREAM>_pdf_wishlist.md`.
+3. **Research.** Follow `research-strategy.md`. Wishlists are clean, lean, gitignored fetch queues at the
+   stream root: remove a row once the fetched file is confirmed correct. Fetched/read material is recorded in
+   the stream's **two bibliographies** (used, and read-but-unused), never in the wishlist. Keep paper-body
+   text separate from reference-list text when reading or grepping.
 4. **Environment.** Run Python through the shared `tools/venv`; see `environment.md`.
 5. **Anonymity.** Role codes only (CRO, IR1, IR2, IR2v, IR3v) in tracked files.
 6. **Git.** No commit/push unless Albert asks; leave changes unstaged for GitHub Desktop.

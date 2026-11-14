@@ -56,10 +56,13 @@ Leave changes in the working tree for GitHub Desktop unless Albert explicitly as
 ## 8. Research strategy (all agents)
 - Literature work follows [`agent-settings/research-strategy.md`](agent-settings/research-strategy.md); find
   publications from any legitimate source of record.
-- A paywalled/blocked full text is logged in the stream's `<STREAM>_pdf_wishlist.md` with columns:
-  **title · year · author · identifier (PMID/DOI/stable URL) · drop-as filename** (saved into
+- A paywalled/blocked full text is logged in the stream root `<STREAM>_pdf_wishlist.md` (gitignored) with
+  columns: **title · year · author · identifier (PMID/DOI/stable URL) · drop-as filename** (saved into
   `<stream>/refs/`). One row per document; the owner fetches. Until the full text is read, the claim stays
   `[DATA REQUIRED]` (full text outstanding). Never guess a DOI/locator.
+- Wishlists are fetch-only coordination queues: confirm the fetched file is correct, then remove its row.
+  Fetched/read material is recorded in the stream's two bibliographies (used; read-but-unused) — not the
+  wishlist.
 - A scanned (image-only) PDF is OCR'd with `tools/ocr_pdf.py` before extraction; improvements go back into
   that tool so future agents inherit them (see `tools/README.md`).
 

@@ -16,8 +16,8 @@ institutional/repository archives. There is no preferred source; use whatever yi
 
 When a needed full text is paywalled or blocked:
 
-1. Create/update **`<STREAM>_pdf_wishlist.md`** at the root of the stream folder (where `<STREAM>` is the
-   stream ID, e.g. `R2_pdf_wishlist.md`, `P4_pdf_wishlist.md`).
+1. Create/update **`<STREAM>_pdf_wishlist.md`** (where `<STREAM>` is the stream ID, e.g. `R2_pdf_wishlist.md`,
+   `P4_pdf_wishlist.md`).
 2. Add one row per document with these columns (in this order):
 
    | Column | Meaning |
@@ -38,6 +38,25 @@ When a needed full text is paywalled or blocked:
    - The owner fetches the files; received PDFs land in `<stream>/refs/` under the **Drop as** name. PDFs are
      never committed.
 
+4. **Open-access papers go on the wishlist too.** Even an open-access paper read online is added to
+   `<STREAM>_pdf_wishlist.md`, because all research should eventually rest on the **fetched PDF**, not the
+   online/HTML rendering. It is acceptable to read the online version when it is found and read in the same
+   prompt, and to keep relying on that reading until the PDF is fetched. Once the PDF is fetched, the PDF
+   becomes the source.
+
+### Wishlist lifecycle (working document, not a bibliography)
+
+The wishlist is an **agent ↔ human coordination queue** for fetching documents. It must stay clean and lean
+so Albert can use it effectively.
+
+- **Location:** every wishlist lives at the **stream root** and is **gitignored** (the stream root wishlist
+  is local-only, like `refs/`).
+- **On fetch:** confirm the fetched file is actually the correct document (title/authors/identifier match the
+  row). If confirmed, **remove the row from the wishlist** — do not mark it "received" and leave it in place.
+  If the fetched file is *not* the correct document, report it back on the row and do not remove it.
+- **Not a bibliography:** the wishlist records only what still needs fetching. What was fetched and read is
+  captured in the stream's **two bibliographies** (Step 3), never in the wishlist.
+
 ## Step 2a — scanned (image-only) PDFs: OCR before extraction
 
 When a fetched PDF is a page scan with no usable text layer, extract its text with the shared OCR tool
@@ -57,11 +76,24 @@ OCR quality varies by scan. If you improve the recipe (higher `--dpi-scale`, ima
 OCR model, two-column handling), update `tools/ocr_pdf.py`, add a dated note + example to `tools/README.md`,
 and re-OCR any affected source — so every future agent inherits the better technique.
 
-## Step 3 — extract and record
+## Step 3 — extract and record (two-bibliography discipline)
 
-Once received, extract into the stream's CSV/notes following its coding sheet, attach the evidence tag that
-matches how the material was read (`[VERIFIED src]`, `[VERIFIED-ABSTRACT]`, `[FIGURE]`), and remove the row
-from the wishlist (or mark it received).
+Once a fetched PDF is confirmed as the correct document (and removed from the wishlist), extract into the
+stream's CSV/notes following its coding sheet, attach the evidence tag that matches how the material was read
+(`[VERIFIED src]`, `[VERIFIED-ABSTRACT]`, `[FIGURE]`), and record the document in **one of the stream's two
+bibliographies**:
+
+1. **Used bibliography** — for references read and used in the research knowledge (carry cited/used items).
+2. **Read-but-unused bibliography** — for every *other* document that was fetched/read but did not yield
+   valuable information.
+
+These two bibliographies are what retain the record of what was fetched and read. The wishlist is **not**
+either of them; it holds only the outstanding fetch queue.
+
+**Separate paper text from reference-list text.** When reading/grepping a PDF, keep a hit in the paper's
+body distinct from a hit in its **reference list**. A grep match inside a cited reference's title is not the
+same as a match in the paper's own text, and must not be treated as the paper making that statement. Quote
+or tag accordingly (e.g. "cited-title match only", not a `[VERIFIED src]` claim from the paper body).
 
 Evidence tags: `[VERIFIED src]`, `[VERIFIED-ABSTRACT]`, `[FIGURE]`, `[SUPPLIER]`, `[IN-HOUSE]`,
 `[UNVERIFIED]`, `[DATA REQUIRED]`. See `CONVENTIONS.md` §3.
