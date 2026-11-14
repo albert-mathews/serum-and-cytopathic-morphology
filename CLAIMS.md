@@ -18,11 +18,11 @@ portion (1:1 mapping `C020` → `OB020`), so stream references update by swappin
 |------|--------|-------|---------|
 | Definition | `DEF` | `DEF001`–`DEF006` | DEF001 Isolation |
 | Axiom | `AX` | `AX010`–`AX012` | AX010 Pipeline scope |
-| Observation | `OB` | `OB020`–`OB028`, `OB080`, `OB081` | OB020 corpus modal 10%→2% |
-| Lemma | `LM` | `LM030`–`LM034` | LM030 practice follows recipe |
+| Observation | `OB` | `OB020`–`OB028`, `OB080`, `OB081`, `OB150` | OB020 corpus modal 10%→2% |
+| Lemma | `LM` | `LM030`–`LM035` | LM030 practice follows recipe |
 | Theorem | `TH` | `TH040` | TH040 serum step-down drives CPE |
 | Corollary | `CRL` | `CRL041`–`CRL043` | CRL041 CPE not inoculum-specific |
-| Conjecture | `CNJ` | `CNJ050`–`CNJ057`, `CNJ150`, `CNJ151` | CNJ053 genome inherits endpoint |
+| Conjecture | `CNJ` | `CNJ050`–`CNJ057`, `CNJ151` | CNJ053 genome inherits endpoint |
 | Counterexample (adversarial) | `ADVR` | `ADVR060`–`ADVR062` | ADVR060 not all practice steps down |
 
 TOC (links jump to the section): [Definitions](#definitions) · [Axioms](#axioms-premises--scope) ·
@@ -180,7 +180,7 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   warrant, 45 (44%) culture without stated CPE — versus 11 (11%) clinical-direct and 9 (9%) other
   (eggs/animal/synthetic). Coding used a documentary soft bar (method↔deposit within reasonable doubt) and
   passed a quality audit (0 of 24 re-read borderlines re-scored). This is the census premise that justifies
-  looking for downstream ambiguity in the viral-genetics literature (CNJ150). *(Evidence: [VERIFIED src]
+  looking for downstream ambiguity in the viral-genetics literature (OB150). *(Evidence: [VERIFIED src]
   `p3_genetics/sequence_origins/P3_sequence_origin_events.csv`, `P3_step1_path_type_map_2026-09-21.md`;
   Status: established-scoped — documentary census of 102 events, not a random taxonomy sample; Stream P3.)*
 
@@ -224,6 +224,17 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   *primer-driven* — it amplifies whatever nucleic acid matches the primers (viral, host, bovine, or reagent).
   Reproducible detection does not itself earn the "viral" label of the detected sequence. *(Follows from OB080;
   Status: established-scoped; Streams P3, P7.)*
+
+- **LM035 · Lemma** — **APHIS is consistent at adsorption, silent at observation.** In VIRPRO1013 the serum
+  *reduction* at adsorption (§4.1.5, "Discard inoculum … to reduce serum toxicity") is the same move and the
+  same rationale virology uses in Isolation — serum is held to inhibit viral uptake, so it is stripped at that
+  step. The **divergence is at the CPE-observation stage**: Isolation steps maintenance serum *down* (~2%)
+  while VIRPRO1013 *holds or raises* it (5–20%, OB026), and VIRPRO1013 gives a rationale for serum at
+  adsorption but **none for serum during CPE observation**. Because TH040 shows serum level is the causal
+  variable producing CPE-classified morphology, the two protocols hold the "CPE" readout constant while
+  moving that variable in opposite directions. *(Follows from OB026, TH040, DEF003; Evidence: [VERIFIED src]
+  VIRPRO1013 §4.1.5/§2.2.10/§4.1.7, `r4_…/refs/_notes/R4_VIRPRO1013_SAM312_extraction_notes.md`,
+  `r4_…/r4.md` §§ Interpretation; Status: established; Stream: R4.)*
 
 ## Theorem
 
@@ -292,29 +303,39 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   first-class P7 corpus (OB027/OB080), not established; the "weaken" condition — stability under deliberate
   serum/matrix variation with Tier-A controls — remains untested. Stream P7.)*
 
-- **CNJ150 · Conjecture (P3)** — **Under-determination is detectable in the viral-genetics literature.**
-  If genetics built on culture±CPE Isolates inherits the endpoint's under-determination (CNJ053) and origin
-  deposits are predominantly culture-derived (OB028), then the published viral-genetics literature should
-  already contain — scattered and often framed as technical noise — the ambiguity that under-determination
-  predicts: passage/provenance ambiguity, re-sequencing divergence, assembly disagreement, retracted or
-  corrected deposits, and contamination mistaken for discovery. The retracted/corrected-deposit buckets
-  manifest as two failure modes — *assembly fragility* (DEF005: the deposited genome was built wrong) and
-  *stock drift* (DEF006: the culture product itself diverged). Sought in the literature, not yet asserted.
-  *(Follows from CNJ053, OB028; Status: predicted; Stream P3.)*
+- **OB150 · Observation (P3)** — **Under-determination is detectable in the viral-genetics literature.**
+  The published viral-genetics literature already contains — scattered and often framed as technical noise —
+  exactly the ambiguity that CNJ053 + OB028 predict, and the field itself documented and corrected it. In
+  multiple differently-caused forms, across many virus families, the deposited "reference genome" of a named,
+  culture-derived stock is repeatedly shown to be non-unique, wrong, or a single haplotype of a mixed
+  population: *assembly fragility* (DEF005 — e.g. CMV AD169 missing 929 bp; HPV16/HPV18 reference-clone
+  sequencing errors corrected, HPV-16R a composite no isolate matches; the PRV reference genome assembled
+  from six strains; HSV-1/KOS repeat tracts "artificially matched" to strain 17) and *stock drift* (DEF006 —
+  HSV-1 McKrae ≥2 variant strains; HSV-1 KOS63/KOS79 "genetically unrelated"; CSFV "Alfort" 86.2% identity
+  name-collision; passage accumulating gE deletion + frameshifts). The A3 same-stock census is **27 divergent /
+  0 unclear / 1 clean across 28 named-stock pairs**, plus the database-wide contamination counts (Chen 2022,
+  Astashyn 2024) and three canonical de-discovery retractions (XMRV, MLV-CFS, PHV — the un-retracted
+  de-discovery papers carry the load). This is an *existence* claim ("detectable, multi-form, across many
+  families"), **not a rate**: the census is a biased literature retrospective (clean confirmations are
+  unpublished), so it cannot say "how often" re-sequencing diverges. Adversarial balance is held visible — the
+  one clean re-sequencing (Seto 2010, HAdV-C5 stable across 45 years) and Pyöriä 2024 (single dominant strains
+  in healthy individuals) bound the claim. *(Follows from CNJ053, OB028; Evidence: [VERIFIED src] A3 census
+  `sequence_origins/P3_A3_census_2026-11-13.md`, `P3_CNJ150_strong_signal_expansion_2026-11-14.md`,
+  `P3_CNJ150_ambiguity_search_2026-11-12.md`; Status: established-scoped — existence, not prevalence; Stream P3.)*
 
 - **CNJ151 · Conjecture (P3)** — **Viral genetics is non-deterministic in ways that absorb the ambiguity.**
-  If the literature does not cleanly show CNJ150, the fallback is that the subfield's machinery —
+  If the literature does not cleanly show OB150, the fallback is that the subfield's machinery —
   reference-prior-driven assembly and classification, consensus-sequence construction from
   passage/quasispecies, and database labels stored as ontology — is non-deterministic enough to paper over
-  the ambiguity that CNJ053 + OB028 would otherwise make visible. CNJ150 and CNJ151 are a disjunction of
+  the ambiguity that CNJ053 + OB028 would otherwise make visible. OB150 and CNJ151 are a disjunction of
   outcomes to seek, not two independent predictions. *(Follows from CNJ053, OB028; Status: rejected
   2026-11-12 — the *detection* layer of viral genetics is reproducible even blinded (OB080: P7-008 unblinded
   qPCR 0.96–1.0 vs infectivity 0.68–0.90; P7-014 blinded RT-qPCR near-perfect to 1:10⁴, ELISA 100%), so
   "viral genetics is non-deterministic" is falsified at the detection layer. The *assembly* layer is
   non-deterministic (A3: corrections, retractions, size-corrections of culture-derived reference genomes),
-  but that non-determinism is *detectable* — published as corrections/retractions — so it is CNJ150
+  but that non-determinism is *detectable* — published as corrections/retractions — so it is OB150
   evidence, not CNJ151 (which claimed non-determinism *papers over* the ambiguity). The thread therefore
-  looks only for CNJ150. Stream P3.)*
+  looks only for OB150. Stream P3.)*
 
 ## Counterexamples (adversarial balance)
 
@@ -350,6 +371,7 @@ flowchart TD
         OB026["OB026 VIRPRO holds serum"]
         OB028["OB028 deposits culture-derived"]
         OB080["OB080 isolation/titration least reproducible"]
+        OB150["OB150 underdetermination detectable in viral-genetics lit"]
     end
     subgraph lem["Lemmas"]
         LM030["LM030 practice follows recipe"]
@@ -357,6 +379,7 @@ flowchart TD
         LM032["LM032 step justified heterogeneously"]
         LM033["LM033 no serum-alone founding experiment"]
         LM034["LM034 detection deterministic non-specific"]
+        LM035["LM035 APHIS consistent at adsorption silent at observation"]
     end
     subgraph thm["Theorem"]
         TH040["TH040 serum step-down drives CPE morphology"]
@@ -375,7 +398,6 @@ flowchart TD
         CNJ055["CNJ055 P5 structure"]
         CNJ056["CNJ056 P6 seed"]
         CNJ057["CNJ057 P7 repeatability"]
-        CNJ150["CNJ150 underdetermination detectable"]
         CNJ151["CNJ151 non-determinism absorbs REJECTED"]
     end
     subgraph cx["Counterexamples"]
@@ -405,9 +427,13 @@ flowchart TD
     CNJ050 --> CNJ057
     OB080 --> LM034
     OB028 --> CNJ053
-    CNJ053 --> CNJ150
+    CNJ053 --> OB150
+    OB028 --> OB150
     CNJ053 --> CNJ151
     OB080 --> CNJ151
+    OB026 --> LM035
+    TH040 --> LM035
+    DEF003 --> LM035
     OB026 --> ADVR060
     OB023 --> ADVR062
     CNJ052 -.-> ADVR061
@@ -429,4 +455,4 @@ flowchart TD
 7. Diagrams use Mermaid per `CONVENTIONS.md`. Evidence tags, role codes, and file placement also follow
    `CONVENTIONS.md` — this file only owns the claims themselves.
 8. **Recoding `C###` → kind-prefix is 1:1 on the numeric portion** (`C020`→`OB020`, `C040`→`TH040`,
-   `C150`→`CNJ150`). Old `C###` references still grep correctly; update them when a stream is next touched.
+   `C150`→`OB150`). Old `C###` references still grep correctly; update them when a stream is next touched.
