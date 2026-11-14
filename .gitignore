@@ -44,6 +44,7 @@ interpretive_lens.md
 # Local OpenCode tooling (private)
 .opencode/
 opencode.json
+OPENCODE_WORKFLOW.md
 
 # FOIA personal email export
 p1_history/Gmail - Regarding your FOIA Request*.pdf
