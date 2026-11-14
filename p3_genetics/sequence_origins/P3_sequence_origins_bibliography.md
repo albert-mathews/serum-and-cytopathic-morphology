@@ -830,7 +830,7 @@ Held in `refs/sequence_origins/` and cited in the working files (`P3_stock_origi
 - `SV40-P_sweet_hilleman_1960_psebm.pdf`
 - `VZV-P_weller_1953_psebm.pdf`
 
-## CNJ150 / A3 sources (fetched + read 2026-11-14; codes P3-###, internal-only)
+## OB150 / A3 sources (fetched + read 2026-11-14; codes P3-###, internal-only)
 
 **Load-bearing (used) — `[VERIFIED src]` after PDF read:**
 
@@ -873,9 +873,9 @@ correct, and read: P3-031, P3-032, P3-034…037, P3-040…047, P3-051…053.
 - **P3-045** Szpara 2011 PLoS Pathog 7:e1002282 · PMID 22022263 · PMC3192842 — mosaic reference; frameshifts in non-Kaplan genes; SSR "set to match reference." OA.
 - **P3-046** Tombácz 2014 Genome Announc 2:e00628-14 · PMID 25035325 · PMC4102862 — PRV sequences contain "several discrepancies"; Kaplan re-sequenced. OA. `[VERIFIED src]`.
 - **P3-047** Ye 2018 Virol J 15:195 · PMID 30594230 · PMC6310976 — PRV passage accumulates gE deletion, indels, frameshifts. OA. `[VERIFIED src]`.
-- **P3-048** Meissner 1997 (chapter, *Human Papillomaviruses 1997*, Los Alamos) — HPV reference clone sequencing errors (resolves P3-029). **Unfetched — web copy only.** Locator to verify (no guess).
-- **P3-049** Van Doorslaer 2013 Nucleic Acids Res 41:D571 — PaVE founding (corrected reference genomes). **Unfetched — web copy only.** PMID/DOI to verify.
-- **P3-050** Van Doorslaer 2017 Nucleic Acids Res 45:D499 — PaVE update (manual ORF restoration). **Unfetched — web copy only.** PMID/DOI to verify.
+- **P3-048** Meissner 1997 (chapter, *Human Papillomaviruses 1997*, Los Alamos, III-110–123) — HPV reference clone sequencing errors; HPV-16R is a composite; "no clone or completely characterized HPV-16 isolate has been identified with a sequence identical to HPV-16R" (resolves P3-029). `[VERIFIED src]` (fetched + read 2026-11-14).
+- **P3-049** Van Doorslaer 2013 Nucleic Acids Res 41:D571 — PaVE founding (corrected reference genomes; corrected BPV1/HPV1/5/6/16/18). `[VERIFIED src]` (fetched + read 2026-11-14).
+- **P3-050** Van Doorslaer 2017 Nucleic Acids Res 45:D499–D506 · DOI 10.1093/nar/gkw879 — PaVE update (manual ORF restoration). `[VERIFIED src]` (fetched + read 2026-11-14).
 - **P3-051** Wang 2014 Cell Biosci 4:5 · PMID 24410913 · PMC3903022 — HPV58 RCA-seq vs PCR+cloning; pipeline changes reported genome. OA. `[VERIFIED src]`.
 - **P3-052** Price 2019 bioRxiv (DOI 10.1101/2019.12.13.876037) — Ad5 reference incomplete/in-error. **Preprint, fetched + read; not load-bearing until peer review.**
 - **P3-053** Seto 2010 Virology 404:180 · PMID 20627349 — Ad5 genome stable across 45 years. **Counterexample — kept visible.** `[VERIFIED src]`.

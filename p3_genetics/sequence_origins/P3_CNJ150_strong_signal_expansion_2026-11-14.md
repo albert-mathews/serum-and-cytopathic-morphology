@@ -1,10 +1,12 @@
-# P3 CNJ150 — strong-signal corpus expansion (same-strain re-sequencing → inconsistent consensus)
+# P3 OB150 — strong-signal corpus expansion (same-strain re-sequencing → inconsistent consensus)
 
 **Date:** 2026-11-14 · **PDFs fetched + read 2026-11-14** (all `[VERIFIED src]` below).
+**Note:** filename retains "CNJ150" for continuity; the claim code is now **OB150** (`CLAIMS.md`), upgraded
+2026-11-14b from a Conjecture to an established-scoped Observation.
 **Purpose:** Expand the corpus that supports the *strongest* items in the P3.v1 prediction list
 (`../p3.md` §P3.v1): item 1 (same-strain re-sequencing → inconsistent consensus, Ortigas-Vasquez type)
 and item 2 (assembly fragility / corrected deposits, DEF005). These two items are the field-specific
-core of CNJ150 — the deposited "reference genome" of a named, culture-derived stock is repeatedly shown
+core of OB150 — the deposited "reference genome" of a named, culture-derived stock is repeatedly shown
 to be non-unique, wrong, or a single haplotype of a mixed population.
 
 **Method:** `websearch` + Europe PMC REST (identifier lock), then full-text extraction (PyMuPDF via shared
@@ -49,12 +51,12 @@ mosaic carried; passaging demonstrably rewrites the consensus.
 
 ### HPV — the reference clone was corrected (resolves wishlist P3-029)
 
-| Code | Source | Year | Identifier | Finding ([VERIFIED src] unless noted) |
+| Code | Source | Year | Identifier | Finding ([VERIFIED src]) |
 |------|--------|------|------------|---------|
-| P3-048 | **Meissner JD, "Sequencing errors in reference HPV clones," *Human Papillomaviruses 1997* (Los Alamos), III-110–123** | 1997 | chapter (not indexed in PubMed) | The canonical account that the reference HPV clones (HPV-1a/5a/6b/16/18…) carried sequencing errors, and that "no clone or completely characterized HPV-16 isolate has been identified with a sequence identical to HPV-16R"; documents per-position corrections for HPV-16 (nt 2926 G→A) and HPV-18. **This is the source that pins the A3-002 HPV16 reference-correction case** (previously `P3-029` wishlist item with "not seen" identifier). **Not yet fetched** — chapter text read only via pave.niaid.nih.gov web copy. |
-| P3-049 | **Van Doorslaer et al., Nucleic Acids Res 41:D571** | 2013 | (PMID/DOI to verify — PaVE founding paper) | The Papillomavirus Episteme (PaVE): purpose-built to host **corrected, uniformly annotated reference genomes** because the Los Alamos HPV database (last updated 1997) had left "uncorrected sequences [that] will continue to generate unnecessary confusion." **Not yet fetched** — web copy read. |
-| P3-050 | **Van Doorslaer et al., Nucleic Acids Res 45:D499** | 2017 | (PMID/DOI to verify — PaVE update) | PaVE update: genomes are "manually edited to restore a viral ORF" where sequencing errors interrupted ORFs; edited genomes noted in the DB with links to the original GenBank record. **Not yet fetched** — web copy read. |
-| P3-051 | **Wang et al., Cell Biosci 4:5** | 2014 | PMID 24410913 · DOI 10.1186/2045-3701-4-5 · PMC3903022 | HPV58: long-PCR template cloning + Sanger introduces nucleotide substitutions/indels absent from the authentic genome; RCA-seq of three clinical HPV58s gives 52 substitutions vs reference that PCR+cloning then *further* distorts (Tgo polymerase error ~0.149%). Pipeline choice changes the reported genome. OA — **fetched + read**. |
+| P3-048 | **Meissner JD, "Sequencing errors in reference HPV clones," *Human Papillomaviruses 1997* (Los Alamos), III-110–123** | 1997 | chapter (not PubMed-indexed) | The canonical account that the reference HPV clones (HPV-1a/5a/6b/16/18…) carried sequencing errors; per-position corrections for HPV-16 (nt 2926 G→A per resequencing) and HPV-18; and that "**no clone or completely characterized HPV-16 isolate has been identified with a sequence identical to HPV-16R**" (the reference is a *composite*, not any real isolate). **This pins the A3-002 HPV16 reference-correction case** (formerly wishlist `P3-029`). **Fetched + read 2026-11-14.** |
+| P3-049 | **Van Doorslaer et al., Nucleic Acids Res 41:D571** | 2013 | PMID 23093593 · DOI 10.1093/nar/gks984 · PMC3531071 | The Papillomavirus Episteme (PaVE): built to host **"corrected and uniformly annotated Reference genomes"** because the Los Alamos HPV database (last updated 1997) had left "uncorrected sequences [that] will continue to generate unnecessary confusion"; the Los Alamos group corrected BPV1, HPV1, HPV5, HPV6, **HPV16 and HPV18** for sequencing errors. **Fetched + read 2026-11-14.** |
+| P3-050 | **Van Doorslaer et al., Nucleic Acids Res 45:D499** | 2017 | **DOI 10.1093/nar/gkw879** | PaVE update: "In certain cases, viral genome sequences are **manually edited to restore a viral ORF**… Edited genomes are noted in the PaVE database and links to the original GenBank record are provided." **Fetched + read 2026-11-14.** |
+| P3-051 | **Wang et al., Cell Biosci 4:5** | 2014 | PMID 24410913 · DOI 10.1186/2045-3701-4-5 · PMC3903022 | HPV58: long-PCR template cloning + Sanger introduces nucleotide substitutions/indels absent from the authentic genome; RCA-seq of three clinical HPV58s gives 52 substitutions vs reference that PCR+cloning then *further* distorts (Tgo polymerase error ~0.149%). Pipeline choice changes the reported genome. OA — `[VERIFIED src]`. |
 
 ## B. Assembly fragility / incomplete reference (item 2 — DEF005)
 
@@ -132,6 +134,21 @@ wrong."
 
 **HPV reference clone errors + pipeline non-uniqueness (item 2):**
 
+- **P3-048 Meissner 1997 (chapter):** "the nucleotide (nt) at position 2926… of the reference HPV-16 clone… is **G**…
+  not A"; "the HPV-16R sequence is a **composite sequence**, with two consensus nucleotides at positions 1139 and
+  6242… grafted onto the sequence of the idiosyncratic reference HPV-16 clone… **As yet, no clone or completely
+  characterized HPV-16 isolate has been identified with a sequence identical to HPV-16R**." — the flagship HPV
+  reference is neither the deposited clone nor any real isolate.
+- **P3-048 Meissner 1997:** "the reference HPV-16 clone, for example, is G… not A, and the nucleotide at the
+  corresponding position of the HPV-16 variant present in SiHa cells is also G, not A, despite what **two labs
+  examining HPV integration in SiHa cells independently reported**" — a demonstrated error-propagation from the
+  wrong reference into downstream (unidirectional) work.
+- **P3-049 Van Doorslaer 2013 (PaVE):** "the main goal of the Papillomavirus Episteme (PaVE) project is to provide
+  '**corrected and uniformly annotated Reference genomes**'"; "The Los Alamos HPV database group **corrected the
+  sequences for BPV1, HPV1, HPV5, HPV6, HPV16 and HPV18**… based on published evidence of sequencing errors."
+- **P3-050 Van Doorslaer 2017 (PaVE update):** "In certain cases, viral genome sequences are **manually edited to
+  restore a viral ORF**… Edited genomes are noted in the PaVE database and links to the original GenBank record are
+  provided."
 - **P3-051 Wang 2014:** "Three HPV58 genomes decoded by RCA-seq displayed a total of **52 nucleotide
   substitutions** from reference HPV58"; "the long PCR template cloning and sequencing led to **additional
   nucleotide substitutions, insertions, and deletions** from an authentic HPV58 genome"; "the Tgo DNA polymerase
@@ -163,9 +180,11 @@ wrong."
 
 ## E. Next steps
 
-1. ~~Fetch OA/free PDFs → confirm → re-tag `[VERIFIED src]`~~ **done 2026-11-14** for P3-031/032/034/035/036/037
-   and P3-040…047/051/052/053. Three HPV reference-clone items (P3-048/049/050) remain unfetched.
-2. Verify the two PaVE PMIDs/DOIs (P3-049/050) and the Meissner chapter locator (P3-048) once a copy is obtained.
-3. A3 census already carries the new same-stock rows (A3-019…A3-026); the "correction scope not yet pinned" note on
-   the A3-002 CSV row now resolves to P3-048.
-4. Fold into the CNJ150 upgrade decision (Conjecture → Observation/Lemma, scoped "detectable") — with Albert.
+1. ~~Fetch OA/free PDFs → confirm → re-tag `[VERIFIED src]`~~ **done 2026-11-14** for P3-031/032/034/035/036/037,
+   P3-040…047/051/052/053, and **2026-11-14b for P3-048/049/050** (HPV reference-clone thread).
+2. Remaining unfetchable (Albert): **P3-027** (Kingham HVT) and **P3-030** (Jones strain-17) — A3-017/A3-019 rows
+   stay `[VERIFIED-ABSTRACT]`. **P3-033** (Pyöriä) is OA and fetchable — corrected identifier recorded in the wishlist.
+3. A3 census already carries the new same-stock rows (A3-019…A3-026); the A3-002 "correction scope not yet pinned"
+   note now resolves to P3-048 (verified).
+4. Fold into the OB150 upgrade — **done 2026-11-14b**: Conjecture → established-scoped Observation, scoped
+   "detectable" (existence, not rate).

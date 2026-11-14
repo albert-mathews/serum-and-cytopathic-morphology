@@ -1,22 +1,21 @@
 # P3 A3 — same-stock re-sequencing divergence
 
 **Date:** 2026-11-13
-**Status:** Census in progress. Eighteen cases originally (12 in-house `[VERIFIED src]` + 6 new literature); expanded
-2026-11-14 by 8 new cases + 1 counterexample (A3-019 … A3-026, see `P3_CNJ150_strong_signal_expansion_2026-11-14.md`)
-→ **26 rows** (25 divergent / 2 unclear / 1 clean per the census tally, which counts the same-stock pairs including
-the one clean counterexample). Wishlist open for the new identifiers' PDFs. Systematic scoring of the full Step 1
-O/C pairs remains the next step.
-**Claim under test:** CNJ150 (Conjecture) — the under-determination of culture±CPE Isolates is *detectable* in the
-published viral-genetics literature. A3 is the culture+CPE-specific CNJ150 probe: **when a named stock / Isolate /
+**Status:** Census resolved. Eighteen cases originally (12 in-house `[VERIFIED src]` + 6 new literature); expanded
+2026-11-14 by 8 new cases + 1 counterexample (A3-019 … A3-026) → **27 CSV case rows**. Census tally (which counts
+28 same-stock pairs): **27 divergent / 0 unclear / 1 clean** — the two former "unclear" pairs (CSFV, VSV) were
+resolved to divergent 2026-11-14b. See `P3_A3_census_2026-11-13.md`.
+**Claim under test:** OB150 (Observation, `CLAIMS.md` — upgraded from Conjecture 2026-11-14b) — the under-determination of culture±CPE Isolates is *detectable* in the
+published viral-genetics literature. A3 is the culture+CPE-specific OB150 probe: **when a named stock / Isolate /
 accession lineage is re-sequenced years or groups apart, how much do published assemblies differ** (length, gene
 content, consensus polymorphisms, "complete genome" boundaries)?
 
-## What A3 is (and why it is the right CNJ150 probe)
+## What A3 is (and why it is the right OB150 probe)
 
 A3 was flagged by Albert in `p3.md` ("did we do this research?"). The inheritance logic: if a "viral genome" is a
 culture-product consensus rather than a fixed natural particle genome, then re-sequencing the *same named stock*
 should produce divergent assemblies. Conversely, tight reproducibility across groups would *constrain* the
-culture-consensus reading. So A3 is a direct, culture+CPE-scoped test of CNJ150 — unlike the XMRV/PHV contamination
+culture-consensus reading. So A3 is a direct, culture+CPE-scoped test of OB150 — unlike the XMRV/PHV contamination
 cases (recorded in `P3_CNJ150_ambiguity_search_2026-11-12.md`), which sit one step outside the P3 scope.
 
 ## Method
@@ -83,8 +82,8 @@ opposite behavior:
   2. *Stock drift* — the culture product itself is not a fixed object: CMV AD169 (high-passage) vs Merlin
      (low-passage), AD169 varUC vs ATCC holdings, Ad2 "heterogeneity persists after plaque purification".
 
-**This is CNJ150, not CNJ151.** The assembly non-determinism is *detectable* — the corrections, retractions, and
-size-corrections are published, i.e. the field found and fixed the ambiguity. That is exactly what CNJ150 predicts
+**This is OB150, not CNJ151.** The assembly non-determinism is *detectable* — the corrections, retractions, and
+size-corrections are published, i.e. the field found and fixed the ambiguity. That is exactly what OB150 predicts
 (under-determination detectable in the literature), not CNJ151 (non-determinism papering over the ambiguity).
 
 **Scope guard:** nine single-stock anecdotes show the *form* of A3 divergence, not its *prevalence*. A prevalence
@@ -102,6 +101,6 @@ claim requires a census over many named stocks (next steps).
    coded) and score each C event for divergence (correction / parallel / passage / none). This turns the 12
    anecdotes into a rate over the ~19 viruses with O+C events. Design in `p3.md` §A3.
 2. Lock the two wishlist identifiers and fetch the retraction/correction notices.
-3. Fold the A3 finding into the CNJ150 assessment and decide with Albert whether CNJ150 upgrades in `CLAIMS.md`.
+3. Fold the A3 finding into the OB150 assessment — **done 2026-11-14b** (CNJ150 → OB150 in `CLAIMS.md`).
 4. Add the new/read sources to the two P3 bibliographies (`P3_sequence_origins_bibliography.md` for used;
    `P3_sequence_origins_read_but_unused.md` for read-but-set-aside).
