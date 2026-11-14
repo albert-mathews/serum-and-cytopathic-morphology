@@ -101,6 +101,10 @@ bibliographies**:
 These two bibliographies are what retain the record of what was fetched and read. The wishlist is **not**
 either of them; it holds only the outstanding fetch queue.
 
+**Codes.** Every bibliography and wishlist item carries a project-wide unique code (stream prefix, e.g.
+`P3-001`), used whenever the item is referred to. The code is internal-only (never in the published
+bibliography); it appears in the internal bib records, the wishlist, and (for un-fetched items) the drop-name.
+
 **Separate paper text from reference-list text.** When reading/grepping a PDF, keep a hit in the paper's
 body distinct from a hit in its **reference list**. A grep match inside a cited reference's title is not the
 same as a match in the paper's own text, and must not be treated as the paper making that statement. Quote

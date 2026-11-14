@@ -31,6 +31,8 @@ Each stream's entry point is its main markdown (`rN.md` / `pN.md`), which owns t
    **Retracted articles** are note-only, never load-bearing: never used as references/knowledge for
    arguments, landscape statistics, or conclusions; always `RETRACTED`-labelled in bib/wishlist and with a
    `_RETRACTED` suffix in the PDF filename.
+   **Codes:** bibliography and wishlist items carry a project-wide unique code (stream prefix, e.g.
+   `P3-001`), used when referring to the item; internal-only (never in a published bibliography).
 4. **Environment.** Run Python through the shared `tools/venv`; see `environment.md`.
 5. **Anonymity.** Role codes only (CRO, IR1, IR2, IR2v, IR3v) in tracked files.
 6. **Git.** No commit/push unless Albert asks; leave changes unstaged for GitHub Desktop.

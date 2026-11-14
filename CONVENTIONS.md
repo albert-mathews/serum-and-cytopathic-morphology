@@ -66,6 +66,11 @@ Leave changes in the working tree for GitHub Desktop unless Albert explicitly as
 - Retracted articles are **note-only, never load-bearing** (no citing for arguments, landscape statistics, or
   conclusions). Any retracted item is labelled `RETRACTED` in the bib/wishlist and fetched as
   `<ID>_<name>_RETRACTED.pdf`.
+- Bibliography and wishlist items carry a **project-wide unique code** with the stream prefix (e.g. `P3-001`),
+  so any item can be referred to unambiguously in conversation and in internal notes. Codes are **internal-only**
+  (they never appear in a published bibliography); they appear in the internal bib records, the wishlist, and
+  (for un-fetched items) the PDF drop-name. When a code is added to an item's PDF filename, all references to
+  that item use the code.
 - A scanned (image-only) PDF is OCR'd with `tools/ocr_pdf.py` before extraction; improvements go back into
   that tool so future agents inherit them (see `tools/README.md`).
 
