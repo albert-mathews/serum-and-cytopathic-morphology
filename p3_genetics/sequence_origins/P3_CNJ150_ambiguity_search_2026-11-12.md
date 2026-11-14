@@ -1,14 +1,14 @@
-# P3 C150 search — under-determination detectable in the viral-genetics literature
+# P3 CNJ150 search — under-determination detectable in the viral-genetics literature
 
 **Date:** 2026-11-12 (initial) · Expanded 2026-11-13 (at-scale quantification) · **Verified 2026-11-14** (PDFs fetched, key numbers pinned).
 **Status:** 29 PDFs fetched into `p3_genetics/refs/` and title/identifier-verified against the wishlist. The
 load-bearing quantities are now `[VERIFIED src]` (exact quotes under "Verified quotes" below). Retracted items
 are note-only per CONVENTIONS §8 (never load-bearing); the de-discovery *load* rests on the un-retracted papers
 (Paprotka 2011, Delviks-Frankenberry 2012, Naccache 2013) and the retraction notices.
-**Claim under test:** C150 (Conjecture, `CLAIMS.md`) — the under-determination of culture±CPE Isolates is
+**Claim under test:** CNJ150 (Conjecture, `CLAIMS.md`) — the under-determination of culture±CPE Isolates is
 *detectable* in the published viral-genetics literature (passage/provenance ambiguity, re-sequencing
 divergence, assembly disagreement, retracted/corrected deposits, contamination mistaken for discovery).
-C151 is rejected (see `CLAIMS.md`); this thread looks only for C150.
+CNJ151 is rejected (see `CLAIMS.md`); this thread looks only for CNJ150.
 
 ## Search method
 
@@ -18,7 +18,7 @@ C151 is rejected (see `CLAIMS.md`); this thread looks only for C150.
 - **Evidence discipline:** a hit is a *candidate* until its full text is read. Abstract/title quantities are
   quoted as such and stay `[DATA REQUIRED]` until the PDF is read.
 
-## Bucket 1 — contamination mistaken for discovery (the cleanest C150 form)
+## Bucket 1 — contamination mistaken for discovery (the cleanest CNJ150 form)
 
 Documented cases where a claimed "viral genome" was later shown to be contamination or lab reagent, and the
 discovery was retracted or reverse ("de-discovery"). **These are the canonical three:**
@@ -37,7 +37,7 @@ De-discovery synthesis: Delviks-Frankenberry et al. 2012 (Curr Opin Virol 2:499,
 
 These are *published, database-wide counts* — the field's own quantification that the viral-genetics
 reference layer is riddled with contamination, chimerism, and misannotation. This is the direct
-"under-determination is detectable" quantity for C150.
+"under-determination is detectable" quantity for CNJ150.
 
 | Source | Year | Identifier | Documented quantity | OA |
 |--------|------|------------|---------------------|----|
@@ -53,7 +53,7 @@ reference layer is riddled with contamination, chimerism, and misannotation. Thi
 - Chen et al. 2022 mSystems (above) — 766 nt / 276 aa problematic viral sequences, 85.5% chimeric. Already
   read in `P3_prior_art_genome_provenance_critiques_2026-09-21.md` §B4 (`[VERIFIED src]`).
 - Steinegger & Salzberg 2020 (above) — >2M contaminated entries; **viruses excluded** from that scan, an
-  important bound on the C150 claim (recorded as a scope note).
+  important bound on the CNJ150 claim (recorded as a scope note).
 
 ## Bucket 3 — assembly hindered by chimerism / contamination thresholds
 
@@ -69,7 +69,7 @@ reference layer is riddled with contamination, chimerism, and misannotation. Thi
 - Chin et al. 2025 mSphere 10(7):e0028625 (PMID 40548747 · DOI 10.1128/msphere.00286-25) — "Refinement of
   the Reference Viral Database (RVDB)." OA.
 - Astashyn et al. 2024 — FCS-GX (above). Note: the *existence* of a dedicated NCBI contamination-screening
-  suite that has removed contaminants at scale is itself C150 evidence — the field treats contamination of
+  suite that has removed contaminants at scale is itself CNJ150 evidence — the field treats contamination of
   deposited genomes as a routine, large-scale problem to detect.
 
 ## Bucket 5 — voucher / type-material errors (transferable analogy)
@@ -80,7 +80,7 @@ reference layer is riddled with contamination, chimerism, and misannotation. Thi
 
 ## Reading
 
-**Statistical signal for C150.** The literature does not merely contain a few anecdotes of
+**Statistical signal for CNJ150.** The literature does not merely contain a few anecdotes of
 contamination mistaken for discovery — it contains **database-scale quantifications**:
 
 - >2,000,000 contaminated GenBank entries (Steinegger & Salzberg 2020);
@@ -90,15 +90,15 @@ contamination mistaken for discovery — it contains **database-scale quantifica
 
 Combined with the A3 census (18 same-stock correction/divergence cases, `P3_A3_same_stock_resequencing.csv`)
 and the three canonical "de-discovery" retractions (XMRV, MLV-in-CFS, PHV/NIH-CQV), this is the "already
-published, framed as technical noise" pattern that C150 predicts. The field itself runs a national
+published, framed as technical noise" pattern that CNJ150 predicts. The field itself runs a national
 contamination-screening program (FCS-GX) and a dedicated virome-QC tool literature (ViralQC, RVDB, ZWA).
 
 **Scope guards (adversarial, kept visible):**
 - Steinegger & Salzberg 2020 *explicitly excluded viruses* from their contamination screen — so their >2M
   figure is cross-kingdom, not viral-specific. Chen 2022 (766/276, 85.5%) is the viral-specific quantity.
 - XMRV / MLV-in-CFS / PHV are metagenomic–clinical de-discoveries, one step outside the culture±CPE scope;
-  they are C150 evidence (contamination mistaken for discovery) but not culture+CPE-inheritance evidence.
-  The culture+CPE-scoped C150 probe is A3 (re-sequencing divergence/corrections).
+  they are CNJ150 evidence (contamination mistaken for discovery) but not culture+CPE-inheritance evidence.
+  The culture+CPE-scoped CNJ150 probe is A3 (re-sequencing divergence/corrections).
 
 ## Verified quotes (fetched + read 2026-11-14, `[VERIFIED src]`; codes internal-only)
 
@@ -138,9 +138,9 @@ Retracted (note-only per CONVENTIONS, never load-bearing — axis RETRACTED):
 ## Next steps
 
 1. ~~Fetch OA PDFs + pin exact quantitative sentences~~ — **done 2026-11-14** (29 PDFs verified; key quantities pinned `[VERIFIED src]` above).
-2. Add the fetched C150/A3 sources to the two-bib structure (`P3_sequence_origins_bibliography.md` = used; `_read_but_unused.md` = read-but-set-aside) with `RETRACTED` labels where applicable.
+2. Add the fetched CNJ150/A3 sources to the two-bib structure (`P3_sequence_origins_bibliography.md` = used; `_read_but_unused.md` = read-but-set-aside) with `RETRACTED` labels where applicable.
 3. ~~Read the de-discovery papers~~ — **done** (Paprotka, Naccache, Delviks read; retracted Urisman/Lo treated as note-only).
-4. **C150 upgrade decision with Albert** — whether C150 moves Conjecture → Observation/Lemma, scoped to "detectable" (existence), not "prevalent" (rate).
+4. **CNJ150 upgrade decision with Albert** — whether CNJ150 moves Conjecture → Observation/Lemma, scoped to "detectable" (existence), not "prevalent" (rate).
 
 ## Bibliography (two-bib discipline)
 

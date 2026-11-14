@@ -830,7 +830,7 @@ Held in `refs/sequence_origins/` and cited in the working files (`P3_stock_origi
 - `SV40-P_sweet_hilleman_1960_psebm.pdf`
 - `VZV-P_weller_1953_psebm.pdf`
 
-## C150 / A3 sources (fetched + read 2026-11-14; codes P3-###, internal-only)
+## CNJ150 / A3 sources (fetched + read 2026-11-14; codes P3-###, internal-only)
 
 **Load-bearing (used) — `[VERIFIED src]` after PDF read:**
 
