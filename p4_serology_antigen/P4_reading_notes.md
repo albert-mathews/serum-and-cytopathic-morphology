@@ -495,6 +495,16 @@ earlier 189-row webfetch classification. P4's roster (`p4_r1_roster.csv`) was re
 IFA/HA/neutralization *confirmation step* attached to a CPE isolate, which is a different (looser)
 thing than serology *as the endpoint*. The authoritative endpoint-level reading is sharper — see §4h.
 
+**Insert confirmation (2026-11-16).** The ID Screen / Innovative Diagnostics rep emailed two of the
+three P4W-04 inserts (Bluetongue Competition `BTC`; Infectious Bronchitis Indirect 2.0 `IBVARSV2`),
+renamed under `refs/P4W-04 - …` and read in full. Both **confirm rather than change** the §4g
+recombinant reading: BTC's IFU states "The wells are coated with the **VP7 recombinant protein**" and
+IBVARSV2's states "Microwells are coated with **purified IBV recombinant protein**" — neither names an
+expression host or an ORF source strain, so `recombinant_source_unclear` / `partial` stand on the
+manufacturer's own document, not the distributor catalogue (rows P4-004, P4-006 upgraded `datasheet` →
+`kit_insert`). The IB Competition (IBVC-2P) insert was **not** included and stays on the wishlist
+(P4-005).
+
 ---
 
 ## 4h. Authoritative R1 split — class 1 vs class 4, and the serology-as-endpoint subset (2026-11-11)

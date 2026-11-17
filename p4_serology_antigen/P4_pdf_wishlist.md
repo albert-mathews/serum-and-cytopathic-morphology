@@ -10,6 +10,6 @@ any fetch yields nothing), never here.
 
 | ID | Title | Year | Author | Identifier | Drop-as filename | Why needed | Status |
 |----|-------|------|--------|-----------|------------------|------------|--------|
-| P4W-04 | ID Screen Bluetongue Competition / IB Competition (IBVC) / IB Indirect 2.0 — manufacturer inserts | current | ID Screen / Innovative Diagnostics | `innovative-diagnostics.com` (no public email) | `P4W-04 - ID_Screen_Bluetongue_IB_IFUs.pdf` | Upgrade `p4_antigen_provenance.csv` P4-004/-005/-006 from catalogue/datasheet to manufacturer insert | emails pending — website contact form |
+| P4W-04 | ID Screen Infectious Bronchitis Competition (IBVC-2P) — manufacturer insert | current | ID Screen / Innovative Diagnostics | `innovative-diagnostics.com` (no public email) | `P4W-04 - ID_Screen_IB_Competition_IBVC-2P_IFU.pdf` | Upgrade `p4_antigen_provenance.csv` P4-005 from catalogue to manufacturer insert | 2026-11-16: rep email delivered **2 of 3** inserts (Bluetongue Competition BTC + IB Indirect 2.0 IBVARSV2) — both renamed under `refs/P4W-04 - …` and rows P4-004/-006 upgraded. **IB Competition IBVC-2P still outstanding** |
 
 *End of P4 wishlist.*
