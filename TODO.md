@@ -11,6 +11,7 @@ Each item has an assignee (**Albert** or **CPE**, the research assistant) and li
 - [ ] **Albert - P4-P7: start now / schedule later / reshape each stream.** Record the decision in the *Status* column of [`P4_P7_index.md`](P4_P7_index.md); comments go in the stream notes ([`p4.md`](p4_serology_antigen/p4.md), [`p5.md`](p5_cryoEM_structure/p5.md), [`p6.md`](p6_vaccine_seed_identity/p6.md), [`p7.md`](p7_cross_lab_repeatability/p7.md)).
 - [ ] **Albert - fetch R2 full texts to bring papers back into the analysis.** 10 papers are excluded because only abstracts were available: VI44, VI239, VI240 (= VI241, VI242, same paper), VI243, VI249, VI251, VI266, VI267, VI270, VI271. List and links: [`r2_negative_controls/R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md).
 - [ ] **CPE - R4: expand the non-isolation protocol search** (protocols outside virus isolation, then reports of practice under them). Plan: [`r4_non-isolation_standards_and_practice/r4.md`](r4_non-isolation_standards_and_practice/r4.md).
+- [ ] **CPE - R5: run the pre-cell-culture bulk-purification census** (exactly how many viruses bulk-isolated/characterized before cell culture, by what methods). Scaffold + Round 1 seeds done 2026-11-17; fetch `R5W-*` PDFs then run Rounds 2–5. Entry: [`r5.md`](r5_precell_virus_purification_census/r5.md).
 
 ## In progress
 
@@ -51,6 +52,7 @@ PDFs go in the gitignored `refs/` folder named below; never commit PDFs.
 | R2 | [`R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md) | 173 scored rows / 7 Tier-D upgrades wanted (optional) | `r1_isolation_standards_and_practice/refs/` |
 | R1 | [`R1_pdf_wishlist.md`](r1_isolation_standards_and_practice/R1_pdf_wishlist.md) | 7 paywall + 11 abstract + few leads still to fetch | `r1_isolation_standards_and_practice/refs/` |
 | P1 | [`P1_BIBLIOGRAPHY.md`](p1_history/P1_BIBLIOGRAPHY.md) | closed for drafting | `p1_history/refs/` |
+| R5 | Bib [`R5_bibliography.md`](r5_precell_virus_purification_census/R5_bibliography.md) · unused [`R5_bibliography_unused.md`](r5_precell_virus_purification_census/R5_bibliography_unused.md) · wishlist [`R5_pdf_wishlist.md`](r5_precell_virus_purification_census/R5_pdf_wishlist.md) (gitignored) | scaffold + Round 1 seeds; provisional; fetch needed | `r5_precell_virus_purification_census/refs/` |
 
 ---
 
