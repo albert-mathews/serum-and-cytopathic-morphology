@@ -640,7 +640,44 @@ ledger stays **12 confirmatory + 1 recombinant (VI205 gD) + 2 challenging**, now
 - A **lateral-flow / rapid antigen** IFU (non-HIV). A manufacturer-insert-level document,
   not a distributor catalogue — see P4-007's lesson that catalogue sources cannot fill the stack.
 - Upgrade P4-004/-005/-006 and P4-007 (veterinary rows) from catalogue/datasheet to
-  manufacturer inserts.
+  manufacturer inserts. **Status 2026-11-16:** P4-004 (BTC) and P4-006 (IBVARSV2) done — both
+  now `kit_insert`, and both disclose only "recombinant VP7" / "purified IBV recombinant protein"
+  (no host, no ORF source). P4-007 (VMRD) done earlier. P4-005 (IBVC-2P) insert still outstanding
+  (wishlist P4W-04, completeness only).
+
+### 5a. Citable provenance trace — the alternative to asking the manufacturer (executed 2026-11-17)
+
+The manufacturer inserts do not answer *where the antigen's gene came from* (expression host, ORF
+source strain), and **a sales rep's email reply is not citable**, so it cannot supply this. The
+citable route is to trace the **antigen class** through the published literature and then run its
+source strain through the P3 culture-origin check — the same move §4f·i/§4g already uses. Two of the
+three leads were fetched and read in full; the third is blocked but redundant.
+
+**Read in full `[VERIFIED src]` and coded as new census rows:**
+
+- **IBV antigen class — Gibertoni 2005** (`P4W-33`, PMID 15815038; coded `P4-022`,
+  `recombinant_from_culture_ref` / `inherits`): "the N protein of the **M41 strain** of IBV (M41 IBV)
+  was expressed in *Saccharomyces cerevisiae*", primers designed from the M41 N gene (**GenBank
+  M28566**). M41 is a classical egg/culture-propagated IBV reference. So the "purified IBV recombinant
+  protein" antigen class traces to a culture-seeded reference strain.
+- **BTV VP7 antigen class — Ulisse 2021** (`P4W-34`, PMID 33078348; coded `P4-023`,
+  `recombinant_from_culture_ref` / `inherits`): "**BTV-2** was selected from a panel of BTV field
+  strains isolated during an outbreak in Italy in 2000 (**GenBank JN255862**) and… used to infect
+  **VERO cells (ATCC CCL-81)**"; Segment-7 (VP7) was cloned from it (ref JN255868.1) and expressed in
+  Sf9 baculovirus. This is the cleanest citable demonstration that "recombinant VP7" = recombinant of a
+  **VERO-culture-propagated** BTV isolate — the §4f·i "recombinant re-opens the culture anchor" point,
+  with a named strain, substrate and accession.
+
+**Blocked, but not needed:** Oldfield 1990 (`P4W-32`, PMID 2174958) — the 1990 BTV-10 baculovirus VP7
+foundational paper — could not be fetched (wishlist marked "cannot get"). It is **not a blocker**:
+Ulisse 2021 covers the same VP7 claim with more detail (field isolate + GenBank + VERO substrate).
+
+**Coding note — bounded claim, correctly placed.** These two sources document the **antigen class's**
+published provenance, so they are coded as separate upstream `primary_paper` rows (`P4-022`/`P4-023`),
+**not** by rewriting the kit rows: the ID Screen inserts still name no host/strain, so `P4-004`/`P4-006`
+stay `recombinant_source_unclear` (their own disclosed provenance is genuinely under-specified). The
+trace supports the *class-level* conclusion "recombinant VP7 / recombinant IBV protein are recombinant
+of a culture-seeded strain" — it does not assert IDvet's exact lot is a specific strain.
 
 ---
 
