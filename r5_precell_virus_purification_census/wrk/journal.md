@@ -52,4 +52,33 @@ allantoic fluid → 1–10 mg virus/cc**; Stanley 1944 (J Exp Med 79:255), 1945 
 
 ## Provisional tallies live in `r5.md` and `R5_synthesis.md` (single source of truth: `R5_synthesis.md` once frozen).
 
-*End of journal (Round 1).*
+## Scope sharpened by Albert (2026-11-17, evening)
+
+Albert's skepticism reframed what R5 must answer. The naive census ("how many bulk-purified pre-1949") is **R5-A,
+necessary but insufficient**. The deeper question — and the one that makes R5 relevant to the paper — is **R5-B:
+the evidence audit**. For each pre-1949 "virus," on what warrant was the purified/observed entity declared *the
+virus* / *the disease-causing agent*?
+
+Working summary of that warrant (to be filled per item in `virus_identity_warrant`):
+
+- **Plant viruses:** *infectivity-transmission* — inoculate purified fraction/crystals into a healthy plant →
+  local lesions / mosaic at high dilution (Holmes local-lesion ~1929); plus absence-from-healthy and serology.
+- **Bacteriophages:** *bacterial lysis* is the whole readout (no host "disease" beyond lysis).
+- **Influenza (eggs):** *hemagglutination* (Hirst 1941) + embryo/mouse *infectivity* — an activity titer, not a
+  particle observation.
+- **EM "imaging a virus" (TMV 1939, influenza 1944):** *particle–activity correlation* — the homogeneous,
+  preferentially sedimenting particle is equated with the infectious/HA fraction by co-purification +
+  proportionality. Not molecular identification; it was corrigible (Stanley's "protein" → Bawden & Pirie's
+  nucleoprotein; "crystals" → liquid-crystalline).
+
+Key inference Albert named: **the pre-1949 warrant is transmission-and-correlation, resting on the same
+"disease / death / degeneration read as 'virus present'" endpoints the paper scrutinizes in CPE.** So pre-1949
+"successes" are not independent corroboration of CPE; they are earlier instances of the same epistemic move.
+R5-B makes this explicit rather than citing them as molecular proof.
+
+Also flagged for the Introduction (next revision): the **plaque assay is CPE under an overlay** (a countable
+zone of cell death), not a distinct, more-validating endpoint; and **"permissive lines grew a vast range" is, on
+the paper's own thesis, a census of which lines degenerate under the standard serum-drop protocol, not of true
+viral replication.** Both must not be over-claimed in prose.
+
+*End of journal (Round 1) + 2026-11-17 scope note.*

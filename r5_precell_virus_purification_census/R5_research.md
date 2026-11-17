@@ -48,13 +48,14 @@ unless they supply lead citations); serum/nutrient practice (P1); EV purificatio
 
 ## 5. Extraction schema (`R5_useful.csv`)
 
-`id · year · author_short · agent · agent_type · source_material · bulk_production · purification_method ·
-physical_form · characterization · yield · stability · cell_culture_required · window_status · citation ·
-identifier · evidence_tag · confidence · extract_date · notes`
+`id · year · author_short · agent · agent_type · virus_identity_warrant · source_material · bulk_production ·
+purification_method · physical_form · characterization · yield · stability · cell_culture_required · window_status ·
+citation · identifier · evidence_tag · confidence · extract_date · notes`
 
 | Field | Meaning |
 |-------|---------|
 | `agent_type` | plant / phage / animal |
+| `virus_identity_warrant` | **What evidence declared this entity "the virus" / "the disease-causing agent"?** `infectivity_transmission` (reinoculation → same disease/lesion), `lysis` (bacterial), `hemagglutination`, `serology`, `particle_activity_correlation` (homogeneous particle co-purifies/sediments with the activity), `none_explicit`. Plus a note whether it rests on an under-determined endpoint (disease/death/degeneration read as "virus present"). **This field is R5-B.** |
 | `source_material` | leaf sap, bacterial lysate, allantoic fluid, animal skin/tissue, serum, etc. |
 | `bulk_production` | how the agent was grown to bulk (field/glasshouse plants; bacterial culture; embryonated eggs; live animal) |
 | `purification_method` | ammonium-sulfate precipitation, differential / analytical ultracentrifugation, adsorption–elution, chemical crystallization, chromatography, etc. |
