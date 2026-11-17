@@ -12,6 +12,7 @@ Each item has an assignee (**Albert** or **CPE**, the research assistant) and li
 - [ ] **Albert - fetch R2 full texts to bring papers back into the analysis.** 10 papers are excluded because only abstracts were available: VI44, VI239, VI240 (= VI241, VI242, same paper), VI243, VI249, VI251, VI266, VI267, VI270, VI271. List and links: [`r2_negative_controls/R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md).
 - [ ] **CPE - R4: expand the non-isolation protocol search** (protocols outside virus isolation, then reports of practice under them). Plan: [`r4_non-isolation_standards_and_practice/r4.md`](r4_non-isolation_standards_and_practice/r4.md).
 - [ ] **CPE - R5: run the pre-cell-culture bulk-purification census** (exactly how many viruses bulk-isolated/characterized before cell culture, by what methods). Scaffold + Round 1 seeds done 2026-11-17; fetch `R5W-*` PDFs then run Rounds 2–5. Entry: [`r5.md`](r5_precell_virus_purification_census/r5.md).
+- [ ] **CPE - R6: develop the non-viral mechanisms of CPE/plaque morphology** under the no-virus assumption. Scaffold + Round 1 seeds done 2026-11-17: 12 mechanisms enumerated (`R6-M1…R6-M12`), 3 full-text anchors read, `CNJ059` seeded in `CLAIMS.md`; fetch `R6-0xx` PDFs, then Rounds 2–5. Entry: [`r6.md`](r6_nonviral_morphology_mechanisms/r6.md).
 
 ## In progress
 

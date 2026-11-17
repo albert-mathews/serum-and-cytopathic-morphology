@@ -22,7 +22,7 @@ portion (1:1 mapping `C020` → `OB020`), so stream references update by swappin
 | Lemma | `LM` | `LM030`–`LM035` | LM030 practice follows recipe |
 | Theorem | `TH` | `TH040` | TH040 serum step-down drives CPE |
 | Corollary | `CRL` | `CRL041`–`CRL043` | CRL041 CPE not inoculum-specific |
-| Conjecture | `CNJ` | `CNJ050`–`CNJ058`, `CNJ151` | CNJ053 genome inherits endpoint |
+| Conjecture | `CNJ` | `CNJ050`–`CNJ059`, `CNJ151` | CNJ053 genome inherits endpoint |
 | Counterexample (adversarial) | `ADVR` | `ADVR060`–`ADVR062` | ADVR060 not all practice steps down |
 
 TOC (links jump to the section): [Definitions](#definitions) · [Axioms](#axioms-premises--scope) ·
@@ -320,6 +320,22 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   1920–1950 methods literature. Reject if the record instead shows the prior methods were held adequate and
   adoption was driven purely by cost/convenience. Stream R5.)*
 
+- **CNJ059 · Conjecture (R6)** — **A generic stress/death pathway suffices to produce CPE-classified morphology
+  and plaque-like clearing.** Under the working assumption that the inoculation step adds no virus, the
+  morphology the field reads as "CPE" and the countable zones it reads as "plaques" are produced by a small set
+  of generic, non-viral cell-biological pathways — abrupt serum/growth-factor withdrawal (→ mitochondrial
+  apoptosis), nutrient/glucose depletion (the same Bax/mitochondrial/cytochrome-*c* program), post-confluent
+  degeneration, metabolic-waste/pH drift, anoikis, paracrine/bystander death waves, contaminant, and
+  overlay-dependent diffusion limitation — each carrying a distinguishing prediction (time-course, serum-dose
+  dependence, focal-vs-uniform, reversibility, overlay composition) testable against the CRO/Zenodo record and
+  the CLSI M41 Table 7 descriptor set. The "one plaque = one infectious particle" step is thereby re-read as a
+  stated *theoretical* equivalence (Fenner chapter: "each infective particle gives rise to a localized focus";
+  WNV protocol: PFU "theoretically considered" = initial virion number) rather than an independently
+  demonstrated fact. *(Follows from TH040, CRL041; Status: predicted — mechanism framework drafted
+  `r6_nonviral_morphology_mechanisms/R6_mechanisms.md` (R6-M1…R6-M12) with `[VERIFIED src]` anchors for M1, M2,
+  M3, M8, M11 (Ammerman 2008; Vander Heiden 2001; Fenner ch.3); M5 (bystander wave) and most Vero-specific
+  primaries still `[DATA REQUIRED]`; Stream R6.)*
+
 - **OB150 · Observation (P3)** — **Under-determination is detectable in the viral-genetics literature.**
   The published viral-genetics literature already contains — scattered and often framed as technical noise —
   exactly the ambiguity that CNJ053 + OB028 predict, and the field itself documented and corrected it. In
@@ -416,6 +432,7 @@ flowchart TD
         CNJ056["CNJ056 P6 seed"]
         CNJ057["CNJ057 P7 repeatability"]
         CNJ058["CNJ058 R5 pre-cell methods documented-error-prone"]
+        CNJ059["CNJ059 R6 non-viral mechanisms suffice"]
         CNJ151["CNJ151 non-determinism absorbs REJECTED"]
     end
     subgraph cx["Counterexamples"]
@@ -455,6 +472,8 @@ flowchart TD
     OB026 --> ADVR060
     OB023 --> ADVR062
     CNJ052 -.-> ADVR061
+    TH040 --> CNJ059
+    CRL041 --> CNJ059
 ```
 
 ## Rules of use
