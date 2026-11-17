@@ -82,3 +82,27 @@ the paper's own thesis, a census of which lines degenerate under the standard se
 viral replication.** Both must not be over-claimed in prose.
 
 *End of journal (Round 1) + 2026-11-17 scope note.*
+
+## Scope direction locked by Albert (2026-11-17, later that evening)
+
+Albert's synthesis named what R5 must ultimately decide, and it is now **R5-C / CNJ058**: did the 1920–1950 field
+adopt cell culture because the prior methods were **(a) adequate-but-costly**, or **(b) documented as
+unreliable/inconsistently-reproducible/repeatedly-wrong**, with cell culture arriving as a "supposedly better"
+method amid known dissatisfaction? CNJ058 predicts (b).
+
+Early CNJ058 instances already in hand (no new fetch needed for the framing, but primaries go on the wishlist):
+- **Stanley 1935 → 1936**: "crystalline protein" corrected within a year to a liquid-crystalline *nucleoprotein*
+  (Bawden, Pirie, Bernal & Fankuchen, *Nature* 138:1051).
+- **Sabin & Olitsky 1936**: the settled negative that poliovirus would not grow outside nervous tissue — a prior
+  methodological dogma overturned in 1949 (this is *why* monkeys were the only route).
+- **Friedewald 1944**: "purified" influenza from eggs co-purified with a normal allantoic-fluid component that
+  cross-reacted serologically — the bulk/HA route did not cleanly separate "virus" from normal host material.
+- **Cost strand (the counter-hypothesis a):** Enders/Weller/Robbins Nobel Lecture (1954) frames tissue culture as
+  cheaper and yielding more than monkey passage — so the record contains *both* motives; R5-C is genuinely open.
+
+Also flagged, NOT R5 (tabled for a decision):
+- **Point 8 — alternative (non-viral) mechanisms of plaque/CPE formation** "if the inoculum held no virus." This
+  is a cell-culture mechanistic question, not pre-cell-culture history; its natural home is an R3/CRO extension or
+  a new R6 stream, not R5. Await Albert's call.
+
+*End of journal.*

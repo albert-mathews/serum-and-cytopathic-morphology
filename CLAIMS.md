@@ -22,7 +22,7 @@ portion (1:1 mapping `C020` → `OB020`), so stream references update by swappin
 | Lemma | `LM` | `LM030`–`LM035` | LM030 practice follows recipe |
 | Theorem | `TH` | `TH040` | TH040 serum step-down drives CPE |
 | Corollary | `CRL` | `CRL041`–`CRL043` | CRL041 CPE not inoculum-specific |
-| Conjecture | `CNJ` | `CNJ050`–`CNJ057`, `CNJ151` | CNJ053 genome inherits endpoint |
+| Conjecture | `CNJ` | `CNJ050`–`CNJ058`, `CNJ151` | CNJ053 genome inherits endpoint |
 | Counterexample (adversarial) | `ADVR` | `ADVR060`–`ADVR062` | ADVR060 not all practice steps down |
 
 TOC (links jump to the section): [Definitions](#definitions) · [Axioms](#axioms-premises--scope) ·
@@ -305,6 +305,21 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   first-class P7 corpus (OB027/OB080), not established; the "weaken" condition — stability under deliberate
   serum/matrix variation with Tier-A controls — remains untested. Stream P7.)*
 
+- **CNJ058 · Conjecture (R5)** — **Pre-cell-culture methods were failing their own era's tests, not quietly
+  validated.** Across the 1920s–1940s literature, the means by which a virus was detected, bulk-grown, purified,
+  and "imaged" before cell culture were repeatedly documented as corrigible, unreliable, or correlational rather
+  than demonstrative: Stanley's 1935 "crystalline protein" was corrected within a year to a liquid-crystalline
+  nucleoprotein (Bawden, Pirie, Bernal & Fankuchen 1936); "purified" influenza from eggs co-purified with a normal
+  allantoic-fluid component sharing serological reactivity with the virus (Friedewald 1944); the settled negative
+  that poliovirus would not grow outside nervous tissue (Sabin & Olitsky 1936) was overturned in 1949; and the
+  egg/animal route lacked a live readout and could not grow viruses lacking that host. CNJ058 predicts the record
+  will show **recognized defects and reversals** (not silence) motivating the cell-culture transition — that cell
+  culture was adopted as a *supposedly better* method amid documented dissatisfaction with its predecessors,
+  rather than as a merely cheaper replacement of validated techniques. *(Follows from none — a standalone
+  empirical prediction; Status: predicted; tested by the R5-B evidence audit + a documentation survey of the
+  1920–1950 methods literature. Reject if the record instead shows the prior methods were held adequate and
+  adoption was driven purely by cost/convenience. Stream R5.)*
+
 - **OB150 · Observation (P3)** — **Under-determination is detectable in the viral-genetics literature.**
   The published viral-genetics literature already contains — scattered and often framed as technical noise —
   exactly the ambiguity that CNJ053 + OB028 predict, and the field itself documented and corrected it. In
@@ -400,6 +415,7 @@ flowchart TD
         CNJ055["CNJ055 P5 structure"]
         CNJ056["CNJ056 P6 seed"]
         CNJ057["CNJ057 P7 repeatability"]
+        CNJ058["CNJ058 R5 pre-cell methods documented-error-prone"]
         CNJ151["CNJ151 non-determinism absorbs REJECTED"]
     end
     subgraph cx["Counterexamples"]

@@ -9,6 +9,8 @@
 | `r2` | `r2_negative_controls/` | Isolation-stage negative controls (tiers A–D) |
 | `r3` | `r3_image_labeling/` | Image labeling / CPE morphology (CRO + raters) |
 | `r4` | `r4_non-isolation_standards_and_practice/` | Non-Isolation standards and practice (FBS × CPE landscape) |
+| `r5` | `r5_precell_virus_purification_census/` | Pre-cell-culture bulk-purification & methods census (R5-A/B/C; CNJ058) |
+| `r6` | `r6_nonviral_morphology_mechanisms/` | Non-viral mechanisms of CPE/plaque morphology (no-virus hypothesis) |
 | `p1` | `p1_history/` | History of serum / medium practice |
 | `p2` | `p2_virus_EV_indistinguishable_refs/` | EV–virion particle indistinguishability |
 | `p3` | `p3_genetics/` | Genetics / sequence-origin inheritance |
@@ -18,6 +20,9 @@
 | `p7` | `p7_cross_lab_repeatability/` | Cross-lab repeatability |
 
 Each stream's entry point is its main markdown (`rN.md` / `pN.md`), which owns that stream's single TODO list.
+
+**Streaming note (2026-11-17):** the `general` agent currently also serves as the **`r5`** agent (per Albert);
+`r6` is scoped but awaits a dedicated agent.
 
 ## Shared behavior contract (every agent)
 
