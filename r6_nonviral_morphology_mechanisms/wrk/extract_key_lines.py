@@ -9,7 +9,14 @@ TARGETS = {
     "R6-004": ["detach", "bleb", "apoptot", "round", "brightness", "vacuol", "shin", "granul"],
     "R6-016": ["apoptosis", "necrosis", "serum-free", "death", "LDH", "detach", "viab"],
     "R6-008": ["diffusion", "plaque formation failure", "virion inviabil", "walk", "radius", "motility"],
-    "R6-011": ["overlay", "glucose", "plaque diameter", "nutrient", "MEM", "DMEM"],
+    "R6-011": ["overlay", "glucose", "diameter", "nutrient", "MEM", "DMEM"],
+    "R6-005": ["adhesion", "fibronectin", "multilayer", "spheroid", "detach", "stress", "transformed"],
+    "R6-006": ["serum", "G2", "divid", "arrest", "factor", "saturated", "transition"],
+    "R6-010": ["reproducib", "plaque", "requirement", "principle", "assay", "condition", "overlay", "agar"],
+    "R6-013": ["vacuol", "elongat", "morpholog", "cytopath", "alter", "filament"],
+    "R6-015": ["mycoplasma", "eradication", "detect", "culture", "contaminat"],
+    "R6-017": ["autophag", "starv", "apoptosis", "adhesion", "LC3", "EBSS"],
+    "R6-018": ["overlay", "agarose", "CMC", "carboxymethyl", "Avicel", "plaque", "liquid"],
 }
 
 refs = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "refs"))

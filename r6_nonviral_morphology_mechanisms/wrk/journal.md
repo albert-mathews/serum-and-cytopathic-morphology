@@ -61,10 +61,10 @@ the standard serum-drop protocol. Both are held in `R6_mechanisms.md` framing.
 - **Confluence correction (OB082).** Albert: in the CRO experiment *neither* Path A nor Path B exceeded ~80%
   confluence. → post-confluent degeneration (R6-M3, from Ammerman 2008) is **excluded** as an explanation of
   the CRO result; serum/nutrient withdrawal (M1/M2) strengthened. Recorded in `CLAIMS.md` OB082 + `R6_mechanisms.md`.
-- **Off-limits rule.** Albert: the control experiments of Dr. Stefan Lanka and of the Virology Control Studies
-  Project (Jamie Andrews) are **off limits** — not references, not read/consulted/searched. Rule recorded in
-  the gitignored `grok_guardrails.md`; any trace removed from R6 tracked files (a Substack item + a Lanka
-  preprint had been logged as "encountered-excluded" in Round 1; both scrubbed).
+- **Off-limits rule.** Albert added a hard rule that two named external control-experiment sources (and the
+  self-published writeup they sit alongside) are off limits — not references, not read/consulted/searched. Rule
+  recorded in the gitignored `grok_guardrails.md`; every trace of those sources was removed from R6 tracked
+  files (bibliography, screened CSV, search log).
 - **Fetch.** 13 of 15 wishlist PDFs dropped (into `r5_…/refs/` by mistake) → moved to
   `r6_nonviral_morphology_mechanisms/refs/`, confirmed against title/authors/id, rows removed from the wishlist.
   Still missing: **R6-007** (Nahapetian 1986) and **R6-014** (Mycoplasmas in tissue culture 1966).
@@ -81,4 +81,25 @@ the standard serum-drop protocol. Both are held in `R6_mechanisms.md` framing.
 
 ## Provisional synthesis lives in `R6_mechanisms.md` (single source of truth).
 
-*End of journal (Round 1).*
+## Round 2 (2026-11-18)
+
+- **R6-006 / R6-014 (Albert's fetch questions).** R6-006 (Engelhardt & Mao 1977) is **already fetched** in
+  `refs/` — no fetch needed. R6-007 (Nahapetian 1986) and R6-014 (Macpherson 1966, "Mycoplasmas in tissue
+  culture", *J Cell Sci* 1(2):145–168) are **both non-critical**: M1/M2 are already Vero-anchored (Quesney,
+  Mendonça, Engelhardt), and M8 is already anchored (Lopes 2021, Uphoff 2002, Ammerman 2008). R6-014's full
+  citation is now resolved (wishlist carries it).
+- **Processed all 8 remaining fetched PDFs** (R6-005/006/010/011/013/015/017/018) → `_notes/R6_processed_items.md`;
+  bib + `R6_useful.csv` updated (all `[VERIFIED src]`).
+- **M5 closed.** Internet hunt surfaced the bystander/secondary-necrosis-wave literature: R6-020 Riegman 2019
+  (ferroptosis "spread[s] between cells in a wave-like manner, eliminating entire cell populations") and
+  R6-021 Cheng & Ferrell 2018 (apoptosis "initiates at a single discrete focus… and then spreads"), both read in
+  full. Underlying primaries R6-022…R6-026 (Garcia-Perez 2012 ROS wave; Linkermann 2014; Kim 2016; Pacher &
+  Hajnóczky 2001; Tang 2026) logged on the wishlist as optional upgrades.
+- **New synthesis chain** added to `R6_mechanisms.md`: serum step → ↓ cystine/GSH → lipid-ROS → ferroptosis-capable
+  → propagative wave (M5), plus the apoptotic focus-and-spread and Vero-specific apoptosis/autophagy/adhesion
+  branches. This is the single M1/M2→M10→M6→M5 story that explains the CRO signature with no virus (OB024/OB025,
+  OB082 sub-confluence).
+- **Blocked on:** nothing further (Round-2 sources found openly). Optional remains: fetch R6-022…026 primaries
+  + R6-007/014 (non-critical).
+
+*End of journal (Round 2).*

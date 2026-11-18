@@ -64,14 +64,40 @@ flowchart TD
 | **R6-M2** | Nutrient / glucose / glutamine depletion → glycolytic substrate loss → mitochondrial apoptosis | rounded · granularity · degeneration · detachment | uniform, later onset | Appears later (when medium exhausts), **accelerates at high density/confluence**, correlates with medium colour (phenol red → yellow = acid). B's lower serum → slower growth but also lower buffering/replenishment. |
 | **R6-M3** | Confluent / post-confluent degeneration (contact inhibition → "stop growing, start to die") | degeneration · detachment | uniform | **Excluded for the CRO result** — neither arm reached >80% confluence (OB082). Retained as a generic mechanism (Ammerman 2008: Vero "stop growing and start to die" at confluence) but it cannot explain *this* experiment; a discriminator, now moot for CRO. |
 | **R6-M4** | Metabolic waste / pH drift (lactate, NH₃ → acidification) | granularity · degeneration · detachment | uniform | Correlates with medium colour; buffered by refeeding; both arms but **B acidifies faster** (less serum bicarbonate). CLSI M41 §5.3.2 ties refeeding to pH < 7.0. |
-| **R6-M5** | Paracrine "bystander" / spreading-wave death (a dying cell poisons neighbours → expanding focal clearing) | all, organised as a **focus** | **focal (plaque-like)** | Focal lesions **expand radially** from a nidus with an adjacency gradient (dead centre → dying rim → healthy). Produces countable "plaques" with no virus. Distinguish from viral plaques only by kinetics/absence of particle, not by shape. |
-| **R6-M6** | Anoikis / anchorage-signal loss → rounding + detachment + apoptosis | rounded · detached | uniform → floating | Rounding **precedes** detachment; floating cells; rescued by matrix/re-adhesion. Fibronectin/adhesion loss documented in Vero nutritional stress (CBI 1998). |
+| **R6-M5** | Paracrine "bystander"/wave death (a dying cell kills neighbours → expanding focal clearing) | all, organised as a **focus** | **focal (plaque-like)** | **Now `[VERIFIED src]`.** Ferroptosis "spread[s] between cells in a wave-like manner, thereby eliminating entire cell populations" and apoptosis "typically initiates at a single discrete focus… and then spreads" (Riegman 2019 R6-020; Cheng & Ferrell 2018 R6-021). Focal lesions **expand radially** with an adjacency gradient → countable "plaques" with no virus. Distinguish from viral plaques only by kinetics/absence of particle, not by shape. |
+| **R6-M6** | Anoikis / anchorage-signal loss → rounding + detachment + apoptosis (→ ferroptosis) | rounded · detached | uniform → floating | Rounding **precedes** detachment; floating cells; rescued by matrix/re-adhesion. Vero nutritional-stress spheroid detachment + altered fibronectin (Genari 1998 R6-005) and detachment→ferroptosis (Riegman 2019) documented. |
 | **R6-M7** | Freeze–thaw / desiccation / mechanical trauma at seeding or inoculation | degeneration (localised) | **focal, non-progressive** | Focal death at trauma sites; **non-progressive**; **not serum-dependent**. A nil control for the "spreading plaque" claim. |
 | **R6-M8** | Mycoplasma / microbial contaminant | granularity · vacuolation · degeneration · (mimics viral CPE) | mixed | **Persistent across passages**, not cleared by pen/strep; detectable by PCR/Hoechst/agar. Does **not** by itself explain a clean serum-dependent A vs B differential (which is only on one stock, split into two arms). |
 | **R6-M9** | Cell-line intrinsic instability (aneuploidy → spontaneous degeneration foci) | nonspecific degeneration | **focal, sporadic** | Baseline "foci"/heterogeneity present in **healthy** cultures; **passage-dependent**; not serum-dose-dependent. |
 | **R6-M10** | Starvation-induced autophagy → cytoplasmic vacuolation | **vacuolation** | uniform → localised | **Vacuoles appear with starvation, reverse on re-feed**; serum/nutrient-dependent → predicts more vacuolation in B, matching CRO "vacuolation (4)" in B. |
 | **R6-M11** | Overlay-dependent effects (agarose/CMC/Avicel diffusion limitation + overlay toxicity + nutrient trap) | degeneration (organised as clearing) | **focal under overlay** | A "plaque" (zone of clearing) arises from **localised death + restricted waste/nutrient diffusion** under overlay, independent of virus; plaque size/border varies with **overlay composition** (agarose % , agaropectin inhibitors, medium MEM vs DMEM/glucose). |
 | **R6-M12** | Osmotic / ionic stress (hyperosmolar overlay, medium-shift, cation chelation) | detach · granularity · degeneration | uniform or focal | Tied to a defined osmotic/ionic perturbation; absent in an isosmolar control. |
+
+## The serum-step → death chain (the single M1/M2 → M10 → M6 → M5 story)
+
+The mechanisms are not competitors; the serum step links them into one causal chain, sourced `[VERIFIED src]`:
+
+```mermaid
+flowchart TD
+    S["serum step-down 10%→2% (M1)"] --> C["↓ cystine (system xc⁻) + ↓ lipophilic antioxidants"]
+    C --> G["↓ glutathione (GSH)"]
+    G --> L["lipid peroxidation (ROS + iron) = ferroptosis capable"]
+    S --> N["↓ growth factors + nutrients (M2)"]
+    N --> A["apoptosis / secondary necrosis (Vero: Quesney 2001)"]
+    S --> V["starvation autophagy → vacuolation (M10: Peng 2026)"]
+    S --> AD["adhesion loss → detachment (M6: Genari 1998)"]
+    AD --> L
+    L --> W["ferroptotic wave (M5): Riegman 2019"]
+    A --> W2["apoptotic focus-and-spread (M5): Cheng & Ferrell 2018"]
+    W --> P["focal / confluent contiguous death = 'CPE' / 'plaque' (no virus)"]
+    W2 --> P
+```
+
+- Cystine/glutathione: Riegman 2019 (system xc⁻, GSH, ROS chain reaction) `[VERIFIED src]`.
+- Serum-free apoptosis/necrosis in Vero: Quesney 2001 `[VERIFIED src]`; starvation autophagy in Vero: Peng 2026 `[VERIFIED src]`; adhesion-loss detachment in Vero: Genari 1998 `[VERIFIED src]`.
+- The **wave/focus** step (M5): Riegman 2019 (ferroptosis spreads cell-to-cell) + Cheng & Ferrell 2018 (apoptosis initiates at a discrete focus and spreads) `[VERIFIED src]`.
+
+Under the no-virus premise this chain explains the CRO signature end-to-end: the 2% arm loses more cystine/GSH/growth factors → more lipid-ROS/apoptosis/vacuolation/detachment → a focally seeded, propagating zone of death — i.e. CPE-classified morphology with no viral particle required (OB024/OB025; OB082 sub-confluence).
 
 ## Two framing points (load-bearing for the paper)
 
@@ -102,11 +128,14 @@ flowchart TD
 
 | Item | Status |
 |------|--------|
-| Mechanism list (12) | Drafted `[IN-HOUSE]`; warrants being filled in `R6_useful.csv` |
-| M1 (GF withdrawal) | `[VERIFIED src]` Vander Heiden 2001 (IL-3 line); Vero side anchored by Quesney 2001 + Engelhardt & Mao 1977 (fetched) |
-| M2 (nutrient) | `[VERIFIED src]` Vander Heiden 2001 (glucose); **Mendonça 2009** (Vero nutrient-depletion EM/light) |
+| Mechanism list (12) | Drafted `[IN-HOUSE]`; warrants in `R6_useful.csv` |
+| M1 (GF withdrawal) | `[VERIFIED src]` Vander Heiden 2001 (IL-3); Quesney 2001 + Engelhardt & Mao 1977 (Vero) |
+| M2 (nutrient) | `[VERIFIED src]` Vander Heiden 2001 (glucose); Mendonça 2009 (Vero) |
 | M3 (confluence) | `[VERIFIED src]` Ammerman 2008; **excluded for CRO by OB082** |
-| M5 (bystander wave) | `[DATA REQUIRED]` — primary pending |
-| M11 (overlay) | `[VERIFIED src]` Fenner, Abedon & Yin 2009, Dulbecco 1952; Cooper 1984 & Oaks 1985 fetched |
+| M5 (bystander wave) | `[VERIFIED src]` Riegman 2019 (ferroptosis wave); Cheng & Ferrell 2018 (apoptosis trigger wave) |
+| M6 (anoikis) | `[VERIFIED src]` Genari 1998 (Vero adhesion loss); Riegman 2019 (detachment→ferroptosis) |
+| M8 (contaminant) | `[VERIFIED src]` Lopes 2021, Uphoff & Drexler 2002, Ammerman 2008 |
+| M10 (autophagy) | `[VERIFIED src]` Peng 2026 (Vero EBSS starvation → autophagy) |
+| M11 (overlay) | `[VERIFIED src]` Fenner, Dulbecco 1952, Abedon & Yin 2009, Cooper 1984, Oaks 1985, Baer & Kehn-Hall 2014 |
 
 *End of mechanism framework (v0.1, 2026-11-17).*
