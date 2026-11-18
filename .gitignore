@@ -111,3 +111,7 @@ tex/*.out
 tex/*.synctex.gz
 tex/*.fdb_latexmk
 tex/*.fls
+
+# P3 local-only operational history (raw snapshots, retained as a safety net)
+p3_genetics/_ops_archive/
+
