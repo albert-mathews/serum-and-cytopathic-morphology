@@ -856,8 +856,8 @@ P3-013 Dovrolis 2021; P3-014 Hegarty 2024; P3-018 Peng 2026 (ViralQC); P3-019 Ch
 
 **Step 1 optional (fetched):** P3-038 Stanway 1984 (RHV-P3); P3-039 Frey 1986 (RUB-P).
 
-Local files: `p3_genetics/refs/`. Un-fetched: P3-027 Kingham 2001 HVT; P3-029 HPV16 correction; P3-030..P3-037
-(intrastrain) — see stream-root wishlist.
+Local files: `p3_genetics/refs/`. Un-fetched: P3-027 Kingham 2001 HVT; P3-030 Jones 2019 (strain-17, subscription) —
+see stream-root wishlist. P3-033 (Pyöriä 2024) is now fetched + read (see strong-signal list above).
 
 ## Step-1 new virus additions (2026-11-14, tracking-board push)
 
@@ -871,8 +871,26 @@ Local files: `p3_genetics/refs/`. Un-fetched: P3-027 Kingham 2001 HVT; P3-029 HP
   AF371330–AF371367. **`[VERIFIED src]`** (full text read via PMC + local XML `refs/P3-065_vandenhoogen_2001_hmpv_fulltext.xml`;
   P3-065). Closed `culture_cpe` — explicit CPE/syncytia on tMK cells, discovery from pediatric NPA.
 - **HDV-O1 (hepatitis delta virus)** — Wang KS, et al. Structure, sequence and expression of the hepatitis delta
-  (δ) viral genome. Nature. 1986;323:508–514. PMID 3762705 · DOI 10.1038/323508a0. **`[DATA REQUIRED]`** (full text
-  outstanding — Nature paywalled; abstract only). `chain_open` / `path_score` unassigned. Fetch P3-062 to close.
+  (δ) viral genome. Nature. 1986;323:508–514. PMID 3762705 · DOI 10.1038/323508a0. **`[VERIFIED src]` (OCR 2026-11-18;
+  P3-062).** Closed `other` — "HDV RNA was derived from the serum of a chimpanzee during acute HDV infection" (animal
+  serum, helper-dependent; no culture/CPE). This was the last `chain_open` row.
+
+## Step-1 new virus additions (2026-11-18, tracking-board push)
+
+- **HPV18-O1 (HPV18)** — Cole ST, Danos O. Nucleotide sequence and comparative analysis of the human papillomavirus
+  type 18 genome. J Mol Biol. 1987. PMID 3039146 · DOI 10.1016/0022-2836(87)90382-7 · Acc X05015. **`[VERIFIED src]`**
+  (P3-061). Closed `clinical_direct` — "originally cloned from a cervical carcinoma of a Brazilian patient" (no culture).
+- **DEN4-O1 (dengue 4)** — Mackow E, et al. The nucleotide sequence of dengue type 4 virus. Virology. 1987;159:217–228.
+  PMID 3039728 · DOI 10.1016/0042-6822(87)90458-2 · Acc M14931. **`[VERIFIED src]`** (P3-063). Closed `culture_cpe` —
+  "plaque-purified two times on LLC-MK₂ cells… prior to infection of C6/36 cells."
+- **DEN3-O1 (dengue 3 H87)** — Osatomi K, Sumiyoshi H. Complete nucleotide sequence of dengue type 3 virus genome RNA.
+  Virology. 1990;176:643–647. PMID 2345967 · DOI 10.1016/0042-6822(90)90456-4 · Acc M93130. **`[VERIFIED src]`**
+  (P3-064). Closed `culture_no_cpe` — "inoculated into C6/36 cells suspension" (no plaque/CPE stated in O paper; H87
+  plaque lineage is an optional bucket-2 chase).
+- **VAR-O1 (variola major Bangladesh-1975)** — Massung RF, et al. Analysis of the complete genome of smallpox variola
+  major virus strain Bangladesh-1975. Virology. 1994;201:215–240. PMID 8184534 · DOI 10.1006/viro.1994.1188 · Acc L22579.
+  **`[VERIFIED src]` (OCR 2026-11-18; P3-066).** Closed `other` — "grown on the chorioallantoic membrane (CAM) of
+  12-day-old fertile eggs, and a single pock was picked for passaging virus into chick embryo fibroblast (CEF) cells."
 
 ## Strong-signal expansion (2026-11-14) — same-strain re-sequencing / intrastrain thread
 
@@ -894,3 +912,7 @@ correct, and read: P3-031, P3-032, P3-034…037, P3-040…047, P3-051…053.
 - **P3-051** Wang 2014 Cell Biosci 4:5 · PMID 24410913 · PMC3903022 — HPV58 RCA-seq vs PCR+cloning; pipeline changes reported genome. OA. `[VERIFIED src]`.
 - **P3-052** Price 2019 bioRxiv (DOI 10.1101/2019.12.13.876037) — Ad5 reference incomplete/in-error. **Preprint, fetched + read; not load-bearing until peer review.**
 - **P3-053** Seto 2010 Virology 404:180 · PMID 20627349 — Ad5 genome stable across 45 years. **Counterexample — kept visible.** `[VERIFIED src]`.
+- **P3-033** Pyöriä 2024 Nucleic Acids Res 52:13073 · PMID 39436041 · DOI 10.1093/nar/gkae871 · PMC11602146 — intra-host
+  tissue-resident DNA virome; "remarkably conserved within each individual… single dominant strains"; intra-host
+  evolution "likely overestimated in healthy subjects." **Counterexample-leaning for the intrastrain/A3 strong-signal
+  thread.** `[VERIFIED src]` (fetched + read 2026-11-18).

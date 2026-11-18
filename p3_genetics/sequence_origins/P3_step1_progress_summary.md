@@ -97,14 +97,14 @@ LASSA-O1 closed via Auperin 1986 Methods → `culture_cpe` (see `P3_step1_path_s
 
 | Metric | Final |
 |--------|-------|
-| Events | 102 |
-| chain_closed | 102 (100%) |
+| Events | 109 |
+| chain_closed | 109 (100%) |
 | chain_open | 0 |
-| Provenance nodes | 70 |
-| culture_cpe | 37 |
-| culture_no_cpe | 45 |
-| clinical_direct | 11 |
-| other | 9 |
-| Culture-propagated | 82 / 102 (80%) |
+| Provenance nodes | ~70 |
+| culture_cpe | 39 |
+| culture_no_cpe | 47 |
+| clinical_direct | 12 |
+| other | 11 |
+| Culture-propagated | 86 / 109 (79%) |
 
-**Step 1 census complete** (documentary soft bar; 0 open chains; quality audit found 0 inflate/0 deflate/0 reopen).
+**Step 1 census complete** (documentary soft bar; 0 open chains; quality audit found 0 inflate/0 deflate/0 reopen). *(Counts advanced 2026-11-18: +7 events — dengue 3/4, HPV18, HDV, variola, HSV-2, hMPV — all `chain_closed`.)*

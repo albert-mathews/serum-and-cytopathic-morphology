@@ -7,7 +7,7 @@ tracked**, and **not attempted yet**. This is a *view* over the existing Step 1 
 not a replacement for it. The CSVs and family sheets remain the source of record; this board is the index that
 tells us, per virus, where the trail stands and where there is still a virus worth probing.
 
-**Last updated:** 2026-11-14.
+**Last updated:** 2026-11-18.
 
 ---
 
@@ -24,14 +24,15 @@ an endorsement that a culture isolate is a virus. Soft evidentiary bar throughou
 
 ---
 
-## Bucket 1 — Trails complete (103 O/C events closed; 1 open = HDV leads only)
+## Bucket 1 — Trails complete (109 O/C events; all `chain_closed`, 0 open)
 
-All but one Step 1 event are `chain_closed` with an assigned `path_score` (HDV-O1 is the single `chain_open` row —
-see Bucket 2). The authoritative virus→path table is
+*(HDV — the former single `chain_open` row — was closed 2026-11-18 via OCR of Wang 1986 → `other`.)*
+
+All 109 Step 1 events are `chain_closed` with an assigned `path_score`. The authoritative virus→path table is
 `P3_step1_path_type_map_2026-09-21.md` §3; reproduced here at a glance (event ids in parentheses). **One event
 row = one O or C sequence-deposit; a virus family may contribute events to more than one path.**
 
-### `culture_cpe` — 38 events
+### `culture_cpe` — 39 events
 
 adenovirus 2 (ADE-O1, O2) · astrovirus HAstV-1 (ASTRO-O1) · bluetongue virus (BTV-O1, C1, C2) ·
 BVDV (BVDV-O1, C1, C2) · canine distemper (CDV-C1, C3) · dengue 2 (DEN-O1) · Ebola Zaire/Mayinga (EBO-O1) ·
@@ -39,9 +40,9 @@ enterovirus 71 (EV71-O1, C1, C2) · FMDV (FMDV-O1, C1) · Hendra (HEND-O1) · JC
 human metapneumovirus 00-1 (HMPV-O1) · Lassa Josiah (LASSA-O1) · measles Edmonston (MEA-O1, C1) · MERS-CoV (COV-O6) · mumps Jeryl Lynn (MUM-O1) ·
 NDV LaSota (NDV-O1) · Nipah (NIPAH-O1, C1) · RSV A2 (RSV-C1) · rubella Therien (RUB-O1) ·
 SARS-CoV Urbani (COV-O2) · SARS-CoV-2 WIV04 (COV-C5) · HCoV-NL63 (COV-O5) · Sindbis (SIN-O1) ·
-VSV Indiana C1 (VSV-C1) · West Nile (WNV-O1, C1)
+VSV Indiana C1 (VSV-C1) · West Nile (WNV-O1, C1) · dengue 4 (DEN4-O1)
 
-### `culture_no_cpe` — 46 events
+### `culture_no_cpe` — 47 events
 
 AAV-2 (AAV-O1) · adenovirus 5 (ADE-C1) · BK polyomavirus (BK-O1, O2) · chikungunya S27 (CHIK-O1) ·
 CMV AD169/Merlin/Towne (CMV-O1, C1, C2, C3) · coxsackievirus B3 Nancy (COX-O1) ·
@@ -52,21 +53,22 @@ HSV-1 strain 17 (HSV-O1) · HSV-2 HG52 (HSV2-O1) · LCMV (LCMV-O1) · poliovirus
 rabies Pasteur PV (RAB-O1) · reovirus Dearing (REO-O1) · rhinovirus 14 (RHV-O1) · rotavirus SA11 (ROTA-O1) ·
 RSV A2 gene-set (RSV-O1) · Semliki Forest (SFV-O1) · SV40 (SV40-O1) · vaccinia Copenhagen (VAC-O1) ·
 VSV Indiana composite (VSV-O1) · VZV Dumas (VZV-O1) · canine distemper Onderstepoort/SA (CDV-O1, C2) ·
-Zika French Polynesia (ZIKV-C2)
+Zika French Polynesia (ZIKV-C2) · dengue 3 (DEN3-O1)
 
-### `clinical_direct` — 11 events (11%)
+### `clinical_direct` — 12 events (11%)
 
 human bocavirus (BOCA-O1) · HBV ayw (HBV-O1) · HPV16 (HPV-O1) · HCoV-HKU1 (COV-O4) ·
 Merkel cell polyomavirus (MCPYV-O1) · norovirus Norwalk (NOR-O1) · parvovirus B19 (B19-O1) ·
-sapovirus (SAPO-O1, C1) · SARS-CoV-2 Wuhan-Hu-1 (COV-O8) · Zika Yap serum (ZIKV-C1)
+sapovirus (SAPO-O1, C1) · SARS-CoV-2 Wuhan-Hu-1 (COV-O8) · Zika Yap serum (ZIKV-C1) · HPV18 (HPV18-O1)
 
-### `other` — 9 events (9%)
+### `other` — 11 events (10%)
 
 influenza A PR8 eggs (FLU-O1) · influenza B eggs (FLU-B-O1) · yellow fever 17D (YFV-O1) ·
 HAV HM-175 wt marmoset (HAV-O2) · HCV chimpanzee plasma (HCV-O1) · HEV cyno (HEV-O1) ·
-Marburg Popp guinea-pig (MARB-O1) · Zika MR-766 mouse-brain (ZIKV-O1) · measles Edmonston B clone (MEA-C2)
+Marburg Popp guinea-pig (MARB-O1) · Zika MR-766 mouse-brain (ZIKV-O1) · measles Edmonston B clone (MEA-C2) ·
+HDV chimpanzee serum (HDV-O1) · variola Bangladesh-1975 eggs/CEF (VAR-O1)
 
-**Summary:** culture-propagated (`culture_cpe` + `culture_no_cpe`) = **84 / 104 (81%)**; `culture_cpe` alone = 38 / 104 (37%).
+**Summary:** culture-propagated (`culture_cpe` + `culture_no_cpe`) = **86 / 109 (79%)**; `culture_cpe` alone = 39 / 109 (36%).
 
 ---
 
@@ -78,7 +80,6 @@ the census is airtight. Sorted by the largest unresolved gap.
 
 | Virus (strain) | Sequence path | Open trail | Why it matters | Next move |
 |----------------|---------------|------------|----------------|-----------|
-| **hepatitis D (HDV)** | `unclear` / `chain_open` | Nature 1986 Methods paywalled — sample source not readable from abstract; `[DATA REQUIRED]` | The "not culture, helper-dependent" case — but can't be scored until Methods read | Fetch P3-062 (Wang 1986) → read Methods → score (`other`/`clinical_direct` expected) |
 | **poliovirus (Mahoney)** | `culture_no_cpe` (HeLa/Baltimore × Enders) | Mahoney ≠ Lansing lineage gap; Enders 1949 is `hop_closed_other` (mouse assay, no CPE) | The type picornavirus genome — is it "produced by culture+CPE" or by culture without CPE + animal assay? | Find the Mahoney stock's own plaque/CPE isolation paper (not Lansing) |
 | **vaccinia (Copenhagen)** | `culture_no_cpe` (deposit clone) | `hop_open_need_pdf` — Copenhagen lymph/vaccine history unopened; only lumped plaque-clone warrant | Whether the poxvirus reference is culture+CPE at origin | Lock the Copenhagen derivation cite |
 | **HSV-1 (strain 17)** | `culture_no_cpe` (McGeoch) | Brown 1973 closes it `hop_closed_cpe` (plaque×3) — **actually complete**; keep only because the *immediate* score is no_cpe | Reference strain IS a plaque/CPE isolate at stock origin | Complete — downgrade to bucket 1 on next pass (score stays documentary) |
@@ -120,11 +121,11 @@ do not guess further ones.
 
 | Virus / strain | Why it matters for P3 | O-paper lead (verified) |
 |----------------|-----------------------|-------------------------|
-| **variola** (major/minor) | The "eradicated" poxvirus — reference genomes from stored lab isolates; culture/CPE path historically thick (chick chorioallantoic membrane / eggs, not monolayer) | **Massung 1994** Bangladesh-1975 (PMID 8184534); India-1967 genome + Shchelkunov segment papers |
+| **variola** (major/minor) | ~~The "eradicated" poxvirus~~ — now done (`other`, egg CAM/CEF) | ✅ **Massung 1994** — DONE 2026-11-18 (`other`, `[VERIFIED src]`) |
 | **HTLV-1** (optional, not HIV) | Listed in Tier B but never opened; retrovirus culture path vs clinical | Seiki 1983 PNAS / Yoshida (lock cite before coding) |
-| **HPV18** | Only HPV16 done; HPV18 is clinical_direct like HPV16 — the same-sex correction thread | **Cole & Danos 1987** J Mol Biol (PMID 3039146) |
-| **dengue 4** | Only DEN-2 (Hahn 1988) done; DEN-4 is the other full early reference | **Mackow 1987** Virology (PMID 3039728 · DOI 10.1016/0042-6822(87)90458-2) |
-| **dengue 3** | Same — DEN-3 prototype H87 | **Osatomi 1990** Virology 176:643 (PMID 2345967) |
+| **HPV18** | ~~Only HPV16 done~~ — HPV18 now done (`clinical_direct`) | ✅ **Cole & Danos 1987** — DONE 2026-11-18 (`clinical_direct`, `[VERIFIED src]`) |
+| **dengue 4** | ~~Only DEN-2 done~~ — DEN-4 now done (`culture_cpe`) | ✅ **Mackow 1987** — DONE 2026-11-18 (`culture_cpe`, `[VERIFIED src]`) |
+| **dengue 3** | ~~Only DEN-2 done~~ — DEN-3 now done (`culture_no_cpe`) | ✅ **Osatomi 1990** — DONE 2026-11-18 (`culture_no_cpe`, `[VERIFIED src]`) |
 | **dengue 1** | Same — DEN-1 prototype (Nauru/Hawaii lineage) | lock: original DEN-1 complete genome (Mason-era / Fu 1992) — identifier to verify |
 | **human rotavirus (Wa)** | Only simian SA11 done; the human reference group (G1P[8] segment-era composite) | segment-era Wa papers (Both / Flores 1980s); lock the composite O |
 | **enterovirus D68** | Modern EV reference; complements EV71/polio/CB3; Fermon strain is the type | Oberste/2014 era; lock the Fermon complete-genome O |
@@ -164,11 +165,11 @@ Ranked by (a) O paper already verified with PMID/DOI, (b) OA full text available
 |---|-------|--------------------|--------|
 | 1 | **HSV-2 HG52** | Dolan 1998 (PMID 9499055; OA PMC109494) | ✅ **DONE** — `culture_no_cpe` (`[VERIFIED src]`, 2026-11-14) |
 | 2 | **metapneumovirus 00-1** | van den Hoogen 2001 (PMID 11385510; OA) | ✅ **DONE** — `culture_cpe` (`[VERIFIED src]`, 2026-11-14) |
-| 3 | **HDV** | Wang 1986 Nature (PMID 3762705) | ⏳ **moved to Bucket 2** — `chain_open`, Methods paywalled |
-| 4 | **HPV18** | Cole & Danos 1987 (PMID 3039146) | pending (clinical_direct expected) |
-| 5 | **dengue 4** | Mackow 1987 (PMID 3039728) | pending |
-| 6 | **dengue 3 (H87)** | Osatomi 1990 (PMID 2345967) | pending |
-| 7 | **variola Bangladesh-1975** | Massung 1994 (PMID 8184534) | pending (`other` expected — chick CAM/eggs) |
+| 3 | **HDV** | Wang 1986 Nature (PMID 3762705) | ✅ **DONE 2026-11-18** — `other` (chimpanzee serum; OCR `[VERIFIED src]`) |
+| 4 | **HPV18** | Cole & Danos 1987 (PMID 3039146) | ✅ **DONE 2026-11-18** — `clinical_direct` (`[VERIFIED src]`) |
+| 5 | **dengue 4** | Mackow 1987 (PMID 3039728) | ✅ **DONE 2026-11-18** — `culture_cpe` (plaque ×2; `[VERIFIED src]`) |
+| 6 | **dengue 3 (H87)** | Osatomi 1990 (PMID 2345967) | ✅ **DONE 2026-11-18** — `culture_no_cpe` (C6/36; `[VERIFIED src]`) |
+| 7 | **variola Bangladesh-1975** | Massung 1994 (PMID 8184534) | ✅ **DONE 2026-11-18** — `other` (egg CAM/CEF; OCR `[VERIFIED src]`) |
 
 **Partial-trail quick wins (Bucket 2):** the single cleanest is **vaccinia Copenhagen** — only the derivation cite is
 needed (`hop_open_need_pdf`). Second: **poliovirus Mahoney** — locate the Mahoney stock's own plaque/CPE isolation
@@ -193,16 +194,16 @@ paper (the Lansing gap is already recorded).
 
 ---
 
-## Current tallies (2026-11-14, from Step 1 final)
+## Current tallies (2026-11-18, from Step 1 CSV)
 
 | Stat | Value |
 |------|-------|
-| Virus families with ≥1 event | ~63 (`family_*.md` sheets) |
-| Step 1 O/C events | 104 (103 `chain_closed`, 1 `chain_open` = HDV) |
-| `culture_cpe` / `culture_no_cpe` / `clinical_direct` / `other` | 38 / 46 / 11 / 9 |
-| Culture-propagated (cpe ∪ no_cpe) | 84 / 104 (**81%**) |
-| Partially-tracked rows (bucket 2) | 19 |
-| Not-attempted candidates (bucket 3, high-value) | 18 named + a lower-value list |
+| Virus families with ≥1 event | ~66 (`family_*.md` sheets) |
+| Step 1 O/C events | 109 (all `chain_closed`; HDV closed 2026-11-18) |
+| `culture_cpe` / `culture_no_cpe` / `clinical_direct` / `other` | 39 / 47 / 12 / 11 |
+| Culture-propagated (cpe ∪ no_cpe) | 86 / 109 (**79%**) |
+| Partially-tracked rows (bucket 2) | 18 (HDV removed → closed) |
+| Not-attempted candidates (bucket 3, high-value) | 14 named + a lower-value list (4 closed this push: HPV18, dengue 3/4, variola) |
 
 *(Sequence-provenance (Step 1) and same-stock re-sequencing (A3) are **separate probes** and are tracked in
 separate files. This board covers Step 1 provenance only.)*

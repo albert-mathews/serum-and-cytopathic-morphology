@@ -52,15 +52,15 @@ Prefer OA/PMC; paywalled PDFs only when user-supplied into gitignored `refs/sequ
 
 | path_score | n closed | % of closed |
 |------------|----------|-------------|
-| `culture_cpe` | **37** | 36% |
-| `culture_no_cpe` | **45** | 44% |
-| `clinical_direct` | **11** | 11% |
-| `other` | **9** | 9% |
+| `culture_cpe` | **39** | 36% |
+| `culture_no_cpe` | **47** | 43% |
+| `clinical_direct` | **12** | 11% |
+| `other` | **11** | 10% |
 
-| Culture-propagated (`culture_cpe` + `culture_no_cpe`) | **82** / 102 closed (**80%**) |
-| `culture_cpe` alone | **37** / 102 closed (**36%**) |
+| Culture-propagated (`culture_cpe` + `culture_no_cpe`) | **86** / 109 closed (**79%**) |
+| `culture_cpe` alone | **39** / 109 closed (**36%**) |
 
-**Read for the spine:** among closed events, culture-propagated paths dominate; the CPE-warranted subset is substantial but not the whole culture story — report both separately.
+**Read for the spine:** among closed events, culture-propagated paths dominate; the CPE-warranted subset is substantial but not the whole culture story — report both separately. *(Counts advanced 2026-11-18: 109 events, 0 open.)*
 
 **Pass 21N closes:** COV-O7, HSV-O1, CHIK-O1, CMV-O1 — all `culture_no_cpe` (see `P3_step1_path_type_map_2026-09-21.md`).
 

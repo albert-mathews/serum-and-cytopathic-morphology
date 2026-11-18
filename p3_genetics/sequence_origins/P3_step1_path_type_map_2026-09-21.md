@@ -30,15 +30,17 @@ Soft evidentiary bar: documentary **method ↔ deposit** link within reasonable 
 
 ### path_score among closed
 
+*(Updated 2026-11-18: +7 events since the 2026-09-21 pass — dengue 3/4, HPV18, HDV, variola, HSV-2, hMPV — 109 events, all `chain_closed`.)*
+
 | path_score | n closed | % of closed |
 |------------|----------|-------------|
-| `culture_cpe` | **37** | 36% |
-| `culture_no_cpe` | **45** | 44% |
-| `clinical_direct` | **11** | 11% |
-| `other` | **9** | 9% |
+| `culture_cpe` | **39** | 36% |
+| `culture_no_cpe` | **47** | 43% |
+| `clinical_direct` | **12** | 11% |
+| `other` | **11** | 10% |
 
-| Culture-propagated (`culture_cpe` + `culture_no_cpe`) | **82** / 102 closed (**80%**) |
-| `culture_cpe` alone | **37** / 102 closed (**36%**) |
+| Culture-propagated (`culture_cpe` + `culture_no_cpe`) | **86** / 109 closed (**79%**) |
+| `culture_cpe` alone | **39** / 109 closed (**36%**) |
 
 ---
 
