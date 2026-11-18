@@ -8,16 +8,16 @@ not used) and `P2_pdf_wishlist.md` (gitignored, fetch-only queue).
 `P2-0xx_firstauthor_year_slug.pdf`). No Sci-Hub.  
 **Screen/evidence of record:** `P2_screened.csv` (all IDs, Y/B/N, fulltext status), `P2_useful.csv`
 (metric extraction), `P2_quotes.md` (verbatim).  
-**Last checked against disk:** 2026-11-14.
+**Last checked against disk:** 2026-11-18.
 
 ## Counts
 
 | Measure | n |
 |---|--:|
-| Screened IDs (`P2_screened.csv`) | 97 |
-| Useful Y (`P2_useful.csv`) | 57 |
-| Quoted sources (`P2_quotes.md`) | 38 |
-| P2-0xx PDFs on disk | 40 (24 prior + 16 fetched 2026-11-14) |
+| Screened IDs (`P2_screened.csv`) | 101 |
+| Useful Y (`P2_useful.csv`) | 61 |
+| Quoted sources (`P2_quotes.md`) | 42 |
+| P2-0xx PDFs on disk | 40 (24 prior + 16 fetched 2026-11-14; P2-097–100 read OA online) |
 | Seed-review PDFs on disk (P2-200–207) | 8 |
 | Read-but-unused (see `P2_bibliography_unused.md`) | 2 |
 | On wishlist (see `P2_pdf_wishlist.md`) | 0 |
@@ -64,6 +64,10 @@ not used) and `P2_pdf_wishlist.md` (gitignored, fetch-only queue).
 | P2-094 | Santiana M, Ghosh S, Ho BA, Rajasekaran V, Du WL, Mutsafi Y, et al. 2018. Vesicle-cloaked virus clusters are optimal units for inter-organismal viral transmission. *Cell Host Microbe. 2018;24(2):208-220.e8* | `10.1016/j.chom.2018.07.006` | yes |
 | P2-095 | van der Grein SG, Defourny KAY, Slot EFJ, Nolte-'t Hoen ENM. 2018. Intricate relationships between naked viruses and extracellular vesicles in the crosstalk between pathogen and host. *Semin Immunopathol. 2018;40(5):491-504* | `10.1007/s00281-018-0678-9` | yes |
 | P2-096 | Reyes-Ruiz JM, Osuna-Ramos JF, De Jesús-González LA, et al. 2019. Isolation and characterization of exosomes released from mosquito cells infected with dengue virus. *Virus Res. 2019;266:1-14* | `10.1016/j.virusres.2019.03.015` | yes |
+| P2-097 | Smith SC, Krystofiak E, Ogden KM. 2024. Mammalian orthoreovirus can exit cells in extracellular vesicles. *PLoS Pathog. 2024;20(1):e1011637* | `10.1371/journal.ppat.1011637` | OA (read online; PDF drop optional) |
+| P2-098 | Rey-Cadilhac F, Rachenne F, Missé D, Pompon J. 2023. Viral components trafficking with(in) extracellular vesicles. *Viruses. 2023;15(12):2333* | `10.3390/v15122333` | OA (read online; PDF drop optional) |
+| P2-099 | Morris-Love J, Atwood WJ. 2022. Complexities of JC polyomavirus receptor-dependent and -independent mechanisms of infection. *Viruses. 2022;14(6):1130* | `10.3390/v14061130` | OA (read online; PDF drop optional) |
+| P2-100 | Helle F, Handala L, Bentz M, Duverlie G, Brochot E. 2020. Intercellular transmission of naked viruses through extracellular vesicles: focus on polyomaviruses. *Viruses. 2020;12(10):1086* | `10.3390/v12101086` | OA (read online; PDF drop optional) |
 
 ## Used — read full text, not yet individually quoted
 

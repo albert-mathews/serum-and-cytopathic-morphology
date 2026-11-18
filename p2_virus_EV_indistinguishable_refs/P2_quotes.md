@@ -398,3 +398,54 @@ No quotes from the misfiled PDF. Abstract-level Chen claim retained in CSV until
 > "…in the context of DENV-infected cells, the viral particles have a similar size to the exosomes, then it is difficult to separate the two populations. Therefore, the separation of exosomes from virions by positive selection using magnetic beads coupled to an antibody against a protein enriched in exosomes is by far the best method (Raab-Traub and Dittmer, 2017)."
 
 **Polarity / bound:** Flavivirus (dengue) primary — the first flavivirus entry: DENV-infected mosquito-cell exosomes enlarge, carry virus-like particles and infect naïve cells, and dengue virions/exosomes are "similar size … difficult to separate," remediated by anti-CD9 bead positive selection. Closes the flavivirus gap (synthesis §6.3/§8b) and marks the same marker-conditional separation pattern seen in HIV/KSHV.
+
+---
+
+## K. Round 6 — non-enveloped reovirus + 2023 present-day restatement (2026-11-18)
+
+**Purpose:** two `[VERIFIED src]` (full text read) additions that close remaining family/persistence gaps: (i) a 2024
+non-enveloped **reovirus** primary (Reovirales, sibling of the already-logged rotavirus) and (ii) a 2023 review that
+restates the "no universal methodology" impossibility closer to the present than the 2021 anchor.
+
+### P2-097 Smith, Krystofiak & Ogden 2024 *PLoS Pathog* (OA) — non-enveloped reovirus exits in EVs
+> "If EVs can bundle and ferry reovirus particles between cells … it is possible that in mammalian hosts, EVs may shield reovirus from immune defenses and promote more efficient transmission…"
+
+> "Together, these findings suggest that in addition to exiting cells as free particles, reovirus promotes egress from distinct cell types in association with large and medium EVs during lytic or non-lytic infection, a mode of exit that can mediate multiparticle infection and, in some cases, protection from antibody neutralization."
+
+**Polarity / bound:** Non-enveloped (Reovirales) primary — a second member of the same order as rotavirus (P2-089),
+extending the vesicle-cloaked / EV-associated egress line to a genus absent from the corpus. Bound: the neutralization
+shield is "virus strain- and cell type-specific" (medium EVs protect T1L and T3D in L cells, but only T1L in Caco-2),
+i.e. the enclosure is real but not universal — a partial-quantitative bound, not absolute.
+
+### P2-098 Rey-Cadilhac, Rachenne, Missé & Pompon 2023 *Viruses* (OA) — "no universal methodology," restated 2023
+> "The physical similarities represent one of the biggest issues to study EVs in the context of viral infection as the biophysical similarities complexify isolation of EVs using gold standard density or size separation technologies (i.e., differential ultracentrifugation, density gradient, size-exclusion chromatography)."
+
+> "…hybrid compositions led to the hypothesis that infected cells can release a continuum of vesicles from pure infectious viral particles on one end to non-viral host EVs on the other end, with a range of EVs containing increasing amount of viral proteins in between these two extremes…"
+
+> "Altogether, there is no universal methodology to separate EVs from viruses and successful separation is usually achieved by the use of antibodies recognizing well-characterized markers on the surface of either EVs or viruses."
+
+**Polarity / bound:** 2023 review (independent group, MIVEGEC Montpellier) restating the multi-method impossibility
+and the continuum-of-vesicles framing, with the marker-conditional separation bound made explicit ("successful
+separation is usually achieved by … antibodies"). Carries the dilemma forward past the 2021 "remains accurate today"
+anchor to within two years of the present.
+
+### P2-099 Morris-Love & Atwood 2022 *Viruses* (OA) — non-enveloped DNA virus (JCPyV): same-sucrose co-pelleting
+> "It is important to note that concentrating through sucrose may remove some impurities, but extracellular vesicles and virus both pellet through a typical sucrose step. Gradients can separate virus particles from EVs, but incomplete purification and separation may lead to misinterpreted results."
+
+> "With current technology, separation of virus and EVs can be cumbersome, imperfect, and result in low yield."
+
+> "Overall, the association of nonenveloped viruses and extracellular vesicles blurs the line between enveloped vs. nonenveloped classification."
+
+**Polarity / bound:** Non-enveloped **DNA** virus (JC polyomavirus) review with explicit M-DENS/M-UC co-pelleting
+language ("EVs and virus both pellet through a typical sucrose step") and the taxonomy-blur statement. Closes the
+polyomavirus family gap — the first non-enveloped *DNA* virus in the corpus (all prior non-enveloped entries were RNA:
+HAV/enterovirus/rotavirus/norovirus/reovirus).
+
+### P2-100 Helle et al. 2020 *Viruses* (OA) — naked-virus EV hijacking across families (polyomavirus focus)
+> "Polyomaviruses are small nonenveloped DNA viruses… Naked viruses have long been considered to be released from infected cells after cell lysis. However, in the last decade, several studies evidenced that various naked RNA viruses hijack EVs to exit host cells through a nonlytic pathway. This includes several members of the Picornaviridae family… the hepatitis E virus (HEV; Hepeviridae), Rotavirus (Reoviridae), or Norovirus (Caliciviridae)."
+
+> "On the basis of this new data… EV hijacking may be involved… It could explain how [target] cells… are infected… whereas these cells do not express [the viral attachment receptor]."
+
+**Polarity / bound:** 2020 review that surveys the entire naked-virus EV-hijack line (Picorna/Hepe/Reo/Calici +
+polyomaviruses) — useful as a cross-family consolidating citation and as context framing for the non-enveloped cluster
+(P2-089/094/095/097). Bound: it is about *egress/transmission*, not a density-purification impossibility claim itself.
