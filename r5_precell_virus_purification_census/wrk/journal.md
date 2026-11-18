@@ -95,7 +95,7 @@ Early CNJ058 instances already in hand (no new fetch needed for the framing, but
   (Bawden, Pirie, Bernal & Fankuchen, *Nature* 138:1051).
 - **Sabin & Olitsky 1936**: the settled negative that poliovirus would not grow outside nervous tissue — a prior
   methodological dogma overturned in 1949 (this is *why* monkeys were the only route).
-- **Friedewald 1944**: "purified" influenza from eggs co-purified with a normal allantoic-fluid component that
+- **Knight 1944**: "purified" influenza from eggs co-purified with a normal allantoic-fluid component that
   cross-reacted serologically — the bulk/HA route did not cleanly separate "virus" from normal host material.
 - **Cost strand (the counter-hypothesis a):** Enders/Weller/Robbins Nobel Lecture (1954) frames tissue culture as
   cheaper and yielding more than monkey passage — so the record contains *both* motives; R5-C is genuinely open.
@@ -106,3 +106,44 @@ Also flagged, NOT R5 (tabled for a decision):
   a new R6 stream, not R5. Await Albert's call.
 
 *End of journal.*
+
+## Batch-2 processing note (2026-11-18, evening)
+
+18 more PDFs landed (cumulative 30/36). All confirmed + recorded in `_notes/R5_extract_batch_2026-11-18_b.md`.
+Two more mis-captures surfaced: **R5W-10** (fetched file is the *Lancet* 2000 Ruska essay, not the 1938 primary)
+and the already-known **R5W-05** (Schlesinger). Both are **not blockers** (corroborated by in-hand secondaries:
+Ackermann 2011; Northrop 1938 + Kalmanson 1939). Corrections applied: Eggers 2000→**1999** (J Virol 73:4533);
+Markham 1942 → **Markham, Smith & Lea**; van Helvoort 2019 → **van Helvoort & Sankaran**; R5-015 primary = Klin
+Wochenschr 17(27):921–925 (DOI 10.1007/BF01775798), secondary Lancet 2000 in hand. Books are Archive.org-borrow /
+hard-copy only (no purchasable PDF) — wishlist marked LOW/optional.
+
+**Synthesis (the "enough?" judgment).** Core R5-C is now answerable: 28 full-text sources span the primaries
+(Stanley 1935, Bawden–Pirie 1936/37, Knight 1944, Smadel 1939, Sabin–Olitsky 1936, Hirst 1941, Ellis–Delbrück
+1939, Hershey–Chase 1952) and the historiography (van Helvoort 1991/1992/1994/2019, Kay 1986, Méthot 2016,
+Summers 1993, Eggers 1999, Ackermann 2011, Hsiung 1984). The remaining wishlist items are optional depth, not
+required for certainty.
+
+## Final note (2026-11-18, end of processing)
+
+- **R5W-10 re-fetched correctly** as the 1938 Klin Wochenschr primary (confirmed `Bakterien und Virus in
+  übermikroskopischer Aufnahme`, Mausektromelie EM); the earlier mis-captured file renamed `R5-045 - Lancet 2000…`.
+- **R5W-017 (McClelland & Hare 1941) unavailable — dropped** (only corroborates Hirst 1941, already held).
+- **`R5_synthesis.md` drafted**: R5-A census, R5-B evidence audit, R5-C transition motive, plus paper-ready
+  Introduction prose (§6).
+- **CNJ058** advanced predicted → **supported** in `CLAIMS.md`.
+
+## Batch-1 processing note (2026-11-18)
+
+12 PDFs landed in `refs/`. Processed: extracted text (PyMuPDF via `wrk/extract_pdf_text.py`) or OCR'd the two
+image scans (R5W-05, R5W-12), confirmed identity, and recorded quote-sized extracts in
+`_notes/R5_extract_batch_2026-11-18.md`.
+
+- **Confirmed + marked [VERIFIED src]:** R5-001 Stanley 1935; R5-002 Bawden/Pirie 1937; R5-006 (Kausche 1939);
+  R5-013 Goodpasture 1931; R5-014 Bernal/Fankuchen 1941; R5-016 Bawden 1936 (the Stanley correction);
+  R5-017 Hirst 1941; R5-018 (allantoic component — **Knight CA 1944**, not Friedewald); R5-020 Enders Nobel
+  1954; R5-022 Kay 1986; R5-029 (**Hsiung GD 1984**, not "2014/author TBC").
+- **Not confirmed:** R5-007/R5W-05 Schlesinger — the fetched PDF is mis-captured *Nature* pages (position
+  effect, eel-grass, Allium letters; no phage content). Left on wishlist for re-fetch; kept [DATA REQUIRED].
+- **Corrections this exposed (errors I'd recorded earlier, now fixed):** "Friedewald 1944" → **Knight CA 1944**
+  in `CLAIMS.md` CNJ058, `r5.md`, and this journal; Hsiung author/year; R5W-11 also confirmed as Smadel/Rivers/
+  Pickels 1939 (still needs the PDF fetched).
