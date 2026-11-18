@@ -18,7 +18,7 @@ portion (1:1 mapping `C020` → `OB020`), so stream references update by swappin
 |------|--------|-------|---------|
 | Definition | `DEF` | `DEF001`–`DEF006` | DEF001 Isolation |
 | Axiom | `AX` | `AX010`–`AX012` | AX010 Pipeline scope |
-| Observation | `OB` | `OB020`–`OB028`, `OB080`, `OB081`, `OB150` | OB020 corpus modal 10%→2% |
+| Observation | `OB` | `OB020`–`OB028`, `OB080`–`OB082`, `OB150` | OB020 corpus modal 10%→2% |
 | Lemma | `LM` | `LM030`–`LM035` | LM030 practice follows recipe |
 | Theorem | `TH` | `TH040` | TH040 serum step-down drives CPE |
 | Corollary | `CRL` | `CRL041`–`CRL043` | CRL041 CPE not inoculum-specific |
@@ -200,6 +200,14 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   2024) titre magnitude varied ~9-fold across labs while relative fold-drops were consistent. *(Follows from
   OB027; Evidence: [VERIFIED src] P7-010; Status: established-scoped — one multi-lab panel; Stream: P7.)*
 
+- **OB082 · Observation** — **The CRO cultures never reached confluence.** In the serum-only CRO experiment
+  (Vero E6, no inoculum; Culture A 10% FBS, Culture B 2% FBS; 5-day window), neither culture exceeded ~80%
+  confluence, so the CPE-classified morphology reported (OB024/OB025) arose in **sub-confluent** monolayers and
+  cannot be attributed to post-confluent degeneration / contact-inhibition death. This removes R6-M3 as an
+  explanation of the CRO result and strengthens the serum/nutrient-withdrawal mechanisms (R6-M1/R6-M2).
+  *(Evidence: [SUPPLIER]/[IN-HOUSE] project-owner correction to the CRO record, 2026-11-17; Status:
+  established-scoped — one cell line, two cultures; Streams R3, R6.)*
+
 ## Lemmas (supporting established findings)
 
 - **LM030 · Lemma** — **Practice follows the recipe.** Published Isolation methods largely reproduce the
@@ -328,13 +336,19 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   degeneration, metabolic-waste/pH drift, anoikis, paracrine/bystander death waves, contaminant, and
   overlay-dependent diffusion limitation — each carrying a distinguishing prediction (time-course, serum-dose
   dependence, focal-vs-uniform, reversibility, overlay composition) testable against the CRO/Zenodo record and
-  the CLSI M41 Table 7 descriptor set. The "one plaque = one infectious particle" step is thereby re-read as a
-  stated *theoretical* equivalence (Fenner chapter: "each infective particle gives rise to a localized focus";
-  WNV protocol: PFU "theoretically considered" = initial virion number) rather than an independently
-  demonstrated fact. *(Follows from TH040, CRL041; Status: predicted — mechanism framework drafted
-  `r6_nonviral_morphology_mechanisms/R6_mechanisms.md` (R6-M1…R6-M12) with `[VERIFIED src]` anchors for M1, M2,
-  M3, M8, M11 (Ammerman 2008; Vander Heiden 2001; Fenner ch.3); M5 (bystander wave) and most Vero-specific
-  primaries still `[DATA REQUIRED]`; Stream R6.)*
+  the CLSI M41 Table 7 descriptor set. The "one plaque = one infectious particle" step is thereby re-read as an
+  *inference from dilution-linearity + co-variance*, not a pattern-uniqueness proof: Dulbecco (1952) secured it by
+  plaque count linear in virus concentration ("a linear dependence … can be obtained only if each plaque is
+  produced by one virus particle"), absence in an uninoculated control, antiserum suppression, and an ~1:1
+  plaque:egg-infectivity correspondence — evidence that plaques are seeded by a discrete unit coupled to the
+  presumed-infectious inoculum, not that a focal clearing in a stressed monolayer has no non-viral producer.
+  Abedon & Yin (2009) add the decisive generic fact: "plaque formation failure is not necessarily equivalent to
+  virion inviability." *(Follows from TH040, CRL041, OB082; Status: predicted — mechanism framework drafted
+  `r6_nonviral_morphology_mechanisms/R6_mechanisms.md` (R6-M1…R6-M12) with `[VERIFIED src]` anchors: Vander
+  Heiden 2001 + Quesney 2001 + Mendonça 2009 (M1/M2, serum/nutrient → apoptosis), Ammerman 2008 (M3, which OB082
+  removes as a CRO explanation), and Fenner ch.3 + Dulbecco 1952 + Abedon & Yin 2009 (M11, the plaque step);
+  OB082 records that neither CRO culture exceeded ~80% confluence; M5 (bystander wave) still `[DATA REQUIRED]`.
+  Stream R6.)*
 
 - **OB150 · Observation (P3)** — **Under-determination is detectable in the viral-genetics literature.**
   The published viral-genetics literature already contains — scattered and often framed as technical noise —

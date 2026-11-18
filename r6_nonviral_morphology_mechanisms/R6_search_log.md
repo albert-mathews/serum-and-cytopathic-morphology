@@ -35,11 +35,6 @@ R6-010 (Cooper 1984); R6-011 (Oaks Shigella plaque); R6-013 (Lopes HEp-2 mycopla
 tissue culture 1966); R6-015 (Uphoff mycoplasma eradication); R6-016 (Vero bioreactor serum-free death);
 R6-017 (Vero CTGF autophagy); R6-019 (WNV plaque assay — open).
 
-### Encountered but excluded (not sources of record)
-
-R6-X01 (Substack HEK293T uninfected-CPE writeup); R6-X02 (Lanka et al. control preprint). Logged in
-`R6_bibliography.md` §3 for landscape awareness only; not load-bearing.
-
 ### Mechanism list
 
 Drafted 12 mechanisms R6-M1…R6-M12 in `R6_mechanisms.md` (see that file for the table, predictions, and the two

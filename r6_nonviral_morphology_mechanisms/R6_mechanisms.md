@@ -20,9 +20,13 @@ The CRO serum-only result (OB024, OB025) is the datum every mechanism must be co
   Culture B (2% FBS)** frames; B's terms: rounded (8), dying cells (7), granularity (6), vacuolation (4),
   detached (2), refractile (1). `[SUPPLIER]/[IN-HOUSE]`
 - Two blinded raters score more CPE in B than A (IR1, IR2; OB025). `[IN-HOUSE]`
+- **Confluence correction (OB082).** Neither Culture A nor Culture B exceeded **~80% confluence** over the
+  observation window, so the CPE-classified morphology arose in **sub-confluent** monolayers. This removes
+  post-confluent degeneration (R6-M3) as an explanation of the CRO result and strengthens the serum/nutrient
+  withdrawal mechanisms. `[SUPPLIER]/[IN-HOUSE]`
 
 So the leading mechanisms must predict: **more rounding / dying cells / granularity / vacuolation / detachment
-in 2% than in 10% FBS within ~5 days, in an anchorage-dependent monkey epithelial line (Vero E6).**
+in 2% than in 10% FBS within ~5 days, in a sub-confluent anchorage-dependent monkey epithelial line (Vero E6).**
 
 ## Mechanism table
 
@@ -58,7 +62,7 @@ flowchart TD
 |------|-----------|---------------------------|------------------|------------------------------------------|
 | **R6-M1** | Abrupt serum / growth-factor step-down (10%→2%) → loss of survival signals → mitochondrial/Bax apoptosis | rounded · granularity · degeneration · detachment | uniform (density-modulated) | Onset within 1–3 d of the switch; **dose-dependent on the drop magnitude** → B (2%) > A (10%), matching OB024/OB025. Cells adapted to the *higher* serum are *more* vulnerable to withdrawal (Vander Heiden 2001). |
 | **R6-M2** | Nutrient / glucose / glutamine depletion → glycolytic substrate loss → mitochondrial apoptosis | rounded · granularity · degeneration · detachment | uniform, later onset | Appears later (when medium exhausts), **accelerates at high density/confluence**, correlates with medium colour (phenol red → yellow = acid). B's lower serum → slower growth but also lower buffering/replenishment. |
-| **R6-M3** | Confluent / post-confluent degeneration (contact inhibition → "stop growing, start to die") | degeneration · detachment | uniform | Degeneration at **>90% confluence regardless of arm**; A (10%) reaches over-confluence *faster* → predicts A ≥ B by this mechanism alone, the **opposite** direction to M1. A useful discriminator. |
+| **R6-M3** | Confluent / post-confluent degeneration (contact inhibition → "stop growing, start to die") | degeneration · detachment | uniform | **Excluded for the CRO result** — neither arm reached >80% confluence (OB082). Retained as a generic mechanism (Ammerman 2008: Vero "stop growing and start to die" at confluence) but it cannot explain *this* experiment; a discriminator, now moot for CRO. |
 | **R6-M4** | Metabolic waste / pH drift (lactate, NH₃ → acidification) | granularity · degeneration · detachment | uniform | Correlates with medium colour; buffered by refeeding; both arms but **B acidifies faster** (less serum bicarbonate). CLSI M41 §5.3.2 ties refeeding to pH < 7.0. |
 | **R6-M5** | Paracrine "bystander" / spreading-wave death (a dying cell poisons neighbours → expanding focal clearing) | all, organised as a **focus** | **focal (plaque-like)** | Focal lesions **expand radially** from a nidus with an adjacency gradient (dead centre → dying rim → healthy). Produces countable "plaques" with no virus. Distinguish from viral plaques only by kinetics/absence of particle, not by shape. |
 | **R6-M6** | Anoikis / anchorage-signal loss → rounding + detachment + apoptosis | rounded · detached | uniform → floating | Rounding **precedes** detachment; floating cells; rescued by matrix/re-adhesion. Fibronectin/adhesion loss documented in Vero nutritional stress (CBI 1998). |
@@ -71,31 +75,38 @@ flowchart TD
 
 ## Two framing points (load-bearing for the paper)
 
-1. **"One plaque = one infectious particle" is a stated *theoretical* equivalence, not an independent
-   demonstration.** Fenner's chapter asserts "each infective particle gives rise to a localized focus…
-   Infection with a single virus particle is sufficient to form a plaque" `[VERIFIED src]`; the WNV protocol
-   states the PFU count "can be *theoretically considered* as the initial number of the infectious viral
-   particles" `[VERIFIED src]`. R6's job is to show that the *focal-clearing pattern* itself has non-viral
-   producers (R6-M5, M7, M9, M11), so the step "focus of death → that many particles" is the load-bearing
-   assumption to test.
+1. **"One plaque = one infectious particle" is an *inference from dilution-linearity + co-variance*, not a
+   pattern-uniqueness proof.** Dulbecco (1952) secured it the only way the assay can: plaque count is **linear
+   in virus concentration** ("A linear dependence of the number of plaques on virus concentration can be obtained
+   only if each plaque is produced by one virus particle"), plaques are **absent when virus is absent**, and are
+   reduced by **antiserum**, and there is a **~1:1 plaque:egg-infectivity** correspondence `[VERIFIED src]`.
+   Fenner's chapter states the same coin plainly ("each infective particle gives rise to a localized focus…
+   Infection with a single virus particle is sufficient to form a plaque") and the WNV protocol calls the PFU
+   count what it is "theoretically" `[VERIFIED src]`. The precise R6 point is therefore **not** "the equivalence
+   was never shown" but: dilution-linearity of the focal-clearance count in inoculum concentration proves *one
+   discrete seeding unit per plaque*, and the "viral" reading of that unit is supplied by the surrounding
+   inoculum/infectivity warrant — not by the focal pattern, which has non-viral producers (R6-M5, M7, M9, M11).
+   Also note Dulbecco's negative-control caveat: "absent when the virus is absent" held under *his* conditions
+   (chicken fibroblasts, agar overlay, adequate medium), not under the low-serum maintenance step that is this
+   paper's confound (TH040/OB082).
 
 2. **Focal clearing is a generic spatial pattern of localised death + diffusion constraint.** Plaque theory
-   (Abedon & Yin 2009) treats plaque formation generically as diffusion-limited growth; the resulting shape is
-   determined by diffusivity, host density, and local resources — none of which requires a self-replicating
-   particle `[DATA REQUIRED — fetch primary]`. The Shigella-plaque precedent (Oaks et al. 1985) documents a
-   *bacterial* plaque assay in HeLa whose plaque diameter was set by **medium nutrient content (glucose, MEM vs
-   DMEM)** — i.e. plaque size is medium-controlled even for a bona fide intracellular replicator `[VERIFIED-ABSTRACT →
-   wishlist]`.
+   (Abedon & Yin 2009) treats plaque growth as diffusion-limited: plaque size is governed by a "hindered
+   diffusion constant," agar density, and the "rates of nutrient and waste-product diffusion," and — decisively
+   for R6 — "**plaque formation failure is not necessarily equivalent to virion inviability**" `[VERIFIED src]`.
+   The Shigella-plaque precedent (Oaks et al. 1985) further documents a *bacterial* intracellular-replicator
+   plaque assay in HeLa whose plaque diameter was set by **medium nutrient content (glucose; MEM vs DMEM)** —
+   i.e. plaque size is medium-controlled even for a bona fide replicator `[fetched — extract next]`.
 
 ## Status and next
 
 | Item | Status |
 |------|--------|
 | Mechanism list (12) | Drafted `[IN-HOUSE]`; warrants being filled in `R6_useful.csv` |
-| M1 (GF withdrawal) | `[VERIFIED src]` Vander Heiden 2001 (IL-3 line — scope caveat) |
-| M2 (nutrient) | `[VERIFIED src]` Vander Heiden 2001 (glucose); ReTO 2015 `[DATA REQUIRED]` |
-| M3 (confluence) | `[VERIFIED src]` Ammerman 2008 |
+| M1 (GF withdrawal) | `[VERIFIED src]` Vander Heiden 2001 (IL-3 line); Vero side anchored by Quesney 2001 + Engelhardt & Mao 1977 (fetched) |
+| M2 (nutrient) | `[VERIFIED src]` Vander Heiden 2001 (glucose); **Mendonça 2009** (Vero nutrient-depletion EM/light) |
+| M3 (confluence) | `[VERIFIED src]` Ammerman 2008; **excluded for CRO by OB082** |
 | M5 (bystander wave) | `[DATA REQUIRED]` — primary pending |
-| M11 (overlay) | Fenner `[VERIFIED src]`; Abedon & Yin, Cooper, Dulbecco 1952 `[DATA REQUIRED]` |
+| M11 (overlay) | `[VERIFIED src]` Fenner, Abedon & Yin 2009, Dulbecco 1952; Cooper 1984 & Oaks 1985 fetched |
 
 *End of mechanism framework (v0.1, 2026-11-17).*
