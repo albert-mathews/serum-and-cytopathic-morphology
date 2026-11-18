@@ -893,3 +893,75 @@ Explicit: cells inoculated with virus extract **or medium (negative control)**; 
 | VI291 | B | Methods: “In parallel, a flask of uninfected Vero-E6 cells was passaged as a control” during 28-day Isolation passages (infected flasks g… |
 | VI292 | D | OA full text: “remained uninfected” = specimen outcome, not parallel culture NC. → D. |
 | VI293 | C | Mock-infected / medium-only negative controls are for plaque observation and IF/immunoblot of adapted stocks; mouse mock is animal arm. N… |
+
+---
+
+# Pass4 — wishlist items re-opened from fetched full text (r2-agent, 2026-11-18)
+
+Fetched PDFs now on disk under `r1_isolation_standards_and_practice/refs/` (VI44, VI249, VI251, VI266, VI267) and `methods_review_teaching/` (VI270 thesis). Re-opened the tiers previously held at conservative D (abstract-only / blocked). **Two upgrades and five confirmations.**
+
+**Tier shifts:** VI249 D→A; VI266 D→B; VI267 D→B. VI44, VI251, VI270 stay D (now non-ambiguous). VI271 stays D (CDC web page, not a PDF).
+
+## VI249 — Tier **A** (upgraded from D)
+
+**Primary experiment:** IAV Isolation from exhibition-swine BHI broth supernatant on serum-free-medium (SFM)-adapted MDCK.
+**Endpoint:** CPE + hemagglutination.
+
+### Quotes — Isolation-stage negative-control well
+> "The SFM-adapted MDCK cells were seeded into every other vertical column of a 24-well cell culture plate. One of the 4 wells in each empty column of wells was also seeded with SFM-adapted MDCK cells to serve as a negative control. This allowed for 3 samples to be tested in quadruplicate on one 24-well plate, with each sample having a negative control."
+
+### Quotes — medium (plate-wide, serum-free)
+> "Immediately prior to inoculation, the SFM from confluent cell monolayers in 24-well tissue culture plates was removed, and the monolayers were washed once with viral growth medium (VGM)… Viral growth medium was prepared by supplementing SFM with antimicrobials (1,200 U/ml penicillin, 1.2 mg/ml streptomycin, 3 µg/ml amphotericin B) and tolylsulfonyl phenylalanyl chloromethyl ketone–treated trypsin (0.5 μg/ml)."
+
+> "For each sample, 150 μl of BHI broth supernatant was inoculated into each of 4 wells… Inoculum was allowed to adsorb for 60 min at 37°C before being removed and replaced with 0.5 ml of VGM. Plates were incubated at 37°C… for 72 hr. Wells were observed daily for cytopathic effects (CPE)…"
+
+### Decision
+Same-plate uninoculated SFM-MDCK negative-control well (receives no sample inoculum); plate-wide VGM wash and post-adsorption 0.5 mL VGM; serum **0% FBS** in both arms (SFM + VGM). M1–M6 by allowed inference (§4.1 universal medium + uninoculated well); `match_basis=allowed_inference`. The post-adsorption VGM addition to the NC well is inferred (plate-wide "wells observed daily for CPE") but clean. `ambiguous=yes` (NC-well post-adsorption medium inferred, not sentence-explicit). No CPE in NC reported.
+
+## VI266 — Tier **B** (upgraded from D)
+
+**Primary experiment:** HRSV Isolation from PCR-positive clinical samples on HeLa/HEp-2/Vero.
+**Endpoint:** CPE (syncytium) + RT-PCR confirmation.
+
+### Quotes — Isolation-stage control
+> "…were inoculated with 30 μL aliquots of the clinical samples. Intact HeLa, HEp-2, and Vero cells were used as controls in each plate."
+
+> "The evaluation of CPE was estimated under an inverted AxioVert 40 microscope… Intact HeLa, HEp-2, and Vero cells were used as controls."
+
+### Quotes — medium
+> "…a maintenance medium consisting of DMEM… with 2% of FBS… and 100 μg/mL of gentamicin sulfate… was added into the wells." (inoculated-arm; monolayer method)
+
+> growth medium "DMEM, with 10% FBS…"; suspension method post-24 h "growth medium was removed and a supportive medium (DMEM… with 2% FBS…) was added."
+
+### Decision
+Isolation-stage NC named (intact cells as controls in each plate) → `nc_isolation_stage=yes`. But the **control** wells' maintenance medium is never stated: the 2% FBS maintenance formula is framed for inoculated wells, and the intact controls' serum/enrichment is silent. §4.3 ⇒ M2/M3/M4 unknown → **B** (not A). `ambiguous=yes`.
+
+## VI267 — Tier **B** (upgraded from D)
+
+**Primary experiment:** HPIV-1/3 Isolation on MNT-1 (vs LLC-MK2/Vero) with CPE readout.
+**Endpoint:** CPE.
+
+### Quotes — mock (figure legend only)
+> "MNT-1, LLC-MK2, and Vero cells were inoculated with clinical specimens of HPIV1… HPIV2… HPIV3… and HPIV4…, **or mock-infected control** and incubated at 34°C and 5% CO2 without passage or medium change."
+
+### Quotes — medium (universal, serum-free)
+> "The MNT-1 cells were cultured in Dulbecco's modified eagle medium (DMEM…)… All cell lines were supplemented with 10% fetal bovine serum (FBS). … Before specimen inoculation, medium was changed to DMEM or MEM without FBS and either supplemented with crystalized trypsin (Sigma…) at 2 μg/mL (Vero), 5 μg/mL (MNT-1), or 10 μg/mL (LLC-MK2)."
+
+### Decision
+Isolation-stage mock (CPE comparison, same plate) → `nc_isolation_stage=yes`. M1–M5 match (same cell lines, same serum-free + trypsin maintenance, "without passage or medium change"). **M6 unknown**: mock preparation / inoculum ("mock-infected" with what) is never defined — mock appears only in the Figure 1 legend, not methods. ⇒ **B**, not A. `ambiguous=yes`; `control_cpe_claimed_negative=yes` (Fig.1A mock panel no CPE). Consistent with VI8/VI13/VI14/VI40 (mock-in-figure → B).
+
+## VI44 — Tier **D** (confirmed; ambiguous resolved)
+
+Full text (Int J Infect Dis 7:138–142). Microplate Isolation (HHVMRG: HEF/HEp-2/Vero/RD-18s/GMK); growth 10% FBS (RD-18s) / 5% FBS + 5% CS (GMK); maintenance MEM + 2% FBS; 723 swabs inoculated; CPE observed to day 10. **No mock/uninfected culture NC described.** Confirmed D; `ambiguous` cleared.
+
+## VI251 — Tier **D** (confirmed; ambiguous resolved)
+
+Full text (Mem Inst Oswaldo Cruz 101(4):451–453, 2006 — note: corpus "year" field 2004 is the specimen-collection window, not publication year). HEp-2 growth 10% FBS; post-adsorption MEM-E + 2% FBS. "HEp-2 cell monolayers not exhibiting CPE were similarly examined by IFA" = **specimen outcome**, not a parallel negative culture control. Confirmed D; `ambiguous` cleared.
+
+## VI270 — Tier **D** (confirmed; ambiguous resolved)
+
+Full DEA thesis (Le Deuff 1990, Univ. Bordeaux II, Archimer ID 51774) — the IFREMER document, year 1990 (wishlist "1995" was wrong). BF2/LDV diagnostic-methods thesis (monoclonals, PCR, isopycnic DNA). NC language appears only in PCR/hybridisation/antibody/ELISA assay contexts ("Témoin négatif (TE…)" PCR; "cellules saines" as antibody-purification reagent). **No Isolation-stage culture NC** for BF2/LDV morphology. Confirmed D; `ambiguous` cleared.
+
+## VI271 — Tier **D** (no change; web page)
+
+CDC "Vero/hSLAM cell culture for measles isolation" lab-tools page — an HTML guideline page, not a PDF; not in `refs/`. No culture NC language. Stays D; `ambiguous` retained pending an archived copy.

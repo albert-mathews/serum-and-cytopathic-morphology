@@ -1,13 +1,21 @@
 # R2 PDF wishlist (buy list only)
 
-**Status (checked against `r1_isolation_standards_and_practice/refs/` 2026-10-14):** 7 requested, **0 confirmed on disk**. A mislabelled file `refs/excluded_pdfs/VI44 - Releasing Intracellular NS1 from Mosquito Cells...pdf` (Viruses 2020, doi:10.3390/v12101105, PMC7599882; the "NEW3 VI44" dengue row of the superseded `updated_isolation-refs-overview.csv`, an ID collision) matched no current R1/R2 ID and was deleted 2026-10-14. The enterovirus 2003 VI44 PDF is still wanted. Used/bibliography for R2 = the scored corpus in `control-cultures-overview.csv` (173 rows) with justifications in `control-cultures-justification-notes.md`.
+**Status (2026-11-18):** Albert fetched the outstanding items. **6 of 7 confirmed on disk and read** (removed from wishlist below; re-scored in `control-cultures-overview.csv` + `control-cultures-justification-notes.md` §Pass4):
 
+| ID | Fetched as | Verdict |
+|----|-----------|---------|
+| VI44 | `r1_…/refs/isolation_practice/VI44 - enteroviruses_2003.pdf` | correct (Int J Infect Dis 7:138–142) → re-scored D |
+| VI249 | `…/VI249 - IAV_swine_SFM_2013.pdf` | correct (JVDI 25(1):82–90, DOI 10.1177/1040638712470449) → **A** |
+| VI251 | `…/VI251 - RSV-nasopharyngeal-aspirates.pdf` | correct (Mem Inst Oswaldo Cruz 101(4):451–453, **2006** — wishlist said 2004, which is the specimen window) → D |
+| VI266 | `…/VI266 - HRSV_2023.pdf` | correct (JIDC 17(2):251–259, 10.3855/jidc.17462) → **B** |
+| VI267 | `…/VI267 - HPIV_MNT1_2016.pdf` | correct (Microbiol Immunol, 10.1111/1348-0421.12446) → **B** |
+| VI270 | `…/refs/methods_review_teaching/Lymphocystivirus-Iridoviridae_thesis.pdf` | correct (Le Deuff 1990 DEA, Archimer 51774 — wishlist said 1995; **1990** is right) → D |
 
-**Drop folder:** `r1_isolation_standards_and_practice/refs/` (shared with R1; gitignored)
+> VI270 note: the IFREMER Archimer identifier (`https://archimer.ifremer.fr/doc/00406/51774/`) resolves to **Le Deuff Rose-Marie (1990)**, "Mise au point de méthodologies pour le diagnostic et l'étude de Lymphocystivirus (Iridoviridae)". The year in the old wishlist row (1995) was wrong; the fetched thesis is the correct document.
 
-**Updated:** 2026-09-22
+**Drop folder:** `r1_isolation_standards_and_practice/refs/` (shared with R1; gitignored) for isolation-practice items; VI270 landed in `methods_review_teaching/` (R1's area).
 
-**Rule:** Only verified DOI / PMID / stable URL + exact drop name. These upgrade Tier D / abstract-only scores. Dual∖overview gap is already **0**.
+**Rule:** Only verified DOI / PMID / stable URL + exact drop name. These upgrade Tier D / abstract-only scores.
 
 ---
 
@@ -15,16 +23,10 @@
 
 | ID | Cite key | DOI / PMID / URL | Drop as |
 | -- | -------- | ---------------- | ------- |
-| VI44 | enteroviruses (2003) | PMID 12839716 · https://pubmed.ncbi.nlm.nih.gov/12839716/ | `R2_VI44_enteroviruses_2003.pdf` |
-| VI249 | Influenza A (exhibition swine) (2013) | `10.1177/1040638712470449` | `R2_VI249_Influenza_A_exhibition_swine_2013.pdf` |
-| VI251 | RSV (nasopharyngeal aspirates) (2004) | https://www.scielo.br/j/mioc/a/zJh549P7hQB4R98sdj7PqcR/?lang=en | `R2_VI251_RSV_nasopharyngeal_aspirates_2004.pdf` |
-| VI266 | HRSV (clinical PCR-positive) (2023) | `10.3855/jidc.17462` | `R2_VI266_HRSV_clinical_PCR_positive_2023.pdf` |
-| VI267 | HPIV-1 and HPIV-3 (clinical) (2016) | `10.1111/1348-0421.12446` | `R2_VI267_HPIV_1_and_HPIV_3_clinical_2016.pdf` |
-| VI270 | Lymphocystivirus (Iridoviridae) (1995) | https://archimer.ifremer.fr/doc/00406/51774/52372.pdf | `R2_VI270_Lymphocystivirus_Iridoviridae_1995.pdf` |
-| VI271 | measles (clinical isolation) (n.d.) | https://www.cdc.gov/measles/lab-tools/vero-slam.html | `R2_VI271_measles_clinical_isolation_n_d.pdf` |
+| VI271 | measles (clinical isolation) CDC Vero/hSLAM lab-tools page | `[DATA REQUIRED]` — old URL `https://www.cdc.gov/measles/lab-tools/vero-slam.html` is a live HTML page (not a PDF) and was reported "link not good". Need a **better identifier**: the CDC page's stable URL, an Internet Archive snapshot URL, or the underlying WHO/CDC guidance PDF it cites. | `R2_VI271_measles_clinical_isolation_n_d.pdf` |
 
 ## Notes
 
-- **VI271** is a CDC lab-tools page (often unstable); treat as optional / may stay D.
-- **VI270** IFREMER direct PDF URL — retry download; may not need purchase.
-- After drop: re-open R2 tier for that ID in `control-cultures-overview.csv` + justification notes.
+- **VI271** is a CDC lab-tools page (often unstable) — treat as optional / may stay D. It is the only remaining open wishlist row.
+- After drop: re-open the R2 tier for VI271 in `control-cultures-overview.csv` + justification notes.
+- Fetched/read items are recorded in the scored corpus (`control-cultures-overview.csv`) and `control-cultures-justification-notes.md` — not kept here.
