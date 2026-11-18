@@ -1,64 +1,73 @@
 # TODO - research roadmap
 
-Shared checklist for this repository. **Last updated:** 2026-10-15
+Shared checklist for this repository. **Last updated:** 2026-11-18
 
-Each item has an assignee (**Albert** or **CPE**, the research assistant) and links to the file where its input is waiting. Discussion happens in that file, not here.
-
----
-
-## Not started
-
-- [ ] **Albert - P4-P7: start now / schedule later / reshape each stream.** Record the decision in the *Status* column of [`P4_P7_index.md`](P4_P7_index.md); comments go in the stream notes ([`p4.md`](p4_serology_antigen/p4.md), [`p5.md`](p5_cryoEM_structure/p5.md), [`p6.md`](p6_vaccine_seed_identity/p6.md), [`p7.md`](p7_cross_lab_repeatability/p7.md)).
-- [ ] **Albert - fetch R2 full texts to bring papers back into the analysis.** 10 papers are excluded because only abstracts were available: VI44, VI239, VI240 (= VI241, VI242, same paper), VI243, VI249, VI251, VI266, VI267, VI270, VI271. List and links: [`r2_negative_controls/R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md).
-- [ ] **CPE - R4: expand the non-isolation protocol search** (protocols outside virus isolation, then reports of practice under them). Plan: [`r4_non-isolation_standards_and_practice/r4.md`](r4_non-isolation_standards_and_practice/r4.md).
-- [ ] **CPE - R5: run the pre-cell-culture bulk-purification census** (exactly how many viruses bulk-isolated/characterized before cell culture, by what methods). Scaffold + Round 1 seeds done 2026-11-17; fetch `R5W-*` PDFs then run Rounds 2–5. Entry: [`r5.md`](r5_precell_virus_purification_census/r5.md).
-- [ ] **CPE - R6: develop the non-viral mechanisms of CPE/plaque morphology** under the no-virus assumption. Scaffold + Round 1 seeds done 2026-11-17: 12 mechanisms enumerated (`R6-M1…R6-M12`), 3 full-text anchors read, `CNJ059` seeded in `CLAIMS.md`; fetch `R6-0xx` PDFs, then Rounds 2–5. Entry: [`r6.md`](r6_nonviral_morphology_mechanisms/r6.md).
-
-## In progress
-
-- [ ] **CPE - P3: reply in-doc to Albert's `@Albert:` comments and revise `p3.md`** into a self-contained P3 summary; then Albert chooses which extension threads (A1-A4) to open. Discussion: [`p3_genetics/p3.md`](p3_genetics/p3.md).
-- [ ] **IR3v (rater) then CPE - R3: IR3v Pass 2 in progress.** Checklist sent by Albert 2026-10-14; the rater has started. Waiting on the rater; then CPE processes Pass 2 (99 unique frames, duplicate excluded) and replaces the provisional IR3v numbers in the paper. Discussion: [`r3_image_labeling/r3.md`](r3_image_labeling/r3.md).
-- [ ] **CPE - R4: code the public-records response when it arrives** and replace the `[ASSUMED -- pending FOIA]` text in the paper. Status: [`r4_non-isolation_standards_and_practice/wrk/foia_status.md`](r4_non-isolation_standards_and_practice/wrk/foia_status.md).
-- [ ] **CPE - paper: extend the draft** as Albert's review comments and pending data come in. Notes: [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
-
-## In review (waiting on Albert)
-
-- [ ] **Albert - review the paper draft** [`tex/main.tex`](tex/main.tex): read the drafted sections, check the two assumption blocks (FOIA, IR3v coding) and answer the 7 open decisions. Leave `@Albert:` lines in [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
-- [ ] **Albert - R3: choose the rater-morphology figure set** (15 drafts; suggested c0, c2, g2, h, j). Comment on each `@Albert:` line in [`r3_image_labeling/wrk/viz_figures_review.md`](r3_image_labeling/wrk/viz_figures_review.md). CPE then regenerates finals into `ir-results/`.
-- [ ] **Albert - R3: resolve CRO label coding questions** (rounded vs "round cells", vacuolation vs "bright vesicles", refractile vs "bright reflective points", hedged mentions, shared two-frame descriptions, path1 202 "101" typo, group-level notes, CSV rename, CRO briefing-condition assignment). Answer inline in [`r3_image_labeling/cro-results/cro_labels_consolidation.md`](r3_image_labeling/cro-results/cro_labels_consolidation.md). CPE then applies them in `build_cro_labels.py`.
-
-## Done
-
-- [x] 2026-10-14 - Albert/CPE - R3 duplicate frame decision: `CultureB_day4_08` (= `CultureB_day4_07`) excluded for all raters via [`frames_excluded_from_analysis.csv`](r3_image_labeling/frames_excluded_from_analysis.csv); results, figures and paper recomputed on 99 unique frames (50 A / 49 B). Note: [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
-- [x] 2026-10-14 - CPE - R1/R2: VI47 merged into VI29 (same article; row and duplicate PDF removed); R2 now 173 rows (A/B/C/D 11/38/14/110). Mislabelled VI44 dengue PDF deleted. See [`r2.md`](r2_negative_controls/r2.md).
-- [x] 2026-10-14 - CPE - IR3v Pass 1 recorded in `r3_image_labeling/ir-results/` (`ir3v_*`, `IR3v_pass1_side_by_side.md`) with the rater's clarifications applied; figures regenerated; paper numbers updated.
-- [x] 2026-10-14 - CPE - `tex/` split into `sections/` and `tables/` (driver `main.tex`; compiles).
-- [x] 2026-10-14 - CPE - P3 superseded attempts moved to [`p3_genetics/archive/`](p3_genetics/archive/README.md) with an index.
-- [x] 2026-10-14 - CPE - R2 174 vs 170 rows explained in [`r2.md`](r2_negative_controls/r2.md); VI44 PDF identified as an old ID collision (not renamed).
-- [x] 2026-10-14 - CPE - Paper skeleton started in `tex/main.tex` (PLOS Biology structure); notes in `tex/wrk/paper_notes.md`.
-- [x] 2026-10-14 - CPE - One literature catalogue per stream; redundant wishlists removed (see table below).
-- [x] 2026-10-14 - CPE - `cro_labels_consolidation.md` re-encoded as clean UTF-8 (one Windows-1252 byte fixed).
-- [x] 2026-10-06 - CPE - R3 Pass-2 checklist results processed into `r3_image_labeling/ir-results/`.
+Each item names an assignee (**Albert** or **CPE**, the research assistant) and links the file where its discussion lives. Per-stream details live in that stream's `rN.md` / `pN.md`; this file is the cross-stream priority list.
 
 ---
 
-## Literature catalogues (one per stream)
+## Mini-paper candidates (flagged 2026-11-18)
 
-PDFs go in the gitignored `refs/` folder named below; never commit PDFs.
+P2 and P3 are wrapped and carry a self-contained **"in one screen" mini-paper summary** at the top of their `p*.md` (consumable for `tex/` drafting). The streams below are at the same "wrapped / almost wrapped" stage and are **prime for the same treatment**. Albert to instruct the owning agent.
 
-| Stream | Catalogue / wishlist | Have / used / still needed | Drop folder |
+| Stream | State | Prime? | Action |
 |---|---|---|---|
-| P2 | Bibliography [`P2_bibliography.md`](p2_virus_EV_indistinguishable_refs/P2_bibliography.md) · unused [`P2_bibliography_unused.md`](p2_virus_EV_indistinguishable_refs/P2_bibliography_unused.md) · wishlist [`P2_pdf_wishlist.md`](p2_virus_EV_indistinguishable_refs/P2_pdf_wishlist.md) (gitignored) | 97 screened / 57 useful / 40 P2-0xx + 8 seed PDFs on disk / 38 quoted / 0 needed | `p2_virus_EV_indistinguishable_refs/refs/` |
-| P3 | Catalogue [`P3_pdf_catalogue.md`](p3_genetics/sequence_origins/P3_pdf_catalogue.md) · wishlist [`P3_pdf_wishlist.md`](p3_genetics/P3_pdf_wishlist.md) (gitignored) | 181 bibliography entries / OB150 upgrade done (CNJ150→OB150) / A3 census 27 divergent·0 unclear·1 clean / 3 outstanding fetch rows (P3-027, P3-030, P3-033) | `p3_genetics/refs/sequence_origins/` |
-| R2 | [`R2_pdf_wishlist.md`](r2_negative_controls/R2_pdf_wishlist.md) | 173 scored rows / 7 Tier-D upgrades wanted (optional) | `r1_isolation_standards_and_practice/refs/` |
-| R1 | [`R1_pdf_wishlist.md`](r1_isolation_standards_and_practice/R1_pdf_wishlist.md) | 7 paywall + 11 abstract + few leads still to fetch | `r1_isolation_standards_and_practice/refs/` |
-| P1 | [`P1_BIBLIOGRAPHY.md`](p1_history/P1_BIBLIOGRAPHY.md) | closed for drafting | `p1_history/refs/` |
-| R5 | Bib [`R5_bibliography.md`](r5_precell_virus_purification_census/R5_bibliography.md) · unused [`R5_bibliography_unused.md`](r5_precell_virus_purification_census/R5_bibliography_unused.md) · wishlist [`R5_pdf_wishlist.md`](r5_precell_virus_purification_census/R5_pdf_wishlist.md) (gitignored) | scaffold + Round 1 seeds; provisional; fetch needed | `r5_precell_virus_purification_census/refs/` |
+| **P4** serology / antigen | Almost wrapped — provenance arm supported; reactivity arm supported-but-narrower; conclusion + adversarial balance written | **Prime now** | Add one-screen summary to top of `p4_serology_antigen/p4.md` |
+| **P7** cross-lab repeatability | Wrapped — 18 rows all `[VERIFIED src]`; CNJ057 verdict written; 13 snippets | **Prime now** | Add one-screen summary to top of `p7_cross_lab_repeatability/p7.md` |
+| **P1** history | Closed for drafting (`P1_for_paper.md` is the closed package) | **Prime (light)** | Optionally standardize a one-screen summary in `p1_history/p1.md` to match P2/P3 |
+| **R2** negative controls | Frozen — 173 rows (A/B/C/D 12/40/14/107); snippets ready | **Prime (light)** | Add one-screen summary to top of `r2_negative_controls/r2.md` |
+| **R1** isolation corpus | Core done; paste-ready `R1_for_paper_2026-09-19.md` | **Blocked on data hygiene** | Freeze numbers first (Priority 3) |
+| **R3** image labeling | IR1/IR2 done; IR3v Pass 2 pending | **Blocked on IR3v Pass 2** | Finalize after Pass 2, then summarize |
+
+Not prime (do not instruct yet): **P5** (not started), **P6** (not started), **R4** (parked — FOIA), **R5** (scaffold + Round 1), **R6** (scaffold + Round 1).
+
+---
+
+## Priority 1 — blocking the paper
+
+- [ ] **Albert — review the paper draft** [`tex/main.tex`](tex/main.tex): read the drafted sections, check the two assumption blocks (FOIA, IR3v), and answer the 7 open decisions in [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
+- [ ] **IR3v rater → CPE — R3 IR3v Pass 2.** Checklist sent 2026-10-14; rater has started. CPE processes Pass 2 (99 unique frames) and replaces the provisional IR3v numbers in the paper. [`r3_image_labeling/r3.md`](r3_image_labeling/r3.md).
+- [ ] **Albert — R3 figure set (Fig 2).** Choose the rater-morphology figures (15 drafts; suggested c0, c2, g2, h, j). [`r3_image_labeling/wrk/viz_figures_review.md`](r3_image_labeling/wrk/viz_figures_review.md).
+- [ ] **Albert — R3 CRO label coding questions** (rounded vs "round cells", vacuolation vs "bright vesicles", refractile vs "bright reflective points", hedged mentions, shared two-frame descriptions, path1 "101" typo, group-level notes, CSV rename, briefing-condition assignment). [`r3_image_labeling/cro-results/cro_labels_consolidation.md`](r3_image_labeling/cro-results/cro_labels_consolidation.md).
+- [ ] **CPE — extend the paper draft** as Albert's review comments and pending data come in. [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
+
+## Priority 2 — prime streams → mini-papers
+
+- [ ] **CPE — P4 mini-paper.** Write a self-contained "in one screen" summary at the top of [`p4_serology_antigen/p4.md`](p4_serology_antigen/p4.md) (prediction → methods → results → adversarial balance → conclusion → paper integration).
+- [ ] **CPE — P7 mini-paper.** Same treatment for [`p7_cross_lab_repeatability/p7.md`](p7_cross_lab_repeatability/p7.md).
+- [ ] **CPE — P1 summary.** Standardize a one-screen summary at the top of [`p1_history/p1.md`](p1_history/p1.md) (source: `P1_for_paper.md`).
+- [ ] **CPE — R2 mini-paper.** One-screen summary at the top of [`r2_negative_controls/r2.md`](r2_negative_controls/r2.md).
+
+## Priority 3 — unblock the near-prime streams
+
+- [ ] **CPE — R1 data hygiene (before Results freeze).** DOI backfill in `isolation-refs.csv`; reconcile the FBS parse drift (`fbs_coded=yes` 166 vs plotter 169 vs archived dual 170); resolve the 11 abstract-only rows (fetch list in `R1_pdf_wishlist.md` §B); run the full enrichment sweep (TPB/LAH/yeast/peptone). [`r1_isolation_standards_and_practice/r1.md`](r1_isolation_standards_and_practice/r1.md).
+- [ ] **CPE — R2 VI117 control-tier scoring.** Score Deig/Rie/Watkins 1970 (uninfected monolayers degenerate under 1–2% FCS maintenance) A–D. [`r2_negative_controls/r2.md`](r2_negative_controls/r2.md). *(Not a blocker; VI271 is the only outstanding wishlist row — a CDC web page, optional, stays D.)*
+
+## Priority 4 — research streams in flight
+
+- [ ] **CPE — R5 census.** Fetch `R5W-*` PDFs (Albert drops; CPE confirms), run Rounds 2–5, freeze counts; finalize `R5_synthesis.md` + `CLAIMS.md`. [`r5_precell_virus_purification_census/r5.md`](r5_precell_virus_purification_census/r5.md).
+- [ ] **CPE — R6 mechanisms.** Fetch `R6-0xx` PDFs, run Rounds 2–5, confirm R6-004 peer-review status, freeze → `R6_synthesis.md`. [`r6_nonviral_morphology_mechanisms/r6.md`](r6_nonviral_morphology_mechanisms/r6.md).
+
+## Parked / waiting
+
+- [ ] **R4 — PARKED until the FOIA meeting (Monday).** Hold the non-isolation protocol/practice search and the landscape survey until the FOIA-team meeting outcome. Then code the public-records response and replace the `[ASSUMED -- pending FOIA]` text. [`r4_non-isolation_standards_and_practice/r4.md`](r4_non-isolation_standards_and_practice/r4.md) · [`wrk/foia_status.md`](r4_non-isolation_standards_and_practice/wrk/foia_status.md).
+- [ ] **P5 / P6 — not started.** Formalized predictions exist (`P5_prediction.md`, `P6_prediction.md`). Decide start vs schedule vs reshape after the paper core lands. [`P4_P7_index.md`](P4_P7_index.md).
+
+---
+
+## Stale / completed items — removed this pass (annotated)
+
+Removed because completed or superseded; outcomes live in the stream files they linked and in git history.
+
+- **R2 full-text fetch** (VI44/VI239/VI240/VI243/VI249/VI251/VI266/VI267/VI270/VI271) — **completed 2026-11-18** (Pass4 re-score: VI249→A, VI266→B, VI267→B; only VI271 remains — a CDC web page, optional, stays D).
+- **P3 in-doc reply + revise `p3.md`** — **completed** (`p3.md` now opens with the mini-paper; all `@Albert:` notes resolved).
+- **P4–P7 "start now / schedule later / reshape"** — **superseded**: P4 and P7 have started (and are now prime for mini-papers); P5/P6 remain not started. `P4_P7_index.md`'s Status column is stale and should be updated to reflect this.
+- Older "Done" entries (2026-10-06 … 2026-10-14) — removed; outcomes recorded in the stream files.
 
 ---
 
 ## Conventions
 
-- Every item names an assignee and links to its discussion file. Albert comments there as `@Albert:`; CPE replies below as `@CPE:`.
-- Items move Not started -> In progress -> In review -> Done; Done entries get a date and a one-line outcome.
+- Every item names an assignee and links its discussion file. Albert comments there as `@Albert:`; CPE replies as `@CPE:`.
+- Items move Not started → In progress → In review → Done; Done entries are pruned from this file (outcomes recorded in the stream).
 - Working notes go in tracked `wrk/` folders. Public-safe language and role codes only (CRO, IR1, IR2, IR2v, IR3v).
