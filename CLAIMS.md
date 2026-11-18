@@ -175,14 +175,14 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   two panels; Stream: P7.)*
 
 - **OB028 · Observation** — **Origin/type genome deposits are predominantly culture-derived.** The Step 1
-  genome-origin census (102 origin/confirmation events, all `chain_closed`, 0 open) finds 82 of 102 (80%)
-  deposit events document culture-propagated sample production — 37 (36%) with a culture+CPE/plaque/syncytia
-  warrant, 45 (44%) culture without stated CPE — versus 11 (11%) clinical-direct and 9 (9%) other
+  genome-origin census (109 origin/confirmation events, all `chain_closed`, 0 open) finds 86 of 109 (79%)
+  deposit events document culture-propagated sample production — 39 (36%) with a culture+CPE/plaque/syncytia
+  warrant, 47 (43%) culture without stated CPE — versus 12 (11%) clinical-direct and 11 (10%) other
   (eggs/animal/synthetic). Coding used a documentary soft bar (method↔deposit within reasonable doubt) and
   passed a quality audit (0 of 24 re-read borderlines re-scored). This is the census premise that justifies
   looking for downstream ambiguity in the viral-genetics literature (OB150). *(Evidence: [VERIFIED src]
   `p3_genetics/sequence_origins/P3_sequence_origin_events.csv`, `P3_step1_path_type_map_2026-09-21.md`;
-  Status: established-scoped — documentary census of 102 events, not a random taxonomy sample; Stream P3.)*
+  Status: established-scoped — documentary census of 109 events, not a random taxonomy sample; Stream P3.)*
 
 - **OB080 · Observation** — **The Isolation/titration endpoint is the least reproducible of the methods
   compared.** Across the first-class Isolation/titration panels that reported both a cell-culture endpoint and
@@ -318,15 +318,18 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   and "imaged" before cell culture were repeatedly documented as corrigible, unreliable, or correlational rather
   than demonstrative: Stanley's 1935 "crystalline protein" was corrected within a year to a liquid-crystalline
   nucleoprotein (Bawden, Pirie, Bernal & Fankuchen 1936); "purified" influenza from eggs co-purified with a normal
-  allantoic-fluid component sharing serological reactivity with the virus (Friedewald 1944); the settled negative
+  allantoic-fluid component sharing serological reactivity with the virus (Knight 1944); the settled negative
   that poliovirus would not grow outside nervous tissue (Sabin & Olitsky 1936) was overturned in 1949; and the
   egg/animal route lacked a live readout and could not grow viruses lacking that host. CNJ058 predicts the record
   will show **recognized defects and reversals** (not silence) motivating the cell-culture transition — that cell
   culture was adopted as a *supposedly better* method amid documented dissatisfaction with its predecessors,
   rather than as a merely cheaper replacement of validated techniques. *(Follows from none — a standalone
-  empirical prediction; Status: predicted; tested by the R5-B evidence audit + a documentation survey of the
+  empirical prediction; Status: supported (2026-11-18 — R5 census + evidence audit: documented defects and reversals
+  [Stanley→nucleoprotein; Smadel "impurities"; Knight "ambiguous"; Sabin–Olitsky settled-negative] alongside cost
+  framing [Enders Nobel], i.e. necessary-advancement-with-pragmatic-incentive, not replacement of validated
+  methods); tested by the R5-B evidence audit + a documentation survey of the
   1920–1950 methods literature. Reject if the record instead shows the prior methods were held adequate and
-  adoption was driven purely by cost/convenience. Stream R5.)*
+  adoption was driven purely by cost/convenience — not rejected: the record shows both strands, the defect strand decisive, *refined by ADVR063* (the earlier methods were reliable-in-domain, so "narrow + indirect + unscalable" better names the motive than "unreliable"). Stream R5.)*
 
 - **CNJ059 · Conjecture (R6)** — **A generic stress/death pathway suffices to produce CPE-classified morphology
   and plaque-like clearing.** Under the working assumption that the inoculation step adds no virus, the
@@ -399,6 +402,29 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 - **ADVR062 · Counterexample** — **No Tier A control falsified its test culture.** Even among the 11 Tier A
   papers, none reported CPE in the matched-milieu negative control (OB023); this is a nil counter to the
   concern and is reported as such. *(Follows from OB023.)*
+
+- **ADVR063 · Counterexample** — **The pre-cell-culture methods were durable and gold-standard, not unreliable.**
+  Against CNJ058's "unreliable / failing their own tests" phrasing: (i) TMV's 1935 crystallization → 1936
+  nucleoprotein correction → 1939 EM → 1941 X-ray anticipated Franklin's 1955–58 helical structure (49 sub-units /
+  3 turns / 69 Å repeat) and the 1978 atomic model — the early results were largely *correct and refined*, not
+  overturned; (ii) the analytical ultracentrifuge (Svedberg 1926–27) that measured TMV's mass in 1936 is described
+  to this day as a "first-principle … gold standard … absolute" method; (iii) the embryonated-egg route to
+  influenza still supplies ~89% of ~1.5 billion annual vaccine doses (industry perspective, 2025); and (iv) the
+  Stanley→nucleoprotein correction was prompt, published self-correction within a year — scientific health, not
+  "mistake never re-hashed." This **narrows, not negates**, CNJ058: its *transmission-and-correlation / corrigible*
+  core stands, but its *reliability* charge is too strong. The earlier methods were **reliable in their narrow
+  domains** (plant virus, phage, egg-grown influenza); cell culture's win is better attributed to **generality + a
+  live readout + preparable scale** than to unreliability. *(Follows from R5; Stream R5.)*
+
+- **ADVR064 · Counterexample** — **Physical reliability is not etiological demonstration.** Against reading the
+  pre-1949 results as "successfully detecting/isolating a disease-causing agent": the durable physical
+  characterizations (TMV structure confirmed through Franklin 1955–58 and the 1978 atomic model; the ultracentrifuge
+  a lasting gold standard) establish only that the *purified component* is real and regular — correct structure ≠
+  proof of disease causation. Egg-based influenza manufacturing is adopted technology, not causal evidence, and
+  the Stanley 1935→1936 "pure protein" episode is an error corrected, not a success. Cell culture added generality
+  + a live readout + scale, not a new causal demonstration. **Continuity, not contrast:** neither the pre-1949
+  warrant nor CPE demonstrates a disease-causing agent — both read disease/death/morphology as "agent present."
+  *(Bounds CNJ058's "unreliable" overreach; Stream R5.)*
 
 ---
 
