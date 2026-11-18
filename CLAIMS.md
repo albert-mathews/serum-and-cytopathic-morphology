@@ -140,10 +140,10 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   drop at inoculation — verbatim audit (2026-11-14)"; table `tex/tables/rationale.tex`; Status: established; Stream: R1.)*
 
 - **OB023 · Observation** — **Matched-medium controls are rare.** Of the scored Isolation-paper rows
-  (~173), 11 are Tier A (matched-maintenance mock), 38 Tier B (match unverifiable), 14 Tier C (wrong
-  stage/mismatch), 110 Tier D (none described). No Tier A paper reports CPE in its negative control.
+  (173), 12 are Tier A (matched-maintenance mock), 40 Tier B (match unverifiable), 14 Tier C (wrong
+  stage/mismatch), 107 Tier D (none described). No Tier A paper reports CPE in its negative control.
   *(Evidence: [VERIFIED corpus] `r2_…/control-cultures-overview.csv`; Status: established; Stream: R2.
-  Canonical pass = 173 rows (A/B/C/D 11/38/14/110).)*
+  Canonical pass = 173 rows (A/B/C/D 12/40/14/107, re-scored 2026-11-18: VI249→A, VI266→B, VI267→B).)*
 
 - **OB024 · Observation** — **CRO medium-only effect (A vs B).** On the 22 CRO-described frames, CPE-type
   terms were named on 1 of 9 Culture A (10% FBS) and 10 of 13 Culture B (2% FBS) frames; Culture B's
@@ -283,12 +283,16 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 - **CNJ052 · Conjecture (P2)** — **Purification will not restore dualism.** Purification/EM of culture
   products will not provide a method that uniquely separates extracellular vesicles from "virions" by
   physical parameters alone; the EV literature's indistinguishability reports are the expected pattern.
-  *(Predicted; follows from CNJ050; Evidence: [VERIFIED src] P2 corpus `p2_…/P2_screened.csv` n=97,
-  `P2_useful.csv` n=57 — non-retrovirus primaries (KSHV P2-084; influenza A SXC P2-085; rotavirus P2-089
-  / Santiana P2-094; dengue P2-096; SARS-CoV-2 P2-090), pre-1997 historical primaries (P2-081/082/083/086,
-  1954–1972), and
-  naked-virus EV enclosure + separation caveat (P2-093/095, 2018–2026); bounds: CD63 affinity (P2-084) and
-  adapted Ficoll (P2-088) separate conditionally, cf. ADVR061. Streams P2.)*
+  *(Predicted — pattern-confirmed but not upgraded: the literature documents the multi-metric,
+  multi-family, historically-deep co-purification (1954→2026), yet separation remains forceable only
+  under marker-/method-conditional schemes, so the "will not provide a label-free uniqueness" claim
+  holds as a conjecture rather than an elimination. Follows from CNJ050; Evidence: [VERIFIED src] P2
+  corpus `p2_…/P2_screened.csv` n=101, `P2_useful.csv` n=61, quoted n=42 — non-retrovirus primaries (KSHV
+  P2-084; influenza A SXC P2-085; rotavirus P2-089 / Santiana P2-094; reovirus P2-097; polyomavirus JC/BK
+  P2-099/100; dengue P2-096; SARS-CoV-2 P2-090), pre-1997 historical primaries (P2-081/082/083/086,
+  1954–1972), naked-virus EV enclosure + separation caveat (P2-093/095, 2018–2026), and present-day
+  restatements (P2-098 "no universal methodology," 2023; P2-093 2026 Box 1); bounds: CD63 affinity
+  (P2-084) and adapted Ficoll (P2-088) separate conditionally, cf. ADVR061. Streams P2.)*
 
 - **CNJ053 · Conjecture (P3)** — **Genome claims inherit the endpoint.** Sequence/database claims that rest
   on CPE-defined Isolates inherit the under-determination of the endpoint that declared them positive.
@@ -399,7 +403,7 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   fluorescent envelope marker, while acknowledging general biochemical indistinguishability; this bounds
   the P2 claim (CNJ052) to standard/untargeted methods. *(Evidence: [VERIFIED src] P2-071; Streams P2.)*
 
-- **ADVR062 · Counterexample** — **No Tier A control falsified its test culture.** Even among the 11 Tier A
+- **ADVR062 · Counterexample** — **No Tier A control falsified its test culture.** Even among the 12 Tier A
   papers, none reported CPE in the matched-milieu negative control (OB023); this is a nil counter to the
   concern and is reported as such. *(Follows from OB023.)*
 
