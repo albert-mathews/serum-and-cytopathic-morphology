@@ -1,4 +1,4 @@
-# IR results (independent researchers — IR1, IR2)
+# IR results (independent researchers — IR1, IR2, IR3v)
 
 Analogous to ../cro-results/, built from independent-researcher Pass 1 free-text and Pass 2 checklist deliverables (source documents kept in gitignored local project folders). IR1 and IR2 were both blind to culture conditions and used the same two-pass instrument.
 
@@ -16,9 +16,11 @@ Analogous to ../cro-results/, built from independent-researcher Pass 1 free-text
 | cpe_detection_results_ir2.json | cpe_detection_results_cro.json | IR2 per-image compact JSON |
 | cpe_detection_results_ir2_cro_overlap.json | (subset) | IR2 overlap-only compact JSON |
 | cpe_detection_results_ir2_gk.json | cpe_detection_results_cro_gk.json | IR2 full text (Pass 1), checklist (Pass 2); confluency is null |
-| ir3v_pass1_text.csv | — | IR3v Pass-1 verbatim text, 99 unique frames (Pass 2 in progress) |
+| ir3v_pass1_text.csv | — | IR3v Pass-1 verbatim text, 99 unique frames |
 | ir3v_cpe_detections.csv | ir2_cpe_detections.csv | IR3v clarified Pass-1 coding: IR3v_Dy/Ro/V/D/G/Re/BE/Sy/CS/ND + Vsingle, Proj_mentioned, Proj_coded (blank) |
 | IR3v_pass1_descriptor_comparison.csv / IR3v_pass1_side_by_side.md | — | IR3v Pass 1: shared-lexicon vs clarified incidence by arm; comparison with IR1/IR2/CRO; coding rules |
+| IR1_IR2_IR3v_pass2_checklist_comparison.csv | — | Pass 2 graded mean + incidence per item, rater (IR1/IR2/IR3v) × arm (A/B) |
+| IR1_IR2_IR3v_pass2_pair_agreement.csv | — | Pass 2 per-item exact agreement + weighted κ for IR1–IR2, IR1–IR3v, IR2–IR3v |
 | IR1_IR2_pass1_descriptor_comparison.csv / IR1_IR2_pass1_side_by_side.md | — | Pass 1 lexical descriptor incidence, IR1 vs IR2 |
 | IR1_IR2_pass2_checklist_comparison.csv | — | Pass 2 strict incidence + mean graded score per item, rater, arm |
 | IR1_IR2_pass2_item_agreement.csv | — | Pass 2 per-item IR1–IR2 agreement (% and κ; all / per arm) |
