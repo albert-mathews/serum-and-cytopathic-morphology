@@ -140,12 +140,12 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   drop at inoculation — verbatim audit (2026-11-14)"; table `tex/tables/rationale.tex`; Status: established; Stream: R1.)*
 
 - **OB023 · Observation** — **Matched-medium controls are rare.** In the R1 category-1 Isolation-practice
-  universe (181 unique papers; R2 follows R1 — see `r2_negative_controls/r2.md` concordance rule), the **156
-  papers scored to date** give 12 Tier A (matched-maintenance mock), 40 Tier B (match unverifiable), 14 Tier C
-  (wrong stage/mismatch), and 90 Tier D (none described). No Tier A paper reports CPE in its negative control.
+  universe (181 unique papers; R2 follows R1 — see `r2_negative_controls/r2.md` concordance rule), fully
+  scored as of 2026-11-19: 14 papers are Tier A (matched-maintenance mock), 44 Tier B (match unverifiable),
+  20 Tier C (wrong stage/mismatch), and 103 Tier D (none described). No Tier A paper reports CPE in its
+  negative control.
   *(Evidence: [VERIFIED corpus] `r2_…/control-cultures-overview.csv` (`r2_universe=yes`);
-  `r2_…/wrk/r1_r2_reconciliation_2026-11-19.md`; Status: established-scoped — 25 category-1 papers pending score;
-  17 former overview rows left the universe as category-2/3 moves, drops, or R1 consolidations; Stream: R2.)*
+  `r2_…/wrk/r1_r2_reconciliation_2026-11-19.md`; Status: established — 181/181 scored; Stream: R2.)*
 
 - **OB024 · Observation** — **CRO medium-only effect (A vs B).** On the 22 CRO-described frames, CPE-type
   terms were named on 1 of 9 Culture A (10% FBS) and 10 of 13 Culture B (2% FBS) frames; Culture B's
@@ -406,7 +406,7 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   fluorescent envelope marker, while acknowledging general biochemical indistinguishability; this bounds
   the P2 claim (CNJ052) to standard/untargeted methods. *(Evidence: [VERIFIED src] P2-071; Streams P2.)*
 
-- **ADVR062 · Counterexample** — **No Tier A control falsified its test culture.** Even among the 12 Tier A
+- **ADVR062 · Counterexample** — **No Tier A control falsified its test culture.** Even among the 14 Tier A
   papers, none reported CPE in the matched-milieu negative control (OB023); this is a nil counter to the
   concern and is reported as such. *(Follows from OB023.)*
 
