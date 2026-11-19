@@ -47,6 +47,10 @@ in tracked files, commit messages, branch names, or headings.
 
 ## 6. File placement
 - Full-text PDFs only under gitignored `refs/`. Never commit PDFs or other copyrighted full texts.
+- **Full-text extract dumps** (pymupdf / OCR of a paper's whole text) are never written to a tracked path.
+  Put them in a gitignored folder — the stream's `refs/` (ignored via `**/refs/`) or a `_pdf_extract_tmp/`
+  folder — where they may be retained for future reuse. Only quote-sized, attributable extracts live in
+  tracked files (`wrk/`, notes, CSVs).
 - Working/scratch notes under tracked `wrk/`. No new top-level scratch files.
 - Quotes stay quote-sized and attributable; never paste a whole paper into a tracked file.
 
@@ -76,6 +80,10 @@ in tracked files, commit messages, branch names, or headings.
   that item use the code.
 - A scanned (image-only) PDF is OCR'd with `tools/ocr_pdf.py` before extraction; improvements go back into
   that tool so future agents inherit them (see `tools/README.md`).
+- **Non-CPE control outcomes are still recorded.** When a control's outcome is reported via a *non-CPE*
+  endpoint (serology, immunofluorescence/antigen, RNA/PCR, viability, yield, particles), do not drop it as
+  "not described" — record the readout (tagged as non-CPE) in the corpus field/notes so another stream can
+  reuse it. "CPE not described" ≠ "nothing recorded."
 
 ## 9. Python environment (all agents)
 - Run all Python through the single shared venv `tools/venv` (gitignored), recreated from

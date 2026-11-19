@@ -17,4 +17,4 @@ Mapping from session letters:
 
 **Related open genetics extensions:** p3_genetics/p3.md § Genetics beyond current P3 (A1–A4).
 
-**Status note (2026-11-18):** P2 and P3 are wrapped and carry a self-contained "in one screen" mini-paper summary at the top of their `p*.md`. P4 and P7 are at the same stage and are prime for the same treatment; P5 and P6 remain not started.
+**Status note (2026-11-19):** P2 and P3 are wrapped and carry a self-contained "in one screen" mini-paper summary at the top of their `p*.md`; **P4 and P7 now also carry the one-screen summary (2026-11-19)**. P5 and P6 remain not started (research; their `P*_prediction.md` is the current artefact).

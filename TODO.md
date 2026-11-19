@@ -1,6 +1,6 @@
 # TODO - research roadmap
 
-Shared checklist for this repository. **Last updated:** 2026-11-18
+Shared checklist for this repository. **Last updated:** 2026-11-19
 
 Each item names an assignee (**Albert** or **CPE**, the research assistant) and links the file where its discussion lives. Per-stream details live in that stream's `rN.md` / `pN.md`; this file is the cross-stream priority list.
 
@@ -8,18 +8,18 @@ Each item names an assignee (**Albert** or **CPE**, the research assistant) and 
 
 ## Mini-paper candidates (flagged 2026-11-18)
 
-P2 and P3 are wrapped and carry a self-contained **"in one screen" mini-paper summary** at the top of their `p*.md` (consumable for `tex/` drafting). The streams below are at the same "wrapped / almost wrapped" stage and are **prime for the same treatment**. Albert to instruct the owning agent.
+P2 and P3 are wrapped and carry a self-contained **"in one screen" mini-paper summary** at the top of their `p*.md` (consumable for `tex/` drafting). As of **2026-11-19**, **P4, P7, R5, and R6** also open with a one-screen summary (R6's is **frozen**); **P1, R2, and R3 mini-papers remain outstanding**. Albert to instruct the owning agent for the remaining items.
 
 | Stream | State | Prime? | Action |
 |---|---|---|---|
-| **P4** serology / antigen | Almost wrapped — provenance arm supported; reactivity arm supported-but-narrower; conclusion + adversarial balance written | **Prime now** | Add one-screen summary to top of `p4_serology_antigen/p4.md` |
-| **P7** cross-lab repeatability | Wrapped — 18 rows all `[VERIFIED src]`; CNJ057 verdict written; 13 snippets | **Prime now** | Add one-screen summary to top of `p7_cross_lab_repeatability/p7.md` |
+| **P4** serology / antigen | Almost wrapped — provenance arm supported; reactivity arm supported-but-narrower; conclusion + adversarial balance written | **Prime now** | ✅ **Done (2026-11-19)** — `p4.md` opens with "In one screen" |
+| **P7** cross-lab repeatability | Wrapped — 18 rows all `[VERIFIED src]`; CNJ057 verdict written; 13 snippets | **Prime now** | ✅ **Done (2026-11-19)** — `p7.md` opens with "In one screen" |
 | **P1** history | Closed for drafting (`P1_for_paper.md` is the closed package) | **Prime (light)** | Optionally standardize a one-screen summary in `p1_history/p1.md` to match P2/P3 |
 | **R2** negative controls | Frozen — 173 rows (A/B/C/D 12/40/14/107); snippets ready | **Prime (light)** | Add one-screen summary to top of `r2_negative_controls/r2.md` |
-| **R5** pre-cell purification census | Wrapped — `R5_synthesis.md` drafted from 29 sources; CNJ058 "supported"; paper-ready prose + adversarial balance | **Prime now** | Add one-screen summary to top of `r5_precell_virus_purification_census/r5.md` |
-| **R6** non-viral mechanisms | Framework wrapped — 12 mechanisms, most `[VERIFIED src]`; corpus + bibliography finalized ("R6 wrap up") | **Prime (one step)** | Write `R6_synthesis.md` + upgrade CNJ059, then one-screen summary in `r6_nonviral_morphology_mechanisms/r6.md` |
+| **R5** pre-cell purification census | Wrapped — `R5_synthesis.md` drafted from 29 sources; CNJ058 "supported"; paper-ready prose + adversarial balance | **Prime now** | ✅ **Done (2026-11-19)** — `r5.md` opens with "In one screen" |
+| **R6** non-viral mechanisms | Framework wrapped — 12 mechanisms, most `[VERIFIED src]`; corpus + bibliography finalized ("R6 wrap up") | **Prime (one step)** | ✅ **Done (2026-11-19)** — one-screen summary + `R6_synthesis.md` written; **CNJ059 → LM059** (Lemma, established-scoped) |
 | **R1** isolation corpus | Core done; paste-ready `R1_for_paper_2026-09-19.md` | **Blocked on data hygiene** | Freeze numbers first (Priority 3) |
-| **R3** image labeling | IR1/IR2 done; IR3v Pass 2 pending | **Blocked on IR3v Pass 2** | Finalize after Pass 2, then summarize |
+| **R3** image labeling | Data complete — CRO + IR1/IR2 (both passes) + IR3v (both passes) incorporated | **Prime (light)** | Add one-screen summary to top of `r3_image_labeling/r3.md`; paper-level items (Fig 2, CRO labels, stats) remain |
 
 Not prime (do not instruct yet): **P5** (not started), **P6** (not started), **R4** (parked — FOIA).
 
@@ -28,19 +28,21 @@ Not prime (do not instruct yet): **P5** (not started), **P6** (not started), **R
 ## Priority 1 — blocking the paper
 
 - [ ] **Albert — review the paper draft** [`tex/main.tex`](tex/main.tex): read the drafted sections, check the two assumption blocks (FOIA, IR3v), and answer the 7 open decisions in [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
-- [ ] **IR3v rater → CPE — R3 IR3v Pass 2.** Checklist sent 2026-10-14; rater has started. CPE processes Pass 2 (99 unique frames) and replaces the provisional IR3v numbers in the paper. [`r3_image_labeling/r3.md`](r3_image_labeling/r3.md).
 - [ ] **Albert — R3 figure set (Fig 2).** Choose the rater-morphology figures (15 drafts; suggested c0, c2, g2, h, j). [`r3_image_labeling/wrk/viz_figures_review.md`](r3_image_labeling/wrk/viz_figures_review.md).
 - [ ] **Albert — R3 CRO label coding questions** (rounded vs "round cells", vacuolation vs "bright vesicles", refractile vs "bright reflective points", hedged mentions, shared two-frame descriptions, path1 "101" typo, group-level notes, CSV rename, briefing-condition assignment). [`r3_image_labeling/cro-results/cro_labels_consolidation.md`](r3_image_labeling/cro-results/cro_labels_consolidation.md).
 - [ ] **CPE — extend the paper draft** as Albert's review comments and pending data come in. [`tex/wrk/paper_notes.md`](tex/wrk/paper_notes.md).
+- [ ] **CPE — verify VI16 vs VI203 control extraction.** The two papers produce near-identical control sentences ("scrapings … non-viral keratitis … none yielded HSV-1") in the R2 re-pass extracts; confirm they are two distinct papers (or one shared-control wording) and not a `_txt`/mapping cross-link, then lock each `nc_cpe_code=4` row. [`r2_negative_controls/r2.md`](r2_negative_controls/r2.md) · [`r2_negative_controls/wrk/nc_cpe_assignments.py`](r2_negative_controls/wrk/nc_cpe_assignments.py).
+- [ ] **CPE — recover VI43 verbatim quote.** VI43 has `nc_cpe_code=3` + free text but its extracted text was empty (no quote). Re-extract/OCR the persistent-SARS-CoV source and add a `nc_cpe_quote`, re-checking the code. [`r2_negative_controls/r2.md`](r2_negative_controls/r2.md) · [`r1_isolation_standards_and_practice/refs/isolation_practice/`](r1_isolation_standards_and_practice/refs/isolation_practice/).
 
 ## Priority 2 — prime streams → mini-papers
 
-- [ ] **CPE — P4 mini-paper.** Write a self-contained "in one screen" summary at the top of [`p4_serology_antigen/p4.md`](p4_serology_antigen/p4.md) (prediction → methods → results → adversarial balance → conclusion → paper integration).
-- [ ] **CPE — P7 mini-paper.** Same treatment for [`p7_cross_lab_repeatability/p7.md`](p7_cross_lab_repeatability/p7.md).
+- [x] **CPE — P4 mini-paper.** ✅ [`p4_serology_antigen/p4.md`](p4_serology_antigen/p4.md) opens with a self-contained "in one screen" summary (done 2026-11-19).
+- [x] **CPE — P7 mini-paper.** ✅ [`p7_cross_lab_repeatability/p7.md`](p7_cross_lab_repeatability/p7.md) opens with a self-contained "in one screen" summary (done 2026-11-19).
+- [x] **CPE — R5 mini-paper.** ✅ [`r5_precell_virus_purification_census/r5.md`](r5_precell_virus_purification_census/r5.md) opens with a self-contained "in one screen" summary (done 2026-11-19).
 - [ ] **CPE — P1 summary.** Standardize a one-screen summary at the top of [`p1_history/p1.md`](p1_history/p1.md) (source: `P1_for_paper.md`).
 - [ ] **CPE — R2 mini-paper.** One-screen summary at the top of [`r2_negative_controls/r2.md`](r2_negative_controls/r2.md).
-- [ ] **CPE — R5 mini-paper.** One-screen summary at the top of [`r5_precell_virus_purification_census/r5.md`](r5_precell_virus_purification_census/r5.md) (source: `R5_synthesis.md`).
-- [ ] **CPE — R6 freeze + mini-paper.** Write `R6_synthesis.md`, upgrade CNJ059 in `CLAIMS.md`, then one-screen summary at the top of [`r6_nonviral_morphology_mechanisms/r6.md`](r6_nonviral_morphology_mechanisms/r6.md).
+- [x] **CPE — R6 freeze.** ✅ [`R6_synthesis.md`](r6_nonviral_morphology_mechanisms/R6_synthesis.md) written (2026-11-19); **CNJ059 upgraded → LM059** (Lemma; Status `predicted` → `established-scoped`) in `CLAIMS.md`.
+- [ ] **CPE — R3 mini-paper.** One-screen summary at the top of [`r3_image_labeling/r3.md`](r3_image_labeling/r3.md) — the cross-stream "Evidence stack" section is written; the mini-paper is not.
 
 ## Priority 3 — unblock the near-prime streams
 
@@ -51,6 +53,7 @@ Not prime (do not instruct yet): **P5** (not started), **P6** (not started), **R
 
 - [ ] **CPE — R5 optional depth.** Fetch the 4 book-length sources + the optional Schlesinger secondary still on [`R5_pdf_wishlist.md`](r5_precell_virus_purification_census/R5_pdf_wishlist.md) if ever wanted; not needed for CNJ058.
 - [ ] **CPE — R6 optional fetch.** Remaining `R6-0xx` wishlist PDFs (depth only); confirm R6-004 peer-review status before any load-bearing use. [`r6_nonviral_morphology_mechanisms/r6.md`](r6_nonviral_morphology_mechanisms/r6.md).
+- [ ] **CPE — R3 figures: incorporate IR3v Pass 2 + regenerate.** Update `viz/raters.toml` (IR3v note still says "Pass 2 pending") and the `r3viz` figure code, then regenerate figures with Pass 2 data. Tied to the Fig 2 selection. [`r3_image_labeling/wrk/viz/`](r3_image_labeling/wrk/viz/).
 
 ## Parked / waiting
 
@@ -67,6 +70,8 @@ Removed because completed or superseded; outcomes live in the stream files they 
 - **P3 in-doc reply + revise `p3.md`** — **completed** (`p3.md` now opens with the mini-paper; all `@Albert:` notes resolved).
 - **P4–P7 "start now / schedule later / reshape"** — **superseded**: P4 and P7 have started (and are now prime for mini-papers); P5/P6 remain not started. `P4_P7_index.md`'s Status column **was updated 2026-11-18** to reflect this.
 - **`r5.md` / `r6.md` status headers + TODO lists are stale** — `r5.md`'s TODO (8 unchecked items) and `r6.md`'s "Scaffold + Round 1 seeds" header predate the actual work (`R5_synthesis.md` with 29 sources; `R6_mechanisms.md` with 12 `[VERIFIED src]` mechanisms; the "R6 wrap up" commit). Clean them as part of the R5/R6 mini-paper pass (Priority 2).
+- **IR3v Pass 2 (deliver + process + incorporate)** — **completed 2026-11-18**: the raw Pass 2 checklist was processed and its IR3v columns written into `r3_image_labeling/ir-results/IR1_IR2_IR3v_pass2_*_comparison.csv`. The only remaining piece (kept in Priority 1) is swapping the provisional `\prov{}` numbers into the paper text.
+- **IR3v Pass 2 paper swap** — **completed 2026-11-19**: `\prov{}` unwrapped and "Pass 2 in progress" markers removed in `tex/` (`results.tex`, `methods.tex`, `tables/r3-cpe-by-source.tex`, `discussion.tex`, `abstract.tex`); final IR3v Pass 2 figure (mean CPE-item score sum 2.98 vs 3.70) written in.
 - Older "Done" entries (2026-10-06 … 2026-10-14) — removed; outcomes recorded in the stream files.
 
 ---
