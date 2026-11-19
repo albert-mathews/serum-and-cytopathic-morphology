@@ -139,11 +139,13 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   *(Evidence: [VERIFIED src] `r1_…/institution-guideline-protocol-refs.md` "Rationale / justification for the serum
   drop at inoculation — verbatim audit (2026-11-14)"; table `tex/tables/rationale.tex`; Status: established; Stream: R1.)*
 
-- **OB023 · Observation** — **Matched-medium controls are rare.** Of the scored Isolation-paper rows
-  (173), 12 are Tier A (matched-maintenance mock), 40 Tier B (match unverifiable), 14 Tier C (wrong
-  stage/mismatch), 107 Tier D (none described). No Tier A paper reports CPE in its negative control.
-  *(Evidence: [VERIFIED corpus] `r2_…/control-cultures-overview.csv`; Status: established; Stream: R2.
-  Canonical pass = 173 rows (A/B/C/D 12/40/14/107, re-scored 2026-11-18: VI249→A, VI266→B, VI267→B).)*
+- **OB023 · Observation** — **Matched-medium controls are rare.** In the R1 category-1 Isolation-practice
+  universe (181 unique papers; R2 follows R1 — see `r2_negative_controls/r2.md` concordance rule), the **156
+  papers scored to date** give 12 Tier A (matched-maintenance mock), 40 Tier B (match unverifiable), 14 Tier C
+  (wrong stage/mismatch), and 90 Tier D (none described). No Tier A paper reports CPE in its negative control.
+  *(Evidence: [VERIFIED corpus] `r2_…/control-cultures-overview.csv` (`r2_universe=yes`);
+  `r2_…/wrk/r1_r2_reconciliation_2026-11-19.md`; Status: established-scoped — 25 category-1 papers pending score;
+  17 former overview rows left the universe as category-2/3 moves, drops, or R1 consolidations; Stream: R2.)*
 
 - **OB024 · Observation** — **CRO medium-only effect (A vs B).** On the 22 CRO-described frames, CPE-type
   terms were named on 1 of 9 Culture A (10% FBS) and 10 of 13 Culture B (2% FBS) frames; Culture B's
@@ -287,12 +289,13 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   multi-family, historically-deep co-purification (1954→2026), yet separation remains forceable only
   under marker-/method-conditional schemes, so the "will not provide a label-free uniqueness" claim
   holds as a conjecture rather than an elimination. Follows from CNJ050; Evidence: [VERIFIED src] P2
-  corpus `p2_…/P2_screened.csv` n=101, `P2_useful.csv` n=61, quoted n=42 — non-retrovirus primaries (KSHV
+  corpus `p2_…/P2_screened.csv` n=107, `P2_useful.csv` n=67, quoted n=48 — non-retrovirus primaries (KSHV
   P2-084; influenza A SXC P2-085; rotavirus P2-089 / Santiana P2-094; reovirus P2-097; polyomavirus JC/BK
-  P2-099/100; dengue P2-096; SARS-CoV-2 P2-090), pre-1997 historical primaries (P2-081/082/083/086,
-  1954–1972), naked-virus EV enclosure + separation caveat (P2-093/095, 2018–2026), and present-day
-  restatements (P2-098 "no universal methodology," 2023; P2-093 2026 Box 1); bounds: CD63 affinity
-  (P2-084) and adapted Ficoll (P2-088) separate conditionally, cf. ADVR061. Streams P2.)*
+  P2-099/100/102/103; HBV P2-101; HEV P2-104; dengue P2-096; WNV P2-105; SARS-CoV-2 P2-090), pre-1997
+  historical primaries (P2-081/082/083/086, 1954–1972), naked-virus EV enclosure + separation caveat
+  (P2-093/095, 2018–2026), and present-day restatements (P2-098 "no universal methodology," 2023; P2-093
+  2026 Box 1); bounds: CD63 affinity (P2-084), adapted Ficoll (P2-088), and SEC+affinity HBV depletion
+  (P2-106) separate conditionally, cf. ADVR061. Streams P2.)*
 
 - **CNJ053 · Conjecture (P3)** — **Genome claims inherit the endpoint.** Sequence/database claims that rest
   on CPE-defined Isolates inherit the under-determination of the endpoint that declared them positive.
