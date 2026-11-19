@@ -142,10 +142,12 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 - **OB023 · Observation** — **Matched-medium controls are rare.** In the R1 category-1 Isolation-practice
   universe (181 unique papers; R2 follows R1 — see `r2_negative_controls/r2.md` concordance rule), fully
   scored as of 2026-11-19: 14 papers are Tier A (matched-maintenance mock), 44 Tier B (match unverifiable),
-  20 Tier C (wrong stage/mismatch), and 103 Tier D (none described). Of the 14 matched (Tier A) controls, 9
-  were reported normal (no CPE), 4 were not described or ambiguous, and 1 (VI117) reported the no-virus control
-  showing the protocol's CPE descriptors (detachment, nonspecific degeneration) under low serum; a second paper,
-  VI111 (Tier B), reported control-tissue cultures developing CPE. "CPE" here = the institutional-protocol
+  20 Tier C (wrong stage/mismatch), and 103 Tier D (none described). Among the 14 matched (Tier A) controls,
+  coded by their own account of the control's CPE outcome (`nc_cpe_code`): 5 stated the control remained normal
+  / no CPE, 3 showed/noted the control without a cleanly stated CPE outcome, 5 named a control but never
+  described its CPE/morphology, and 1 (VI117) reported the no-virus control showing the protocol's CPE
+  descriptors (detachment, nonspecific degeneration) under low serum; a second paper, VI111 (Tier B), reported
+  control-tissue cultures developing CPE. "CPE" here = the institutional-protocol
   morphology descriptor set (CLSI M41 Table 7 + ASM `Cytopathic Effects of Viruses`), not an etiologic claim
   (see `r2_…/control-cultures.md` §7.5b).
   *(Evidence: [VERIFIED corpus] `r2_…/control-cultures-overview.csv` (`r2_universe=yes`);
@@ -407,12 +409,13 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   the P2 claim (CNJ052) to standard/untargeted methods. *(Evidence: [VERIFIED src] P2-071; Streams P2.)*
 
 - **ADVR062 · Counterexample** — **Matched controls mostly clear, but not nil.** Among the 14 matched (Tier A)
-  controls, 13 reported no CPE in the control (9 explicitly normal; 2 ambiguous; 2 not described), so the
-  "CPE is inoculum-specific under matched conditions" reading holds for 13/14 — but it is **not** an absolute
-  nil: one Tier A paper (VI117) reported the no-virus control showing the protocol's CPE descriptors
-  (detachment, nonspecific degeneration) under low serum, and one Tier B paper (VI111) reported control-tissue
-  cultures developing CPE. The earlier "no control was ever falsified" claim is therefore a **bounded** counter
-  (13/14), not a nil. *(Follows from OB023.)*
+  controls, 5 stated the control remained normal / showed no CPE; 3 showed/noted the control without a cleanly
+  stated CPE outcome; 5 named a control but never described its CPE/morphology; and 1 (VI117) reported the
+  no-virus control showing the protocol's CPE descriptors (detachment, nonspecific degeneration) under low serum —
+  a documented virus-independent CPE morphology, joined by a Tier B paper (VI111) reporting control-tissue
+  cultures developing CPE. So "CPE is inoculum-specific under matched conditions" is **not** an absolute nil:
+  at least one matched no-virus control developed the protocol's CPE descriptors. Bounded/count-limited language
+  only. *(Follows from OB023.)*
 
 - **ADVR063 · Counterexample** — **The pre-cell-culture methods were durable and gold-standard, not unreliable.**
   Against CNJ058's "unreliable / failing their own tests" phrasing: (i) TMV's 1935 crystallization → 1936
@@ -490,7 +493,7 @@ flowchart TD
     subgraph cx["Counterexamples"]
         ADVR060["ADVR060 not all practice steps down"]
         ADVR061["ADVR061 separation forceable"]
-        ADVR062["ADVR062 no Tier A falsified"]
+        ADVR062["ADVR062 matched-control CPE (VI117)"]
     end
 
     DEF001 --> CRL041
