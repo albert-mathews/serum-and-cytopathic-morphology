@@ -19,10 +19,10 @@ portion (1:1 mapping `C020` → `OB020`), so stream references update by swappin
 | Definition | `DEF` | `DEF001`–`DEF006` | DEF001 Isolation |
 | Axiom | `AX` | `AX010`–`AX012` | AX010 Pipeline scope |
 | Observation | `OB` | `OB020`–`OB028`, `OB080`–`OB082`, `OB150` | OB020 corpus modal 10%→2% |
-| Lemma | `LM` | `LM030`–`LM035` | LM030 practice follows recipe |
+| Lemma | `LM` | `LM030`–`LM035`, `LM059` | LM030 practice follows recipe |
 | Theorem | `TH` | `TH040` | TH040 serum step-down drives CPE |
 | Corollary | `CRL` | `CRL041`–`CRL043` | CRL041 CPE not inoculum-specific |
-| Conjecture | `CNJ` | `CNJ050`–`CNJ059`, `CNJ151` | CNJ053 genome inherits endpoint |
+| Conjecture | `CNJ` | `CNJ050`–`CNJ058`, `CNJ151` | CNJ053 genome inherits endpoint |
 | Counterexample (adversarial) | `ADVR` | `ADVR060`–`ADVR062` | ADVR060 not all practice steps down |
 
 TOC (links jump to the section): [Definitions](#definitions) · [Axioms](#axioms-premises--scope) ·
@@ -142,8 +142,12 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
 - **OB023 · Observation** — **Matched-medium controls are rare.** In the R1 category-1 Isolation-practice
   universe (181 unique papers; R2 follows R1 — see `r2_negative_controls/r2.md` concordance rule), fully
   scored as of 2026-11-19: 14 papers are Tier A (matched-maintenance mock), 44 Tier B (match unverifiable),
-  20 Tier C (wrong stage/mismatch), and 103 Tier D (none described). No Tier A paper reports CPE in its
-  negative control.
+  20 Tier C (wrong stage/mismatch), and 103 Tier D (none described). Of the 14 matched (Tier A) controls, 9
+  were reported normal (no CPE), 4 were not described or ambiguous, and 1 (VI117) reported the no-virus control
+  showing the protocol's CPE descriptors (detachment, nonspecific degeneration) under low serum; a second paper,
+  VI111 (Tier B), reported control-tissue cultures developing CPE. "CPE" here = the institutional-protocol
+  morphology descriptor set (CLSI M41 Table 7 + ASM `Cytopathic Effects of Viruses`), not an etiologic claim
+  (see `r2_…/control-cultures.md` §7.5b).
   *(Evidence: [VERIFIED corpus] `r2_…/control-cultures-overview.csv` (`r2_universe=yes`);
   `r2_…/wrk/r1_r2_reconciliation_2026-11-19.md`; Status: established — 181/181 scored; Stream: R2.)*
 
@@ -246,6 +250,25 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   VIRPRO1013 §4.1.5/§2.2.10/§4.1.7, `r4_…/refs/_notes/R4_VIRPRO1013_SAM312_extraction_notes.md`,
   `r4_…/r4.md` §§ Interpretation; Status: established; Stream: R4.)*
 
+- **LM059 · Lemma (R6)** — **A generic stress/death pathway suffices to produce CPE-classified morphology and
+  plaque-like clearing.** Under the working assumption that the inoculation step adds no virus (AX011), the
+  morphology the field reads as "CPE" and the countable zones it reads as "plaques" are produced by a small set
+  of generic, non-viral cell-biological pathways — abrupt serum/growth-factor withdrawal and nutrient/glucose
+  depletion (the same Bax/mitochondrial/cytochrome-*c* apoptotic program), starvation autophagy → vacuolation,
+  adhesion loss → detachment → ferroptosis, and a self-propagating paracrine/bystander death wave, plus contaminant
+  and overlay-dependent diffusion limitation — each carrying a distinguishing prediction (time-course, serum-dose
+  dependence, focal-vs-uniform, reversibility, overlay composition) testable against the CRO/Zenodo record and the
+  CLSI M41 Table 7 descriptor set. The death-wave step (R6-M5) is primary-backed at two spatial scales —
+  intracellular (Pacher & Hajnóczky 2001; Garcia-Perez 2012) and intercellular (Linkermann 2014; Kim 2016; Tang
+  2026) — with the trigger (serum/nutrient → ↓cystine/GSH → lipid-ROS → ferroptosis) supplied by the R6-M1/M2 step.
+  The "one plaque = one infectious particle" step is thereby re-read as an *inference from dilution-linearity +
+  co-variance*, not a pattern-uniqueness proof (Dulbecco 1952); Abedon & Yin (2009) add that "plaque formation
+  failure is not necessarily equivalent to virion inviability." *(Follows from TH040, OB082; Evidence: [VERIFIED
+  src] 23 full-text sources — `r6_nonviral_morphology_mechanisms/R6_synthesis.md` + `R6_mechanisms.md`
+  (R6-M1…R6-M12) + `R6_useful.csv`; Status: established-scoped — a literature-mechanism framework primary-backed in
+  the literature; the sufficiency-for-the-CRO reading holds under the no-virus premise and one cell line (Vero E6),
+  not a direct R6 wet experiment. Stream R6.)*
+
 ## Theorem
 
 - **TH040 · Theorem** — **The serum step-down alone drives CPE-classified morphology.** Under standard
@@ -338,31 +361,6 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   1920–1950 methods literature. Reject if the record instead shows the prior methods were held adequate and
   adoption was driven purely by cost/convenience — not rejected: the record shows both strands, the defect strand decisive, *refined by ADVR063* (the earlier methods were reliable-in-domain, so "narrow + indirect + unscalable" better names the motive than "unreliable"). Stream R5.)*
 
-- **CNJ059 · Conjecture (R6)** — **A generic stress/death pathway suffices to produce CPE-classified morphology
-  and plaque-like clearing.** Under the working assumption that the inoculation step adds no virus, the
-  morphology the field reads as "CPE" and the countable zones it reads as "plaques" are produced by a small set
-  of generic, non-viral cell-biological pathways — abrupt serum/growth-factor withdrawal (→ mitochondrial
-  apoptosis), nutrient/glucose depletion (the same Bax/mitochondrial/cytochrome-*c* program), post-confluent
-  degeneration, metabolic-waste/pH drift, anoikis, paracrine/bystander death waves, contaminant, and
-  overlay-dependent diffusion limitation — each carrying a distinguishing prediction (time-course, serum-dose
-  dependence, focal-vs-uniform, reversibility, overlay composition) testable against the CRO/Zenodo record and
-  the CLSI M41 Table 7 descriptor set. The "one plaque = one infectious particle" step is thereby re-read as an
-  *inference from dilution-linearity + co-variance*, not a pattern-uniqueness proof: Dulbecco (1952) secured it by
-  plaque count linear in virus concentration ("a linear dependence … can be obtained only if each plaque is
-  produced by one virus particle"), absence in an uninoculated control, antiserum suppression, and an ~1:1
-  plaque:egg-infectivity correspondence — evidence that plaques are seeded by a discrete unit coupled to the
-  presumed-infectious inoculum, not that a focal clearing in a stressed monolayer has no non-viral producer.
-  Abedon & Yin (2009) add the decisive generic fact: "plaque formation failure is not necessarily equivalent to
-  virion inviability." *(Follows from TH040, CRL041, OB082; Status: predicted — mechanism framework drafted
-  `r6_nonviral_morphology_mechanisms/R6_mechanisms.md` (R6-M1…R6-M12) with `[VERIFIED src]` anchors: Vander
-  Heiden 2001 + Quesney 2001 + Mendonça 2009 + Engelhardt & Mao 1977 (M1/M2, serum/nutrient → apoptosis),
-  Ammerman 2008 (M3, which OB082 removes as a CRO explanation), Fenner ch.3 + Dulbecco 1952 + Abedon & Yin 2009 +
-  Cooper 1984 + Oaks 1985 (M11, the plaque step), Riegman 2019 + Cheng & Ferrell 2018 (M5, propagative
-  ferroptosis/apoptosis wave) now primary-backed by Garcia-Perez 2012 + Pacher & Hajnóczky 2001 (apoptotic wave,
-  intracellular) and Linkermann 2014 + Kim 2016 + Tang 2026 (ferroptotic wave, intercellular), and Lopes 2021 +
-  Uphoff 2002 (M8, contaminant); OB082 records that neither CRO
-  culture exceeded ~80% confluence. Stream R6.)*
-
 - **OB150 · Observation (P3)** — **Under-determination is detectable in the viral-genetics literature.**
   The published viral-genetics literature already contains — scattered and often framed as technical noise —
   exactly the ambiguity that CNJ053 + OB028 predict, and the field itself documented and corrected it. In
@@ -408,9 +406,13 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   fluorescent envelope marker, while acknowledging general biochemical indistinguishability; this bounds
   the P2 claim (CNJ052) to standard/untargeted methods. *(Evidence: [VERIFIED src] P2-071; Streams P2.)*
 
-- **ADVR062 · Counterexample** — **No Tier A control falsified its test culture.** Even among the 14 Tier A
-  papers, none reported CPE in the matched-milieu negative control (OB023); this is a nil counter to the
-  concern and is reported as such. *(Follows from OB023.)*
+- **ADVR062 · Counterexample** — **Matched controls mostly clear, but not nil.** Among the 14 matched (Tier A)
+  controls, 13 reported no CPE in the control (9 explicitly normal; 2 ambiguous; 2 not described), so the
+  "CPE is inoculum-specific under matched conditions" reading holds for 13/14 — but it is **not** an absolute
+  nil: one Tier A paper (VI117) reported the no-virus control showing the protocol's CPE descriptors
+  (detachment, nonspecific degeneration) under low serum, and one Tier B paper (VI111) reported control-tissue
+  cultures developing CPE. The earlier "no control was ever falsified" claim is therefore a **bounded** counter
+  (13/14), not a nil. *(Follows from OB023.)*
 
 - **ADVR063 · Counterexample** — **The pre-cell-culture methods were durable and gold-standard, not unreliable.**
   Against CNJ058's "unreliable / failing their own tests" phrasing: (i) TMV's 1935 crystallization → 1936
@@ -463,6 +465,7 @@ flowchart TD
         LM033["LM033 no serum-alone founding experiment"]
         LM034["LM034 detection deterministic non-specific"]
         LM035["LM035 APHIS consistent at adsorption silent at observation"]
+        LM059["LM059 R6 non-viral mechanisms suffice"]
     end
     subgraph thm["Theorem"]
         TH040["TH040 serum step-down drives CPE morphology"]
@@ -482,7 +485,6 @@ flowchart TD
         CNJ056["CNJ056 P6 seed"]
         CNJ057["CNJ057 P7 repeatability"]
         CNJ058["CNJ058 R5 pre-cell methods documented-error-prone"]
-        CNJ059["CNJ059 R6 non-viral mechanisms suffice"]
         CNJ151["CNJ151 non-determinism absorbs REJECTED"]
     end
     subgraph cx["Counterexamples"]
@@ -522,8 +524,8 @@ flowchart TD
     OB026 --> ADVR060
     OB023 --> ADVR062
     CNJ052 -.-> ADVR061
-    TH040 --> CNJ059
-    CRL041 --> CNJ059
+    TH040 --> LM059
+    LM059 --> CRL041
 ```
 
 ## Rules of use

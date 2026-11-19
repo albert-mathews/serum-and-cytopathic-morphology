@@ -123,3 +123,18 @@ the standard serum-drop protocol. Both are held in `R6_mechanisms.md` framing.
   serum-dose (2% vs 10%) differential and the M1/M2 metabolic trigger, not on confluency per se.
 
 *End of journal (Round 2b).*
+
+## Round 2c / freeze (2026-11-19)
+
+- **Synthesis written.** `R6_synthesis.md` froze the mechanism framework: 23 sources read `[VERIFIED src]`, the
+  lead chain (serum step → ↓cystine/GSH → lipid-ROS → ferroptosis/apoptosis → propagative wave), M5 primary-backed
+  at two scales, the two framing points (plaque step = inference; focal clearing = generic diffusion/contact pattern),
+  and the adversarial ("weaken") list (confluence caveat, Tang 2026 clustering≠causation, M3/M8 bounds, the three
+  conditions under which the no-virus reading fails).
+- **Claim upgraded.** `CNJ059` → **`LM059`** (Conjecture → Lemma; Status `predicted` → `established-scoped`), per
+  CLAIMS Rule 6 (numeric portion stable, prefix + status changed, entry moved Conjectures → Lemmas). Mermaid node
+  moved into the `lem` subgraph; edges now `TH040 → LM059 → CRL041`.
+- **Cross-references updated.** `r6.md` (status/one-screen/TODO/entrypoint), `r3.md` (CNJ059 → LM059), `TODO.md`
+  (R6 freeze marked done; mini-paper table row ✅).
+
+*End of journal (freeze).*
