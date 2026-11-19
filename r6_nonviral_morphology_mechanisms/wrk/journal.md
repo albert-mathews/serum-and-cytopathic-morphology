@@ -103,3 +103,23 @@ the standard serum-drop protocol. Both are held in `R6_mechanisms.md` framing.
   + R6-007/014 (non-critical).
 
 *End of journal (Round 2).*
+
+## Round 2b (2026-11-19) — R6-M5 primaries fetched & read
+
+- **Albert dropped R6-022…R6-026** into `refs/`. All five confirmed (title/authors/ID), read in full
+  `[VERIFIED src]`, recorded in `_notes/R6-M5_ferroptosis_wave_primaries.md` + `R6_useful.csv`; wishlist rows
+  removed; `R6_bibliography.md` statuses `pending → read`; `R6_mechanisms.md` M5 upgraded to primary-backed at
+  both spatial scales.
+- **Two scales now distinct in the M5 evidence:** *intracellular* relay (Pacher & Hajnóczky 2001 mitochondrial
+  waves; Garcia-Perez 2012 Bid→cyto *c* ROS wave) and *intercellular* wave (Linkermann 2014 cell-to-cell tubular
+  ferroptosis; Kim 2016 "propagate[s] from cell to cell in a wave-like manner… unlike… apoptosis"; Tang 2026
+  multiscale perspective). Corrected the wishlist's "intercellular" tag on R6-022 (it is *intermitochondrial*).
+- **M1→M5 bridge now primary/perspective-backed:** serum step-down → ↓cystine (system xc⁻)/GSH → lipid-ROS →
+  ferroptosis-capable → propagative wave, with Kim 2016 (amino-acid deprivation + GSH depletion) and Tang 2026
+  (starvation lowers the propagation threshold) naming the nutrient/glutathione trigger explicitly.
+- **Devil's-advocate (kept honest):** Tang 2026's own caution — spatial clustering ≠ causal propagation; three
+  criteria (spatially-defined initiation site, mechanistic continuity, ferroptosis specificity); and wave geometry
+  best-documented in *confluent* monolayers. The CRO was ~80% sub-confluent, so the R6-M5 claim leans on the
+  serum-dose (2% vs 10%) differential and the M1/M2 metabolic trigger, not on confluency per se.
+
+*End of journal (Round 2b).*

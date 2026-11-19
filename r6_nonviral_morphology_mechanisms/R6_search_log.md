@@ -53,4 +53,27 @@ generic diffusion-limited spatial pattern).
 
 ---
 
-*Round 2 (systematic per-mechanism queries) not yet run.*
+## Round 2b — R6-M5 primary fetch + read (2026-11-19)
+
+**Operator:** R6 agent session (Albert dropped R6-022…R6-026 into `refs/`).
+**Aim:** Upgrade R6-M5 from review-backed (Riegman 2019; Cheng & Ferrell 2018) to primary-backed.
+
+**Confirmed + read `[VERIFIED src]` (title/authors/ID all matched the wishlist rows):**
+
+| ID | Source | Verdict |
+|----|--------|---------|
+| R6-022 | Garcia-Perez 2012 PNAS | Bid→cyto *c* release propagates as a wave through **one cell** at constant velocity, ROS-scavenger-suppressible. *Intracellular* (intermitochondrial) wave — corrects the wishlist's "intercellular" tag. |
+| R6-025 | Pacher & Hajnóczky 2001 EMBO J | The seminal one: Ca²⁺ spikes at discrete foci seed slow mitochondrial depolarisation/Ca²⁺ waves → apoptosis through the cell. |
+| R6-023 | Linkermann 2014 PNAS | "direct cell-to-cell communication to deliver the deadly signal"; ferroptosis (system xc⁻/GSH/GPX4) synchronizes necrosis of whole renal tubules. *Intercellular.* |
+| R6-024 | Kim 2016 Nat Nanotechnol | Ferroptosis "propagate[s] from cell to cell in a wave-like manner… unlike… apoptosis"; amino-acid deprivation + GSH depletion trigger; DFO/ferrostatins/GSH rescue. *Intercellular.* |
+| R6-026 | Tang, Kang & Kroemer 2026 Cell Res (perspective) | Multiscale ferroptotic propagation (ROS trigger wave ~5.5 µm/min over >5 mm; membrane-contact transfer; EV paracrine relay); amino-acid/GSH depletion lowers the propagation threshold. |
+
+**Wishlist cleaned:** R6-022…R6-026 rows removed. Only R6-007 (Nahapetian 1986) and R6-014 (Macpherson 1966)
+remain (both non-critical; M1/M2 and M8 already Vero-anchored elsewhere).
+
+**M5 now primary-backed at both spatial scales** (intracellular relay + intercellular wave); the serpent «serum
+step → ↓cystine/GSH → lipid-ROS/ferroptosis-capable → propagative wave» is sourced primary + perspective.
+Devil's-advocate retained: Tang 2026's three criteria for true (vs coincidental co-injury) propagation, and its
+note that wave geometry is best-documented in confluent monolayers (CRO was ~80% sub-confluent).
+
+---
