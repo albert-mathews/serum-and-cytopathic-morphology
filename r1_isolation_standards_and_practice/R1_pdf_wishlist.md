@@ -34,12 +34,41 @@ Full title of the last-fetched item (VI279, confirmed on disk): "A conserved E1 
 | ASM Cytopathic Effects Protocols | ✅ `ASM cytopathic-effects-of-viruses-protocols.pdf` | — |
 | NEADL / CIRAD PPRV SOP (VI27) | ✅ `NEADL - Virus isolation of peste des petits ruminants.pdf` | — |
 | WOAH Terrestrial Manual (MERS-CoV ch.) | ✅ `WOAH... Chapter 3.5.2 MERS.pdf` (+ full manual) | — |
-| WHO EPI (Measles/Rubella laboratory manual) | ⚠️ **annexes fetched are WRONG docs** (Annex B7 = 2025 RT-qPCR presentation; B8 = GRMLN Outbreak Response.docx) | **re-fetch correct Annex B7/B8** (Vero/hSLAM propagation + virus isolation). Manual URL below. |
+| WHO EPI (Measles/Rubella laboratory manual) | ✅ **fetched 2026-11-19**: `PR008 - WHO_Vero-hSLAM_annex_B7_B8.pdf` (Annex B7) + `PR011 WHO B08. ... virus isolation ... .pdf` (Annex B8) | **resolved** — split into PR008 (B7) + PR011 (B8); old wrong-doc PDFs remain on disk but are ignored. |
 | ANSES FMDV Virus Isolation SOP | ❌ none | **still fetch** — site under maintenance. URL: `https://sitesv2.anses.fr/sites/default/files/221216%20-%20Virus%20Isolation.pdf` |
-| CDC Measles Lab Tools — Vero/hSLAM | ⚠️ `.docx` only | **URL is 404** (`.gov/measles/lab-tools/vero-slam.html`). Need replacement URL / archive. |
-| Health Canada / CCDR Measles B95-a | ✅ `Health Canada - CCDR - H12-21-24-5-eng.pdf` | — |
+| CDC Measles Lab Tools — Vero/hSLAM | ❌ none | **URL is 404** (`.gov/measles/lab-tools/vero-slam.html`). Need replacement URL / archive. (The old on-disk `annex-b7...docx` was a duplicate of WHO Annex B7, deleted 2026-11-19.) |
+| Health Canada / CCDR Measles B95-a | ✅ `Health Canada - CCDR - H12-21-24-5-eng.pdf` | re-homed PR011 → **PR012** (PR011 now = WHO Annex B8). |
 
 **Notes:**
 - **APHIS VIRPRO1013** is **out of scope for R1** (master-seed / extraneous-agent testing, not diagnostic Isolation); it lives in R4 and is not tracked here. The separate `APHIS - SAM 104.04` (Parainfluenza-3 isolation) in `refs/isolation_protocols/` **is** an Isolation SOP and stays in R1.
 - **WHO EPI annexes**: the two fetched files do not match the manual's "Annex B7 (Propagation/maintenance of Vero/hSLAM)" and "Annex B8 (virus isolation in cell culture)." Re-fetch needed.
 - **CDC Vero/hSLAM**: original URL is now 404; only the `.docx` (annex-b7) is local.
+
+### Outstanding institutional fetch queue (guidance columns: Title · Year · Author · Identifier · Drop as)
+
+| Title | Year | Author | Identifier | Drop as |
+|---|---|---|---|---|
+| ANSES — Virus Isolation (Fièvre aphteuse / FMDV suspicion) | 2022 | ANSES | `https://sitesv2.anses.fr/sites/default/files/221216%20-%20Virus%20Isolation.pdf` | `PR009 - ANSES_FMDV_isolation_SOP.pdf` |
+| CDC Measles Lab Tools — Vero/hSLAM virus isolation | n.d. | CDC | `https://www.cdc.gov/measles/lab-tools/vero-slam.html` (URL 404; need archive/replacement) | `PR010 - CDC_Vero-hSLAM_isolation.pdf` |
+
+---
+
+## Resolved-not-pending (2026-11-19) — 18 rows re-verified from on-disk PDFs
+
+**Do not re-list these as pending.** The following rows carried stale `access` tags but their PDFs were
+already on disk; they were re-read this session, their FBS/enrichment values confirmed against verbatim
+full-text quotes, and `access` flipped to `fulltext_verified`:
+
+- **`paywall_needed` (7 rows, PDFs fetched since 2026-09-18):** VI97 (post=2, pre unstated), VI103
+  (post=2, pre unstated), VI104 (10→2, post corrected from the "1%" wash detail), VI108 (10→2),
+  VI114 (10→2), VI119 (10→2), VI120 (10→2).
+- **`abstract_full_text_outstanding` (11 rows, PDFs were always on disk):** VI234 (10→5), VI239 (10→0),
+  VI240.A/B/C (Hep2 10→3; HEK 10 NBCS→2 NBCS; HEI 15 NBCS→2 NBCS), VI243 (5→0), VI244 (10→5),
+  VI246 (10→10), VI249 (10→0), VI266 (10→2), VI267 (10→0).
+
+Metadata fix applied to CSV: **VI246** `link`/`DOI` corrected to `10.1177/1040638715584156` (read off
+the PDF masthead; the old `PMID 26082457` was wrong).
+
+Left for the second-bot re-parse (non-blocking hardening, not correctness debt): the **26 `legacy_coded`**
+and **18 `pdf_extracted`** rows are quote-backed but could get a uniform full re-read pass; a few
+`pdf_extracted` rows are missing a `quote_pre`.

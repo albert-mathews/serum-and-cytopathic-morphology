@@ -15,7 +15,8 @@ Disposition sources (all quoted in wrk/r1_r2_reconciliation_2026-11-19.md):
   - R1 destination CSVs scan "ex-VI###" notes (cat2: isolation-protocol-refs.csv; cat3: methods-review-refs.csv)
   - URL identity for VI271 -> PR010
   - R1 `isolation-refs.csv` note markers "[ex-SPT10]" -> VI303
-  - R1 duplicate-row consolidation (McSwiggan VI240; Mizuta JJID2008 VI262)
+  - R1 multi-recipe rows (McSwiggan VI240; Mizuta JJID2008 VI262): R1 codes multiple serum pre->post
+    recipes as multiple rows of ONE paper; R2's stale per-arm IDs fold into the one R1 paper key.
   - genuinely-absent legacy IDs (VI4 HFRS 1983; VI24 AmB influenza) -> dropped
 
 Regenerate:  tools/venv/Scripts/python r2_negative_controls/wrk/r1_r2_align.py
@@ -58,7 +59,7 @@ def main() -> None:
     # (each documented in the reconciliation note)
     extra_cat2 = {"VI271": "PR010"}          # CDC vero-slam.html URL match
     rekey = {"SPT10": "VI303"}               # R1 note "[ex-SPT10]"
-    merge = {"VI241": "VI240", "VI242": "VI240", "VI263": "VI262"}  # residual R1 consolidation
+    merge = {"VI241": "VI240", "VI242": "VI240", "VI263": "VI262"}  # stale per-arm IDs -> one multi-recipe R1 paper
     dropped = {"VI4", "VI24"}                # absent from current R1
 
     # map all ex-VI rows that folded under one destination ID (Mizuta 2019 arms VI255..VI261 -> MR001)
@@ -86,7 +87,7 @@ def main() -> None:
             status, uni = "cat3", "no"
         elif i in merge:
             current = merge[i]
-            status, uni = "cat1", "no"  # merged duplicate of an in-universe paper
+            status, uni = "cat1", "no"  # stale per-arm row folded into its one R1 paper key
         elif i in rekey:
             current = rekey[i]
             status, uni = "cat1", "yes"
@@ -102,8 +103,10 @@ def main() -> None:
         r["r2_universe"] = uni
         new_rows.append(r)
 
-    if header is not None:
-        new_header = list(header) + ["r1_status", "r1_current_id", "r2_universe"]
+    # idempotent header: drop any prior r1_* / *.1 columns, then append the three fresh ones.
+    _drop = {"r1_status", "r1_current_id", "r2_universe"}
+    base_header = [h for h in header if h and h not in _drop and ".1" not in h]
+    new_header = base_header + ["r1_status", "r1_current_id", "r2_universe"]
     with OV.open("w", encoding="utf-8", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=new_header)
         w.writeheader()
