@@ -358,7 +358,9 @@ Each entry: `ID · Kind` — **Slug.** Statement. *(Follows from …; Evidence �
   Heiden 2001 + Quesney 2001 + Mendonça 2009 + Engelhardt & Mao 1977 (M1/M2, serum/nutrient → apoptosis),
   Ammerman 2008 (M3, which OB082 removes as a CRO explanation), Fenner ch.3 + Dulbecco 1952 + Abedon & Yin 2009 +
   Cooper 1984 + Oaks 1985 (M11, the plaque step), Riegman 2019 + Cheng & Ferrell 2018 (M5, propagative
-  ferroptosis/apoptosis wave), and Lopes 2021 + Uphoff 2002 (M8, contaminant); OB082 records that neither CRO
+  ferroptosis/apoptosis wave) now primary-backed by Garcia-Perez 2012 + Pacher & Hajnóczky 2001 (apoptotic wave,
+  intracellular) and Linkermann 2014 + Kim 2016 + Tang 2026 (ferroptotic wave, intercellular), and Lopes 2021 +
+  Uphoff 2002 (M8, contaminant); OB082 records that neither CRO
   culture exceeded ~80% confluence. Stream R6.)*
 
 - **OB150 · Observation (P3)** — **Under-determination is detectable in the viral-genetics literature.**
