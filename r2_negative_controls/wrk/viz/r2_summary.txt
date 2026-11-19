@@ -1,14 +1,14 @@
-R2 negative-control tier summary (scored corpus)
-scored rows (overview): 173
-tier A: 12 (6.9%)
-tier B: 40 (23.1%)
-tier C: 14 (8.1%)
-tier D: 107 (61.8%)
-any culture-level NC: 66 (38.2%)
-Isolation-stage NC: 53 (30.6%)
-M3 serum/enrichment = NA: 120
-M3 serum/enrichment = yes: 13
-M3 serum/enrichment = unknown: 39
+R2 negative-control tier summary (R1 category-1 universe)
+scored papers (r2_universe=yes): 181
+universe: R1 category-1 (181 unique papers; fully scored)
+tier A: 14 (7.7%)
+tier B: 44 (24.3%)
+tier C: 20 (11.0%)
+tier D: 103 (56.9%)
+any culture-level NC: 78 (43.1%)
+Isolation-stage NC: 59 (32.6%)
+M3 serum/enrichment = NA: 122
+M3 serum/enrichment = yes: 17
+M3 serum/enrichment = unknown: 41
 M3 serum/enrichment = no: 1
-Tier A controls reported CPE in the NC (would falsify specificity): 0
-Tier A controls claimed CPE-negative: 8
+Tier A control CPE outcome (nc_cpe_code): code1(CPE descriptors)=1, code2(normal/no CPE)=5, code3(ambiguous)=3, code4(not described)=5

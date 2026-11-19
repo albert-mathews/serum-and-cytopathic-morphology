@@ -57,8 +57,13 @@ And the category axis (folder = category):
 ### 1.4 Re-IDs R1 applied to legacy R2 IDs
 
 - `VI303` carries note "[ex-SPT10]" (ZIKV single-particle imaging). → R2's `SPT10` row is R1 `VI303`.
-- McSwiggan 1981 is one R1 paper `VI240` (3 duplicate rows in `isolation-refs.csv`, a residual R1 consolidation
-  artifact). R2's three rows `VI240/VI241/VI242` are that one paper.
+- McSwiggan 1981 is one R1 paper `VI240`. Because R1 codes **multiple pre→post serum recipes as multiple rows
+  of the same paper** (a coding rule, not an error), `VI240` appears on several recipe rows. R2's three legacy
+  rows `VI240/VI241/VI242` are that one paper; only `VI240` is retained as the R2 paper key.
+
+> **R1 coding rule (owner, quoted):** "isolation-refs.csv has multiple rows per paper per its coding rules.
+> if a paper shows more than one serum pre→post recipe, this is captured in multiple rows."
+> *(Albert, 2026-11-19)* — this explains the multiple `VI240`/`VI262` rows; they are recipe rows, not duplicates.
 
 ---
 
@@ -87,7 +92,7 @@ That framing is wrong: the gap is **R2's** to fix. Corrected in r2.md (see §4 b
 | VI245 | **cat3** → `MR003` | `methods-review-refs.csv` MR003 note "[cat3; ex-VI245]" |
 | VI270 | **cat3** → `MR002` | `methods-review-refs.csv` MR002 note "[cat3; thesis] … ex-VI270" |
 | VI271 | **cat2** → `PR010` | `isolation-protocol-refs.csv` PR010 link `…/vero-slam.html` = R2 VI271's identifier |
-| VI241, VI242 | **merge** → `VI240` | R1 `VI240` is one McSwiggan 1981 paper (3 residual dup rows) |
+| VI241, VI242 | **merge** → `VI240` | R1 `VI240` = one McSwiggan 1981 paper (multiple serum-recipe rows) |
 | SPT10 | **rename** → `VI303` | R1 `VI303` note "[ex-SPT10]" |
 | VI4 | **dropped** | HFRS 1983 absent from current `isolation-refs.csv` |
 | VI24 | **dropped** | AmB influenza paper absent from current `isolation-refs.csv` |
@@ -95,17 +100,17 @@ That framing is wrong: the gap is **R2's** to fix. Corrected in r2.md (see §4 b
 **Net:** of 173 R2 rows, **17 rows leave the scoring universe** (12 category-out + 2 dropped + 3 merged-away),
 and **1 row renames** (SPT10→VI303). **In-universe scored = 156.**
 
-## 4. What R2 still owes R1 (the missing category-1 papers)
+## 4. What R2 still owed R1 (now closed)
 
-R1 category-1 = 181 unique papers. R2 has scored 156. **25 remain to score** (their PDFs are already on disk in
-`r1_…/refs/isolation_practice/`):
+R1 category-1 = 181 unique papers. R2 had scored 156; the remaining 25 were scored 2026-11-19
+(`wrk/score_pending_25.py`, justification notes §Pass5), closing the gap at **181 / 181**:
 
 - **class 1 (CPE/Isolate)** — VI98, VI100, VI102, VI104, VI106, VI107, VI113, VI116, VI117, VI120 (n=10)
 - **class 4 (2I1D, other endpoint)** — VI97, VI101, VI103, VI108, VI114, VI119, VI294, VI295, VI296, VI297, VI298,
   VI299, VI300, VI301, VI302 (n=15)
 
-Until these 25 are scored, the A/B/C/D headline over the full 181-paper universe is incomplete. The current
-**156-paper scored subset** gives A/B/C/D = **12 / 40 / 14 / 90**.
+Final tier distribution over the full 181-paper universe: **A / B / C / D = 14 / 44 / 20 / 103**
+(Tier D = 56.9%).
 
 ---
 
@@ -114,12 +119,12 @@ Until these 25 are scored, the A/B/C/D headline over the full 181-paper universe
 1. Added `r1_status`, `r1_current_id`, `r2_universe` columns to `control-cultures-overview.csv` (builder script
    `wrk/r1_r2_align.py`), so every R2 row carries its current-R1 disposition and only `r2_universe=yes` rows feed
    the tier statistics.
-2. `wrk/viz/make_figures.py` filters to `r2_universe=yes` and records the 25-pending count.
+2. `wrk/viz/make_figures.py` filters to `r2_universe=yes`.
 3. r2.md: concordance rule + corrected frame written; stale "166 dual / 7 extras / R1-to-reconcile" text removed;
-   snippet numbers S3/S4 restated on the honest scored-subset frame.
+   snippet numbers S3/S4 restated on the full 181-paper universe.
 4. `control-cultures.md`: added §"R2 universe = R1 category-1 (concordance rule)".
-5. `CLAIMS.md` OB023 + `tex/sections/results.tex`: counts corrected to the R1-category-1 frame, pending scored
-   papers named.
-6. TODO opened: score the 25 missing category-1 papers.
+5. `CLAIMS.md` OB023 + `tex/sections/results.tex`: counts corrected to the R1-category-1 frame (181 papers).
+6. Scored the 25 missing category-1 papers (`wrk/score_pending_25.py`; justification notes §Pass5); universe
+   closed at 181/181.
 
 *End of reconciliation report.*

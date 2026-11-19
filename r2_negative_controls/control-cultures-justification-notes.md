@@ -965,3 +965,83 @@ Full DEA thesis (Le Deuff 1990, Univ. Bordeaux II, Archimer ID 51774) — the IF
 ## VI271 — Tier **D** (no change; web page)
 
 CDC "Vero/hSLAM cell culture for measles isolation" lab-tools page — an HTML guideline page, not a PDF; not in `refs/`. No culture NC language. Stays D; `ambiguous` retained pending an archived copy.
+
+---
+
+# Pass5 — 25 formerly-pending category-1 papers scored (r2-agent, 2026-11-19)
+
+Scored from on-disk PDFs; body text in `wrk/_pending_txt/`. Universe complete at **181 / 181**. Tiers: class-1 additions A=1 (VI117), B=2 (VI102, VI116), C=3 (VI100, VI106, VI113), D=4 (VI98, VI104, VI107, VI120); class-4 additions A=1 (VI97), B=2 (VI108, VI119), C=3 (VI103, VI114, VI300), D=9 (VI101, VI294, VI295, VI296, VI297, VI298, VI299, VI301, VI302).
+
+## VI117 — Tier **A** (key relevance: no-virus control showing protocol CPE descriptors)
+
+**Primary experiment:** Miniature (1-dr vial) cell-culture systems for field virus Isolation; rhinovirus / poliovirus / parainfluenza infection with uninfected controls.
+
+### Quotes — Isolation-stage uninfected control
+> "Cells were drained of storage medium and inoculated in replicate with 0.5 mL of virus diluted usually with L-15 plus 1% FCS. … Comparable uninfected cultures were maintained as controls."
+
+### Quotes — the deterioration of uninfected monolayers under low-serum maintenance
+> "The deterioration observed in normal gross morphology of each cell line in 1-dr vials during storage at room temperature is shown in Table 1."
+> *(Table 1 morphology scores: 2+ = "cells not confluent and abnormal in gross morphology"; 1+ = "cells show severe degeneration and many have detached"; 0 = "cells show complete degeneration and most or all have detached" — all cell lines decay toward 1+/0 over days–weeks in L-15 + 1–2% FCS, **no virus present**.)*
+
+### Decision
+"Comparable uninfected cultures were maintained as controls" = matched no-virus culture under the same low-serum maintenance (L-15 + 1% FCS). M1–M6 by allowed inference → **A** (`match_basis=allowed_inference`, `ambiguous=yes`). **The uninfected control shows the protocol CPE descriptors (detachment, nonspecific degeneration, abnormal gross morphology) arising under 1–2% FCS maintenance without virus — an in-corpus `nc_cpe_code=1` instance.**
+
+## VI97 — Tier **A**
+
+**Primary experiment:** BHV-1 isolation from a clinical swab on MDBK (gC subtyping follow-up; R1 class 4 = molecular subtyping primary).
+
+### Quotes
+> "After washing, 5 ml of maintenance medium (DMEM containing 2% FBS and 50 μg/ml gentamicin) was added and the flask was incubated … and observed daily for 7 days for appearance of CPE. **MDBK cells without sample inoculation was also incubated as control.**"
+
+### Decision
+Uninoculated MDBK control in the stated 2% FBS maintenance medium, parallel to the inoculated flask → M1–M6 via allowed inference → **A**.
+
+## VI116 — Tier **B**
+
+**Primary experiment:** C. difficile toxin cytotoxic effect vs viral CPE in HFDL/CMK microtiter cultures (toxin-confounding note).
+
+### Quotes
+> "The cell cultures contained 0.1 ml of Eagle minimal essential medium with 2% fetal bovine serum as maintenance medium."
+> "FIG. 1 … A, Cytotoxic … in HFDL cells; **B, uninoculated HFDL cells**; C, cytotoxic … in primary CMK cells; **D, uninoculated CMK cells**."
+
+### Decision
+Uninoculated HFDL/CMK cells (Fig 1B/D) = no-inoculum morphology baseline in 2% FBS, but figure-only (not a methods-described parallel mock) → **B**. `control_cpe_claimed_negative=yes`.
+
+## VI102 — Tier **B**
+
+> "Mild CPE and/or clumping of cells were observed in all cell cultures with the exception of **mock-infected control cultures**." (results only; L15 + 2% FBS isolation medium; mock preparation not methods-defined) → **B**.
+
+## VI100 / VI106 — Tier **C** (`C-stage`)
+
+HAdV-7 and HAdV-11a outbreak Isolations (throat swabs → HEp-2, MEM + 2% FCS maintenance, CPE). "Positive and negative controls were carried out" appears only in the neutralization assay (serum dilutions + fixed CCID50 antigen + HEp-2 cells); "healthy/control population" = human serum. Primary Isolation culture has no NC → **C-stage**.
+
+## VI113 — Tier **C** (`C-stage`)
+
+Sewage-effluent enterovirus/adenovirus/reovirus isolation (roller phials, 2% FCS maintenance). "Simultaneous virus titration and suitable controls were included in each test" only in the microneutralization/typing step → **C-stage**.
+
+## VI98 / VI104 / VI107 / VI120 — Tier **D**
+
+- VI98 (SINUV): uninfected C6/36 only as IFAT antibody-specificity control (Fig 3b) → D.
+- VI104 (PRCV): "No virus was isolated from the control piglets" = animal arm, no ST-culture NC → D.
+- VI107 (Schmidt 1978): "control on virus content of specimens" = verification inoculation, no negative NC → D.
+- VI120 (bovine adenovirus calf 1976): no NC → D.
+
+## VI108 — Tier **B**
+
+BHV-1 detection in spiked semen (dot blot / PCR / isolation; BFT, L-15+10% FBS growth → EMEM+2% FBS maintenance). "Control denotes negative control, i.e. no virus" in the isolation CPE/FA table; semen toxicity matrix complicates M6 → **B**.
+
+## VI119 — Tier **B**
+
+RD/GPE sensitivity to group A coxsackieviruses. "Uninfected RD cells" Fig 1 vs CPE in 2% FBS maintenance (figure-only); "control (medium alone)" is in suckling mice (animal arm) → **B**.
+
+## VI103 / VI114 / VI300 — Tier **C** (`C-stage`)
+
+- VI103 (IBDV mutant + chicken pathogenicity): TCID50 "cell control" (last column, no virus) + "uninoculated/sham" chicken groups → wrong stage → C.
+- VI114 (PRRSV characterization): "mock-infected … DMEM+2% FBS" only for radioisotopic labeling/RIPA; animal mock piglets → C.
+- VI300 (Vaccinia entry): mock/uninfected Vero cells for SEM/dextran entry assays; poliovirus as route "negative control" → C.
+
+## VI101 / VI294–VI299 / VI301 / VI302 — Tier **D**
+
+- VI101 (shell-vial detection): "no cells in shell vial culture" = cell-culture failure, not NC.
+- VI294 (DENV NS1): "uninfected mosquitoes" = mosquito arm.
+- VI295–VI299, VI301, VI302 (single-virus/particle-tracking + polio entry): live-cell imaging studies; dye/drug/light-exposure and actin-assay "controls" only, no matched no-virus culture NC → D.

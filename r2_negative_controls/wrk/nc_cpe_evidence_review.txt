@@ -1,0 +1,625 @@
+===== VI8 =====  (src VI8 - A pneumonia outbreak associated with a new coronavirus of probable bat origin.txt)
+[2] b , c, The cut-off was to 0.2 for the IgM analysis and to 0.3 for the IgG analysis, according to the levels of healthy controls.
+[2] Diluted horse anti-SARS-CoV serum or serum samples from healthy individuals were used as control.
+[1] 4Hubei Provincial Center for Disease Control and Prevention, Wuhan, China.
+[1] mock-transfected cells were used as controls.
+[1] a, b, Vero E6 cells are shown at 24 h after infection with mock virus (a) or 2019-nCoV (b).
+[1] c, d, Mock-virus-infected ( c) or 2019-nCoV-infected (d) samples were stained with rabbit serum raised against recombinant SARSr-CoV Rp3 N protein (red) and DAPI (blue).
+
+===== VI13 =====  (src VI13 - Severe Acute Respiratory Syndrome Coronavirus 2 from Patient with Coronavirus Disease, United States.txt)
+[2] CPE was not observed in mock infected cells ( Figure 1, panel A).
+[1] Centers for Disease Control and Prevention, Atlanta, Georgia, USA (J.
+[1] A patient in the United States was given a diagnosis of infection with this virus by the state of Washington and the US Centers for Disease Control and Prevention on January 20, 2020.
+[1] 6, June 2020 1267 Methods Specimen Collection Virus isolation from patient samples was deemed not to be human subjects research by the National Center for Immunizations and Respiratory Diseases, Centers for Disease Control and Prevention (CDC) (research determination no.
+[1] A) Mock, B) nasopharyngeal specimen, C) oropharyngeal specimen.
+[1] The cleavage pattern of the SARS spike positive control from Calu3 cells, a respiratory Figure 2.
+[1] Harcourt is a microbiologist in the National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention, Atlanta, GA.
+[1] Thornburg, Center for Disease Control and Prevention, 1600 Clifton Rd NE, Mailstop H18-6, Atlanta GA 30329-4027, USA;
+
+===== VI14 =====  (src VI14 - Virus isolation and genotype identification of human respiratory syncytial virus in Guizhou Province, China.txt)
+[2] Indirect immunoﬂuorescence assay CPE positive and uninfected (mock) Hep-2 cells were digested by 0.02 % EDTA, spotted to eight well glass slide (MP Bio- chemicals, CA, USA) separately.
+[1] This study provides the basic data for the prevention and control of HRSV in Guizhou Province.
+[1] A, Mock Hep-2 cell;
+[1] C, Indirect immunoﬂuoresence test of mock Hep-2 cell;
+
+===== VI16 =====  (src VI16 - Comparison of an immortalized human corneal epithelial cell line with Vero cells....txt)
+[1] Scrapings obtained from 10 patients with infectious keratitis of non-viral origin were included as controls.
+[1] None of the controls yielded HSV-1.
+[1] n = 1), were included as controls.
+[1] None of the controls yield- ed HSV-1.
+[1] Uninfected cells are stained red due to the counterstain.
+[1] 17 [true positives], Controls:
+[1] Uninfected cells are stained blue due to the counterstain.
+
+===== VI33 =====  (src VI33 - Isolation and genetic characterization of MERS-CoV from dromedary camels in the United Arab Emirates.txt)
+[2] (A) Normal uninfected cells.
+[1] Data presented in this study indicated the need for continuous identification and characterization of MERS-CoV to monitor virus circulation in the region, which is necessary to develop effective control measures.
+[1] A control well inoculated with sterile phosphate-buffered saline (PBS) was included on each plate.
+[1] The results of this study support the necessity for the complete genome sequencing of all new cases of MERS-CoV to monitor virus circulation in the region and to develop effective control measures.
+
+===== VI36 =====  (src VI36 - Breastfeeding by chikungunya virus-infected dams confers resistance to challenge in the offspring.txt)
+[1] The animals also had reduced viral loads in brain and spleen as compared to controls.
+[1] 18 For the transplacental vertical transmission analyses, different groups of pregnant mice were infected on 5.5 th, 10.5th and 15.5 th gestational day with 1.0 × 106 PFU of infectious CHIKV, UV-inactivated CHIKV or the corresponding volume of mock via subcutaneous route in the dorsal area.
+[1] Mock infected and UV-inactivated CHIKV infected females were included as control groups.
+[1] We used 3 mock-infected females as negative controls of genome and proteins detection.
+[1] Then, 50 microliters of the diluted samples were added to the respective wells coated with rE2 protein or Escherichia coli extract (negative control) for 1h o u ra t3 7°C.
+[1] Th e immunohistochemical staining for CHIKV antigen was detected abundantly in different tissues of fetuses from CHIKV-infected dams, but not observed in fetuses removed from mock- infected dams (Figure 1C and D, respectively).
+[1] Negative control of fetuses and placentas are shown in Figures 1 C and 1E, respectively.
+[1] Uterus and fetuses in ﬁgures B1 and B3 are representative of those obtained from mock females, as well ﬁgures G1 and G3 represent cultures of Vero cells inoculated with their samples.
+[1] Importantly, pups born from mock-infected dams but nursed by CHIKV-infected dams (G3) TaggedEndTaggedPhad anti-CHIKV neutralizing antibodies, indicating that the presence of antibodies in this group were dependent on breastfeeding and not on transplacental IgG transfer.
+[1] Conversely, the lack of anti-CHIKV neutraliz- ing antibodes in group G4 (animals born from CHIKV-infected dams but cross-fostered to be nursed by mock-infected dams) strongly suggests that neutralizing antibodies were induced by breastfeeding.
+[1] All pups born or breastfed by infected dams survived and had body development and weight gain indistinguish- able from control animals (data not shown).TaggedEnd TaggedH2Mice nursed by CHIKV-infected dams sustain virus-speci ﬁc serum IgG into adulthoodTaggedEnd TaggedPThe presence of pathogen-speciﬁc serum IgG is consideredﬁrm evidence of humoral immune response due to pr evious exposure to that pathogen’s antigen determinants and, depending on its speciﬁcity and in vivo neutraliz- ing ability, 
+[1] Six groups were analyzed to assess the effects o fp r e g n a n c ya n db r e a s t f e e d i n go nt h ei n d u c t i o no fh u m o r a li m m u n i t ya n dr e s i s t a n c et oC H I K Vi n f e c t i o ni np u p s .G r o u p sG 1a n dG 2i n c l u d e da n i m a l sb o r nand breastfed respectively in mock- and CHIKV-infected dams.
+[1] Dams in groups G3 and G4 were injected on the 10.5th day of pregnancy respectively with CHIKV- and mock inoculum, and their litters were cross-fostered with one another as soon as possible after delivery, on the ﬁrst day after birth.
+[1] Group G5 was composed of dams infected with CHIKV on the ﬁrst day after delivery, and group G6 was composed of dams inoculated with UV-inactivated CHIKV as control.
+
+===== VI38 =====  (src VI38 - Trypsin enhances SARS-CoV-2 infection by facilitating viral entry.txt)
+[1] The SARS-CoV-2 KCDC03 strain (BetaCoV/South Korea/ KCDC03/2020) was provided by the Korea Centers for Disease Control and Prevention (KCDC) and propagated in Vero E6 cells as described previously [21].
+[1] Four- week-old female BALB/c mice were immunized four times with 100 μg of antigen emulsified in Freund’s complete (first Table 1 Cell viability measured by MTT assay a All values are expressed as the mean ± SDM (n = 3, in duplicate) Trypsin Elastase BafA1 Concentration (μg/ml) % Cell viabilitya Concentration (μg/ml) % Cell viability Concentra- tion (μM) % Cell viability Control 100.00 ± 0.012 Control 100.00 ± 0.019 Control 100.00 ± 0.014 1.25 103.10 ± 0.013 5 99.16 ± 0.018 0.1 108.08 ± 0.014 2.
+[1] (A and B) Vero E6 cells were preincubated with trypsin for 1 h before infection and then mock infected or infected with SARS-CoV-2 (P3) at an MOI of 1 for 1 h without trypsin addi- tion.
+[1] (C and D) Vero E6 cells were mock infected or infected with SARS-CoV-2 (P3) at an MOI of 1 for 1 h in the presence of trypsin.
+[1] (E and F) Vero E6 cells were mock infected or infected with SARS-CoV-2 (P3) at an MOI of 1 for 1 h without trypsin addi- tion.
+[1] Vero E6 cells were mock infected or infected with tenfold serially diluted SARS-CoV-2 and further cultivated in the presence (A) or absence (B) of trypsin.
+[1] ===== PAGE 5 ===== 445 Enhancement of SARS-CoV-2 infection by trypsin 1 3 Immunofluorescence assay (IFA) Vero E6 cells grown in 96-well tissue culture plates were mock infected or infected with SARS-CoV-2 (P3) at a mul- tiplicity of infection (MOI) of 1 for 1 h and cultured under the indicated conditions.
+[1] Results Effect of trypsin in SARS‑CoV‑2 infection To investigate the effect of trypsin treatment on viral repli- cation, Vero E6 cells were incubated for 1 h with trypsin at different concentrations (0, 1.25, 2.5, 5, and 10 µg/ml) and infected with SARS-CoV-2 (P3) at an MOI of 1 for 1 h or mock-infected.
+[1] 1B, treating cells with trypsin before virus infection had no effect on SARS-CoV-2 infectivity at any of the concentrations tested compared to the untreated control.
+[1] The highest viral titer (107.52 TCID50/ ml) was achieved in the presence of 5 µg of trypsin per ml, which was 1 log higher than the control mean titer (106.67 TCID50/ml).
+[1] (A and B) Vero E6 cells were preincubated with elastase for 1 h before infection and then mock infected or infected with SARS-CoV-2 (P3) at an MOI of 1 for 1 h without elastase addition.
+[1] (C and D) Vero E6 cells were mock infected or infected with SARS-CoV-2 (P3) at an MOI of 1 for 1 h in the presence of elastase.
+[1] (E and F) Vero E6 cells were mock infected or infected with SARS-CoV-2 (P3) at an MOI of 1 for 1 h without elastase addition.
+[1] Vero E6 cells were mock infected or infected with SARS-CoV-2 (P3) at an MOI of 1.
+
+===== VI40 =====  (src VI40 - Multiple Respiratory Syncytial Virus Strains Infecting HEp-2 and A549 Cells.txt)
+[2] Differential responses by human respiratory epithelial cell lines to respiratory syncytial virus reﬂect distinct patterns of infection control.
+[1] Mock-infected HEp-2 and A549 cells also differed in the morphology of their actin cytoskeleton with A549 cells containing a larger number of actinﬁlaments orﬁlament bundles of greater size.
+[1] To do so, we subjected RSV-infected and mock-infected A549 and HEp2 cells to high-throughput, short-read RNA sequencing FIG 3 RSV infectivity pattern and cellular damage in HEp-2 cells visualized by immuno ﬂuorescence micrographs.
+[1] Cells were either mock-treated or infected with RSV/ A/Tracy (GA1), RSV/A/Ontario (ON), RSV/B/18537 (GB1), or RSV/B/Buenos Aires (BA) at a multiplicity of infection of 0.01 for 24, 48, 72, or 96 h.
+[1] Of the 4 time points investigated, the number of signiﬁcantly upregulated and downregulated genes relative to mock-infected cells was low at 24 hpi ( ,100) then rose rapidly beyond 48 hpi before approaching a peak of ;6000 to 8000 genes at 72 hpi and beyond (Fig.
+[1] Functional analysis revealed many cell line-dependent and some viral strain- dependent features of the host transcriptional response to RSV infection.The gene set enrichment analysis (GSEA) software (16) was used to search our data for functional pathways enriched for upregulated or downregulated genes relative to mock-infected FIG 4 RSV infectivity pattern and cellular damage in A549 cells visualized by immuno ﬂuorescence micrographs.
+[1] Genes encoding components of the inﬂammasome appeared highly upregulated during at least one time point for HEp-2 cells infected with any of the four RSV strains, while their expression state did not differ signiﬁcantly from mock in A549 cells (Fig.
+[1] Interleukin (IL)-6 showed some of the highest increases relative FIG 6 Legend (Continued) observed in the samples (HEp-2 versus A549 and infected versus mock-infected controls).
+[1] Cell Line- and Strain-Dependence of RSV Infections Journal of Virology April 2022 Volume 96 Issue 7 10.1128/jvi.01904-21 9 ===== PAGE 10 ===== FIG 8 Normalized enrichment scores (NES) through time for gene set enrichment analysis (GSEA) identi ﬁed cellular and metabolic pathways enriched for upregulated or downregulated genes relative to mock.
+[1] Cell Line- and Strain-Dependence of RSV Infections Journal of Virology April 2022 Volume 96 Issue 7 10.1128/jvi.01904-21 10 ===== PAGE 11 ===== FIG 9 Normalized enrichment scores (NES) through time for gene set enrichment analysis (GSEA) identi ﬁed immune pathways enriched for upregulated or downregulated genes relative to mock.
+[1] Cell Line- and Strain-Dependence of RSV Infections Journal of Virology April 2022 Volume 96 Issue 7 10.1128/jvi.01904-21 11 ===== PAGE 12 ===== FIG 10 Normalized enrichment scores (NES) through time for gene set enrichment analysis (GSEA) identi ﬁed cellular and metabolic pathways enriched for upregulated or downregulated genes relative to mock.
+[1] Cell Line- and Strain-Dependence of RSV Infections Journal of Virology April 2022 Volume 96 Issue 7 10.1128/jvi.01904-21 12 ===== PAGE 13 ===== FIG 11 Normalized enrichment scores (NES) through time for gene set enrichment analysis (GSEA) identi ﬁed immune pathways enriched for upregulated or downregulated genes relative to mock.
+[1] Cell Line- and Strain-Dependence of RSV Infections Journal of Virology April 2022 Volume 96 Issue 7 10.1128/jvi.01904-21 13 ===== PAGE 14 ===== to mock in both HEp-2 and A549 cells regardless of the infecting strain at 72 and 96 hpi (Fig.
+[1] Similar to the cytokine kinetics observed in RSV-infected HEp-2 and A549 cells, the maximum fold-increase in lactate dehydrogenase (LDH) and caspase 3/7 levels relative to mock occurred at 72 and 96 hpi (Fig.
+
+===== VI42 =====  (src VI42 - the-cellular-localization-pattern-of-varicella-zoster-virus-orf29p-is-influenced-by-proteasome.txt)
+[1] Jones VZV, a wild-type clinical isolate, was propagated in MeWo cell monolayers by serial passage of infected cells onto uninfected cells as described previously (26).
+[1] Adenovirus vectors MLP-0, Ad-0/125, and Ad-0/88 express HSV-1 ICP0, ICP0 with an insertion at amino acid 124, and ICP0 with an insertion at amino acid 697, respectively, under control of the adenovirus major late promoter (MLP) (67, 68).
+[1] Adenoviruses AdORF29 and AdORF29 /H9004NLS express ORF29p and ORF29p /H9004NLS, respectively, under control of a mouse cytomegalovirus (mCMV) promoter and were constructed using a system (pDC516 and pBHGfrt /H9004E1,3FLP) that relied on FLP-mediated frt site recom- bination (Microbix Biosystems, Inc., Toronto, Ontario, Canada) (54).
+[1] Proteins were radiolabeled by ﬁrst washing three times in PBS and starving the infected or control cell cultures of Met and Cys by incubating them with modiﬁed DMEM (GIBCO-BRL) for 30 min.
+[1] First, MeWo and U373MG cells were infected with AdORF29 at an MOI of 50, and at 3 dpi the infected cultures were either mock treated, treated with MG132, or treated with cycloheximide for 6 h.
+[1] The change in abundance of ORF29p in MeWo and U373MG cells was calculated as the percentage of protein present in the mock-treated samples (Fig.
+[1] MeWo and U373MG cells were infected with AdORF29 at an MOI of 50 (lanes 2 to 7) or mock infected (lane 1).
+[1] MeWo (A) and U373MG (B) cells were infected with AdORF29 at an MOI of 50 (lanes 1 to 6) or mock infected (lane 7).
+[1] MeWo (A) and U373MG (B) cells were infected with AdORF29/H9004NLS at an MOI of 50 (lanes 1 to 6) or mock infected (lane 7).
+[1] To determine whether the subcellular location of the latency- associated proteins was altered by inhibition of the proteasome and to determine if the virus was reactivated in response to the drug, latently infected enteric neurons were either mock treated, superinfected with MLP-0, or treated with 20 /H9262M MG132.
+[1] As expected, VZV infection remained latent in mock-treated cells, as demonstrated by the presence of ORF29p and ORF62p in the cytoplasm and the absence of gE (Fig.
+[1] Our studies implicate the proteasome degradation pathway in control of the subcellular distribution of ORF29p.
+[1] differential control of p53 fate by Mdm2.
+
+===== VI43 =====  (src VI43 - Mechanisms of establishement of persistent SARS-CoV-infected cells.txt)
+
+
+===== VI51 =====  (src VI51 - bovine-enterovirus.pdf)
+[1] Mock-infected cells served as negative controls.
+[1] Construction of a full-length infectious clone The complete genome of BEV strain GXHC2317 was amplified as overlapping cDNA fragments spanning the 5′UTR to the 3′UTR and assembled into a low-copy plas­ mid backbone under the control of a CMV promoter to generate a full-length infectious cDNA clone.
+[1] No-template and negative extraction controls were included, and viral genome cop­ ies were calculated from a standard curve and expressed as genome copies per milligram of tissue.
+[1] Cell viability was calculated relative to the vehicle control, and the maximal non-cytotoxic con­ centration was defined as the highest dose maintaining more than 80% viability.
+[1] After incu­ bation for the indicated period, infection was quantified based on the UnaG fluorescence readout, and antiviral activity was expressed as the reduction in infection com­ pared with the untreated infected control.
+[1] Gating was set using mock-infected cells to define the UnaG-negative population, and the infection rate was reported as the percentage of UnaG-positive cells.
+[1] PCR amplification products of GXHC2317, positive control and negative control, respectively (C) Plaque purification of the virus on BHK-21 monolayers.
+[1] Indirect immunofluorescence assay further verified successful rescue, as infected BHK-21 cells showed strong cytoplasmic staining with BEV-spe­ cific antibodies, whereas mock-infected cells remained Table 2 Information on recombination events of BEV isolates detected by RDP5 software Strains Parental sequence Detection methods (p-value) Minor Major RDP GENE CONV Bootscan Maxchi Chimaera SiScan 3Seq GXHC2317 GX10 BEV8 2.876 × 10− 13 2.998 × 10− 9 4.468 × 10− 13 8.917 × 10− 13 3.905 × 10− 10 2.662
+[1] The GXHC2317 genome was assembled under the control of a CMV promoter and flanked by a poly(A) tract, HDV ribozyme.
+[1] Mock-transfected cells served as a negative control.
+[1] IFA of BHK-21 cells infected with the rescued rGXHC2317, showing BEV antigen–positive cells, while mock-infected cells served as the negative control.
+[1] mock-infected cells served as negative control.
+[1] asterisks denote statistically significant differences compared with the untreated control Page 10 of 13 Dong et al.
+[1] Both ribavirin and pleconaril led to a marked reduction in the proportion of fluorescent cells compared with the untreated control, indicating clear inhibition of BEV rep­ lication, whereas chloroquine phosphate produced only a slight change in infection frequency (Fig.
+
+===== VI52 =====  (src VI52 - herpes-B-virus-Macacine-alphaherpesvirus-1.pdf)
+[2] Left, normal Vero cells as control;
+[2] On the left, normal Vero cells serve as control;
+[1] We estab­ lished a qPCR standard curve using 10-fold serial dilutions of the UL29 positive control and calculated BV DNA copy numbers for each sample.
+[1] We inoculated 250 µL of the pro­ cessed oral swab sample into duplicate wells and incu­ bated at 37°C in 5% CO2 for 2 h to allow virus absorption, while the control well was inoculated with 250 µL of sterile DMEM only.
+[1] The lower panel illustrates nuclear DNA in Vero cells as a control, with phase-contrast on the left, DAPI staining in the centre, and a merged image on the right.
+[1] on the right, uninfected Vero cells as a reference.
+[1] a quality control tool for high throughput sequence data;
+[1] advanced multi-sample quality control for high-throughput sequencing data.
+
+===== VI53 =====  (src VI53 - BVDV.pdf)
+[1] Article Molecular Characteristics and Pathogenicity Analysis of Bovine Viral Diarrhea Virus Strain Isolated from Persistently Infected Cattle Jiaxing Zhong 1,2, Fen Sun 2, Ming Zhou 2, Kaiqiang Fu 1,* and Hongjun Yang 2,* 1 Institute of Animal Reproductive Physiology and Disease, College of Veterinary Medicine, Qingdao Agricultural University, Qingdao 266109, China 2 Shandong Key Laboratory of Animal Disease Control and Breeding, Institute of Animal Science and Veterinary Medicine, Shandong Acad
+[1] Comprehensive monitoring and in-depth studies of the pathological characteristics of viruses are crucial in formulating effective prevention and control strategies.
+[1] However, due to the complex serotypes, frequent mutations, and strong transmission ability of the pathogen, existing measures of control still fail to achieve ideal results [6].
+[1] Our findings provide new evidence identifying the main pathogen of calf diarrhea in China, offer insights into the epidemiology and control of BVDV, and foundational data for mechanistic studies and vaccine development targeting pathogenic BVDV.
+[1] The BVDV-1 AV69 strain was obtained from the China Institute of Veterinary Drug Control.
+[1] The collected virus supernatant was inoculated at 200 µL per well, with three replicates and three negative control groups.
+[1] A 100 µL of DMEM was used as a blank control.
+[1] The mice were randomly divided into a virus infection group and a control group.
+[1] The virus infection group was intraperitoneally injected with 200 µL of a 106 TCID50 virus solution, while the control group received the same volume of DMEM.
+[1] In parallel, control groups were established by inoculating MDBK cells with HB2411 or AV69 virus suspensions diluted tenfold from 10−1 to 10−8 without serum.
+[1] For each dilution, six replicate wells were included to assess assay reproducibility, and wells containing only cell culture medium served as cell controls.
+[1] The neutralization index (NI) was calculated as the difference between the logarithmic virus titers of the neutralization groups and the corresponding control groups.
+[1] Negative Control.
+[1] https://doi.org/10.3390/ani16010153 Animals 2026, 16, 153 7 of 17 To further characterize the biological properties of this strain, MDBK cells infected with the HB2411 strain (experimental group) and uninfected cells (control group) were cultured under similar conditions for 72 h, followed by systematic observation using microscopy.
+
+===== VI57 =====  (src VI57 - insect-specific-flavivirus-lineage-I.pdf)
+[1] This report represents the first known spatiotemporal study of an ISF and highlights QBV’s potential as a biological control against medically important orthoflaviviruses.
+[1] This underscores their potential as biological controls against arboviruses, though results across different ISFs have been varied.
+[1] The goal of this study was thus to investigate the spatiotemporal prevalence of the ISF locally and assess its potential as a biological control tool against other medically important orthoflaviviruses.
+[1] Briefly, mosquitoes were trapped over 16–20 h using Centers for Disease Control (CDC) light traps and transported to EHI on dry ice.
+[1] Absorbance was measured at 405 nm, with wells considered positive if absorbance values exceeded twice the negative control wells.
+[1] of 0.1 or mock infected with 2% FBS media.
+[1] For mock-­infected wells, this was done with 2% FBS L-­15 Leibovitz media instead.
+[1] cra 8/1/21 T1 30 8 January 2021 Yishun Ave 8 + − Sarawak virus +, A positive sample where one or more infected wells had an optical density (OD) greater than twice the average OD of negative control wells.
+[1] −, A negative sample where no infected wells had an OD greater than twice the average OD of negative control wells.
+[1] In mock-­infected controls, medically important orthoflaviviruses grew exponentially at 1 dpi before plateauing from 4 dpi onwards.
+[1] However, none of those studies investigated the potential of QBV as a biological control against medically important viruses.
+[1] While this provides promising signs to the potential use of QBV as a biological control, in vivo data is still crucial for several reasons.
+[1] This poses a question to the usefulness of ISFs as a biological control agent and their potential interactions with Wolbachia-­infected mosquitoes.
+[1] However, given QBV’s natural association with Culex mosquitoes and significant reduction of WNVKUN infection in vitro, an ISF-­mediated biological control in Culex mosquitoes could be used in parallel with Wolbachia-­infected Aedes aegypti releases to combat other medically important orthoflaviviruses.
+
+===== VI58 =====  (src VI58 - Japanese-encephalitis-virus-JEV.pdf)
+[1] As a mock-infected control, PBS was inoculated in each study.
+[1] Japanese encephalitis infection, diagnosis and control in domestic animals.
+
+===== VI59 =====  (src VI59 - BVDV-1c.pdf)
+[2] mock-infected cells (no CPE);
+[1] Article First Isolation and Genomic Characterization of BVDV-1c in Przewalski’s Gazelle (Procapra przewalskii) from the Qinghai–Tibet Plateau, China Yue Zhang 1,† , Yang Zhang 1,†, Guanghua Wang 1, Xiuping Li 1, Yong Hu 1, Wen Guo 1, Yutong Liu 1, Linyuan Gong 1, Xingjun Wang 2, Mingxue Wang 2, Lili Huo 2, Yingna Jian 1,* and Liqing Ma 1,* 1 Qinghai Provincial Key Laboratory of Pathogen Diagnosis for Animal Diseases and Green Technical Research for Prevention and Control, Academy of Animal Scien
+[1] These findings furnish crucial baseline data for disease surveillance, molecular epidemiology, and conservation management of Przewalski’s gazelle and provide valuable scientific evidence for wildlife disease prevention and control in plateau ecosystems.
+[1] Accumulating evidence indicates that multiple livestock-associated pathogens are capable of infecting wild ungulates and may estab- lish novel sylvatic maintenance cycles, creating challenges for both wildlife conservation and livestock disease control [6,7].
+[1] Positive controls (known positive samples for target pathogen) and negative controls (nuclease-free water) were included in each PCR assay.
+[1] Positive and negative controls were included in each run.
+[1] After quality control, the sequencing reads were assembled using Velvet (version 1.2.10), Novoplasty (version 2.7.2), A5-MiSeq (version 20160825), or SPAdes (version 3.15.4), and the optimal assembly results were selected.
+[1] P, positive control.
+[1] N, negative control;
+[1] N−, negative control;
+[1] P+, positive control.
+[1] Following three blind passages, successful virus isolation was confirmed by RT-PCR detection of BVDV RNA in the cell culture super- natants, whereas no amplification was obtained from mock-inoculated control cultures https://doi.org/10.3390/ani16172781 Animals 2026, 16, 2781 10 of 17 maintained in parallel (Figure 5).
+[1] P+, positive control;
+[1] Positive green fluorescence was observed in infected cells, while no signal was detected in the negative control (scale bar:
+
+===== VI60 =====  (src VI60 - PIV5-parainfluenza-virus-5.pdf)
+[2] Subsequently, PBS (Mock group) and #8 filtrate (PIV5 group) were inoculated into Vero cells, and significant CPE was observed in the first-generation blind passages of PIV5 group as opposed to Mock group (Figure 1A).
+[1] In 1984, a hospital in London tested the serum of multiple sclerosis patients and controls for neutralizing anti­ bodies, revealing a 20% seropositivity rate (13/62), suggesting human susceptibility to PIV5(Goswami, Lange et al.
+[1] A band corresponding to the 59 kDa NP protein was detected in the lysate from PIV5-infected Vero cells but not in mock group (Figure 1C), and specific NP staining was clearly observed in PIV5-infected Vero cells (Figure 1D), whereas no signal was detected in mock-infected controls.
+[1] An investigation of the incidence, epidemiology and control of Simian virus 5.
+
+===== VI63 =====  (src VI63 - PRRSV-1-and-PRRSV-2.pdf)
+[2] VIRULENCE 7 Pathogenicity assessment of PRRSV isolates AHB1 and Chah2022 in pigs Clinical presentations (rectal temperature, clinical signs and average daily weight gain) The control group remained clinically normal, exhibiting no aberrant body temperature or other signs of disease throughout the entire experimental period.
+[1] VIRAL PATHOGENESIS Characterization and pathogenicity of single-farm-isolated PRRSV 1 and PRRSV 2 strain in China Zhendong Zhang a,b*, Di Gaoc*, Zihe Wanga,b, Wei Xua, Caijie Yana,b, Lifeng Zhoud, Zhipeng Lid, Jiannan Lvd, Lei Zhou e, and Zhenhai Chen a aJiangsu Co-Innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, College of Veterinary Medicine, Yangzhou University, Yangzhou, China;
+[1] Our findings provide the evidence of PRRSV 1 and PRRSV 2 concurrent circulation in the single sow farm in China, which highlights the ongoing evolution of both Chinese PRRSV species and underscores the urgent need for enhanced surveillance and updated control strategies.
+[1] Our findings provided direct evidence of PRRSV 1 and PRRSV 2 concurrent circulation in one single farm, presenting a new challenge for the effective prevention and control of PRRS in China.
+[1] Five pigs were assigned to the AHB1- and Chah2022-inoculated groups, and three pigs served as mock-infected con­ trols.
+[1] Each piglet was considered an experimental unit and was included in the study as infected or mock.
+[1] The control group received an equivalent volume of RPMI 1640 medium via the same routes.
+[1] Statistical analysis ADWG analyses were processed, and the significant differences between challenged and control groups were determined using Welch’s t-test in GraphPad Prism 8.0 software (GraphPad, USA), with a significance level set at p < 0.05.
+[1] At 48 hpi, IFA was further performed using PRRSV N specific antibody, and green signals were observed in the virus infected PAMs, while no signal was observed in mock-infected PAMs or in Marc-145 cells inoculated with either isolate.
+[1] In addition, no other clinical signs were observed, and the average daily weight gain (ADWG) in this group was comparable to that of the control group (Figure 5(C)).
+[1] VIRULENCE 9 exhibited a lower ADWG than the control group, the difference was not statistically significant (Figure 5(C)).
+[1] In the control group, all animals remained seronegative until the end of the experiment.
+[1] Gross lesions and immunohistochemistry examination of lungs At 21 dpi, gross lesions in all organs, including the lungs, were negligible in both challenge groups com­ pared to the controls (Figure 6).
+[1] In China, PRRSV 2 is predominant, and the diversified PRRSV 2 strains concomitantly circulating within the farm or in the field have become one of the most important obstacles for PRRS control [18,25].
+
+===== VI67 =====  (src VI67 - bovine-enterovirus-genotype-F.pdf)
+[1] These findings provide a scientific foundation for vaccine design and antiviral drug screening, as well as for the develop­ ment of effective prevention and control strategies.
+[1] Bovine enteric viruses constitute major diarrheal pathogens whose clinical significance is heightened through frequent coinfections that potentiate disease severity and complicate outbreak control (2, 3).
+[1] This transmission mode not only enhances viral dissemination efficiency but also complicates epidemic control measures, ultimately inflicting substantial economic losses on the cattle industry (5).
+[1] DMEM was added to the first well of the plate as a negative control.
+[1] After three PBS washes, cells were blocked with 5% bovine serum albumin for 1 h, incubated with mouse positive serum for 1 h at room temperature, and uninfected cells served as the negative control.
+[1] Following a 3-day adaptation period, Group A mice (n = 4) were administered 0.5 mL of the viral isolate (107.66 TCID50/0.1 mL) by intraperitoneal injection, and Group B mice (n = 4) served as negative controls and received an equivalent volume (0.2 mL) of sterile DMEM cell culture supernatant by intraperitoneal injection.
+[1] lane 6, negative control;
+[1] lane 7, positive control.
+[1] Specific immunofluorescence was detected in BEV-infected MDBK cells using hyperimmune serum from inactivated whole-virus vaccinated mice as primary antibody, while no signal was observed in uninfected control cells (Fig.
+[1] Research Article Microbiology Spectrum January 2026 Volume 14 Issue 1 10.1128/spectrum.02711-25 8 Pathological lesions and viral tropism of Sichuan/SQ/20 in mice Neither the experimental group nor the control group exhibited overt clinical signs during the study period.
+[1] To elucidate pathogen characteristics, facilitate vaccine and diagnostic reagent development, and inform control strategies, the physicochemical and biological properties of the isolated strain were comprehensively analyzed.
+[1] Research Article Microbiology Spectrum January 2026 Volume 14 Issue 1 10.1128/spectrum.02711-2511 for vaccine design and antiviral drug screening, as well as the development of effective prevention and control strategies.
+
+===== VI74 =====  (src VI74 - DENV-C6-36-standardization.pdf)
+[2] 3A, bright-field microscopy demon­ strated that untreated C6/36 cells (negative control) maintained their normal morphology, while cells exposed to serum (complement) or DENV-2 NGC exhibited simi­ lar cytopathic changes.
+[2] Infected C6/36 cultures displayed char­ acteristic syncytium formation—clusters of fused and degenerated cells—similar to those observed in NGC- infected control cultures (Fig.
+[2] In contrast, the ELISA-negative control samples failed to neutralize viral replication and displayed visible CPE, consistent with the absence of specific antibodies.
+[2] Human serum samples previously characterized by DENV envelope protein-based ELISA and by CPE-VNT using Vero CCL-81 cells were employed as standard controls to validate the CPE-VNT in C6/36 cells.
+[1] 3D), with Ct values comparable between clinical iso­ lates and the NGC control, supporting the purity of the viral isolates and ruling out interference from residual serum components.
+[1] untreated control cells (Con­ trol);
+
+===== VI76 =====  (src VI76 - covert-mortality-nodavirus-CMNV.pdf)
+[2] To evaluate this possibility, we prepared tissue extracts from CMNV-negative healthy shrimp using the same procedure as for the virus inoculum, and used them as a mock control to assess the cytotoxicity of host-derived components in three susceptible cell lines (EPC, TiB, and S2).
+[2] SUPPLEMENTARY FIGURE 2 Mock-controlled infection assay confirms virus-specific CPE of CMNV in EPC, TiB and S2 cell lines.
+[2] The mock group received an equal volume of tissue crude extract from CMNV-negative healthy shrimp.
+[1] Frontiers in Microbiology 01 frontiersin.org Insect and fish cell lines support replication and serial passage of covert mortality nodavirus Zhaoxi Wang 1,2, Zhanqing Sun 1,2, Tingting Xu 1,2, Na Wang 1,2 and Qingli Zhang 1,2* 1State Key Laboratory of Mariculture Biobreeding and Sustainable Goods, Key Laboratory of Maricultural Organism Disease Control, Ministry of Agriculture, Qingdao Key Laboratory of Mariculture Epidemiology and Biosecurity, Yellow Sea Fisheries Research Institute, Chinese Ac
+[1] For initial susceptibility screening across eight cell lines, 50 μL of virus extract was added to each dish, whereas an equal volume of phosphate-buffered saline (PBS, pH 7.4) was added to the control group.
+[1] One set of samples was collected at 2 hpi (immediately after washing, serving as the initial input control), while the remaining samples were collected at 24, 48, and 72 hpi.
+[1] The experimental group was infected with CMNV at an MOI of 0.001, the mock group received an equal volume of CMNV-negative shrimp extract, and the blank control group received an equal volume of PBS.
+[1] A background blank group (medium only, without cells) was also included for background subtraction.
+[1] In EPC cells, a significant reduction in cell viability was observed at 72 hpi relative to the mock-infected controls.
+[1] (B–D) Cell viability was measured by CCK-8 assay in mock- and CMNV-infected cells (MOI = 0.001) at the indicated time points.
+[1] Statistical significance between mock- and CMNV-infected groups at each time point was determined by multiple t-tests (without assuming consistent SD) with Holm-Šídák correction for multiple comparisons.*p < 0.05, **p < 0.01;
+[1] The control group was inoculated with 50 μL of PBS.
+
+===== VI77 =====  (src VI77 - PDCoV-porcine-deltacoronavirus.pdf)
+[2] In the MOCK group, the villi structures of the duodenum, jejunum, and ileum were intact and well-developed (Figures 6A–C).
+[2] The lungs of the MOCK, CHN-JSSQ-2024, and CHN-AHHN-2024 groups exhibited a normal morphological structure without abnormal pathological changes (Figures 7A, E, I).
+[2] The brain tissues of the MOCK and CHN-JSSQ-2024 groups appeared normal without any abnormal pathological changes (Figures 7C, D, G, H).
+[2] (A–D) Mock-inoculated LLC-PK cell culture displays normal cells.
+[1] Genomic characterization and tissue tropism variations of two porcine delta coronavirus strains isolated in China Guangli Hu 1, Yihui Huang 1, Zexin Chen 1, Rui Geng 1, Zhiqing Zhao 1, Ouyang Peng 1, Chuangchao Zou 1, Hanqin Shen 2, Yongchang Cao 1 and Hao Zhang 1* 1State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-sen University, Guangzhou, China, 2Guangdong Enterprise Key Laboratory for Animal Health and Environmental Control, Wen’s Foodstuff Group Co.
+[1] During passage, positive control wells inoculated with PDCoV and negative control wells without virus inoculation were included.
+[1] Immunoﬂuorescence assay LLC-PK cells in 6-well cell culture plates were either mock- infected or infected with porcine epidemic diarrhea virus (PEDV) at a multiplicity of infection (MOI) of 0.1.
+[1] The two groups were orally inoculated with either 1 mL of 1 × 106 TCID50 of CHN-ANHZ- 2024 or 1 mL of 1 × 106 TCID50 of CHN-JSSQ-2024, the mock infection group was orally inoculated with 1 mL of DMEM.
+[1] Uninfected control cells (Figures 2A–D) remained ﬂat and adherent to the culture plate.
+[1] As shown in Figure 2E, no ﬂuorescence was observed in uninfected control cells, while green ﬂuorescence, corresponding to viral presence, was observed in cells infected with CHN-ANHZ-2024 and CHN-JSSQ-2024 (Figure 2J) and CHN- JSSQ-2024 (Figure 2O).
+[1] The piglets were orally inoculated with either CHN-ANHZ-2024 or CHN- JSSQ-2024 at 1 mL of 1×106 TCID50 per piglet, while the control group orally inoculated with 1 mL of DMEM.
+[1] No viral RNA was detected in the control group (Figure 5B).
+[1] The kidney tissues of the MOCK and CHN-JSSQ-2024 groups exhibited no abnormal pathological changes (Figures 7B, F).
+[1] PDCoV-CHN-ANHZ-2024 and CHN-JSSQ- 2024 challenged piglets was detected by immunohistochemical analysis No positive signals were observed in the duodenum, jejunum, and ileum of the mock group (Figures 8A–C).
+
+===== VI79 =====  (src VI79 - RSV.pdf)
+[1] RSV infection induced a time-dependent increase in EMV levels compared to uninfected controls.
+[1] The same conditions were applied to uninfected control cells.
+[1] No-template controls (NTCs) were included in each run for quality control.
+[1] Extracellular microvesicle purification from cultured cells BEAS-2B and A549 cell supernatants collected from both RSV/40G-A-infected and uninfected wells at different time points (24, 48, 72, and 96 hpi) were first centrifuged at 3,000 × g for 5 min to remove debris.
+[1] NanoSight analysis The concentration and the size distribution of EMVs from BEAS-2B and A549 cell supernatants collected from both RSV/40G-A-infected and uninfected wells were measured by nanoparticle tracking analysis (NTA).
+[1] Characterization of EMVs by immunoblotting and flow cytometric analyses EMVs from BEAS-2B and A549 cell supernatants collected from both RSV/40G-A-infected and uninfected wells were lysed in RIPA buffer and subjected to SDS-PAGE.
+[1] To further assess ANXA1 expression, EMVs isolated from uninfected and RSV/40G- A-infected BEAS-2B cell supernatants were stained with anti-ANXA1 antibody (Santa Cruz Biotechnology, 12740), followed by a FITC-conjugated secondary antibody (Sigma Aldrich, F5262).
+[1] Autofluorescence and isotype controls were included.
+[1] Student’s t-test was used to assess statistical differences in EMV concentrations (expressed as particles/ mL) and in western blot densitometric levels of RSV-NP protein normalized to ANXA1 protein between uninfected and RSV/40G-A-infected BEAS-2B and A549 cells.
+[1] Notably, RSV infection elicited a time-dependent increase in EMV concentration, rising from an average of 3 × 109 particles/mL at 24 hpi to 4.4 × 109 particles/mL at 48 hpi, 5 × 109 particles/mL at 72 hpi, and 5.5 × 109 particles/mL 1 3 Page 5 of 10 23 Medical Microbiology and Immunology (2026) 215:23 at 96 hpi, compared to uninfected cells (2.4 × 109 particles/ mL), increasing to approximately 1.25-fold at 24 hpi, 1.83- fold at 48 hpi, 2.08-fold at 72 hpi, and 2.29-fold at 96 hpi compared to un
+[1] For EMV purifica­ tion, supernatants from BEAS-2B and A549 cell cultures, both RSV/40G-A-infected and uninfected, were subjected to sequential centrifugation, as described in the Methods section.
+[1] Nanoparticle tracking analysis (NTA) quantification of extracellular microvesicles (EMVs) (Panels a–e), expressed as particles/mL, was performed on supernatants from BEAS-2B cells, both uninfected and infected with RSV/40G-A, at different time points (24, 48, 72, and 96 hpi).
+[1] Panel f shows the quantitative com­ parison of EMV concentration in uninfected and RSV/40G-A condi­ tions.
+[1] The RSV-NP was enriched in EMVs released from RSV/40G-A-infected cells at 24, 48, 72, and 96 hpi, compared to the control (p < .0001).
+
+===== VI82 =====  (src VI82 - nervous-necrosis-virus-NNV.pdf)
+[1] A negative control tank bathed with L-15 culture medium was established for each temperature and handled as ﬁsh from the experimental 2 Transboundary and Emerging Diseases infections.
+[1] Non-infected cells were used as controls.
+[1] In addition, neither mortalities nor the NNV genome were detected in mock-infected ﬁsh.
+
+===== VI83 =====  (src VI83 - CPV-2c-canine-parvovirus.pdf)
+[2] After inoculation onto F81 cells, infected cells gradually exhibited CPEs characterized by cell shrinkage and detachment, whereas control cells remained normal (Figure 1C).
+[1] There- fore, within an epidemiological surveillance framework, establishing analytical systems that reflect the genetic and antigenic characteristics of current circulating strains is crucial for risk assessment and optimization of prevention and control strategies.
+[1] Negative control wells were included, and at least three independent experiments were performed.
+[1] A specific band of approximately 392 bp was obtained for CPV L4, while no band was detected in the negative control (Figure 1A), indicating successful isolation.
+[1] Western blot analysis detected a specific VP2 band in CPV L4-infected cells but not in controls (Figure 1D).
+[1] Immunofluorescence assays showed VP2-specific fluorescence in infected cells but not in controls (Figure 1E), further confirming infection and protein expression.
+[1] GAPDH served as an internal control.
+[1] Nb10 showed relatively higher OD450 values, while negative controls showed no signal (Figure 3D).
+[1] A specific band corresponding to VP2 was detected in infected samples, while no signal was observed in uninfected controls (Figure 4A), indicating that Nb10 specifically recognizes CPV L4 VP2 under denaturing conditions.
+[1] Immunofluorescence assays further validated Nb10 recognition at the cellular level, showing clear specific green fluorescence in infected cells but not in controls (Figure 4B).
+[1] Indirect ELISA showed that Nb10-Fc produced clear binding signals in VP2-coated wells, whereas no signal was detected in controls (Figure 5C), indicating effective recognition of VP2.
+[1] Immunofluorescence assays showed obvious Nb10-Fc-specific fluorescence in infected cells but not in controls (Figure 5E), indicating that Nb10-Fc is suitable for cellular immunodetection.
+[1] Compared with traditional polyclonal/monoclonal antibodies, nanobodies have simpler structures, easier batch consistency control, and can be readily fused with tags or functional modules, making them suitable for standardized detection and epitope research platforms for circulating strains.
+[1] Food Control 2026, 181, 111776.
+
+===== VI85 =====  (src VI85 - feline-astrovirus.pdf)
+[2] 2.7 FeAstV and FPV co-infection assay F81 cells were grown to 80 to 90% confluence in 12-well plates, then were co-inoculated with FeAstV and FPV for 96 h, with monoinfection groups (FeAstV-only and FPV-only) serving as controls.
+[2] By day 7, extensive cell detachment was observed in infected cultures, while control cells exhibited minimal age-related morphological changes attributable to prolonged culture duration (Figure 1).
+[2] Unchallenged F81 cell cultures served as normal controls.
+[2] normal cells control (partial ORFb1);
+[1] This provides a reference for further understanding of clinical cases of FeAstV infection in cats, and laid the foundation for prevention and control of FeAstV infection.
+[1] Parallel negative controls were maintained using sterile phosphate-buffered saline.
+[1] The cats were randomly assigned to either a control group (n = 2) or a FeAstV-challenged group (n = 4), with all animals individually housed in separate isolation units.
+[1] The challenge group received 2 ml (103 TCID50/ml) of isolated FeAstV strain suspension via subcutaneous injection combined with 8 ml oral administration, while control animals were administered equivalent volumes of phosphate-buffered saline (PBS) though identical routes.
+[1] 2.6 Immunoperoxidase monolayer assay (IPMA) Serum samples from FeAstV-challenged cats (experimental group) and uninfected controls were analyzed for FeAstV-specific antibodies via IPMA.
+[1] Briefly, F81 cells cultured in 24-well microplates were infected with 22SDWH1003-16-FeAstV strain for 72 h, with uninfected F81 cells serving as negative controls.
+[1] This contrasted with control cells maintaining typical epithelioid morphology.
+[1] 3.4 Infection and pathogenicity of FeAstV To evaluate the pathogenic potential of FeAstV, six cats were chosen from a pet market, they were negative for antigen and antibodies of FeAstV with confirmed absence of coinfections with common feline viruses (FPV, FcoV, FBoV-1, FeChPV).·The 4 cats of them were randomly chosen as viral challenge group, while two served as controls, maintained in separate isolation facilities.
+[1] Asymptomatic infections were observed in both the remaining challenged cats and controls (Figure 4A;
+[1] Serum samples collected 14 days post-infection confirmed seroconversion in all challenged cats by immunoperoxidase monolayer assay (IPMA), whereas controls remained seronegative (Figure 4C).
+
+===== VI87 =====  (src VI87 - novel-duck-orbivirus.pdf)
+[2] The inoculation group received an intramus- cular injection of 0.1 mL suspension (TCID50= 105/0.1mL), while the control group received an equivalent amount of normal duck embryo homogenate.
+[2] In contrast, mock-infected control cells maintained a normal morphology throughout the experiment (Figure 1E).
+[1] In both the inoculation and control groups, three SPF ducks were ran- domly selected and euthanized for dissection to examine organ lesions on 3, 7, 14, 21, and 28 dpi.
+[1] Name Sequences (5′-3′) Length of target gene NDORV-F GCTTGGTATGATGCTCTAC 143 bp NDORV-R GGTGATACTAAGATTGGTGTAC NDORV-probe FAM-CGTAGTTCCTGAGGATGCACCGTTC-TAMRA Transboundary and Emerging Diseases 3 ðAÞ P1 P3 Control ðBÞ ðCÞ ðDÞ ðEÞ 6 4 2 0 2 12 24 48 Hours postinfection Virus titer (Log10 TCID50/mL) 72 96 120 ðFÞ 100 nm ðGÞ 100 nm ðHÞ FIGURE 1:
+[1] The left embryo was inoculated with NDORV, while the right embryo injected with PBS serves as the control.
+[1] The data demonstrated that the body weights of the inoculated group were comparable to those of the control group at all time points, except for a slight deviation observed at 3 dpi (Figure 3A).
+[1] The organ coefﬁcients were cal- culated and compared between the inoculated and control groups.
+[1] (E) Control DEF monolayer treated with PBS.
+[1] Segment Protein G + C (%) ORF (bp) Predicted protein length (aa) % Pairwise identity with PLV (K71551) (nt/aa) % Pairwise identity with CORV AUS1960/01 (nt/aa) 1 VP1 41.4 3873 1290 89.7/97.4 77.4/91.2 2 VP2 42.1 2850 949 90.9/98.4 80.4/95.4 3 VP3 41.9 2220 739 72.8/82.4 72.0/80.2 4 VP4 43.7 1932 643 88.1/96.1 78.7/90.8 5 NS1 48.3 1770 589 91.5/96.6 78.0/89.5 6 VP5 45.5 1584 527 88.8/97.9 79.3/95.3 7 NS2 48.0 1116 371 92.8/98.1 81.0/92.7 8 VP7 49.8 1065 354 88.2/98.3 79.2/95.2 9 VP6 47.1 1035 344
+
+===== VI91 =====  (src VI91 - RSV-measles-secondary-infection-methods.pdf)
+[1] RNA Isolation and Library Construction Total RNA from mock-treated or virus-infected SHS cells was isolated using RNAzol RT (MRC, Cincinnati, OH, United States) Frontiers in Microbiology | www.frontiersin.org 2 September 2021 | Volume 12 | Article 671852 Bakre et al.
+[1] Samples 1–3 are 12 h MeV infection, samples 4–6 are 12 h RSV infection, samples 7–9 are 24 h MeV infection, samples 10–12 are 24 h RSV infected SHS cells and mock infected samples are samples 13 and 14.
+[1] Brieﬂy, small RNA from mock-treated SHS cells (n = 2/group), or RSV- or MeV-infected SHS cells (n = 3/group) was isolated at 12 Frontiers in Microbiology | www.frontiersin.org 3 September 2021 | Volume 12 | Article 671852 Bakre et al.
+[1] Respiratory Viruses Alter sncRNA Expression TABLE 2 | Normalized read counts between mock, RSV- and MeV-infected samples as analyzed by OASIS 2.0 (Rahman et al., 2018a).
+[1] Mock 12 h 24 h Mature log2 fold-change padj Mock RSV MeV RSV MeV miR-10b-5p −2 0.00 1,416, 1,636 94, 144, 78 369, 262, 128 165, 248, 158 166, 173, 243 miR-181c-5p −2 0.03 25, 26 12, 3, 6 6, 10, 12 9, 3, 9 10, 5, 6 miR-125b-5p −2 0.02 50, 34 12, 12, 10 9, 9, 27 12, 10, 10 7, 21, 12 miR-375 2 0.01 56, 49 82, 225, 273 137, 165, 155 168, 132, 193 128, 163, 136 p-miR-247 2 0.02 128, 147 222, 336, 458 131, 298, 530 560, 688, 694 416, 446, 387 miR-21-5p 2 0.03 11, 11 211, 19, 29 43, 23, 15 32, 65, 27 5
+[1] Anti-codon sequence for the top 5′tRFs deregulated in mock, RSV-, or MeV-infected SHS cells.
+[1] Comparisons were done using 2-way ANOVA with a mixed model (to account for outliers) and two replicates for mock followed by post hoc Tukey’s correction for multiple comparisons.
+[1] Thus, we examined SHS cells that were RSV- or MeV-infected (MOI = 1.0), or mock-treated and sncRNA expression determined at 12 and 24 hpi by Illumina NGS.
+[1] Raw fastq reads were mapped to the human genome, and miRs using Chimira (Vitsios and Enright, 2015) and Oasis 2.0 (Rahman et al., 2018a) were normalized to the total read counts and used to calculate diﬀerential expression using DESeq 2.0 (Love et al., 2014) relative to mock-treated cells.
+[1] Samples 1–3 (12 h MeV), 4–6 (12 h RSV), 7–9 (24 h MeV), and 10–12 (24 h RSV) clustered together and away from mock infected cells (samples 13–14) suggesting that the sncRNA response to MeV or RSV infection is distinct from mock infected cells.
+[1] This is evident in the clustering among mock-treated vs.
+[1] Compared to mock-infection, expression of miR-10b-5p, miR- 181c-5p, and miR-125b-5p were strikingly downregulated in SHS cells at 12 or 24 hpi following RSV or MeV infection.
+[1] We identiﬁed that (1) miR-10b-5p was expressed in mock-treated cells but showed reduced expression in RSV- or MeV-infected cells, (2) p-miR-247 and miR-375 had robust expression in RSV- or MeV-infected cells, (3) miRs had no/low expression in mock-treated cells, but were increased by RSV or MeV infection, and (4) miRs were not expressed in mock-infected cells at 12 hpi but showed robust copy numbers at 24 hpi.
+[1] Post-transcriptional regulatory mechanisms control translation of >60% of the human transcriptome (Friedman et al., 2009).
+
+===== VI92 =====  (src VI92 - DENV-antiviral-NDGA-study.pdf)
+[1] Ribavirin (RIB, Filaxis, Buenos Aires, Argentina) was used as a positive antiviral control.
+[1] Control groups consisted of virus not exposed to NDGA (viral control, VC) and NDGA alone without virus (compound control).
+[1] After remov­ ing the inoculum, cells were treated with NDGA (2.5 to 90 µM) or with the positive control (+ C), RIB (at a non- cytotoxic concentration:
+[1] Uninfected cells treated with NDGA were used as the cytotoxicity control (TC), whereas infected cells without treatment served as VC.
+[1] Virology Journal (2026) 23:121 the corresponding untreated control.
+[1] The percentage of infected cells in each treatment was determined by normalizing data compared to controls (100% value).
+[1] The percentage of affected cells was normalized to the untreated control, which was set as 100%.
+[1] NDGA treatment during pre-treatment (PT), AD, or IN phases did not significantly reduce WNV infection compared to the untreated control (Fig.
+[1] NDGA maintained a significant reduction in infectious viral particles compared to the untreated control when added up to 2 h PI (Fig.
+[1] Treatment with NDGA (90 µM), added 1 h PI, resulted in a significant reduction in the num­ ber of WNV-infected cells, as evidenced by a marked decrease in the expression of WNV proteins compared to untreated controls (Fig.
+[1] Spe­ cifically, NDGA is thought to downregulate the sterol regulatory element-binding protein (SREBP) pathway, which controls the expression of enzymes involved in sterol biosynthesis [16].
+[1] In contrast, resveratrol at 20 µM exhibited significant antiviral activity against WNV compared to untreated control, although this effect was weaker than that observed with NDGA at 90 µM (Fig.
+[1] We observed that 82.6% (300/363) of cells exhibited microtubule alterations after 2 h of NDGA treatment, and 95.3% (268/281) after 24 h, significantly higher than the 25% (106/424) observed in control cells (p < 0.0001).
+[1] Crucially, these mor­ phological changes were quantitatively confirmed, with 82.64% and 95.3% of cells exhibiting significant micro­ tubule alterations after 2 and 24 h of NDGA treatment, respectively, compared to control cells.
+
+===== VI93 =====  (src VI93 - DENV-2.pdf)
+[2] Microscopic analysis showed that 0.8 µM hypericin significantly reduced DENV-2-induced cytopathic effects, with treated cells maintaining mor­ phology similar to uninfected controls (Fig.
+[1] Jianfei Qiu qiujianfei120@163.com Jiahong Wu jiahongwu2008@hotmail.com 1School of Public Health, the key Laboratory of Environmental Pollution Monitoring and Disease Control, Ministry of Education;
+[1] Present control methods, focus­ ing on mosquito management and community educa­ tion, fail to provide adequate containment.
+[1] Both uninfected (blank con­ trol) and virus-infected (positive control) groups were maintained under identical culture conditions at 37 °C with 5% CO₂.
+[1] When distinct morphological changes became evident between control and infected groups, representative images were captured using an inverted microscope for documentation.
+[1] Blank control (uninfected) and virus control (infected, untreated) groups were included for reference.
+[1] Following the blocking step, these mem­ branes were incubated with DENV-2 E protein (GeneTex, GTX127277, 1:5000) and β-actin (HUABIO, HA722023, PSH03-63, 1:50000) primary antibodies, where the β-actin serves as loading control.
+[1] All groups were cul­ tured with DMEM containing 2% FBS and 1% antibiotics post-infection and drug treatment, including blank and virus controls.
+[1] The antiviral effect was visually corroborated by IFA, where hypericin-treated cultures exhibited sub­ stantially weaker fluorescence compared to the intense signal in untreated, infected controls (Fig.
+[1] *P < 0.05, **P < 0.01, ***P < 0.001 compared to virus control.
+[1] virus-only control group.
+
+===== VI97 =====  (src VI97 - Glycoprotein_C...bovine_herpesvirus.pdf)
+[2] The control cells remained healthy during the period.
+[1] The virus has been eradicated from some countries of Europe whereas in others like Germany and Italy control programs are imple- mented [32].
+[1] Total DNA extracted from a Madin Darby bovine kidney (MDBK) cell line adapted BHV-1 isolate (isolate 216) maintained in our laboratory was used as the positive control.
+[1] MDBK cells without sample inoculation was also incubated as control.
+[1] The percentage positivity (PP) was calculated using the formula PP = (OD of test sample)/(OD of positive control) 9 100.
+[1] The speciﬁc DNA band was observed in the positive control also.
+[1] On analysis of the extracted DNA by BHV-1 gC gene speciﬁc PCR, an expected amplicon of 575 bp was visual- ized on agarose gel in the suspected sample and in the positive control.
+
+===== VI102 =====  (src VI102 - Genomic Sequence and Phylogenetic Analysis of Culex Flavivirus - blitvich2009.pdf)
+[2] Mild CPE and/or clumping of cells were observed in all cell cultures with the exception of mock-infected control cultures.
+[1] Centers for Disease Control and Prevention, Fort Collins, Colorado.
+
+===== VI108 =====  (src VI108 - BHV1_detection_comparison.pdf)
+[2] virus diluted in EMEM alone served as control for identification of cytotoxicity, and inhibition of viral replication and CPE iT denotes cytotoxicity, - denotes negative and + denotes positive for CPE and FA staining dR denotes viral replication inhibition ,Control denotes negative control, i.e.
+[2] Round table on infectious bovine rhino- tracheitis/infectious pustular vulvovagini- tis virus infection diagnosis and control.
+[1] Lane P denotes BHV-1 stock as positive control.
+[1] No signal was observed in the negative control samples of the neat semen and of semen diluted 1:20.
+[1] Lane 5 denotes carryover control.
+[1] lane 8 is carry over control.
+[1] lane N is carry over control.
+
+===== VI111 =====  (src VI111 - Cytopathic_effects_in_cultures_inoculated_with_material_from_Crohns_di.pdf)
+[2] -that is, the majority of the cells in 82-1 group.bmj.com on April 5, 2015 - Published by http://gut.bmj.com/ Downloaded from Cytopathic effects in cultures inoculated with material from Crohn's disease Figure HeLa cell cultures six days after inoculation (a) control cells (b) a cytopathic effect induced by a Jaecal sample from a patient with acute Crohn's disease.
+[2] The control tissue cultures remained healthy for longer but similar changes occurred in them eventually.
+[2] The blind study revealed that a similar cytopathic effect was observed even more often in tissue cultures inoculated with material from control subjects.
+[2] Nevertheless, others have failed to detect a virus or have shown a cytopathic effect due to a non-viral substance.6'- Evidence in support of a viral hypothesis in Crohn's disease comes from animal transmission studies,9-'4 chro- mosomal abnormalities in Crohn's disease that could be caused by a virus,'-' and reports of a cytopathic effect in tissue cultures.'-' Gitnick et al.3 report the isolation of cytopathic agents from all four ileal tissue homogenates of patients with Crohn's disease inocul
+[2] Serum from patients with Crohn's disease inhibited the Crohn's disease isolates but did not inhibit the ulcerative colitis agents or the agents found in other controls.5 Nevertheless, we cannot exclude the possibility that the virus propagated was picked up in the laboratory and another group using identical techniques with continuous rabbit ileal cells were unable to demon- strate a transmissible cytopathic effect with Crohn's disease tissue.8 In recent studies bowel filtrates from patients wit
+[1] Aronson et al.' have isolated a small RNA virus in cell cultures inoculated with tissue from cases of Crohn's disease, but also found a similar virus in cultures inoculated with control tissue.
+[1] More recently the same group have observed the cyto- pathic effect in the majority of tissue specimens obtained from patients with Crohn's disease, ulcerative colitis, carcinoma of the bowel, and fiom some other controls.
+
+===== VI116 =====  (src VI116 - Clostridium_difficile_toxin_as_a_confounding_factor_in_enterovirus_iso.pdf)
+[1] Controls consisted of concurrent titration and neutralization tests on a fecal specimen known to contain C.
+[1] D, uninoculat colitis (3, 6);
+
+===== VI117 =====  (src VI117 - Miniature_cell_culture_systems_for_use_in_field_isolation_of_viruses_c.pdf)
+[1] Comparable uninfected cultures were main- tained as controls.
+
+===== VI119 =====  (src VI119 - coxsackie_RD_gpe_1988.pdf)
+[1] The failure of the Centers for Disease Control, for example, to predict the appearance on a national level of most group A coxsackievirus serotypes probably reflects the lack of surveillance laboratories to employ an appropriate (e.g., suckling mouse) assay system (2, 3, 17).
+[1] With appropriate markings (e.g., subcutaneous inoculation of a vital stain), two speci- mens plus a control (medium alone) were inoculated into a litter of nine pups.
+[1] The control consisted of the viral isolate diluted with an equal volume of phosphate-buffered saline.
+[1] The isolates and their controls were incubated for 2 h at 36.5°C, followed by duplicate inoculation of 0.2 ml of each mixture into RD cell cultures.
+[1] The control consisted of the same virus which was incubated with an equal volume of phosphate-buffered saline.
+[1] (A) Uninfected RD cells;
+[1] The low incidence of group A coxsackievirus isolates reported by Centers for Disease Control surveillance laboratories probably reflects the fact that the laboratories do not use suckling mice (9, 17).
+[1] Centers for Disease Control.
+[1] Evans (ed.), Viral infections of humans, epidemiology and control.
+
+===== VI121 =====  (src VI121 - Rapid_identification_of_viruses_by_indirect_immunofluorescence_isolati.pdf)
+[2] Throughout the study, control microcultures of adenoviruses types 2, 4, and 7 and normal, uninfected WI-38 microcultures were stained by the IFAT utilizing group adenovirus type 2 antiserum, pooled antiserum to nine respiratory 790 APPL.
+[1] Stock adenovirus types 2, 4, and 7 described pre- viously (6) and coxsackievirus A21, 24R, isolated in this laboratory, were used to infect control micro- cultures for the IFAT.
+[1] The central cul- ture served as an uninoculated control.
+[1] Positive control cultures.
+[1] and (ii) IFAT utilizing adenovirus- and coxsackievirus A21-infected and control microcultures versus homol- ogous and pooled antisera.
+[1] Inoculated and uninoculated control microcultures were stained by the IFAT (usually on the same slide) both with homologous antiserum at 1:10 and with pooled an- tiserum diluted as previously described (6) with the following exceptions:
+[1] WI-38 mnicrocuhlure, uninfected, 6 days after planting cells.
+[1] Even when the staining time was increased to 1 hr, first-passage coxsackievirus A21 in most instances did not stain as well as the positive control coxsackievirus A21, 24R, which was in sixth passage.
+[1] The fluorescence of coxsackieviruses in first passage was variable and of low intensity compared with control coxsackievirus A21, 24R, in sixth passage.
+
+===== VI203 =====  (src VI203 - HSV-shell-vial.pdf)
+[1] Scrapings obtained from 10 patients with infectious keratitis of non-viral origin were included as controls.
+[1] None of the controls yielded HSV-1.
+[1] n = 1), were included as controls.
+[1] None of the controls yield- ed HSV-1.
+[1] Uninfected cells are stained red due to the counterstain.
+[1] 17 [true positives], Controls:
+[1] Uninfected cells are stained blue due to the counterstain.
+
+===== VI208 =====  (src VI208 - human-rhinovirus.pdf)
+[2] Medium from paired control monolayers handled in an identical manner, with the exception of exposure to virus, at- tracted 12 ± 2 PMNLs/lO hpf (P< .01).No cpe was seen in the monolayers incubated with inactivated virus.
+[1] Medium supernatants from rhinovirus-infectedcellcultureattracted 87 ± 6 (mean ± SE) PMNLs/lO high-power fields (x450) compared with 38 ± 6 PMNLs/lO high- power fields attracted by medium from uninfected cell cultures (P < .0001).
+[1] Cell monolayers handled in an identical fashion, except that they were sham inoculated with the diluent for the virus inoc- ulum (serum-free medium) instead of R39, wereused as uninfected controls.
+[1] The media harvested from the infected cells and the uninfected cells were cen- trifuged at low speed (225 g) in a TJ-6 centrifuge (Beckman, Palo Alto, Calif) to remove cell debris;
+[1] Cell culture medium that had been incubated with neither cellsnor virus was inclu- ded as a negative control.
+[1] Sigma) or 10% zymosan-activated serum prepared as described previously [10] was included as a positive control for each experiment.
+[1] Experiments in which the mean cell count in the negative control wells was greater than 15 per 10hpf or in which the mean counts for the positive control were less than fivetimes those of the negative control wereexcluded from analysis.Approximately 10% of the experiments were excluded by these criteria.
+[1] Medium from uninfected cells, which weredisrupted ultrason- ically or by multiple freeze-thaw cycles, was assayed to determine if the chemoattractant was a substance preformed within the cell.Cellmonolayers maintained in serum-free EMEM were frozen at -70 C and thawed at 37 C three times;
+[1] Vi- rus-infected cell cultures handled in an identical fash- ion were assayed to control for destruction of the chemoattractant by freeze-thawing or sonication.
+[1] Con- trol monolayers that had been inoculated with in- fectious virus or with uninfected cell-culture medium were handled identically.
+[1] After 48 h, medium from the experimental and the control monolayers was as- sayed for chemotactic activity.
+[1] After incubation at 33 C for 48 h, media from both infected and control monolayers was assayed for chemoattractant activity.
+[1] Comparison of chemoattractant activity in medium from cells infectedwith R39with that in unin- fected controls.
+[1] ~ 25 MRC Infected Control HFF Infected Control HeLa Infected Control Cell type o Results Statistical methods.
+
+===== VI211 =====  (src VI211 - human-coronavirus-229E-related-coronaviruses.pdf)
+[2] Control cells appeared to remain morphologically normal for longer periods under this "Bristol" medium than under the Eagle's medium.
+[1] SFV was titrated in parallel in uninoculated cultures and in cultures which had been challenged 3 days previously with 229-E virus.
+[1] The titre was reduced in these latter cultures by 101-s TCDs0 for L132 cells, and 102 TCD~0 for S-3 cells, below that in the control titration in previously uninoculated cells.
+[1] Uninfected ttDCS cells (human embryo lung) fixed and stained ~dth haematoxy]in and eosin after 48 hours of incubation at 33 ~ C.
+[1] Plaque counts obtained after treatment of 929-E virus with various sera, expressed as a percentage of the control (rabbit) serum.
+[1] produced clearer and larger plaques than controls, as seen after fixing and staining the monolayers.
+[1] At this con- centration of BUDR vaccinia virus, growing in L132 cells, had a titre of 102.0 TCDs0 per ml, whereas in a control titration without the drug, the titre was 10 ~.s TCDs0 per ml.
+[1] 8 shows unstained and uninfected L 132 cells after 4 days incubation at 33~ The majority of the cells are very flat and non-refracti]e, making them difficult to photograph.
+
+===== VI215 =====  (src VI215 - ISAV.pdf)
+[2] ISAV isolate NBISA01 was used as the positive control for virus replication with CPE production in CHSE-214 cells (Kibenge et al., 2000).
+[1] For testing ISAV isolate U5575-1 replication in CHSE-214 cells, ﬁve ﬂasks were infected and one uninfected ﬂask served used as control.
+[1] For each ISAV isolate tested for replication in CHSE-214 cells, ﬁve ﬂasks were infected and one unin- fected ﬂask served as control.
+[1] Sixty-ﬁve uninfected control At- lantic salmon and 55 control rainbow trout were kept in an- other holding tank in a separate “clean” room.
+[1] ISAV isolate U5575-1 served as the negative control for virus replication in CHSE-214 cells as demonstrated above.
+[1] The dramatic increase in the potential of viral investigations through the use of quantitative ampliﬁcation techniques including real-time PCR is likely to contribute towards the ultimate goal for the formulation of better strategies for the diag- nosis and control of animal and human viral diseases.
+[1] Prevention, Control, and Eradication.
+
+===== VI217 =====  (src VI217 - PIV-3-PRCV.pdf)
+[1] Uninfected cells were incubated with the test substances alone to evaluate their cytotoxicity.
+[1] Controls consisted of infected untreated Vero cell monolayers.
+[1] Results were expressed as percentage of plaque inhibition by comparison with untreated control cell monolayers.
+[1] The percent cell survival was calculated as the ratio of treated uninfected cells/untreated uninfected cells and expressed as a percentage.
+[1] Effect of increasing concentrations of 3-HP--lactoglobulin on the viability of HSV-1 infected () and uninfected () Vero76 cells in the neutral red uptake assay.
+[1] Molecular Approaches to the Control of Infection Diseases, Cold Spring Harbor, Laboratory Press, Inc., pp.
+
+===== VI219 =====  (src VI219 - PEDV.pdf)
+[2] Non-inoculated control 2-day old pigs kept under the same conditions remained healthy.
+[2] of pigs inoculated of age of infection (day) Fecal scorea (days of duration) Developed Died (days after Survived ÿ   clinical signsb inoculation) 1±4 4 2 days 1 0 0 4 (>3) 4 4 (3±4) 0 5 and 6 2 (control) 2 days (not inoculated) 2 0 0 0 0 2 7 and 8 2 7 days 1 0 0 2 (>3) 2 2 (4) 0 9±13 5 2 weeks 1±4 2 1 (2) 2 (4) 5 0 5c 14±18 5 4 weeks 3±5 2 3 (1±2) 0 0 0 5 19±23 5 8 weeks ± 5 0 0 0 0 5 24±28 5 12 weeks ± 5 0 0 0 0 5 a ÿNormal;
+[1] Control cultures were mock-inoculated with the same volume of MM instead of viral inoculum.
+[1] Two-day old pigs were divided into uninoculated control or infection groups.
+[1] No ¯uorescing cells were observed in uninoculated control cells.
+[1] All of the non-inoculated control pigs were negative for both antibodies throughout the study.
+[1] uninfected cells (100), B and F:
+[1] its diagnosis and control.
+
+===== VI220 =====  (src VI220 - JEV-YFV-glycoprotein-study.pdf)
+[1] 1A and 1 B) could not be immunoprecipitated from radiolabeled uninfected cells, and the radiolabeled material present in the dye front of the gels was found in variable quanti- ties in RIPS prepared from cell lysates of both infected and uninfected cells, using both virus-specific and non- immune ascitic fluids (results not shown).
+[1] For each RIP, samples were mock-digested (-) or digested (+) with each enzyme and then subjected to electrophoresis and autoradio- graphed.
+
+===== VI221 =====  (src VI221 - myxovirus-infectious-hepatitis-study.pdf)
+[2] When the presence of infective virus was determined by the development of CPE, the test was concluded 48 hours after the appearance of CPE in non-neutralized virus control tubes.
+[2] Culture fluids were harvested for plaque assay 48 hours after the appearance of CPE in control cultures.
+[2] Two sets of control cultures, one uninoculated, and the other inoculated with serum from patients having no clinical or chemical evidence of hepatitis, failed to yield a cytopathic agent after 6 or more blind passages.
+[1] At least 10 virus control plates were included in each plaque reduction test.
+[1] A set of control cultures receiving regular MEM-2CS was prepared simultaneously.
+[1] Poliovirus and vaccinia virus controls were included to test the effectiveness of IUdR.
+[1] Preparation of Tissue Cultures for Microscopic, Examination.--infected and control cultures 4 .Animals were kindly made available and immunized by Dr.
+[1] TABLE III Effect of Erythrocyte and Temperature on the Titer of WB Virus tIemagglutinin Temperature °C 4 25 37 Reciprocal of hemagglutinin tlter with indicated erythrocytes Guinea pig 32 32 <2 Chick 32 <2 <2 Human 0 16 16 <2 TABLE IV Effea of 5' Iododeox'yuridine (5'IUdR) on Replication of WB Viru~ in WI-3g Calls Virus WB39 WB12 WBSP-2 Poliovirus type 1 Vacdnia Infectivity fiter (p.f.u./ml) Control 20 X 10 ~ 20 X 10 ~ 16 X 104 80 X 10 ~ 13 X 10 ~ 10-5 ,~ IUdR 25 X 10' 29 X 10 ~ 38 X 104 90 X 105
+[1] Well matched control groups must be included in each study which nonetheless may yield results subject to conflicting interpretation.
+[1] 1 a, uninfected WI-38 culture.
+[1] 3 a, uninfected WGM-1 culture.
+[1] Uninoculated monolayer is included for comparison.
+
+===== VI227 =====  (src VI227 - IBDV.pdf)
+[1] Statistical analysis The experiment was performed using a completely randomised design schedule and the data (IBDV detected values on tissues - negative control) were submitted to analysis of variance (ANOVA) using the General Linear Model (GLM) of Statistical Analysis System (SAS, 1999).
+[1] B) CER uninfected cell;
+[1] D) Vero uninfected cell.
+[1] 6) positive control;
+[1] 7) negative control;
+
+===== VI249 =====  (src VI249 - IAV_swine_SFM_2013.pdf)
+[1] Amphotericin B (20 μg/ml), gentamicin sulfate (1,000 μg/ml), and kanamycin sulfate (325 μg/ml) were added to each vial as previously described to control bacterial and fungal contamination.4,43 Each vial was then vigorously agitated, after which, the vial was centrifuged at 1,200 × g for 30 min at 4°C.
+[1] One of the 4 wells in each empty column of wells was also seeded with SFM-adapted MDCK cells to serve as a negative control.
+[1] This allowed for 3 sam­ ples to be tested in quadruplicate on one 24-well plate, with each sample having a negative control.
+[1] Data was processed using com­ mercial software.r Side scatter and forward scatter gating isolated the SFM-adapted MDCK cells, and fluorescence- minus-one controls along with negative controls without lec­ tins were used to define the gating strategy (Fig.
+[1] Purified mouse alveolar epithelial type II cells were used as a positive control for MMA staining.
+[1] Negative controls without lectins (B, C) and fluorescence-minus-one (FMO) controls (D) were used to define the gating strategy.
+[1] The finding was further validated by demonstrating that the MMA lectin bound as expected to the positive controls (mouse alveolar epithelial type II cells, which express high levels of SA 2,320;
+[1] Flow cytometric analysis of mouse alveolar epithelial type II (ATII) cells used as positive controls for the detection of α-2,3–linked sialic acid (SA 2,3) residues.
+
+===== VI253 =====  (src VI253 - hMPV-clinical-isolation.pdf)
+[1] Microscopic studies of hMPV-infected (a to f) and uninfected (g) Vero E6 cell lines.
+[1] (g) Uninfected Vero E6 cells 22 days after preparation.
+
+===== VI265 =====  (src VI265 - PPRV-clinical-tissues-swabs.pdf)
+[1] The monolayer infected with sterile PBS (negative control) did not show such changes (Plate 1).
+[1] Uninfected vero-cell Plate 2:
+
+===== VI266 =====  (src VI266 - HRSV_2023.pdf)
+[2] Intact HeLa, HEp-2, and Vero cells were used as controls in each plate.
+[2] Intact HeLa, HEp-2, and Vero cells were used as controls.
+[2] Nokes JD, Cane PA (2008) New strategies for control of respiratory syncytial virus infection.
+[1] In addition, it can be used as a reference control sample for evaluating the specificity of PCR-based test systems and investigating the effectiveness of antiviral drugs in vitro.
+
+===== VI267 =====  (src VI267 - HPIV_MNT1_2016.pdf)
+[1] MNT-1, LLC-MK2, and Vero cells were inoculated with clinical specimens of HPIV1 (Sendai-H/1127/2014), HPIV2 (Sendai-H/1204/2014), HPIV3 (Sendai-H/909/2014), and HPIV4 (Sendai-H/1172/2014), or mock-infected control and incubated at 34°C and 5% CO2 without passage or medium change.
+
+===== VI272 =====  (src VI272 - Ranavirus-micropterus1-McRV.pdf)
+[2] Additional control wells in each plate were inoculated with equivalent volumes of sterile culture medium (negative control) and fish tissue homogenate (spleen from clinically healthy barramundi stored in RNAlater and prepared using the same protocol) to control for potential cytotoxic effects associated with RNAlater.
+[2] No CPE was observed in control wells (Figure 1B).
+[2] While this analysis was necessarily exploratory due to the absence of healthy controls, many of these immune-related genes ranked among the 50 most highly expressed transcripts across samples (Figure 2C;
+[1] (B) Uninfected control BF-2 monolayer at 6 dpi in the first passage.
+[1] All negative controls tested negative.
+
+===== VI276 =====  (src VI276 - Mammalian-orthoreovirus-bat-MRV2.pdf)
+[2] All mock-infected cells showed normal morphology.
+[2] Mice in all infected groups showed clinical symptoms such as piloerection and huddling behavior from 4 to 9 dpi, whereas all control groups showed normal behavior.
+[1] (A) CPEs of the virus appeared in the Vero-CCL-81 cell line from day 1 to day 5 after infection (lower panel) vs mock infection (upper panel).
+[1] Control mice were administered through the same route using mock- infected cell supernatants.
+[1] (B) TNFα, (C) IFNγ, (D) IL-1β, (E) IP10, (F) MIP-1α, and (G) MCP1 in different organs at day 7 and day 14 in infected and control mice examined by RT-qPCR.
+[1] To determine the temperature sensitivity, the virus was incubated at 4°C (control), 37°C, 56°C, 80°C, and 90°C for 1 h.
+[1] Temperature-treated and control viral solutions were serially diluted 10 times and titrated in Vero-CCL-81 cells.
+[1] The reassortment event was examined using RPD v5.34 (82) with RPD, GENECONV, Chimera, MaxChi, and BootScan algorithms and further visualized using SimPlot v.3.5.1 (83) Animal infection experiments Four-week-old female BALB/c mice were inoculated intranasally or intragastrically with 106 TCID50 or lysed mock-infected cells as controls.
+[1] Experimental mice and control mice were euthanized with carbon dioxide on 7 and 14 dpi.
+[1] Beta-actin RNA was used as an internal control to normalize the input cDNA.
+[1] Rabies - epidemiology, pathogene­ sis, public health concerns and advances in diagnosis and control:
+
+===== VI280 =====  (src VI280 - PEDV-intestinal-tissue-isolation.pdf)
+[2] After serial passage, infected cells developed characteristic cytopathic effects (CPE), including cell rounding, fusion, and syncytium formation, whereas no cytopathic changes were observed in mock-infected controls (Figure 3A).
+[2] (A) CPE observed in Vero cells infected with PEDV- HeiHo-2024 or PEDV-NJZU-2024 compared with mock-infected cells.
+[2] Piglets inoculated with PEDV-HeiHo-2024 developed clinical manifestations character- istic of porcine epidemic diarrhea (PED) within 24 h post- inoculation, including watery diarrhea, vomiting, and lethargy, whereas mock-infected piglets remained clinically normal throughout the observation period.
+[2] Intestinal tissues from mock-infected piglets display normal villus architecture, whereas tissues from PEDV-HeiHo-2024–infected piglets show villus atrophy.
+[1] Despite the widespread implementation of vaccination programs, effective control of these outbreaks remains a challenge [4–6].
+[1] Therefore, continuous surveillance of the genetic characteristics of currently circulating PEDV strains, cou- pled with the evaluation of changes in their pathogenicity, is critical for understanding viral evolutionary trends and optimizing preven- tion and control strategies.
+[1] The coexistence of multiple PEDV lineages (especially GIIa, GIIb, and vaccine-associated strains) in the same geo- graphic area and time period poses a signiﬁcant challenge to disease control, as it can complicate diagnosis, vaccine selection, and the emergence of novel recombinant strains.
+[1] Figure S1, agarose gel electrophoresis revealed single bands of the expected sizes for all four fragments, while no ampliﬁcation was observed in negative controls, indicating speciﬁc and reliable recovery of S gene fragments suitable for sequencing.
+[1] Immunoﬂuorescence analysis demonstrated speciﬁc staining of the PEDV nucleocapsid (N) protein in Vero cells infected with either isolate, while no speciﬁc ﬂuorescence signal was detected in mock-infected cells (Figure 3B).
+[1] RDP4 detected a 8 6 Relative expression of PEDV (log10) 4 2 0 0 12 6 24 h post-infection (hpi) 36 48 500,000 400,000 300,000 Relative PEDV-N mRNA (fold change) 200,000 100,000 0 0 12 6 24 h post-infection (hpi) 36 48 PEDV-Heihong-2024 PEDV-NJZU-2024 (D) Mock PEDV-HeiHo-2024 PEDV-NJZU-2024 (A) 6 h 12 h 24 h 36 h 48 h PEDV-HeiHo-2024 PEDV-NJZU-2024 (C) Mock Dapi PEDV-HeiHo-2024 PEDV-N Merge PEDV-NJZU-2024 (B) FIGURE 3 | Isolation and in vitro characterization of PEDV-HeiHo-2024 and PEDV-NJZU-2024.
+[1] OA articles are governed by the applicable Creative Commons License 6 4 Clinical symptom score 2 0 12 24 36 h post-infection (hpi) 48 60 72 0 (B) 6 4 Fecal score 2 0 12 24 36 h post-infection (hpi) 48 60 72 0 (C) Mock PEDV-HeiHo-2024 (A) 6 8 10 4 Log10 RNA copies 2 0 12 24 36 h post-infection (hpi) 48 60 72 0 PEDV-Heihong-2024 Mock (D) 40.5 40.0 39.5 39.0 38.5 38.0 41.0 Temperature (°C) 12 24 36 h post-infection (hpi) 48 60 72 –12 0 (E) 1.4 1.3 1.2 1.1 1.0 0.9 1.5 Weight gain (kg) 12 24 36 h pos
+[1] (A) Representative images showing clinical appearance and gross intestinal lesions in mock-infected and PEDV-HeiHo-2024–infected piglets.
+[1] No speciﬁc signal is detected in mock-infected tissues, whereas positive staining is observed in intestinal epithelial cells of PEDV-HeiHo-2024–infected piglets.
+[1] OA articles are governed by the applicable Creative Commons License shedding in infected piglets, while no speciﬁc viral RNA signal was detected in the mock group (Figure 6D).
+
+===== VI281 =====  (src VI281 - Hepatitis-E-virus-retail-pork-pate.pdf)
+[1] Experiments were conducted in duplicate, with PBS (Phosphate-Buffered Saline, Thermo Fisher, #10010023, Merelbeke, Belgium) serving as a negative control per extraction method.
+[1] RNase-free water was included as a negative control in all experiments.
+[1] Experiments were conducted in triplicate, with PBS serving as a negative control.
+[1] Cells were then inoculated with 100 µL of virus extract or medium (negative control) in duplicate.
+[1] Previous in-house, unpublished experiments employing the Mengovirus extraction control (Mengo Extraction Control, ceeramTools) yielded highly variable and predominantly very low recovery rates when spiked into the naturally con- taminated pork liver pâté prior to extraction (n = 2 per method;
+[1] We acknowledge, however, that HEV itself does not constitute a conventional exogenous process control, as it is not independent of the analyte under investigation.
+[1] This approach is therefore methodologically distinct from the use of a true process control virus, and for the naturally contaminated sample specifically, no independent process control was available to verify extraction efficiency.
+[1] Immunostaining results for A549-D3 cells inoculated with extracts from (A) spiked dried ham, (B) spiked salami, (C) spiked pork liver pâté, (D) naturally contaminated pork liver pâté, and (E) HEV-negative cell culture medium (negative control).
+[1] Notably, a key limitation of spiking experiments is that process control viruses are typically applied onto the surface of the sample or added to homogenates shortly before extraction.
+[1] European Centre for Disease Prevention and Control:
+
+===== VI286 =====  (src VI286 - Feline-parvovirus-FPV-from-anal-swab.pdf)
+[2] Compared to the mock-infected control group, partial cell rounding, shrinkage, and elongation were evident at 48 h post-infection (hpi) (Figure 1A).
+[1] Frontiers in Microbiology 01 frontiersin.org The role of glycerophospholipid metabolism in feline parvovirus infected CRFK cells Zhen Sun 1,2,3,4, Hongwei Zhu 1,2,3,4, Yang Liu 1,2,3,4, Jianlong Zhang 1,2,3,4, Linlin Jiang 1,2,3,4, Xin Yu 1,2,3,4*, Jiayu Yu 1,2,3,4* and Xingxiao Zhang 1,2,3,4* 1 School of Life Sciences, Ludong University, Yantai, China, 2 Collaborative Innovation Center for the Pet Infectious Diseases and Public Health in the Middle and Lower Stream Regions of the Yellow River, 
+[1] The FPV positive control virus is isolated and identified from our laboratory, namely FPV072 (Xie et al., 2024).
+[1] The same volume of diluent was added to the negative control wells.
+[1] 180701), PCR Primer Mixture (14-21400yw), Positive Control (14-21400pc, 1 × 10⁸ copies/μL), and Nucleic Acid Release Reagent (61202).
+[1] An equal volume of DMSO was added to the control group.
+[1] This band aligned precisely with the positive control in Lane 3, confirming successful amplification of the VP2 gene fragment (Figure 1B).
+[1] Immunoblotting of FPV013-infected cell lysates detected a prominent protein band at approximately 65 kilodaltons (kDa) in Lane 2, consistent with the positive control in Lane 3 (Figure 1C).
+[1] At 48 hpi, immunofluorescence microscopy of FPV013- infected CRFK cells exhibited intense fluorescence signals, in stark contrast to the mock-infected group, indicating robust viral protein expression (Figure 1D).
+[1] Within 12 h, there was no obvious difference in peak intensity and peak shape between the base peak chromatograms of the blank group and the infected group.
+[1] Negative control, 2:
+[1] Positive control, M:
+[1] The infected and uninfected groups were compared using the VIP (Variable Importance in Projection) values.
+[1] Cluster analysis of this metabolite set revealed that the MOCK group and infected groups formed distinct hierarchical clusters, with infection time points showing a progressive relationship.
+
+===== VI288 =====  (src VI288 - Cyprinid-herpesvirus-2-CyHV-2.pdf)
+[2] No CPE was observed in the control cells inoculated with maintenance medium.
+[2] (2020), PeerJ, DOI 10.7717/peerj.9373 12/21 tested positive for CyHV-2 by PCR and produced CPE in FtGF, while ﬁsh from control group were negative.
+[1] The newly developed FtGF cell line will play signiﬁcant role in future research on CyHV-2, including the development of strategies for the prevention and control of the disease caused by CyHV-2 in India.
+[1] In control ﬂasks, maintenance medium was used in place of tissue homogenate.
+[1] In control wells, DPBS was added in place of ﬁltered tissue homogenate.
+[1] Fishes in the infected group were challenged with an intraperitoneal (IP) injection of 0.5 mL of 10th passage CyHV-2 FtGF cell culture supernatant, whereas ﬁsh in the control group were injected with 0.5 mL maintenance medium.
+[1] Three goldﬁsh each in the infected and control group were selected randomly after 7 days post-injection (dpi) and screened for CyHV-2 by PCR assay.
+[1] There was no mortality in the mock-infected group.
+[1] (A) Uninfected FtGF cells;
+[1] The newly developed FtGF cell line would play a crucial role in future research on CyHV-2, including studying the molecular pathogenesis of HVHN disease and development of strategies for the prevention and control of the disease in the country.
+
+===== VI291 =====  (src VI291 - Orthohantavirus-genetic-variants-isolation.pdf)
+[2] RESEARCH ARTICLE Isolation and characterization of genetic variants of Orthohantavirus hantanense from clinical cases of HFRS in Jiangxi Province, China Shiwen LiuID1,2, Zhishi Deng3, Jianxiong Li2, Long Zou1, Xiuhui Sun4, Xiaoqing Liu2, Yong Shi2, Shunqiang Huang3, Yangbowen Wu2, Jinhui Lei3, Peipei Liu3, Pei Zhang5, Ying XiongID2*, Zhong-er LongID1* 1 Nanchang Key Laboratory of Microbial Resources Exploitation & Utilization from Poyang Lake Wetland, College of Life Sciences, Jiangxi Normal Uni
+[1] This work was supported by the Natural Science Foundation of China [grant 82360771 to XQL], and Jiangxi Provincial Key Laboratory of Epidemic Prevention and Control [grant 2024SSY06021 to XQL].
+[1] Materials and Methods Ethics statement This study involving human participants was approved by the Ethics Committee of Jiangxi Provincial Center for Disease Control and Prevention (2020BBGL73052) and adhered to the Declaration of Helsinki.
+[1] Home-made plasmid pGEM-T-HTNV and pGEM-T-SEOV were used as the positive control, while nuclease-free water was used as the negative control.
+[1] The real-time RT-PCR was validated after confirming that the positive control’s cycle threshold (Ct) value fell within the expected range and the negative control was undetermined.
+[1] In parallel, a flask of unin- fected Vero-E6 cells was passaged as a control.
+[1] The IFA images of HTNV-infected Vero-E6 cell and Vero-E6 cells control.
+[1] HTNV-infected Vero-E6 cells show specific bright green fluorescent dots indicating the virus was isolated successfully (A), while the control Vero-E6 cells show no bright green fluorescent dots (B).

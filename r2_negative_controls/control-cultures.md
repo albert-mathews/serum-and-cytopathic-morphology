@@ -2,7 +2,10 @@
 
 **Status:** Draft for iteration (v0.1)  
 **Purpose:** Codify an unambiguous tier system (A–D) for classifying **negative / mock / uninfected culture controls** in virus Isolation and related infection–culture papers.  
-**Scope of application:** Papers in the Isolation corpus (`r1_isolation_standards_and_practice/isolation-refs.csv`, canonical; PDFs under `r1_isolation_standards_and_practice/refs/isolation_practice/`), and any later additions scored the same way.  
+**Scope of application:** Papers in the Isolation corpus (`r1_isolation_standards_and_practice/isolation-refs.csv`, canonical; PDFs under `r1_isolation_standards_and_practice/refs/isolation_practice/`), and any later additions scored the same way.
+
+**Concordance rule (2026-11-19):** R2 follows R1; R2 keeps no parallel corpus of its own. The scoring universe is R1 **category-1** (`isolation-refs.csv`), keyed 1:1 to R1's current IDs. R2 scores category-1 papers on their Isolation/infection culture arm regardless of R1's `class` (1 = CPE/Isolate endpoint, 4 = 2I1D other endpoint), and records `class` as an R1 fact. **Category-2** (protocols, `PR###`) and **category-3** (methods-review/teaching/thesis, `MR###`) items are **out of scope** — they prescribe or teach practice rather than report a run, so they cannot bear on the incidence of Isolation-stage controls in reported practice. When R1 re-codes, re-classes, or moves a reference, R2's `r1_status` / `r1_current_id` / `r2_universe` columns follow (computed by `wrk/r1_r2_align.py`); disagreement is corrected on the R2 side with quotes (see `wrk/r1_r2_reconciliation_2026-11-19.md`).
+
 **Related files:**
 - `control-cultures-overview.csv` — machine-readable scores (to be aligned with this framework)
 - `control-cultures-justification-notes.md` — per-paper quote-backed control/tier justification
@@ -301,6 +304,73 @@ If both some `m*=no` and some `m*=unknown`, prefer **C-mismatch** (contradiction
 | `exclude_from_corpus` | bool | If paper excluded from Isolation set for other reasons |
 | `exclude_reason` | text | e.g. CPE not an endpoint |
 
+### 7.5b Negative-control CPE coding (`nc_cpe_code`) — R3 cross-reference
+
+Captures, per paper, **whether the Isolation-stage no-virus control showed CPE**, for R3 to cite the instances of
+virus-independent CPE each tier documents. Coded independently of tier (tier = control's *match quality*;
+`nc_cpe_code` = control's *reported outcome*).
+
+**Definition of "CPE" (protocol-grounded — the only defensible source).** CPE is a *morphology* readout, defined
+by the institutional protocols' descriptor lists, not by an etiologic claim and not by a speed cut-off.
+
+- **CLSI M41-A §7.4.2.1 + Table 7 "Appearance"** enumerates the CPE shapes: rounded, ballooned/enlarged,
+  refractile, syncytia, vacuolation, detached, granularity, cytoplasmic strands, and "nonspecific degeneration";
+  per-virus, e.g. "enlarged, rounded refractile cells in grapelike clusters" (adenovirus), "foci of enlarged,
+  rounded, refractile cells … cytoplasmic strands" (VZV).
+- **ASM "Cytopathic Effects of Viruses" Theory** lists general CPE types: total destruction (shrink/pyknosis/
+  detach), subtotal destruction, focal degeneration (enlarged→rounded→refractile→detach; cytoplasmic stranding),
+  swelling & clumping ("grape-like"), foamy degeneration (vacuolization), cell fusion (syncytia), inclusion bodies.
+- **Temporal (the only time criterion the protocols give).** CLSI Table 7's "Development" column spans **~1–10 days**
+  per virus (enterovirus 2–5 d; HSV 1–3 d; RSV 3–5 d; rhinovirus 5–7 d; adenovirus 4–7 d; VZV 4–7 d; CMV "7–10 days,
+  may take 2–3 weeks or longer"). ASM's rule of thumb: a virus is **"slow" if CPE appears after 4–5 days** (low MOI)
+  and **"rapid" if 1–2 days**. Time of appearance is an **identification aid ("slow vs rapid")**, **not** a
+  qualifier that excludes later-appearing degeneration from being CPE. No protocol defines an upper cut-off.
+- **The confound is protocol-documented.** CLSI §7.4.2.1: CPE appearance/progression "will depend on the type of
+  cell, **age and condition of the cell monolayer**…"; "monolayer edges … may **deteriorate** because of lack of
+  contact with culture medium"; CLSI figures show "the appearance of **uninoculated** representative monolayers"
+  alongside virus CPE. ASM: distinguish CPE from "**normal cell changes that occur as cells age**." The protocols
+  themselves teach that degeneration/detachment morphology can arise **without virus** and must be distinguished.
+
+**Recipe (what to look for in the R1 corpus):** read the paper's description of its no-virus (uninoculated / mock /
+no-virus-sample) control — methods, figure legends, results. Classify:
+
+| `nc_cpe_code` | Meaning |
+|---------------|---------|
+| **1** | the control's reported appearance includes **any protocol CPE descriptor** (rounded, ballooned/enlarged, refractile, syncytia, vacuolation, detached, granularity, cytoplasmic strands, nonspecific degeneration, pyknosis, clumping, focal degeneration) — **at any timescale** |
+| **2** | the control is reported/figured **normal, healthy, unchanged, "no CPE"** |
+| **3** | control morphology **noted but ambiguous / partial / unclear** against the descriptor set |
+| **4** | control present but **its morphology not described** |
+| *(blank)* | **no Isolation-stage culture control** (Tier D, or C-stage wrong-stage control only) |
+
+Free text columns:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `nc_cpe_free` | text | Authored note: which descriptors were reported, the observed timescale, and the paper's own attribution (viral vs spontaneous/aging/toxicity) if stated |
+| `nc_cpe_quote` | text | Verbatim (quote-sized) passage describing the control's outcome |
+| `nc_other_endpoint` | text | **Non-CPE outcome** the paper reported for the same control (serology / IFA-antigen / RNA-PCR / viability / yield / particle count), recorded so another stream (e.g. P-serology, R6) can reuse it — "CPE not described" is not "nothing recorded" |
+
+Populate `nc_cpe_free`/`nc_cpe_quote` for every `nc_cpe_code=1` (and any `=3`) instance; a bare code for `2`/`4`
+suffices unless the note carries a quotable normal-morphology sentence.
+
+**Assignment (2026-11-19 re-pass).** All 59 Isolation-stage NC papers were re-read against the descriptor set
+(source doctest text in `wrk/nc_cpe_evidence_review.txt`, phrase sweep in `wrk/nc_cpe_phrase_sweep.txt`); the
+per-paper assignments live in `wrk/nc_cpe_assignments.py` (id → code, free, quote) and are written into the CSV by
+`wrk/backfill_nc_cpe.py`. Operational rule used:
+
+- **1** — a protocol CPE descriptor is *attributed to the control itself*.
+- **2** — the paper *states* the control is normal / no CPE / healthy / intact / uninfected (an explicit
+  negative-outcome term), or labels it "normal/…" in a figure.
+- **3** — the control's appearance is alluded to but no clean normal-vs-CPE claim is extractable (figure-only
+  "uninfected" panel without a "normal" word; a noted age-related / matrix change; a contrast-only "compared to mock").
+- **4** — the control is named but its morphology/CPE outcome is never described (includes animal-level or
+  molecular negative controls when no culture CPE outcome is given).
+
+Resulting distribution over the 59: **A = 1/5/3/5**, **B = 1/17/6/20**, **C = 0/0/1/0** (VI85), i.e. code-1 = 2
+(VI117, VI111), code-2 = 22, code-3 = 10, code-4 = 25. Three papers document a **non-viral CPE/cytotoxin confound**
+while their own no-virus control stayed described via code 2/3 and are flagged in `nc_cpe_free`: VI116
+(C. difficile toxin), VI74 (serum/complement), VI85 (age-related change).
+
 ### 7.6 Minimal CSV profile (if full sheet is too wide)
 
 For a compact `control-cultures-overview.csv`:
@@ -401,7 +471,10 @@ Optional future flag (not part of A–D):
 Recommended reader-facing summary:
 
 - Count and percent in each tier A–D for the CPE-endpoint Isolation corpus.  
-- Separate: fraction with `control_cpe_claimed_negative=yes`.  
+- For Tier A controls, report the `nc_cpe_code` outcome (§7.5b): how many showed the protocol CPE descriptors
+  (code 1), stayed normal (code 2), were ambiguous (code 3), or were not described (code 4).
+  (`control_cpe_claimed_negative` = the paper's own "control stayed CPE-negative" claim, a separate field;
+  `nc_cpe_code` = the protocol-grounded read of what the control's morphology showed.)  
 - Highlight: fraction with `m3_serum_enrichment=yes` (serum-matched NC).  
 - Do not equate “mock mentioned” with tier A.
 

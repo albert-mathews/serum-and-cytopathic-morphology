@@ -52,16 +52,35 @@ def load() -> list[dict]:
     return rows
 
 
+def in_universe(rows: list[dict]) -> list[dict]:
+    """R2 follows R1: only category-1 (Isolation-practice) rows feed the tier stats.
+
+    The `r2_universe` column (added by wrk/r1_r2_align.py) is `yes` for R1 category-1
+    papers in R2's scoring scope and `no` for category-2/3 moves and dropped legacy
+    IDs. A legacy row without the column (pre-alignment) is treated as in-universe
+    (backward-compatible), so this filter only *removes* rows once aligned.
+    """
+    out = []
+    for r in rows:
+        if r.get("r2_universe", "yes") == "no":
+            continue
+        out.append(r)
+    return out
+
+
 def counts(rows: list[dict]) -> dict:
-    tier = Counter(r["tier"] for r in rows)
+    universe = in_universe(rows)
+    tier = Counter(r["tier"] for r in universe)
     return {
-        "n": len(rows),
+        "n": len(universe),
+        "n_scored": len(universe),
+        "n_pending": None,  # filled where a pending target is known (not derivable from CSV alone)
         "tier": {t: tier.get(t, 0) for t in ORDER},
-        "nc_isolation_stage_yes": sum(1 for r in rows if r["nc_isolation_stage"] == "yes"),
-        "nc_any_yes": sum(1 for r in rows if r["nc_any"] == "yes"),
-        "m3": Counter(r["m3_serum_enrichment"] for r in rows),
-        "tier_a_cpe_claimed_negative": Counter(
-            r["control_cpe_claimed_negative"] for r in rows if r["tier"] == "A"
+        "nc_isolation_stage_yes": sum(1 for r in universe if r["nc_isolation_stage"] == "yes"),
+        "nc_any_yes": sum(1 for r in universe if r["nc_any"] == "yes"),
+        "m3": Counter(r["m3_serum_enrichment"] for r in universe),
+        "tier_a_nc_cpe": Counter(
+            r.get("nc_cpe_code", "") for r in universe if r["tier"] == "A"
         ),
     }
 
@@ -201,7 +220,7 @@ def fig4_serum_match(c: dict, out: Path):
                 labels[i], va="center", ha="left", fontsize=9)
     ax.set_yticks([])
     ax.set_xlim(0, n * 1.22)
-    ax.set_xlabel("Number of papers (n = 173)")
+    ax.set_xlabel(f"Number of papers (n = {n})")
     ax.set_title("Serum/enrichment match (M3) of negative cultures — the R2 crux",
                  fontsize=11, loc="left")
     style_ax(ax)
@@ -214,8 +233,9 @@ def write_summary(c: dict, out: Path):
     n = c["n"]
     t = c["tier"]
     lines = [
-        "R2 negative-control tier summary (scored corpus)",
-        f"scored rows (overview): {n}",
+        "R2 negative-control tier summary (R1 category-1 universe)",
+        f"scored papers (r2_universe=yes): {n}",
+        "universe: R1 category-1 (181 unique papers; fully scored)",
     ]
     for k in ORDER:
         lines.append(f"tier {k}: {t[k]} ({pct(t[k], n)})")
@@ -224,10 +244,10 @@ def write_summary(c: dict, out: Path):
                  f"({pct(c['nc_isolation_stage_yes'], n)})")
     for k in ("NA", "yes", "unknown", "no"):
         lines.append(f"M3 serum/enrichment = {k}: {c['m3'].get(k, 0)}")
-    lines.append("Tier A controls reported CPE in the NC (would falsify specificity): "
-                 f"{c['tier_a_cpe_claimed_negative'].get('no', 0)}")
-    lines.append("Tier A controls claimed CPE-negative: "
-                 f"{c['tier_a_cpe_claimed_negative'].get('yes', 0)}")
+    lines.append("Tier A control CPE outcome (nc_cpe_code): code1(CPE descriptors)=%s, code2(normal/no CPE)=%s, "
+                 "code3(ambiguous)=%s, code4(not described)=%s"
+                 % (c['tier_a_nc_cpe'].get('1', 0), c['tier_a_nc_cpe'].get('2', 0),
+                    c['tier_a_nc_cpe'].get('3', 0), c['tier_a_nc_cpe'].get('4', 0)))
     (out / "r2_summary.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 

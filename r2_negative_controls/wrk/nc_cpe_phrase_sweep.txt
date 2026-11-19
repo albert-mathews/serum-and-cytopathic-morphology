@@ -1,0 +1,59 @@
+VI8: <none>
+VI13: mock infected
+VI14: <none>
+VI16: <none>
+VI33: no cpe; normal uninfected
+VI36: cytotoxic; spontaneous; mock-infected; mock infected; negative control
+VI38: remained unchanged; did not show; cytotoxic; mock-infected; mock infected
+VI40: cytotoxic; mock-infected
+VI42: mock infected
+VI43: <none>
+VI51: cytotoxic; mock-infected; negative control
+VI52: <none>
+VI53: negative control; blank control
+VI57: mock infected; negative control
+VI58: spontaneous; mock-infected
+VI59: mock-infected; negative control
+VI60: mock-infected
+VI63: no cpe; mock-infected; negative control; control group remained
+VI67: uninfected control; negative control
+VI74: normal morphology; cytotoxic; degenerat; negative control
+VI76: cytotoxic; mock-infected; blank control
+VI77: no cpe; normal cells; appeared normal; degenerat; uninfected control; mock-infected; negative control
+VI79: uninfected control
+VI82: no cpe; mock-infected; negative control
+VI83: remained normal; cytotoxic; negative control; control cells remained
+VI85: normal cells; normal control; spontaneous; uninfected control; negative control; exhibited minimal; age-related
+VI87: normal morphology; mock-infected
+VI91: mock-infected; mock infected
+VI92: cytotoxic
+VI93: cytotoxic; uninfected control; blank control
+VI97: no cpe; remained healthy
+VI102: mock-infected
+VI108: cytotoxic; negative control
+VI111: no cytopathic; remained healthy
+VI116: cytotoxic
+VI117: degenerat
+VI119: degenerat
+VI121: normal cells; degenerat
+VI203: <none>
+VI208: no cpe; uninfected control; negative control
+VI211: no cytopathic; degenerat
+VI215: uninfected control; negative control
+VI217: did not show; cytotoxic
+VI219: no cytopathic; did not show; cytotoxic
+VI220: no cytopathic
+VI221: uninoculated monolayer
+VI227: negative control
+VI249: negative control
+VI253: degenerat
+VI265: did not show; negative control
+VI266: <none>
+VI267: no cpe; mock-infected
+VI272: cytotoxic; degenerat; uninfected control; negative control
+VI276: no cpe; normal morphology; did not exhibit; mock-infected
+VI280: no cytopathic; mock-infected; negative control
+VI281: negative control
+VI286: cytotoxic; mock-infected; mock infected; negative control
+VI288: no cpe; did not show; mock-infected
+VI291: negative control
