@@ -8,16 +8,16 @@ not used) and `P2_pdf_wishlist.md` (gitignored, fetch-only queue).
 `P2-0xx_firstauthor_year_slug.pdf`). No Sci-Hub.  
 **Screen/evidence of record:** `P2_screened.csv` (all IDs, Y/B/N, fulltext status), `P2_useful.csv`
 (metric extraction), `P2_quotes.md` (verbatim).  
-**Last checked against disk:** 2026-11-18.
+**Last checked against disk:** 2026-11-18 (P2-101…106 fetched + promoted).
 
 ## Counts
 
 | Measure | n |
 |---|--:|
-| Screened IDs (`P2_screened.csv`) | 101 |
-| Useful Y (`P2_useful.csv`) | 61 |
-| Quoted sources (`P2_quotes.md`) | 42 |
-| P2-0xx PDFs on disk | 40 (24 prior + 16 fetched 2026-11-14; P2-097–100 read OA online) |
+| Screened IDs (`P2_screened.csv`) | 107 |
+| Useful Y (`P2_useful.csv`) | 67 |
+| Quoted sources (`P2_quotes.md`) | 48 |
+| P2-0xx PDFs on disk | 46 (40 prior + P2-101…106 fetched 2026-11-18) |
 | Seed-review PDFs on disk (P2-200–207) | 8 |
 | Read-but-unused (see `P2_bibliography_unused.md`) | 2 |
 | On wishlist (see `P2_pdf_wishlist.md`) | 0 |
@@ -68,6 +68,12 @@ not used) and `P2_pdf_wishlist.md` (gitignored, fetch-only queue).
 | P2-098 | Rey-Cadilhac F, Rachenne F, Missé D, Pompon J. 2023. Viral components trafficking with(in) extracellular vesicles. *Viruses. 2023;15(12):2333* | `10.3390/v15122333` | OA (read online; PDF drop optional) |
 | P2-099 | Morris-Love J, Atwood WJ. 2022. Complexities of JC polyomavirus receptor-dependent and -independent mechanisms of infection. *Viruses. 2022;14(6):1130* | `10.3390/v14061130` | OA (read online; PDF drop optional) |
 | P2-100 | Helle F, Handala L, Bentz M, Duverlie G, Brochot E. 2020. Intercellular transmission of naked viruses through extracellular vesicles: focus on polyomaviruses. *Viruses. 2020;12(10):1086* | `10.3390/v12101086` | OA (read online; PDF drop optional) |
+| P2-101 | Wu Q, et al. 2023. Presence of intact hepatitis B virions in exosomes. *Cell Mol Gastroenterol Hepatol. 2023;15(1):237-259* | `10.1016/j.jcmgh.2022.09.012` | yes |
+| P2-102 | Handala L, et al. 2020. BK polyomavirus hijacks extracellular vesicles for en bloc transmission. *J Virol. 2020;94(6):e01834-19* | `10.1128/JVI.01834-19` | yes |
+| P2-103 | Morris-Love J, et al. 2019. JC polyomavirus uses extracellular vesicles to infect target cells. *mBio. 2019;10(2):e00379-19* | `10.1128/mBio.00379-19` | yes |
+| P2-104 | Nagashima S, et al. 2017. Characterization of the quasi-enveloped hepatitis E virus particles released by the cellular exosomal pathway. *J Virol. 2017;91(22):e00822-17* | `10.1128/JVI.00822-17` | yes |
+| P2-105 | Slonchak A, et al. 2019. West Nile virus infection and interferon alpha treatment alter the spectrum and the levels of coding and noncoding host RNAs secreted in extracellular vesicles. *BMC Genomics. 2019;20:474* | `10.1186/s12864-019-5835-6` | yes |
+| P2-106 | Jung S, et al. 2020. Efficient and reproducible depletion of hepatitis B virus from plasma derived extracellular vesicles. *J Extracell Vesicles. 2020;10(2):e12040* | `10.1002/jev2.12040` | yes |
 
 ## Used — read full text, not yet individually quoted
 

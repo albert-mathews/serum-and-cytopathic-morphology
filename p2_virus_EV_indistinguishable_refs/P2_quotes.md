@@ -449,3 +449,59 @@ HAV/enterovirus/rotavirus/norovirus/reovirus).
 **Polarity / bound:** 2020 review that surveys the entire naked-virus EV-hijack line (Picorna/Hepe/Reo/Calici +
 polyomaviruses) — useful as a cross-family consolidating citation and as context framing for the non-enveloped cluster
 (P2-089/094/095/097). Bound: it is about *egress/transmission*, not a density-purification impossibility claim itself.
+
+---
+
+## L. Round 6 fetch-promote — HBV / polyomavirus primaries / HEV / WNV (2026-11-18)
+
+**Scope:** six wishlist PDFs dropped + identity-confirmed via PyMuPDF title/author/DOI match; all read in full text
+(`[VERIFIED src]`). P2-107 (Sultana & Neelakanta methods chapter) not fetched (paywalled), stays on wishlist.
+
+### P2-101 Wu et al. 2023 *Cell Mol Gastroenterol Hepatol* (OA) — HBV: intact virions in exosomes + co-precipitation
+> "Generally, exosomes are small vesicles in the size range of 30 to 150 nm with buoyant density in certain media from 1.08 to 1.20 g/cm3, which is similar to the density of many viral particles. The process of exosome enrichment based on differential ultracentrifugation actually co-precipitates many viral particles in parallel. Therefore, a more efficient separation method is needed to study their respective functions."
+
+> "These data indicate that a fraction of intact HBV virions can be released as exosomes. This reveals a so far not described release pathway for HBV."
+
+**Polarity / bound:** Closes the **HBV / hepadnavirus** family gap (enveloped DNA virus). Confirms intact HBV virions are
+wrapped in exosomes, and states the density-overlap + UC co-precipitation problem verbatim. Bound: the authors achieve
+separation "on the basis of their different sedimentation in an iodixanol gradient" — the same marker/method-conditional
+remediation pattern as HIV/KSHV/dengue.
+
+### P2-102 Handala et al. 2020 *J Virol* (OA) — BKPyV primary: en bloc in EVs, but neutralization-sensitive
+> "Using iodixanol density gradients, we observed that Vero and renal proximal tubular epithelial infected cells release two populations of infectious particles, one of which cosediments with extracellular vesicles (EVs). Electron microscopy confirmed that a single vesicle could traffic tens of viral particles. In contrast to naked virions, the EV-associated particles (eBKPyVs) were not able to agglutinate red blood cells and did not use cell surface sialylated glycans as an attachment factor… However, we also observed that naked BKPyV and eBKPyV were equally sensitive to neutralization by the serum of a seropositive patient…"
+
+**Polarity / bound:** Polyomavirus **primary** (BKPyV; non-enveloped DNA). Strengthens the non-enveloped en-bloc line and
+documents that one EV population **cosediments** with EVs. **Important bound:** unlike JCPyV (P2-103) and HAV, eBKPyV is
+**not** protected from neutralization — a counterexample-leaning detail that keeps the "cloaked = immune escape"
+generalization honest (cloaking is real but its neutralization shield is virus-specific).
+
+### P2-103 Morris-Love et al. 2019 *mBio* (OA) — JCPyV primary: receptor-independent EV infection
+> "JC polyomavirus associates with extracellular vesicles and infects target cells independently of virus receptors. Virus particles were found packaged inside extracellular vesicles and attached to the outer side of vesicles."
+
+> "These data are also the first to demonstrate the use of extracellular vesicles for transmission of any nonenveloped DNA virus…"
+
+**Polarity / bound:** Polyomavirus **primary** (JC). Confirms packaged + surface-attached JCPyV, receptor-independent
+infection, and explicitly claims the *first* nonenveloped-DNA-virus EV transmission. Strengthens M-CONT/M-EM/M-INF.
+
+### P2-104 Nagashima et al. 2017 *J Virol* (OA) — HEV quasi-enveloped: copurified with exosomes
+> "These results indicate that the membrane-wrapped HEV particles released by the exosomal pathway are copurified with the exosomes in the exosome fraction and suggest that the capsids of HEV particles are individually covered by lipid membranes resembling those of exosomes, similar to enveloped viruses."
+
+**Polarity / bound:** HEV quasi-enveloped **primary** (Hepeviridae). Verbatim "copurified with the exosomes in the exosome
+fraction" — a direct co-purification statement in a non-enveloped (quasi-enveloped) hepatotropic virus. Closes the HEV
+primary gap left by the earlier review-level van der Grein/Altan-Bonnet citations.
+
+### P2-105 Slonchak et al. 2019 *BMC Genomics* (OA) — WNV (second flavivirus): UC/PEG co-purification
+> "…due to the similar nature and biophysical properties of EVs and virions of enveloped viruses removal of viral particles poses a significant challenge. High-yield robust methods of EV isolation including ultracentrifugation and precipitation with PEG-based crowding agents have been reported to result in co-purification of viral particles."
+
+**Polarity / bound:** Second **flavivirus** (WNV) beyond dengue (P2-096). Independent verbatim statement that UC and PEG
+co-purify virions with EVs. Bound: the authors *remedy* via heat + RNase before PEG precipitation (conceding the
+co-purification is the default).
+
+### P2-106 Jung et al. 2020 *J Extracell Vesicles* (OA) — HBV depletion: size/density/membrane overlap restated
+> "The challenge of purifying virus-free EVs from plasma is largely due to the overlaps of EVs and viruses in size, density and enveloping membranes…"
+
+> "…EVs overlap with virions because of similar size, density and surface composition."
+
+**Polarity / bound:** Counterexample-leaning **remediation** paper (SEC + affinity removes HBV from plasma EVs) that
+*concedes the overlap* in the same breath. Strengthens the M-SIZE/M-DENS overlap statement while bounding it: remediation
+exits but is marker/method-conditional (anti-HBsAg affinity + SEC), matching the established pattern.
