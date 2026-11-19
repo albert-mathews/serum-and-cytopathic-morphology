@@ -16,10 +16,12 @@ P2 and P3 are wrapped and carry a self-contained **"in one screen" mini-paper su
 | **P7** cross-lab repeatability | Wrapped — 18 rows all `[VERIFIED src]`; CNJ057 verdict written; 13 snippets | **Prime now** | Add one-screen summary to top of `p7_cross_lab_repeatability/p7.md` |
 | **P1** history | Closed for drafting (`P1_for_paper.md` is the closed package) | **Prime (light)** | Optionally standardize a one-screen summary in `p1_history/p1.md` to match P2/P3 |
 | **R2** negative controls | Frozen — 173 rows (A/B/C/D 12/40/14/107); snippets ready | **Prime (light)** | Add one-screen summary to top of `r2_negative_controls/r2.md` |
+| **R5** pre-cell purification census | Wrapped — `R5_synthesis.md` drafted from 29 sources; CNJ058 "supported"; paper-ready prose + adversarial balance | **Prime now** | Add one-screen summary to top of `r5_precell_virus_purification_census/r5.md` |
+| **R6** non-viral mechanisms | Framework wrapped — 12 mechanisms, most `[VERIFIED src]`; corpus + bibliography finalized ("R6 wrap up") | **Prime (one step)** | Write `R6_synthesis.md` + upgrade CNJ059, then one-screen summary in `r6_nonviral_morphology_mechanisms/r6.md` |
 | **R1** isolation corpus | Core done; paste-ready `R1_for_paper_2026-09-19.md` | **Blocked on data hygiene** | Freeze numbers first (Priority 3) |
 | **R3** image labeling | IR1/IR2 done; IR3v Pass 2 pending | **Blocked on IR3v Pass 2** | Finalize after Pass 2, then summarize |
 
-Not prime (do not instruct yet): **P5** (not started), **P6** (not started), **R4** (parked — FOIA), **R5** (scaffold + Round 1), **R6** (scaffold + Round 1).
+Not prime (do not instruct yet): **P5** (not started), **P6** (not started), **R4** (parked — FOIA).
 
 ---
 
@@ -37,16 +39,18 @@ Not prime (do not instruct yet): **P5** (not started), **P6** (not started), **R
 - [ ] **CPE — P7 mini-paper.** Same treatment for [`p7_cross_lab_repeatability/p7.md`](p7_cross_lab_repeatability/p7.md).
 - [ ] **CPE — P1 summary.** Standardize a one-screen summary at the top of [`p1_history/p1.md`](p1_history/p1.md) (source: `P1_for_paper.md`).
 - [ ] **CPE — R2 mini-paper.** One-screen summary at the top of [`r2_negative_controls/r2.md`](r2_negative_controls/r2.md).
+- [ ] **CPE — R5 mini-paper.** One-screen summary at the top of [`r5_precell_virus_purification_census/r5.md`](r5_precell_virus_purification_census/r5.md) (source: `R5_synthesis.md`).
+- [ ] **CPE — R6 freeze + mini-paper.** Write `R6_synthesis.md`, upgrade CNJ059 in `CLAIMS.md`, then one-screen summary at the top of [`r6_nonviral_morphology_mechanisms/r6.md`](r6_nonviral_morphology_mechanisms/r6.md).
 
 ## Priority 3 — unblock the near-prime streams
 
 - [ ] **CPE — R1 data hygiene (before Results freeze).** DOI backfill in `isolation-refs.csv`; reconcile the FBS parse drift (`fbs_coded=yes` 166 vs plotter 169 vs archived dual 170); resolve the 11 abstract-only rows (fetch list in `R1_pdf_wishlist.md` §B); run the full enrichment sweep (TPB/LAH/yeast/peptone). [`r1_isolation_standards_and_practice/r1.md`](r1_isolation_standards_and_practice/r1.md).
 - [ ] **CPE — R2 VI117 control-tier scoring.** Score Deig/Rie/Watkins 1970 (uninfected monolayers degenerate under 1–2% FCS maintenance) A–D. [`r2_negative_controls/r2.md`](r2_negative_controls/r2.md). *(Not a blocker; VI271 is the only outstanding wishlist row — a CDC web page, optional, stays D.)*
 
-## Priority 4 — research streams in flight
+## Priority 4 — low-priority depth (optional)
 
-- [ ] **CPE — R5 census.** Fetch `R5W-*` PDFs (Albert drops; CPE confirms), run Rounds 2–5, freeze counts; finalize `R5_synthesis.md` + `CLAIMS.md`. [`r5_precell_virus_purification_census/r5.md`](r5_precell_virus_purification_census/r5.md).
-- [ ] **CPE — R6 mechanisms.** Fetch `R6-0xx` PDFs, run Rounds 2–5, confirm R6-004 peer-review status, freeze → `R6_synthesis.md`. [`r6_nonviral_morphology_mechanisms/r6.md`](r6_nonviral_morphology_mechanisms/r6.md).
+- [ ] **CPE — R5 optional depth.** Fetch the 4 book-length sources + the optional Schlesinger secondary still on [`R5_pdf_wishlist.md`](r5_precell_virus_purification_census/R5_pdf_wishlist.md) if ever wanted; not needed for CNJ058.
+- [ ] **CPE — R6 optional fetch.** Remaining `R6-0xx` wishlist PDFs (depth only); confirm R6-004 peer-review status before any load-bearing use. [`r6_nonviral_morphology_mechanisms/r6.md`](r6_nonviral_morphology_mechanisms/r6.md).
 
 ## Parked / waiting
 
@@ -61,7 +65,8 @@ Removed because completed or superseded; outcomes live in the stream files they 
 
 - **R2 full-text fetch** (VI44/VI239/VI240/VI243/VI249/VI251/VI266/VI267/VI270/VI271) — **completed 2026-11-18** (Pass4 re-score: VI249→A, VI266→B, VI267→B; only VI271 remains — a CDC web page, optional, stays D).
 - **P3 in-doc reply + revise `p3.md`** — **completed** (`p3.md` now opens with the mini-paper; all `@Albert:` notes resolved).
-- **P4–P7 "start now / schedule later / reshape"** — **superseded**: P4 and P7 have started (and are now prime for mini-papers); P5/P6 remain not started. `P4_P7_index.md`'s Status column is stale and should be updated to reflect this.
+- **P4–P7 "start now / schedule later / reshape"** — **superseded**: P4 and P7 have started (and are now prime for mini-papers); P5/P6 remain not started. `P4_P7_index.md`'s Status column **was updated 2026-11-18** to reflect this.
+- **`r5.md` / `r6.md` status headers + TODO lists are stale** — `r5.md`'s TODO (8 unchecked items) and `r6.md`'s "Scaffold + Round 1 seeds" header predate the actual work (`R5_synthesis.md` with 29 sources; `R6_mechanisms.md` with 12 `[VERIFIED src]` mechanisms; the "R6 wrap up" commit). Clean them as part of the R5/R6 mini-paper pass (Priority 2).
 - Older "Done" entries (2026-10-06 … 2026-10-14) — removed; outcomes recorded in the stream files.
 
 ---
